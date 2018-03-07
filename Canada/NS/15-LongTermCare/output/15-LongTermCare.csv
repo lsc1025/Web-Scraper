@@ -1,0 +1,157 @@
+row_id,name,license_num,licensure_status,care_level,owner,number_of_floors,number_of_suites,size_of_suites,facilities,services,website,source,contact,phone,cell,fax,email,lat,lng,facility_type,street_address,po_box,city,province,postal_code,country
+Canada-NS-15-LongTermCare-15-LongTermCare-1,Urszula Wawrzynowicz's Home,,,,,,,,,,,,,,,,,44.67731,-63.54404,CBO,14 Centre Street,,Dartmouth,NS,B2Y 3K8,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-2,Precision Health - Washill Lake Drive Apartments,,,,,,,,,,,,,,,,,44.65006,-63.65367,NH,599 Washill Lake,,Halifax,NS,B3S 0G8,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-3,Precision Health - 21 Kincardine Street,,,,,,,,,,,,,,,,,44.68841,-63.53748,NH,21 Kincardine Street,,Halifax,NS,B2X 1H7,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-4,Precision Health - 24 Kincardine Street,,,,,,,,,,,,,,,,,44.69146,-63.53709,NH,24 Kincardine Street,,Halifax,NS,B2X 1H9,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-5,Precision Health - 16 Rannoch Road,,,,,,,,,,,,,,,,,44.69089,-63.53568,NH,16 Rannoch Road,,Dartmouth,NS,B2X 1J6,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-6,PJD Rehab Housing Incorporated (Peter's Place Halifax),,,,,,,,,,,,,,,,,44.66910,-63.65844,NH,12 Swan Crescent,,Halifax,NS,B3M 1T6,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-7,Annapolis Royal Nursing Home,,,,,,,,,,,,,,,,,44.74223,-65.51582,NH,"9745 Highway 8, RR #2",,Annapolis Royal,NS,B4S 1A0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-8,Celtic Court ,,,,,,,,,,,,,,,,,46.12247,-60.19450,NH,16 St. Anthony Drive,,Sydney,NS,B1A 2R5,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-9,Bissett Court,,,,,,,,,,,,,,,,,44.67918,-63.49009,NH,74 Chameau Crescent,,Cole Harbour,NS,B2W 0H5,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-10,Elk Court,,,,,,,,,,,,,,,,,45.259376,-63.273587,NH,91 Carter Road,,Brookfield,NS,B0N 1C0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-11,Harbour View Haven,,,,,,,,,,,,,,,,,44.37661,-64.30319,NH,25 Blockhouse Hill Road,,Lunenburg,NS,B0J 2C0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-12,Hillside Pines,,,,,,,,,,,,,,,,,44.36548,-64.51898,NH,77 Exhibition Drive,,Bridgewater,NS,B4V 3K6,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-13,Mahone Nursing Home,,,,,,,,,,,,,,,,,44.44792,-64.37653,NH,640 Main Street,,Mahone Bay,NS,B0J 2E0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-14,North Queens Nursing Home,,,,,,,,,,,,,,,,,44.36820,-65.08695,NH,9565 Keji Drive,,Caledonia,NS,B0T 1B0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-15,Queens Manor,,,,,,,,,,,,,,,,,44.03680,-64.70937,NH,20 Hollands Drive,,Liverpool,NS,B0T 1K0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-16,Rosedale Home for Special Care,,,,,,,,,,,,,,,,,44.53808,-64.71039,NH,4927 Highway #10,,New Germany,NS,B0R 1E0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-17,Shoreham Village,,,,,,,,,,,,,,,,,44.54566,-64.23217,NH,50 Shoreham Village Crescent,,Chester,NS,B0J 1J0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-18,Bay Side Home Corporation,,,,,,,,,,,,,,,,,43.54968,-65.59811,NH,96 Bayside Drive,,Barrington,NS,B0W 1E0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-19,Nakile Home for Special Care,,,,,,,,,,,,,,,,,43.79284,-65.86242,NH,35 Nakile Drive,,Glenwood,NS,B0W 1W0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-20,Roseway Manor Inc.,,,,,,,,,,,,,,,,,43.74818,-65.30960,NH,1604 Lake Road,,Shelburne,NS,B0T 1W0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-21,Surf Lodge Community Continuing Care Centre,,,,,,,,,,,,,,,,,43.70088,-65.11672,NH,73 Howe Street,,Lockeport,NS,B0T 1L0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-22,The Meadows-Tidal View Manor,,,,,,,,,,,,,,,,,43.850408,-66.104939,NH,339 Pleasant Street,,Yarmouth,NS,B5A 2K9,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-23,Tideview Terrace,,,,,,,,,,,,,,,,,44.61573,-65.76009,NH,74 Pleasant Street,,Conway,NS,B0V 1A0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-24,Villa Acadienne,,,,,,,,,,,,,,,,,44.19344,-66.15306,NH,8403 Highway #1,,Meteghan,NS,B0W 2J0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-25,Villa St. Joseph-du-Lac,,,,,,,,,,,,,,,,,43.86622,-66.10960,NH,255 Highway #1,,Dayton,NS,B5A 4A5,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-26,Annapolis Royal Nursing Home Limited,,,,,,,,,,,,,,,,,44.73560,-65.49952,NH,9745 Highway #8,,Annapolis Royal,NS,B0S 1A0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-27,Evergreen Home for Special Care,,,,,,,,,,,,,,,,,45.07514,-64.54044,NH,655 Park Street,,Kentville,NS,B4N 3V7,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-28,Grand View Manor,,,,,,,,,,,,,,,,,45.03531,-64.73253,NH,110 Commercial Street,,Berwick,NS,B0P 1E0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-29,Mountain Lea Lodge,,,,,,,,,,,,,,,,,44.84427,-65.29053,NH,170 Church Street,,Bridgetown,NS,B0S 1C0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-30,Wolfville Nursing Home,,,,,,,,,,,,,,,,,45.09015,-64.37246,NH,601 Main Street,,Wolfville,NS,B4P 1E9,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-31,Cedarstone Enhanced Care Limited,,,,,,,,,,,,,,,,,45.35040,-63.27466,NH,378 Young Street,,Truro,NS,B2N 7H2,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-32,The Mira,,,,,,,,,,,,,,,,,45.34869,-63.27404,NH,426 Young Street,,Truro,NS,B2N 7B1,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-33,Willow Lodge,,,,,,,,,,,,,,,,,45.71199,-63.29624,NH,100 Blair Avenue,,Tatamagouche,NS,B0K 1V0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-34,Wynn Park Villa,,,,,,,,,,,,,,,,,45.35614,-63.30145,NH,32 Windsor Way,,Truro,NS,B2N 0B4,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-35,Bayview Memorial Health Centre,,,,,,,,,,,,,,,,,45.34521,-64.79460,NH,3375 Highway #209,,Advocate Harbour,NS,B0M 1A0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-36,East Cumberland Lodge,,,,,,,,,,,,,,,,,45.85396,-63.65923,NH,262 Gulf Shore Road,,Pugwash,NS,B0K 1L0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-37,Gables Lodge Limited,,,,,,,,,,,,,,,,,45.82341,-64.19005,NH,260 Church Street,,Amherst,NS,B4H 3C9,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-38,High-Crest Springhill Home for Special Care Ltd.,,,,,,,,,,,,,,,,,45.64979,-64.04994,NH,11 Sproul Street,,Springhill,NS,B0M 1X0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-39,South Cumberland Community Care Centre,,,,,,,,,,,,,,,,,45.40933,-64.32616,NH,50 Jenks Avenue,,Parrsboro,NS,B0M 1S0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-40,Glen Haven Manor,,,,,,,,,,,,,,,,,45.57516,-62.64221,NH,739 East River Road,,New Glasgow,NS,B2H 5E9,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-41,Maritime Odd Fellows Home,,,,,,,,,,,,,,,,,45.67605,-62.72404,NH,143 Haliburton Road,,Pictou,NS,B0K 1H0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-42,Shiretown Nursing Home,,,,,,,,,,,,,,,,,45.67549,-62.72857,NH,280 Haliburton Road,,Pictou,NS,B0K 1H0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-43,Valley View Villa,,,,,,,,,,,,,,,,,45.53941,-62.66546,NH,6125 Trafalgar Road,,Stellarton,NS,B0K 1S0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-44,Canso Seaside Manor,,,,,,,,,,,,,,,,,45.33288,-60.98323,NH,1748 Union Street,,Canso,NS,B0H 1H0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-45,High-Crest Sherbrooke Home for Special Care,,,,,,,,,,,,,,,,,45.14061,-61.98189,NH,53 Court Street,,Sherbrooke,NS,B0J 3C0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-46,Milford Haven Corporation,,,,,,,,,,,,,,,,,45.40327,-61.50828,NH,10558 Route #16,,Guysborough,NS,B0H 1N0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-47,Port Hawkesbury Nursing Home,,,,,,,,,,,,,,,,,45.62157,-61.35790,NH,2 MacQuarrie Drive Extension,,Port Hawkesbury,NS,B9A 3A2,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-48,Richmond Villa,,,,,,,,,,,,,,,,,45.65696,-60.87562,NH,9361 Pepperall Street,,St. Peter's,NS,B0E 3B0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-49,RK MacDonald Nursing Home,,,,,,,,,,,,,,,,,45.62437,-61.99201,NH,64 Pleasant Street,,Antigonish,NS,B2G 1W7,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-50,St. Anne Community and Nursing Care Centre,,,,,,,,,,,,,,,,,45.51201,-61.01509,NH,2313 Highway 206,,Arichat,NS,B0E 1A0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-51,Alderwood Rest Home,,,,,,,,,,,,,,,,,46.10153,-60.74875,NH,42 Jones Street,,Baddeck,NS,B0E 1B0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-52,Foyer Pere Fiset,,,,,,,,,,,,,,,,,46.62377,-61.01758,NH,15092 Cabot Trail,,Cheticamp,NS,B0E 1H0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-53,Harbourstone Enhanced Care Limited,,,,,,,,,,,,,,,,,46.10899,-60.21318,NH,84 Kenwood Drive,,Sydney,NS,B1S 3V7,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-54,Highland Manor,,,,,,,,,,,,,,,,,46.81007,-60.32067,NH,175 New Haven Road,,Neils Harbour,NS,B0C 1N0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-55,Inverary Manor,,,,,,,,,,,,,,,,,46.22766,-61.30382,NH,72 Maple Street,,Inverness,NS,B0E 1N0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-56,Maple Hill Manor,,,,,,,,,,,,,,,,,46.24110,-60.08604,NH,700 King Street,,New Waterford,NS,B1H 3Z5,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-57,Miner's Memorial Manor,,,,,,,,,,,,,,,,,46.23904,-60.21654,NH,15 Lorne Street,,Sydney Mines,NS,B1V 3B9,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-58,Northside Community Guest Home,,,,,,,,,,,,,,,,,46.19561,-60.26223,NH,11 Queen Street,,North Sydney,NS,B2A 1A2,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-59,R.C. MacGillivray Guest Home,,,,,,,,,,,,,,,,,46.12362,-60.19506,NH,25 Xavier Drive,,Sydney,NS,B1S 2R9,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-60,Seaview Manor,,,,,,,,,,,,,,,,,46.18503,-59.93862,NH,275 South Street,,Glace Bay,NS,B1A 1W6,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-61,Taigh Na Mara Facility,,,,,,,,,,,,,,,,,46.19912,-59.97799,NH,974 Main Street,,Glace Bay,NS,B1A 4Z8,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-62,Taigh Solas,,,,,,,,,,,,,,,,,46.21782,-60.23487,NH,520 Purves Street,,North Sydney,NS,B2A 3M4,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-63,The Cove Guest Home,,,,,,,,,,,,,,,,,46.12099,-60.19768,NH,320 Alexandra Street,,Sydney,NS,B1S 2G1,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-64,Victoria Haven Nursing Home,,,,,,,,,,,,,,,,,46.21150,-59.96456,NH,5 Third Street,,Glace Bay,NS,B1A 5V2,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-65,Waterford Heights,,,,,,,,,,,,,,,,,46.24009,-60.08651,NH,716 King Street,,New Waterford,NS,B1H 3Z5,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-66,Cape Breton Regional Health Care Complex,,,,,,,,,,,,,,,,,46.11667,-60.16994,NH,1482 George Street,,Sydney,NS,B1P 1P3,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-67,Glace Bay Health Care Facility,,,,,,,,,,,,,,,,,46.18934,-59.94366,NH,300 South Street,,Glace Bay,NS,B1A 1W5,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-68,Northside Hospital 4 East,,,,,,,,,,,,,,,,,46.21782,-60.23487,NH,520 Purves Street,,North Sydney,NS,B2A 3M4,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-69,Harbour View Facility,,,,,,,,,,,,,,,,,46.23518,-60.22271,NH,22 Richard Street,,Sydney Mines,NS,B1V 2H7,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-70,Arborstone Enhanced Care Limited,,,,,,,,,,,,,,,,,44.63243,-63.60945,NH,126 Purcell's Cove Road,,Halifax,NS,B3P 1B5,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-71,Harbourview Lodge Continuing Care Centre,,,,,,,,,,,,,,,,,44.92022,-62.53359,NH,22639 Highway #7,,Sheet Harbour,NS,B0J 3B0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-72,Dykeland Lodge,,,,,,,,,,,,,,,,,44.98064,-64.12732,NH,124 Cottage Street,,Windsor,NS,B0N 2T0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-73,Glasgow Hall - Parkland at the Lakes Limited,,,,,,,,,,,,,,,,,44.66683,-63.53071,NH,76 Baker Drive,,Dartmouth,NS,B2W 0C7,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-74,Haliburton Place,,,,,,,,,,,,,,,,,44.98645,-64.12159,NH,89 Payzant Drive,,Windsor,NS,B0N 2T0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-75,Ivy Meadows Continuing Care Centre,,,,,,,,,,,,,,,,,44.90183,-63.71025,NH,125 Knowles Crescent,,Beaverbank,NS,B4G 1E7,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-76,Maplestone Enhanced Care,,,,,,,,,,,,,,,,,44.65327,-63.64853,NH,245 Main Avenue,,Halifax,NS,B3M 1B7,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-77,Melville Gardens Nursing Home,,,,,,,,,,,,,,,,,44.63243,-63.61113,NH,11 Ramsgate Lane,,Halifax,NS,B3P 2S9,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-78,Melville Lodge,,,,,,,,,,,,,,,,,44.62909,-63.61527,NH,50 Shoreham Lane,,Halifax,NS,B3P 2R3,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-79,Musquodoboit Valley Home for Special Care Assocation,,,,,,,,,,,,,,,,,45.04198,-63.14113,NH,126 Higginsville Road,,Middle Musquodoboit,NS,B0N 1X0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-80,Northwoodcare Incorporated,,,,,,,,,,,,,,,,,44.65696,-63.59224,NH,2615 Northwood Terrace,,Halifax,NS,B3K 3S5,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-81,Oakwood Terrace,,,,,,,,,,,,,,,,,44.65409,-63.54548,NH,10 Mount Hope Avenue,,Dartmouth,NS,B2Y 4K1,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-82,Ocean View Continuing Care Centre,,,,,,,,,,,,,,,,,44.60722,-63.46967,NH,1909 Caldwell Road,,Eastern Passage,NS,B3G 1M4,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-83,Parkstone Enhanced Care Limited,,,,,,,,,,,,,,,,,44.66362,-63.67072,NH,156 Parkland Drive,,Halifax,NS,B3S 1N9,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-84,Saint Vincent's Nursing Home,,,,,,,,,,,,,,,,,44.64824,-63.59298,NH,2080 Windsor Street,,Halifax,NS,B3K 5B2,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-85,The Birches,,,,,,,,,,,,,,,,,44.78378,-63.15999,NH,7702 Highway #7,,Musquodoboit Harbour,NS,B0J 2L0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-86,Windsor Elms Village for Continuing Care Society,,,,,,,,,,,,,,,,,44.994513,-64.168742,NH,174 Dyke Road,,Falmouth,NS,B0P 1L0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-87,Debert Court,,,,,,,,,,,,,,,,,45.43571,-63.45410,NH,16 Dakota Road,,Debert,NS,B0M 1G0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-88,Shiretown (Blue Wing),,,,,,,,,,,,,,,,,45.67549,-62.72857,NH,278 Haliburton Road,,Pictou,NS,B0K 1H0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-89,Blomidon Court,,,,,,,,,,,,,,,,,45.083872,-64.399856,NH,58 Jessicas Way,,Greenwich,NS,B4P 0B2,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-90,Orchard Court Continuing Care Residence,,,,,,,,,,,,,,,,,45.07827,-64.50463,NH,565 West Main Street,,Kentville,NS,B4N 1G8,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-91,Vimy Court,,,,,,,,,,,,,,,,,45.378574,-63.262976,NH,130 Vimy Road,,Bible Hill,NS,B2N 4J6,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-92,Northumberland Hall,,,,,,,,,,,,,,,,,45.8295767404056,-64.18856620788574,NH,189 Willow Street,,Amherst,NS,B4H 3W6,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-93,Northwood Bedford Incorporated,,,,,,,,,,,,,,,,,44.72553,-63.765781,NH,123 Gary Martin Drive,,Bedford,NS,B4B 0G7,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-94,Ryan Hall,,,,,,,,,,,,,,,,,44.382091,-64.504345,NH,313 Hollingsworth Drive,,Bridgewater,NS,B4V 0A3,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-95,The Sagewood Continuing Care Centre,,,,,,,,,,,,,,,,,44.761997,-63.651855,NH,345 Cobequid Road,,Sackville,NS,B4C 4E6,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-96,Sisters of Saint Martha,,,,,,,,,,,,,,,,,45.628264,-61.979555,NH,45 Bay Street,,Antigonish,NS,B2G 2G6,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-97,The Magnolia,,,,,,,,,,,,,,,,,44.858900,-63.617900,NH,416 Highway #2,,Enfield,NS,B2T 1E1,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-98,Heart of the Valley long Term Care Centre,,,,,,,,,,,,,,,,,44.949307,-65.067363,NH,89 North Street,,Middleton,NS,B0S 1P0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-99,Ivey's Terrace Nursing Home,,,,,,,,,,,,,,,,,45.611576,-62.658017,NH,11 Centennial Drive,,Trenton,NS,NS   B0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-100,The Admiral Long Term Care Centre,,,,,,,,,,,,,,,,,44.684619,-63.544320,NH,6 Admiral Street,,Dartmouth,NS,NS   B2,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-101,Mitchell's Rest Home,,,,,,,,,,,,,,,,,45.08160,-63.64661,RCF,5153 Highway #14,,Upper Nine Mile River,NS,B2S 3A6,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-102,Serenity Lodge,,,,,,,,,,,,,,,,,44.94950,-63.53638,RCF,39 Russell McKeen Drive,,Enfield,NS,B2T 1A7,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-103,Dominion Community Guest Home,,,,,,,,,,,,,,,,,46.21090,-60.02253,RCF,79 Commercial Street,,Dominion,NS,B1G 1B3,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-104,Dutch Brook Guest Home,,,,,,,,,,,,,,,,,46.05140,-60.20080,RCF,2400 Highway #327,,Dutch Brook,NS,B1L 1G1,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-105,Southview Guest Home Ltd.,,,,,,,,,,,,,,,,,46.18740,-60.19823,RCF,2027 Highway #28,,Sydney,NS,B1N 3H6,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-106,Seabright Rest Home Ltd.,,,,,,,,,,,,,,,,,44.62340,-63.92701,RCF,11625 Peggy's Cove Road,,Seabright,NS,B3Z 2Y1,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-107,Sunshine Personal Care Inc.,,,,,,,,,,,,,,,,,44.63306,-63.62373,RCF,38A Withrod Drive,,Halifax,NS,B3N 1B1,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-108,Carefield Manor Ltd.,,,,,,,,,,,,,,,,,46.170711,-60.167392,RCF,1 Dryden Avenue,,Sydney,NS,B1S 1V3,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-109,Centennial Villa,,,,,,,,,,,,,,,,,45.82363,-64.19056,RCF,258 Chu/health/ren/test/enterpriseh Street,,Amherst,NS,B4H 3C9,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-110,Chignecto Manor,,,,,,,,,,,,,,,,,45.33457,-64.77918,RCF,24 Bayview Manor Road,,Advocate Harbour,NS,B0M 1A0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-111,Foyer Celeste Inc,,,,,,,,,,,,,,,,,44.11085,-66.16461,RCF,8064 Highway #31,,Meteghan,NS,B0W 2J0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-112,Au Logis d'Meteghan Ltd.,,,,,,,,,,,,,,,,,44.193477,-66.152939,RCF,8405 Highway #1,,Meteghan,NS,B0W 2J0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-113,Olson's Glo Estate Special Care,,,,,,,,,,,,,,,,,43.79980,-66.15247,RCF,143 Route #304,,Yarmouth,NS,B5A 4J7,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-114,Grace Haven,,,,,,,,,,,,,,,,,44.85899,-65.24018,RCF,9791 Highway #1 - Paradise RR# 4,,Bridgetown,NS,B0S 1C0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-115,High Crest Place,,,,,,,,,,,,,,,,,45.58620,-62.64544,RCF,222 Provost Street,,New Glasgow,NS,B2H 2R3,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-116,High-Crest Home New Glasgow,,,,,,,,,,,,,,,,,45.58582,-62.64171,RCF,253 Forbes Street,,New Glasgow,NS,B2H 4P5,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-117,Highland Crest Residential Care Facility,,,,,,,,,,,,,,,,,45.61906,-61.99043,RCF,44 Hillcrest Street,,Antigonish,NS,B2G 1Z3,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-118,Hillsview Acres,,,,,,,,,,,,,,,,,44.31668,-64.78058,RCF,14 Middlefield Road,,Greenfield,NS,B0T 1E0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-119,Clarmar Residential Care Facility,,,,,,,,,,,,,,,,,44.68376,-63.53266,RCF,200 Main Street,,Dartmouth,NS,B2X 1S3,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-120,Karlaine Place,,,,,,,,,,,,,,,,,45.37580,-63.25985,RCF,104 Pictou Road,,Truro,NS,B2N 2S3,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-121,Lohnes Rest Home,,,,,,,,,,,,,,,,,44.55309,-64.73090,RCF,97 Lakeview Drive,,Barss Corner,NS,B0R 1A0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-122,Maplewood Manor,,,,,,,,,,,,,,,,,45.71098,-63.29454,RCF,150 Blair Avenue,,Tatamagouche,NS,B0K 1V9,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-123,Mary's Abide-A-While Home Ltd.,,,,,,,,,,,,,,,,,43.76564,-65.32492,RCF,188 Water Street,,Shelburne,NS,B0T 1W0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-124,Melville Gardens,,,,,,,,,,,,,,,,,44.63243,-63.61113,RCF,11 Ramsgate Lane,,Halifax,NS,B3P 2S9,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-125,New Visions Home for Seniors,,,,,,,,,,,,,,,,,45.03415,-64.72281,RCF,4507 Highway #1,,South Berwick,NS,B0P 1E0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-126,Northwoodcare Incorporated,,,,,,,,,,,,,,,,,44.65696,-63.59224,RCF,2615 Northwood Terrace,,Halifax,NS,B3K 3S5,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-127,Pont du Marais Boarding Home,,,,,,,,,,,,,,,,,43.63847,-65.80154,RCF,1526 Highway #335,,Lower West Pubnico,NS,B0W 2C0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-128,Richmond Villa,,,,,,,,,,,,,,,,,45.65696,-60.87562,RCF,9361 Pepperell Street,,St. Peter's,NS,B0E 3B0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-129,Saunders Rest Home,,,,,,,,,,,,,,,,,44.84067,-65.28860,RCF,9 Freeman Street,,Bridgetown,NS,B0S 1C0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-130,Shiretown (Blue Wing),,,,,,,,,,,,,,,,,45.67549,-62.72857,RCF,280 Haliburton Road,,Pictou,NS,B0K 1H0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-131,The Heritage House,,,,,,,,,,,,,,,,,46.01474,-61.52919,RCF,55 High Road,,Port Hood,NS,B0E 2W0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-132,The White Birches Retirement Residence,,,,,,,,,,,,,,,,,45.84316,-64.18413,RCF,189 Fox Ranch Road,,Amherst,NS,B4H 3Y3,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-133,Willows Manor Limited,,,,,,,,,,,,,,,,,45.08836,-63.40645,RCF,2844 Highway #2,,Shubenacadie,NS,B0N 2H0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-134,Tibbetts Home Wilmot,,,,,,,,,,,,,,,,,44.98626,-64.95283,RCF,15074 Highway #1,,Kingston,NS,B0P 1R0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-135,Townsview Estates,,,,,,,,,,,,,,,,,45.33753,-63.30218,RCF,310 Abenaki Road,,Truro,NS,B2N 5Z5,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-136,Victoria Manor,,,,,,,,,,,,,,,,,45.83021,-64.21490,RCF,14 West Victoria Street,,Amherst,NS,B4H 1B8,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-137,Victoria Park Guest Home,,,,,,,,,,,,,,,,,44.99291,-64.13305,RCF,350 King Street,,Windsor,NS,B0N 2T0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-138,Wedgewood House for Seniors Limited,,,,,,,,,,,,,,,,,45.07652,-64.49238,RCF,19 Leverett Avenue,,Kentville,NS,B4N 2K5,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-139,Wolfville Elms,,,,,,,,,,,,,,,,,45.08736,-64.37865,RCF,701 Main Street,,Wolfville,NS,B4P 2N4,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-140,Wynn Park Villa,,,,,,,,,,,,,,,,,45.35614,-63.30145,RCF,32 Windsor Way,,Truro,NS,B2N 0B4,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-141,Alderwood,,,,,,,,,,,,,,,,,46.16426,-60.77352,RCF,89 Alderwood Lane,,Baddeck,NS,B0E 1B0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-142,Ryan Hall,,,,,,,,,,,,,,,,,44.38209,-64.50434,RCF,313 Hollingsworth Drive,,Bridgewater,NS,B4V 0A3,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-143,Northwood Bedford Incorporated,,,,,,,,,,,,,,,,,44.72553,-63.76578,RCF,123 Gary Martin Drive,,Bedford,NS,B4B 0G7,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-144,The Sagewood Continuing Care Centre,,,,,,,,,,,,,,,,,44.76199,-63.65185,RCF,345 Cobequid Road,,Sackville,NS,B4C 4E6,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-145,The Magnolia,,,,,,,,,,,,,,,,,44.85890,-63.61790,RCF,416 Highway #2,,Enfield,NS,B2T 1E1,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-146,Foyer Pere Fiset,,,,,,,,,,,,,,,,,46.62389,-61.01748,RCF,15092 Cabot Trail,,Cheticamp,NS,B0E 1H0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-147,Port Hawkesbury Nursing Home,,,,,,,,,,,,,,,,,45.618878,-61.35414,RCF,2 MacQuarrie Drive Extension,,Port Hawkesbury,NS,B9A 3A2,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-148,White Hills Long Term Care Centre,,,,,,,,,,,,,,,,,44.74332,-63.80462,RCF,297 Pockwock Road,,Hammonds Plains,NS,B4B 1N5,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-149,Harbourview Lodge Continuing Care Centre,,,,,,,,,,,,,,,,,44.923818,-62.538856,RCF,22639 Highway #7,,Sheet Harbour,NS,B0J 3B0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-150,My Cape Breton Home for Seniors (North Sydney),,,,,,,,,,,,,,,,,46.20428,-60.26869,RCF,77 Campbell Street,,North Sydney,NS,B1J 2B8,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-151,My Cape Breton Home for Seniors (Sydney),,,,,,,,,,,,,,,,,46.117560,-60.221756,RCF,137 Riverdale Drive,,Sydney,NS,B1R 0A9,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-152,Harbourview Lodge Continuing Care,,,,,,,,,,,,,,,,,44.923818,-62.538856,RCF,"22639 Highway #7, PO Box 68",,Sheet Harbour,NS,B0J 3B0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-153,Miner's Memorial Manor,,,,,,,,,,,,,,,,,46.240340,-60.218429,RCF,"15 Lorne Street, Sydney Mines",,NS,NS,B1V 3B9,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-154,Annapolis Royal Nursing Home,,,,,,,,,,,,,,,,,44.74223,-65.51582,RCF,"9745 Highway 8, RR #2",,Annapolis Royal,NS,B4S 1A0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-155,Peter's Place (PJD Rehab Housing Inc),,,,,,,,,,,,,,,,,44.98462,-64.59974,RCF,RR #1,,Pleasantville,NS,B0P 1G0,Canada
+Canada-NS-15-LongTermCare-15-LongTermCare-156,Maple Hill Manor,,,,,,,,,,,,,,,,,46.24018,-60.08646,RCF,700 King Street,,New Waterford,NS,B1H 3Z5,Canada

@@ -1,0 +1,584 @@
+row_id,Facility Name,Address1,Address2,City,Zip,State,Country,Contact Phone,Facility Type,License #,License exp.,Administrator,Space
+USA-NJ-44-NJ-HealthFacilities-output-1,Sunrise Assisted Living Of Marlboro,3a South Main Street,,Marlboro,07746,NJ,US,(732) 409-6665,Assisted Living Residence,0L9278,12/31/2017,Ms. AMY GOLDICH,110
+USA-NJ-44-NJ-HealthFacilities-output-2,Seashore Gardens Living Center,22 West Jimmie Leeds Road,,Galloway Township,08205,NJ,US,(609) 404-4848,Long Term Care Facility,030102,05/31/2018,Ms. ALYSIA PRICE,151
+USA-NJ-44-NJ-HealthFacilities-output-3,The Actors' Fund Homes,175 West Hudson Ave,,Englewood,07631,NJ,US,(201) 871-8882,Long Term Care Facility,030201,04/30/2018,Mr. JORDAN STROHL,82
+USA-NJ-44-NJ-HealthFacilities-output-4,United Methodist Communities At Bristol Glen,200 Bristol Glen Drive,,Newton,07860,NJ,US,(973) 300-5788,Long Term Care Facility,031901,03/31/2018,Mr. GEORGE AREZZO,60
+USA-NJ-44-NJ-HealthFacilities-output-5,The Orchards At Bartley,100 North County Line Road,,Jackson,08527,NJ,US,(732) 730-1700,Assisted Living Residence,3EGDKS,12/31/2017,Ms. LAUREN KESSLER,100
+USA-NJ-44-NJ-HealthFacilities-output-6,Meadowview Nursing And Rehabilitation Center,235 Dolphin Ave,,Northfield,08225,NJ,US,(609) 645-5955,Long Term Care Facility,060101,09/30/2017,Ms. MICHELLE SAVAGE,180
+USA-NJ-44-NJ-HealthFacilities-output-7,The Voorhees Care & Rehabilitation Center,1302 Laurel Oak Road,,Voorhees,08043,NJ,US,(856) 346-1200,Long Term Care Facility,060408,07/31/2018,Ms. JOANNA PASTORE,240
+USA-NJ-44-NJ-HealthFacilities-output-8,Aristacare At Cherry Hill,1399 Chapel Ave West,,Cherry Hill,08002,NJ,US,(856) 663-9009,Long Term Care Facility,060417,12/31/2017,Ms. SHARON SCHWARZKOPF,120
+USA-NJ-44-NJ-HealthFacilities-output-9,Autumn Lake Healthcare At Oceanview,2721 Route 9,,Ocean View,08230,NJ,US,(609) 624-3881,Long Term Care Facility,060505,03/31/2017,Ms. JENNIFER HESS,120
+USA-NJ-44-NJ-HealthFacilities-output-10,Alaris Health At Jersey City,198 Stevens Ave,,Jersey City,07305,NJ,US,(201) 451-9000,Long Term Care Facility,060909,03/31/2018,Mr. ROBERT SMOLIN,183
+USA-NJ-44-NJ-HealthFacilities-output-11,"Hamilton Grove Healthcare And Rehabilitation, Llc",2300 Hamilton Ave,,Hamilton,08619,NJ,US,(609) 588-5800,Long Term Care Facility,061103,11/30/2017,Mr. PINNY GOLDSTEIN,218
+USA-NJ-44-NJ-HealthFacilities-output-12,Riverside Nursing And Rehabilitation Center,325 Jersey Street,,Trenton,08611,NJ,US,(609) 394-3400,Long Term Care Facility,061112,04/30/2018,Mr. RONALD DENTI,131
+USA-NJ-44-NJ-HealthFacilities-output-13,Jfk Hartwyck At Edison Estates,10 Brunswick Avenue,,Edison,08817,NJ,US,(732) 985-1500,Long Term Care Facility,061205,03/31/2018,Ms. RENEE LAKE,280
+USA-NJ-44-NJ-HealthFacilities-output-14,Francis E Parker Memorial Home New Brunswick,Easton Ave At Landing Lane,,New Brunswick,08901,NJ,US,(732) 545-3110,Long Term Care Facility,061206,08/31/2018,Ms. GINA KIRCHOFF,52
+USA-NJ-44-NJ-HealthFacilities-output-15,Bayshore Health Care Center,715 North Beers Street,,Holmdel,07733,NJ,US,(732) 847-3000,Long Term Care Facility,061342,03/31/2018,Mr. WILLIAM HAMILTON,11
+USA-NJ-44-NJ-HealthFacilities-output-16,Regency Grande Nursing And Rehabilitation Center,65 North Sussex Street,,Dover,07801,NJ,US,(973) 361-5200,Long Term Care Facility,061423,12/31/2017,Mr. JOSEPH OLSZEWSKI,155
+USA-NJ-44-NJ-HealthFacilities-output-17,Aristacare At Manchester,1770 Tobias Avenue,,Manchester,08759,NJ,US,(732) 657-1800,Long Term Care Facility,61517,12/31/2017,Ms. JACQUELINE ROSADO,165
+USA-NJ-44-NJ-HealthFacilities-output-18,The Wanaque Center For Nursing & Rehabilitation,1433 Ringwood Ave,,Haskell,07420,NJ,US,(973) 839-2119,Long Term Care Facility,061628,06/30/2018,Ms. ROWENA BAUTISTA,135
+USA-NJ-44-NJ-HealthFacilities-output-19,"Friends Village At Woodstown, Inc.",One Friends Drive,,Woodstown,08098,NJ,US,(856) 769-1500,Long Term Care Facility,061701,04/30/2018,Mr. DANIEL MURRAY,60
+USA-NJ-44-NJ-HealthFacilities-output-20,Southgate Health Care Center,449 S Pennsville-Auburn Road,,Carneys Point,08069,NJ,US,(856) 299-8900,Long Term Care Facility,061706,12/31/2017,Mr. MEYER WEISZ,152
+USA-NJ-44-NJ-HealthFacilities-output-21,Foothill Acres Rehabilitation & Nursing Center,39 East Mountain Road,,Hillsborough,08844,NJ,US,(908) 369-8711,Long Term Care Facility,061803,09/30/2018,Mr. PINCHAS GOLDBLATT,200
+USA-NJ-44-NJ-HealthFacilities-output-22,Clover Rest Home,28 Washington Street,,Columbia,07832,NJ,US,(908) 496-4307,Long Term Care Facility,62104,04/30/2018,Mr. ALVAN SMALL,33
+USA-NJ-44-NJ-HealthFacilities-output-23,Reflections At Colts Neck,3 Meridian Circle,,Colts Neck,07722,NJ,US,(732) 303-3100,Assisted Living Residence,7EKKEK,12/31/2017,Ms. AMY WILLNER,72
+USA-NJ-44-NJ-HealthFacilities-output-24,Mt Arlington Senior Living,2 Hillside Drive,,Mount Arlington,07856,NJ,US,(973) 601-0988,Assisted Living Residence,922TYU,06/30/2018,Ms. DONNA HEISER,120
+USA-NJ-44-NJ-HealthFacilities-output-25,Brandywine Assisted Living At Howell,100 Meridian Place,,Howell,07731,NJ,US,(732) 719-0100,Assisted Living Residence,C9LQB9,12/31/2017,Ms. LISA DECICCO,120
+USA-NJ-44-NJ-HealthFacilities-output-26,Sunrise Assisted Living Of Lincroft,734 Newman Springs Road,,Lincroft,07738,NJ,US,(732) 212-1910,Assisted Living Residence,COGCWM,12/31/2017,Ms. NICOLE D'ANDREA,85
+USA-NJ-44-NJ-HealthFacilities-output-27,The Clare Estate,201 Crosswicks Street,,Bordentown,08505,NJ,US,(609) 298-9960,Assisted Living Residence,j6tdgc,11/30/2017,Ms. ALYSON MULRYNE,58
+USA-NJ-44-NJ-HealthFacilities-output-28,Brandywine Senior Living At Princeton,155 Raymond Road,,Princeton,08540,NJ,US,(732) 329-8888,Assisted Living Residence,LHR4HN,10/31/2017,Ms. HOLLY MINNIS,124
+USA-NJ-44-NJ-HealthFacilities-output-29,Egg Harbor Care Center,6818 Delilah Road,,Egg Harbor Township,08234,NJ,US,(609) 453-3200,Long Term Care Facility,01001,05/31/2018,Ms. SUSAN SMITH,120
+USA-NJ-44-NJ-HealthFacilities-output-30,Renaissance Pavilion,61 W Jimmie Leeds Road,,Pomona,08240,NJ,US,(609) 652-7000,Long Term Care Facility,018251,01/31/2018,"Mr. CHARLES BROOMALL, JR",30
+USA-NJ-44-NJ-HealthFacilities-output-31,Royal Suites Health Care & Rehabilitation,214 West Jimmie Leeds Road,,Galloway Township,08205,NJ,US,(609) 748-9900,Long Term Care Facility,018254,12/31/2017,Mr. ABRAHAM MERMELSTEIN,186
+USA-NJ-44-NJ-HealthFacilities-output-32,Seashore Gardens Living Center,22 West Jimmie Leeds Road,,Galloway Township,08205,NJ,US,(609) 404-4848,Assisted Living Residence,01a006,05/31/2018,Ms. ALYSIA PRICE,40
+USA-NJ-44-NJ-HealthFacilities-output-33,"Caring Senior Living, Inc",227 North Vermont Avenue,,Atlantic City,08401,NJ,US,(609) 345-3089,Assisted Living Program,01A007,11/30/2017,Ms. TRACEY AVERSA,
+USA-NJ-44-NJ-HealthFacilities-output-34,Care One At Teaneck,544 Teaneck Road,,Teaneck,07666,NJ,US,(201) 862-3300,Long Term Care Facility,02002,03/31/2018,Ms. JEAN MONNECKA,128
+USA-NJ-44-NJ-HealthFacilities-output-35,Jewish Home Assisted Living,685 Westwood Avenue,,River Vale,07675,NJ,US,(201) 666-2370,Assisted Living Residence,02A00,06/30/2018,Ms. LAUREN LEVANT,124
+USA-NJ-44-NJ-HealthFacilities-output-36,Five Star Premier Residences Of Teaneck,655 Pomander Walk,,Teaneck,07666,NJ,US,(201) 836-3634,Assisted Living Residence,02A001,11/30/2017,Ms. ROBIN GRANAT,40
+USA-NJ-44-NJ-HealthFacilities-output-37,The Bristal At Woodcliff Lake,364 Chestnut Ridge Road,,Woodcliff Lake,07677,NJ,US,(201) 505-9500,Assisted Living Residence,02A016,10/31/2017,Mr. GREGORY CAIN,160
+USA-NJ-44-NJ-HealthFacilities-output-38,Brightview Paramus,396 Forest Avenue,,Paramus,07652,NJ,US,(201) 957-1966,Assisted Living Residence,02A020,11/30/2017,Mr. STEPHEN NICHOLS,90
+USA-NJ-44-NJ-HealthFacilities-output-39,Portable Assisted Living Services (pals),300 Teaneck Road,,Teaneck,07666,NJ,US,(201) 692-1000,Assisted Living Program,02A021,12/31/2017,Ms. AMY LIFSON,
+USA-NJ-44-NJ-HealthFacilities-output-40,Brightview Tenafly,55 Hudson Avenue,,Tenafly,07670,NJ,US,(201) 510-2060,Assisted Living Residence,02A023,05/31/2018,Ms. TONI MUSTO,120
+USA-NJ-44-NJ-HealthFacilities-output-41,Brandywine Senior Living At Mahwah,814 Wyckoff Avenue,,Mahwah,07430,NJ,US,(201) 800-8070,Assisted Living Residence,02A024,07/31/2018,Ms. MARIOLA KOLDYS,107
+USA-NJ-44-NJ-HealthFacilities-output-42,Powerback Rehabilitation Moorestown,212 Marter Avenue,,Moorestown,08057,NJ,US,(856) 291-4800,Long Term Care Facility,03009,10/31/2017,Ms. JENNIFER LEVY,124
+USA-NJ-44-NJ-HealthFacilities-output-43,Laurel Brook Rehabilitation And Healthcare Center,3718 Church Road,,Mount Laurel,08054,NJ,US,(856) 235-7100,Long Term Care Facility,03015,08/31/2018,Mr. JEREMY SCHUSTER,220
+USA-NJ-44-NJ-HealthFacilities-output-44,Care One At Evesham Assisted Living,874 Route 70 East,,Marlton,08053,NJ,US,(856) 988-2400,Assisted Living Residence,03A001,10/31/2017,Ms. TINU THOMAS,80
+USA-NJ-44-NJ-HealthFacilities-output-45,Care One Harmony Village At Moorestown,301 N Stanwick Road,,Moorestown,08057,NJ,US,(856) 638-1244,Assisted Living Residence,03A004,08/31/2018,Ms. RACHAEL WITTMAN,68
+USA-NJ-44-NJ-HealthFacilities-output-46,The Evergreens,309 Bridgeboro Road,,Moorestown,08057,NJ,US,(856) 439-2000,Assisted Living Residence,03A005,01/31/2018,Ms. DAKIA MCMILLIAN,66
+USA-NJ-44-NJ-HealthFacilities-output-47,Lutheran Crossings Enhanced Living,255 E Main Street,,Moorestown,08057,NJ,US,(856) 235-1214,Assisted Living Residence,03A006,07/31/2018,Mr. JAMES RYAN,64
+USA-NJ-44-NJ-HealthFacilities-output-48,Brightview Greentree,170 Greentree Road,,Marlton,08053,NJ,US,(856) 810-0070,Assisted Living Residence,03A007,08/31/2018,Mr. STEVEN ROVNER,99
+USA-NJ-44-NJ-HealthFacilities-output-49,"Artis Senior Living Of Evesham, Llc",302 Lippincott Drive,,Evesham,08053,NJ,US,(856) 810-0007,Assisted Living Residence,03A008,03/31/2018,Mr. PHILIP POPPER,68
+USA-NJ-44-NJ-HealthFacilities-output-50,Lions Gate,1100 Laurel Oak Road,,Voorhees,08043,NJ,US,(856) 667-3100,Long Term Care Facility,04002,02/28/2018,Ms. SUSAN LOVE,110
+USA-NJ-44-NJ-HealthFacilities-output-51,"Powerback Rehabilitation, Route 73",113 South Route 73,,Voorhees,08043,NJ,US,(856) 809-3500,Long Term Care Facility,04007,01/31/2018,Mr. GARY BAUER,124
+USA-NJ-44-NJ-HealthFacilities-output-52,Brandywine Senior Living At Voorhees,311 Route 73 South,,Voorhees,08043,NJ,US,(856) 424-0004,Assisted Living Residence,04013,06/30/2018,Ms. MELISSA REPKOE,120
+USA-NJ-44-NJ-HealthFacilities-output-53,Lions Gate,1100 Laurel Oak Road,,Voorhees,08043,NJ,US,(856) 667-3100,Assisted Living Residence,04A003,01/31/2018,Ms. SUSAN LOVE,74
+USA-NJ-44-NJ-HealthFacilities-output-54,Bentley Alp,7999 North Route 130,,Pennsauken,08110,NJ,US,(856) 488-5557,Assisted Living Program,04A005,01/31/2018,Ms. SHARON GOSSNER,
+USA-NJ-44-NJ-HealthFacilities-output-55,Spring Hills Cherry Hill,1450 Marlton Pike,,Cherry Hill,08034,NJ,US,(856) 874-7700,Assisted Living Residence,04A006,12/31/2017,Mr. SANJAY KANSUPADA,150
+USA-NJ-44-NJ-HealthFacilities-output-56,Dpsp Health Care,102 Hearthstone Drive,,Berlin,08009,NJ,US,(856) 308-2163,Assisted Living Program,04A105,07/31/2018,Ms. DAWN OGREN,
+USA-NJ-44-NJ-HealthFacilities-output-57,Brandywine Senior Living At Haddonfield,132 Warwick Road,,Haddonfield,08033,NJ,US,(856) 429-5500,Assisted Living Residence,04A022,06/30/2018,Ms. JACQUELINE PELLICCIONE,58
+USA-NJ-44-NJ-HealthFacilities-output-58,Victoria Manor,3809 Bayshore Road,,North Cape May,08204,NJ,US,(609) 898-0677,Long Term Care Facility,05001,07/31/2018,Ms. KAREN BRUNO,120
+USA-NJ-44-NJ-HealthFacilities-output-59,Prospect Heights Care Center,336 Prospect Ave,,Hackensack,07601,NJ,US,(201) 678-1800,Long Term Care Facility,056300,12/31/2017,Ms. CHRISTINE BRADFORD,196
+USA-NJ-44-NJ-HealthFacilities-output-60,Alaris Health At The Chateau,96 Parkway,,Rochelle Park,07662,NJ,US,(201) 226-9600,Long Term Care Facility,056301,12/31/2017,Ms. SUSAN ROMAN,11
+USA-NJ-44-NJ-HealthFacilities-output-61,Sunrise Assisted Living Of Cresskill,3 Tenakill Park Drive East,,Cresskill,07626,NJ,US,(201) 871-0300,Assisted Living Residence,05A200,04/30/2018,Ms. DONNA ZAYAT,99
+USA-NJ-44-NJ-HealthFacilities-output-62,Clara Maass Transitional Care Unit,One Clara Maass Drive,,Belleville,07109,NJ,US,(973) 450-2963,Long Term Care Facility,07011,08/31/2018,Ms. JENNIFER HORATH,
+USA-NJ-44-NJ-HealthFacilities-output-63,Atria Roseland,345 Eagle Rock Avenue,,Roseland,07068,NJ,US,(973) 618-1888,Assisted Living Residence,07015,07/31/2018,Mr. MICHAEL CIECIERSKI,100
+USA-NJ-44-NJ-HealthFacilities-output-64,Brandywine Living At Livingston,369 East Mtpleasant Avenue,,Livingston,07039,NJ,US,(856) 813-2000,Assisted Living Residence,07A021,04/30/2018,Ms. JULIANNE MACKEY,150
+USA-NJ-44-NJ-HealthFacilities-output-65,Manorcare Health Services-Washington Township,378 Fries Mill Road,,Sewell,08080,NJ,US,(856) 218-4200,Long Term Care Facility,08004,05/31/2018,Mr. ANTHONY STINSON,120
+USA-NJ-44-NJ-HealthFacilities-output-66,"Advanced Subacute Rehabilitation Center At Sewell, Llc",685 Salina Road,,Sewell,08080,NJ,US,(856) 468-2500,Long Term Care Facility,08007,07/31/2018,Ms. PATRICIA HEDEMAN,139
+USA-NJ-44-NJ-HealthFacilities-output-67,Atrium Post Acute Care Of Woodbury,467 Cooper Street,,Woodbury,08096,NJ,US,(856) 345-1200,Long Term Care Facility,08008,04/30/2018,Mr. DWIGHT ROCHE,124
+USA-NJ-44-NJ-HealthFacilities-output-68,Mullica Gardens Assisted Living,161 Mullica Hill Road,,Mullica Hill,08062,NJ,US,(856) 434-4000,Assisted Living Residence,08A009,06/30/2018,Ms. PATRICIA WILLIS,80
+USA-NJ-44-NJ-HealthFacilities-output-69,Hoboken University Medical Center Transitional Care Unit,308 Willow Avenue,,Hoboken,07030,NJ,US,(201) 418-1000,Long Term Care Facility,09006,09/30/2018,Mr. ROBERT MEYERS,
+USA-NJ-44-NJ-HealthFacilities-output-70,Bergen Regional Medical Center,230 E Ridgewood Ave,,Paramus,07652,NJ,US,(201) 967-4000,Long Term Care Facility,10201L,09/30/2017,Ms. KATHRYN RICHARDSON,12
+USA-NJ-44-NJ-HealthFacilities-output-71,Brandywine Senior Care At Moorestown,1205 North Church Street,,Moorestown,08057,NJ,US,(856) 778-0600,Long Term Care Facility,106001,12/31/2017,Mr. CHRISTOPHER GILLIES,37
+USA-NJ-44-NJ-HealthFacilities-output-72,Care One At Moorestown,895 Westfield Avenue,,Moorestown,08057,NJ,US,(856) 914-0444,Long Term Care Facility,106100,07/31/2018,Ms. CELESTE JOHNSON,65
+USA-NJ-44-NJ-HealthFacilities-output-73,Alaris Health At Kearny,206 Bergen Ave,,Kearny,07032,NJ,US,(201) 955-7067,Long Term Care Facility,10909,11/30/2017,Mr. JOSEPH SHARP,120
+USA-NJ-44-NJ-HealthFacilities-output-74,Granville Place,111 Sunset Road,,Burlington,08016,NJ,US,(609) 239-5440,Assisted Living Residence,10A000,03/31/2018,Ms. RENEE GIRARD,47
+USA-NJ-44-NJ-HealthFacilities-output-75,Brookdale Florence,901 Broad Street,,Florence,08518,NJ,US,(609) 499-6662,Assisted Living Residence,10a001,11/30/2017,Mr. BRIAN CORLISS,46
+USA-NJ-44-NJ-HealthFacilities-output-76,Brandywine Assisted Living At Moorestown Estates,1205 N. Church Street,,Moorestown,08057,NJ,US,(856) 778-0600,Assisted Living Residence,10A002,12/31/2017,Mr. CHRISTOPHER GILLIES,122
+USA-NJ-44-NJ-HealthFacilities-output-77,Care One At Moorestown,895 Westfield Avenue,,Moorestown,08057,NJ,US,(856) 914-0444,Assisted Living Residence,10A100,07/31/2017,Ms. CELESTE JOHNSON,54
+USA-NJ-44-NJ-HealthFacilities-output-78,The Clare Estate,201 Crosswicks Street,,Bordentown,08505,NJ,US,(609) 298-6628,Assisted Living Program,10A101,11/30/2017,Ms. ALYSON MULRYNE,
+USA-NJ-44-NJ-HealthFacilities-output-79,Atrium Post Acute Care Of Hamilton,3 Hamilton Health Place,,Hamilton,08690,NJ,US,(609) 631-2555,Long Term Care Facility,11014,04/30/2018,Mr. KENNETH KEEGAN,55
+USA-NJ-44-NJ-HealthFacilities-output-80,Merwick Care & Rehabilitation Center,100 Plainsboro Road,,Plainsboro,08536,NJ,US,(609) 759-6000,Long Term Care Facility,11103L,11/30/2017,Mr. E. THOMAS SCARBOROUGH,200
+USA-NJ-44-NJ-HealthFacilities-output-81,The Dwelling Place At Saint Clare's,400 West Blackwell St,,Dover,07801,NJ,US,(973) 989-3500,Long Term Care Facility,NJ11402L,09/30/2017,"Mr. TIMOTHY DOYLE, JR.",28
+USA-NJ-44-NJ-HealthFacilities-output-82,Atlantic Rehabilitation Institute,95 Mt Kemble Avenue,,Morristown,07960,NJ,US,(973) 971-4481,Long Term Care Facility,11404L,04/30/2018,Ms. PRISCILLA DEMASI,40
+USA-NJ-44-NJ-HealthFacilities-output-83,Alaris Health At Belgrove,195 Belgrove Drive,,Kearny,07032,NJ,US,(973) 844-4800,Long Term Care Facility,NJ11952,11/30/2017,,120
+USA-NJ-44-NJ-HealthFacilities-output-84,"Assisted Living, Inc",1015 Whitehead Road Extension,,Ewing,08638,NJ,US,(609) 432-4430,Assisted Living Program,11A006,01/31/2018,Ms. REBECCA LYNN,
+USA-NJ-44-NJ-HealthFacilities-output-85,St. Francis Assisted Living Program,601 Hamilton Avenue,,Trenton,08629,NJ,US,(609) 599-5161,Assisted Living Program,11A015,02/28/2018,Mr. THOMAS KELLY,
+USA-NJ-44-NJ-HealthFacilities-output-86,Trinitas Hospital,655 East Jersey Street,,Elizabeth,07206,NJ,US,(908) 994-7525,Long Term Care Facility,12001L,08/31/2018,Ms. JOANNA GORCZYCA,124
+USA-NJ-44-NJ-HealthFacilities-output-87,Care Connection Rahway,865 Stone Street,,Rahway,07065,NJ,US,(732) 499-6460,Long Term Care Facility,12006L,01/31/2018,Ms. JEANNE LEUS,24
+USA-NJ-44-NJ-HealthFacilities-output-88,Roosevelt Care Center At Old Bridge,1133 Marlboro Road,,Old Bridge,08857,NJ,US,(732) 360-9830,Long Term Care Facility,12023,09/30/2018,"Mr. ALAN FIALKA, JR",180
+USA-NJ-44-NJ-HealthFacilities-output-89,The Venetian Care & Rehabilitation Center,275 John T O'leary Boulevard,,South Amboy,08879,NJ,US,(732) 654-1700,Long Term Care Facility,12035,11/30/2017,Mr. ROBERT REYES,180
+USA-NJ-44-NJ-HealthFacilities-output-90,Parker At Monroe,395 School House Road,,Monroe,08831,NJ,US,(732) 992-5200,Long Term Care Facility,12039,11/30/2017,Ms. LEANNE FIET,96
+USA-NJ-44-NJ-HealthFacilities-output-91,Lapid Manor,10 Sterling Drive,,Piscataway,08854,NJ,US,(732) 286-2323,Long Term Care Facility,12056,07/31/2018,Ms. DEBORAH QUINN MARTONE,98
+USA-NJ-44-NJ-HealthFacilities-output-92,Parker At Stonegate,443 River Road,,Highland Park,08904,NJ,US,(732) 565-2500,Assisted Living Residence,12A007,12/31/2017,Ms. MARCIA ORTEZ,80
+USA-NJ-44-NJ-HealthFacilities-output-93,Care Strategies,201 Crosswicks Street,,Bordentown,08505,NJ,US,(609) 656-4205,Assisted Living Program,12A024,11/30/2017,Ms. DA NETTE MANZI,
+USA-NJ-44-NJ-HealthFacilities-output-94,Wedgwood Gardens Care Center,3419 Highway 9,,Freehold,07728,NJ,US,(732) 677-1200,Long Term Care Facility,13004,11/30/2017,Mr. S. ROBERT KASZIRER,151
+USA-NJ-44-NJ-HealthFacilities-output-95,Meridian Subacute Rehabilitation,1725 Meridian Trail,,Wall,07719,NJ,US,(732) 312-1800,Long Term Care Facility,13301,01/31/2018,Ms. CHRISTINE SCOTT,130
+USA-NJ-44-NJ-HealthFacilities-output-96,Applewood Estates Assisted Living Residence,One Applewood Drive,,Freehold,07728,NJ,US,(732) 780-7370,Assisted Living Residence,13A003,03/31/2018,Mr. KEITH GRADY,50
+USA-NJ-44-NJ-HealthFacilities-output-97,Arbor Terrace Of Morris Plains,361 Speedwell Avenue,,Morris Plains,07950,NJ,US,(610) 246-6663,Assisted Living Residence,13A012,05/31/2018,Mr. KEVIN SEIDEL,100
+USA-NJ-44-NJ-HealthFacilities-output-98,The Solana Marlboro,52 County Road 520,,Morganville,07751,NJ,US,(732) 536-3000,Assisted Living Residence,13A014,09/30/2018,Ms. DAWN OSTERWEIL,100
+USA-NJ-44-NJ-HealthFacilities-output-99,Sunnyside Manor,2500 Ridgewood Road,,Wall,07719,NJ,US,(732) 528-9311,Assisted Living Residence,13A015,09/30/2017,Ms. MARYELLEN KEANE,92
+USA-NJ-44-NJ-HealthFacilities-output-100,Arbor Terrace Of Middletown,1800 Highway 35 South,,Middletown,07748,NJ,US,(732) 957-0083,Assisted Living Residence,13A303,08/31/2018,Mr. CHARLES DIXON,104
+USA-NJ-44-NJ-HealthFacilities-output-101,Care One At Hanover Township,101 Whippany Road,,Whippany,07981,NJ,US,(973) 599-7500,Long Term Care Facility,14004,04/30/2018,Ms. MARGARET NOLAN,94
+USA-NJ-44-NJ-HealthFacilities-output-102,"Merry Heart Assisted Living, Llc",118 Main Street,,Succasunna,07876,NJ,US,(973) 584-4000,Assisted Living Residence,14A002,06/30/2018,Ms. JENNIFER MORATO,100
+USA-NJ-44-NJ-HealthFacilities-output-103,Virtua Health & Rehabilitation Center At Berlin,100 Long-A-Coming Lane,,Berlin,08009,NJ,US,(856) 322-3600,Long Term Care Facility,156001,12/31/2017,Ms. CAROL ERHART,128
+USA-NJ-44-NJ-HealthFacilities-output-104,Care One At Evesham,870 East Route 70,,Marlton,08053,NJ,US,(856) 396-0005,Long Term Care Facility,156002,07/31/2018,Ms. NATALIE BATTISTA,144
+USA-NJ-44-NJ-HealthFacilities-output-105,Manorcare Health Services Voorhees,1086 Dumont Circle,,Voorhees,08043,NJ,US,(856) 454-9100,Long Term Care Facility,158336,12/31/2017,Ms. CAITLIN HIGGINS,120
+USA-NJ-44-NJ-HealthFacilities-output-106,Brookdale Evesham,One Brendenwood Drive,,Voorhees,08043,NJ,US,(856) 424-7773,Assisted Living Residence,15A000,04/30/2018,Ms. LISA WILLIAMS,200
+USA-NJ-44-NJ-HealthFacilities-output-107,Arden Courts Of Cherry Hill,2700 Chapel Avenue,,Cherry Hill,08002,NJ,US,(856) 667-6543,Assisted Living Residence,15A001,12/31/2017,Mr. JOSEPH HORWITZ,54
+USA-NJ-44-NJ-HealthFacilities-output-108,Brookdale Marlton Crossing,1979 Route 70 East,,Cherry Hill,08003,NJ,US,(856) 424-7227,Assisted Living Residence,15A002,07/31/2018,Ms. DEBRA PETRONE,132
+USA-NJ-44-NJ-HealthFacilities-output-109,Voorhees Senior Living,501 Laurel Oak Road,,Voorhees,08043,NJ,US,(856) 566-2340,Assisted Living Residence,15A003,06/30/2018,Ms. SHANYN RYAN MURACZEWSKI,104
+USA-NJ-44-NJ-HealthFacilities-output-110,Cherry Hill Senior Living,490 Cooper Landing Road,,Cherry Hill,08002,NJ,US,(856) 482-9300,Assisted Living Residence,15A004,06/30/2018,Ms. ELLEN SCAGNELLI,103
+USA-NJ-44-NJ-HealthFacilities-output-111,Premier Cadbury Of Cherry Hill,2150 Route 38,,Cherry Hill,08002,NJ,US,(856) 667-4550,Assisted Living Residence,15A005,07/31/2018,Ms. SUSAN MODZELESKI,66
+USA-NJ-44-NJ-HealthFacilities-output-112,Brookdale Voorhees,1301 Laurel Oak Road,,Voorhees,08043,NJ,US,(856) 783-8383,Assisted Living Residence,15a006,07/31/2018,Ms. TIFFANY FLYNN,94
+USA-NJ-44-NJ-HealthFacilities-output-113,The Fountains At Cedar Parke,114 Hayes Mill Road,,Atco,08004,NJ,US,(856) 753-2000,Assisted Living Residence,15a007,10/31/2017,Ms. WENDY CHEESEMAN,106
+USA-NJ-44-NJ-HealthFacilities-output-114,Spring Oak Assisted Living At Voorhees,396 So. White Horse Pike,,Berlin,08009,NJ,US,(856) 719-9599,Assisted Living Residence,15A008,09/30/2018,Mr. MICHAEL NORBURY,115
+USA-NJ-44-NJ-HealthFacilities-output-115,Spring Oak Of Toms River,2145 Whitesville Road,,Toms River,08755,NJ,US,(732) 905-9222,Assisted Living Program,15A101,07/31/2018,Ms. TAKOLA GONZALEZ,
+USA-NJ-44-NJ-HealthFacilities-output-116,Sunrise Assisted Living Of Jackson,390 North County Line Road,,Jackson,08527,NJ,US,(732) 928-5600,Assisted Living Residence,15A112,08/31/2018,Mr. JOHN DONADIO,100
+USA-NJ-44-NJ-HealthFacilities-output-117,The Terraces At Seacrest Village,281 Mathistown Road,,Little Egg Harbor Tw,08087,NJ,US,(609) 857-4141,Assisted Living Residence,15A113,05/31/2018,Ms. KELLY REILLY,88
+USA-NJ-44-NJ-HealthFacilities-output-118,Care One At Jackson Assisted Living,11 History Lane,,Jackson,08527,NJ,US,(732) 367-6600,Assisted Living Residence,15A115,05/31/2018,Mr. ARTHUR FRISCH,35
+USA-NJ-44-NJ-HealthFacilities-output-119,"Barnert Subacute Rehabilitation Center, Llc",680 Broadway Suite 301,,Paterson,07514,NJ,US,(973) 754-0999,Long Term Care Facility,16008,11/30/2017,Mr. JERRY FRIEDMAN,68
+USA-NJ-44-NJ-HealthFacilities-output-120,Chestnut Hill Residence,338 Chestnut Street,,Passaic,07055,NJ,US,(973) 777-7800,Assisted Living Residence,16A001,10/31/2017,Ms. NONA MOODY,125
+USA-NJ-44-NJ-HealthFacilities-output-121,Bridgeway Care And Rehabilitation Center At Hillsborough,395 Amwell Road,,Hillsborough,08844,NJ,US,(908) 281-4400,Long Term Care Facility,18104,12/31/2017,Mr. ANDREW HARRIS,126
+USA-NJ-44-NJ-HealthFacilities-output-122,Somerset Woods Rehabilitation & Nursing Center,780 Old New Brunswick Road,,Somerset,08873,NJ,US,(732) 653-3000,Long Term Care Facility,18109,05/31/2018,Mr. JOSEPH FRIEDMAN,148
+USA-NJ-44-NJ-HealthFacilities-output-123,Brightview Warren,57 Mt Bethel Road,,Warren,07059,NJ,US,(908) 756-3790,Assisted Living Residence,18A007,09/30/2018,Ms. SUSAN BRUNCATI,120
+USA-NJ-44-NJ-HealthFacilities-output-124,Care One At Somerset Valley Assisted Living,1621 Route 22 West,,Bound Brook,08805,NJ,US,(732) 469-2000,Assisted Living Residence,18A105,11/30/2017,Mr. KEVIN SEIDEL,72
+USA-NJ-44-NJ-HealthFacilities-output-125,"Evermay At Branchville, Llc",3 Phillips Road,,Branchville,07826,NJ,US,(973) 948-8884,Assisted Living Residence,19a001,06/30/2018,Ms. DESARAE TRAMONTOZZI,71
+USA-NJ-44-NJ-HealthFacilities-output-126,Brandall Estates,432 Central Avenue,,Linwood,08221,NJ,US,(609) 926-4663,Assisted Living Residence,01A000,12/31/2017,Ms. SHERRY SULLIVAN,100
+USA-NJ-44-NJ-HealthFacilities-output-127,Woodview Estates,5030 Unami Boulevard,,Mays Landing,08330,NJ,US,(609) 625-4878,Assisted Living Residence,01a001,03/31/2018,Ms. VICTORIA PIERRO,78
+USA-NJ-44-NJ-HealthFacilities-output-128,Somers Place,199 Steelmanville Road,,Egg Harbor Township,08234,NJ,US,(609) 926-5891,Assisted Living Residence,01A002,03/31/2018,Ms. KARINE MENDEZ,47
+USA-NJ-44-NJ-HealthFacilities-output-129,Spring Village At Galloway,42 West Jimmie Leeds,,Galloway Township,08205,NJ,US,(609) 404-1126,Assisted Living Residence,01a003,01/31/2018,Ms. XIOMARA JOHNSON,52
+USA-NJ-44-NJ-HealthFacilities-output-130,Spring Village At Galloway,46 West Jimmie Leeds Road,,Galloway Township,08205,NJ,US,(609) 404-1099,Assisted Living Residence,01a004,01/31/2018,Ms. DONNA LAROTONDA,78
+USA-NJ-44-NJ-HealthFacilities-output-131,Villa Raffaella Assisted Living Community,917 S Main Street,,Pleasantville,08232,NJ,US,(609) 645-9300,Assisted Living Residence,01a005,07/31/2017,Sr. THERESINA THADATHIL,60
+USA-NJ-44-NJ-HealthFacilities-output-132,The Heritage Assisted Living,45 Route 206,,Hammonton,08037,NJ,US,(609) 561-8977,Assisted Living Residence,1a006,02/28/2018,Mr. EDWARD ZIRBSER III,107
+USA-NJ-44-NJ-HealthFacilities-output-133,St. Catherine Of Siena,7 Ryerson Avenue,,Caldwell,07006,NJ,US,(973) 226-1577,Long Term Care Facility,1B4IGL,08/31/2018,Ms. DEIRDRE RADTKE,30
+USA-NJ-44-NJ-HealthFacilities-output-134,The Wexford At Wall Township,2018 Highway 35,,Spring Lake,07762,NJ,US,(732) 282-1014,Assisted Living Residence,1EGWIO,09/30/2017,Ms. NANCY RENEHAN,114
+USA-NJ-44-NJ-HealthFacilities-output-135,Continuing Care At Lantern Hill,537 Mountain Avenue,,New Providence,07974,NJ,US,(908) 516-9300,Long Term Care Facility,20016,06/30/2018,Mr. JERRY MCDONALD,40
+USA-NJ-44-NJ-HealthFacilities-output-136,Brookdale Cape May,591 Route 9 South,,Cape May Court House,08210,NJ,US,(609) 463-6344,Assisted Living Residence,20A001,07/31/2018,Mr. DREW ROBINSON,146
+USA-NJ-44-NJ-HealthFacilities-output-137,United Methodist Communities At The Shores,2201 Bay Avenue,,Ocean City,08226,NJ,US,(609) 399-8505,Assisted Living Residence,20A002,05/31/2018,Ms. JENNIFER COURLAS,255
+USA-NJ-44-NJ-HealthFacilities-output-138,Care Strategies,201 Crosswicks Street,,Bordentown,08505,NJ,US,(609) 656-4205,Assisted Living Program,20A004,07/31/2018,Mr. DAVID MULRYNE,
+USA-NJ-44-NJ-HealthFacilities-output-139,Continuing Care At Lantern Hill,537 Mountain Avenue,,New Providence,07974,NJ,US,(908) 516-9300,Assisted Living Residence,20A105,04/30/2018,Mr. JERRY MCDONALD,45
+USA-NJ-44-NJ-HealthFacilities-output-140,Wildwood Housing Authority,3700 New Jersey Ave,,Wildwood,08260,NJ,US,(609) 729-0220,Assisted Living Program,20A101,08/31/2018,Ms. CYNTHIA NUMBERS,
+USA-NJ-44-NJ-HealthFacilities-output-141,St. Lawrence Rehabilitation Center,2381 Lawrenceville Road,,Lawrenceville,08648,NJ,US,(609) 896-9500,Long Term Care Facility,21126L,09/30/2018,Ms. DARLENE HANLEY,56
+USA-NJ-44-NJ-HealthFacilities-output-142,The Chelsea At Brookfield,1 Brookfield Court,,Belvidere,07823,NJ,US,(908) 475-5556,Assisted Living Residence,21A001,05/31/2018,Ms. JAN MAUREEN HOPKINS,115
+USA-NJ-44-NJ-HealthFacilities-output-143,Runnells Center For Rehabilitation & Healthcare,40 Watchung Way,,Berkeley Heights,07922,NJ,US,(908) 771-5700,Long Term Care Facility,22001L,11/30/2017,Mr. JOSHUA BAMBERGER,300
+USA-NJ-44-NJ-HealthFacilities-output-144,Children's Specialized Hospital,94 Stevens Road,,Toms River,08755,NJ,US,(732) 797-3800,Long Term Care Facility,22248L,05/31/2018,Ms. JUDY POTTER,26
+USA-NJ-44-NJ-HealthFacilities-output-145,Children's Specialized Hospital,150 New Providence Road,,Mountainside,07092,NJ,US,(908) 233-3720,Long Term Care Facility,22249L,05/31/2018,Ms. JUDY POTTER,46
+USA-NJ-44-NJ-HealthFacilities-output-146,Baker Place,685 S. Brewster Road,,Vineland,08360,NJ,US,(856) 691-9111,Assisted Living Residence,25A000,03/31/2018,Mr. JOSEPH DASILVA,47
+USA-NJ-44-NJ-HealthFacilities-output-147,Spring Oak Assisted Living At Vineland,1611 South Main Road,,Vineland,08360,NJ,US,(856) 507-1505,Assisted Living Residence,25a002,09/30/2018,Ms. DAWN WATKINS,115
+USA-NJ-44-NJ-HealthFacilities-output-148,Armenian Nursing And Rehabilitation Center,70 Main Street,,Emerson,07630,NJ,US,(201) 261-6662,Long Term Care Facility,030202,07/31/2018,Mr. MATTHEW RUSSO,86
+USA-NJ-44-NJ-HealthFacilities-output-149,Baptist Home Of South Jersey,303 Bank Ave,,Riverton,08077,NJ,US,(856) 829-2274,Long Term Care Facility,030301,02/28/2018,Ms. CHERYL CARNES,60
+USA-NJ-44-NJ-HealthFacilities-output-150,The Evergreens,309 Bridgeboro Road,,Moorestown,08057,NJ,US,(856) 439-2000,Long Term Care Facility,030303,01/31/2018,Ms. DAKIA MCMILLIAN,34
+USA-NJ-44-NJ-HealthFacilities-output-151,Lutheran Crossings Enhanced Living At Moorestown,255 East Main St,,Moorestown,08057,NJ,US,(856) 235-1214,Long Term Care Facility,030305,07/31/2018,Mr. CARL TARBELL,201
+USA-NJ-44-NJ-HealthFacilities-output-152,Masonic Village At Burlington,902 Jacksonville Road,,Burlington,08016,NJ,US,(609) 239-3900,Long Term Care Facility,030306,10/31/2017,Ms. CINDY SHEMANSKY,264
+USA-NJ-44-NJ-HealthFacilities-output-153,Wiley Mission Home For The Aged,99 East Main Street,,Marlton,08053,NJ,US,(856) 983-0411,Long Term Care Facility,030307,07/31/2018,Mr. GARY GILMORE,67
+USA-NJ-44-NJ-HealthFacilities-output-154,United Methodist Communities At Collingswood,460 Haddon Ave,,Collingswood,08108,NJ,US,(856) 854-4331,Long Term Care Facility,030401,03/31/2018,Ms. LISA REIFENRATH,60
+USA-NJ-44-NJ-HealthFacilities-output-155,St. Mary's Center For Rehabilitation & Healthcare,210 St Mary's Drive,,Cherry Hill,08003,NJ,US,(856) 874-5300,Long Term Care Facility,30402,11/30/2017,Ms. MAUREEN KOGELMAN,215
+USA-NJ-44-NJ-HealthFacilities-output-156,United Methodist Communities At The Shores,2201 Bay Avenue,,Ocean City,08226,NJ,US,(609) 399-8505,Long Term Care Facility,030501,05/31/2018,Ms. JENNIFER COURLAS,60
+USA-NJ-44-NJ-HealthFacilities-output-157,Alaris Health At West Orange,5 Brook End Drive,,West Orange,07052,NJ,US,(973) 324-3000,Long Term Care Facility,306001,05/31/2018,Ms. DEBORAH HALL,120
+USA-NJ-44-NJ-HealthFacilities-output-158,Hackensack-Umc Mountainside,One Bay Ave,,Montclair,07042,NJ,US,(973) 429-6949,Long Term Care Facility,306100,06/30/2018,Mr. ROBERT CONSTANTIN,
+USA-NJ-44-NJ-HealthFacilities-output-159,Lutheran Social Ministries At Crane's Mill,459 Passaic Avenue,,West Caldwell,07006,NJ,US,(973) 276-3018,Long Term Care Facility,306300,01/31/2018,Mr. CHAD MURIN,66
+USA-NJ-44-NJ-HealthFacilities-output-160,Care One At Livingston,68 Passaic Avenue,,Livingston,07039,NJ,US,(973) 758-9000,Long Term Care Facility,306301,09/30/2018,Ms. LEPTY DWYER,76
+USA-NJ-44-NJ-HealthFacilities-output-161,Job Haines Home For Aged People,250 Bloomfield Ave,,Bloomfield,07003,NJ,US,(973) 743-0792,Long Term Care Facility,030706,09/30/2018,Mr. DAVID REPOLI,40
+USA-NJ-44-NJ-HealthFacilities-output-162,Green Hill,103 Pleasant Valley Way,,West Orange,07052,NJ,US,(973) 731-2300,Long Term Care Facility,30707,04/30/2018,Ms. DONNA LAZARTIC,77
+USA-NJ-44-NJ-HealthFacilities-output-163,Reformed Church Home,1990 Route 18 North,,Old Bridge,08857,NJ,US,(732) 607-9230,Long Term Care Facility,030709,07/31/2018,Ms. KATHERINE SHEPARD,108
+USA-NJ-44-NJ-HealthFacilities-output-164,United Methodist Communities At Pitman,535 N Oak Ave,,Pitman,08071,NJ,US,(856) 589-7800,Long Term Care Facility,030801,08/31/2018,Mr. JAMES SCALESE,72
+USA-NJ-44-NJ-HealthFacilities-output-165,"Hudson Hills Senior Living, Llc",3161 Kennedy Blvd,,North Bergen,07047,NJ,US,(201) 867-3585,Long Term Care Facility,030901,05/31/2018,Ms. STACEY WILBUR,60
+USA-NJ-44-NJ-HealthFacilities-output-166,St. Ann's Home For The Aged,198 Old Bergen Road,,Jersey City,07305,NJ,US,(201) 433-0950,Long Term Care Facility,030904,08/31/2018,Ms. JANET MERLY-LIRANZO,120
+USA-NJ-44-NJ-HealthFacilities-output-167,Margaret Anna Cusack Care Center,537 Pavonia Avenue,,Jersey City,07306,NJ,US,(201) 653-8300,Long Term Care Facility,030905,06/30/2018,Mr. THOMAS SHEEHY JR.,139
+USA-NJ-44-NJ-HealthFacilities-output-168,Winchester Gardens,333 Elmwood Avenue,,Maplewood,07040,NJ,US,(973) 762-5050,Assisted Living Residence,30a000,07/31/2018,Ms. PAM KACZOR,109
+USA-NJ-44-NJ-HealthFacilities-output-169,Brookdale West Orange,520 Prospect Avenue,,West Orange,07052,NJ,US,(973) 325-5700,Assisted Living Residence,30A001,07/31/2018,Mr. JOSHUA RIVERA,116
+USA-NJ-44-NJ-HealthFacilities-output-170,Arden Courts Of West Orange,510 Prospect Avenue,,West Orange,07052,NJ,US,(973) 736-3100,Assisted Living Residence,30a002,12/31/2017,Mr. WILLIAM MILIANES,56
+USA-NJ-44-NJ-HealthFacilities-output-171,Sunrise Assisted Living At West Essex,47 Greenbrook Road,,Fairfield,07004,NJ,US,(973) 228-7890,Assisted Living Residence,30a003,12/31/2017,Ms. WENDY MCGUIRE,98
+USA-NJ-44-NJ-HealthFacilities-output-172,Brighton Gardens Of West Orange,220 Pleasant Valley Way,,West Orange,07052,NJ,US,(973) 731-9840,Assisted Living Residence,30A004,08/31/2018,Ms. KIRSTIN WALSH,132
+USA-NJ-44-NJ-HealthFacilities-output-173,Lutheran Social Ministries At Crane's Mill,459 Passaic Avenue,,West Caldwell,07006,NJ,US,(973) 276-3018,Assisted Living Residence,30a005,01/31/2018,Mr. CHAD MURIN,66
+USA-NJ-44-NJ-HealthFacilities-output-174,Job Haines Home For Aged People/hearthside Commons,250 Bloomfield Avenue,,Bloomfield,07003,NJ,US,(973) 743-0792,Assisted Living Residence,30a006,09/30/2018,Mr. DAVID REPOLI,67
+USA-NJ-44-NJ-HealthFacilities-output-175,The Cliffs At Eagle Rock,707 Eagle Rock Avenue,,West Orange,07052,NJ,US,(973) 669-0011,Assisted Living Residence,30A008,04/30/2018,Ms. LENI DE GUZMAN,85
+USA-NJ-44-NJ-HealthFacilities-output-176,Care One At Livingston Assisted Living,76 Passaic Avenue,,Livingston,07039,NJ,US,(973) 758-4100,Assisted Living Residence,30A009,09/30/2017,Ms. LORI MALONEY,93
+USA-NJ-44-NJ-HealthFacilities-output-177,Greenwood House Home For The Jewish Aged,53 Walter Street,,Trenton,08628,NJ,US,(609) 883-5391,Long Term Care Facility,031101,07/31/2017,Mr. RICHARD GOLDSTEIN,137
+USA-NJ-44-NJ-HealthFacilities-output-178,Presbyterian Home At Meadow Lakes,300 Meadow Lakes,,Hightstown,08520,NJ,US,(609) 448-4100,Long Term Care Facility,031102,10/31/2017,Ms. KAREN CORNEAL,60
+USA-NJ-44-NJ-HealthFacilities-output-179,Morris Hall/st. Joseph's Nursing Center,1 Bishops Drive,,Lawrenceville,08648,NJ,US,(609) 896-0006,Long Term Care Facility,031103,12/31/2017,Ms. ELLEN SCANO PETROSKI,180
+USA-NJ-44-NJ-HealthFacilities-output-180,The Atrium At Navesink Harbor,40 Riverside Avenue,,Red Bank,07701,NJ,US,(732) 842-3400,Long Term Care Facility,031304,07/31/2018,Mr. MICHAEL GENTILE,43
+USA-NJ-44-NJ-HealthFacilities-output-181,Heath Village,430 Schooley's Mountain Rd,,Hackettstown,07840,NJ,US,(908) 852-4801,Long Term Care Facility,031402,08/31/2018,Ms. MARY ELLEN BOVE,99
+USA-NJ-44-NJ-HealthFacilities-output-182,Daughters Of Miriam Center,155 Hazel Street,,Clifton,07011,NJ,US,(973) 772-3700,Long Term Care Facility,031601,07/31/2018,Mr. FRED FEINSTEIN,210
+USA-NJ-44-NJ-HealthFacilities-output-183,Holland Christian Home,151 Graham Avenue,,North Haledon,07508,NJ,US,(973) 427-4087,Long Term Care Facility,031602,10/31/2017,Ms. NANCY ULANDAY,52
+USA-NJ-44-NJ-HealthFacilities-output-184,St. Joseph's Home For Elderly,140 Shepherd Lane,,Totowa,07512,NJ,US,(973) 942-0300,Long Term Care Facility,031605,04/30/2018,Sr.. VERONICA COYLE,41
+USA-NJ-44-NJ-HealthFacilities-output-185,"N. J.  Eastern Star Home, Inc.",111 Finderne Avenue,,Bridgewater,08807,NJ,US,(908) 722-4140,Long Term Care Facility,031804,08/31/2018,Ms. DIANE BALDWIN,82
+USA-NJ-44-NJ-HealthFacilities-output-186,Elmora Hills Health & Rehabilitation Center,225 W Jersey Street,,Elizabeth,07202,NJ,US,(908) 353-1220,Long Term Care Facility,32003,09/30/2017,Mr. JOSEPH BRAUN,200
+USA-NJ-44-NJ-HealthFacilities-output-187,House Of The Good Shepherd,798 Willow Grove Street,,Hackettstown,07840,NJ,US,(908) 684-5900,Long Term Care Facility,032101,11/30/2017,Ms. DEBORAH BEARDS,62
+USA-NJ-44-NJ-HealthFacilities-output-188,Brookdale Deptford,1674 Delsea Drive,,Deptford,08096,NJ,US,(856) 686-9500,Assisted Living Residence,35a000,11/30/2017,Ms. RUTH ANN KOZLEK,52
+USA-NJ-44-NJ-HealthFacilities-output-189,Cardinal Village,455 Hurffville-Crosskeys Road,,Sewell,08080,NJ,US,(856) 582-5292,Assisted Living Residence,35A001,10/31/2017,Ms. SUSAN WIEST,115
+USA-NJ-44-NJ-HealthFacilities-output-190,Washington Township Senior Living,600 Medical Center Drive,,Sewell,08080,NJ,US,(856) 582-8700,Assisted Living Residence,35A002,06/30/2018,Mr. GEORGE FAUST,103
+USA-NJ-44-NJ-HealthFacilities-output-191,Terraces At Parke Place,661 Delsea Drive,,Sewell,08080,NJ,US,(856) 256-1776,Assisted Living Residence,35a003,06/30/2018,Ms. LORI UDELL,76
+USA-NJ-44-NJ-HealthFacilities-output-192,"Juniper Village At Williamstown, Wellspring Memory Care Program",1648 S. Black Horse Pike,,Williamstown,08094,NJ,US,(856) 740-9400,Assisted Living Residence,35A004,02/28/2018,Ms. MARY JANE EICKE,36
+USA-NJ-44-NJ-HealthFacilities-output-193,Juniper Village At Williamstown,1640 S. Black Horse Pike,,Williamstown,08094,NJ,US,(856) 740-9400,Assisted Living Residence,35A005,02/28/2018,Ms. MARY JANE EICKE,51
+USA-NJ-44-NJ-HealthFacilities-output-194,Woodbury Mews Senior Living,124 Green Avenue,,Woodbury,08096,NJ,US,(856) 384-6600,Assisted Living Residence,35a010,08/31/2018,Mr. MICHAEL LANDO,118
+USA-NJ-44-NJ-HealthFacilities-output-195,Greenfield Senior Living At Cross Keys,3152 Glassboro Cross Keys Road,,Glassboro,08028,NJ,US,(856) 307-2100,Assisted Living Residence,35A3302,03/31/2018,Ms. DENISE FASANO,79
+USA-NJ-44-NJ-HealthFacilities-output-196,Manhattanview Nursing Home,3200 Hudson Avenue,,Union City,07087,NJ,US,(201) 325-8400,Long Term Care Facility,406001,12/31/2017,Ms. MARGOT DOMINGO,127
+USA-NJ-44-NJ-HealthFacilities-output-197,Bayonne Hospital Center Transitional Care Unit,29 East 29th Street,,Bayonne,07002,NJ,US,(201) 858-7330,Long Term Care Facility,406100,01/31/2018,Mr. ROBERT MEYERS,
+USA-NJ-44-NJ-HealthFacilities-output-198,Independence Manor At Hunterdon,188 State Highway 31,,Flemington,08822,NJ,US,(908) 788-4893,Assisted Living Residence,45a000,05/31/2018,Ms. ANGELICA GUYDISH,106
+USA-NJ-44-NJ-HealthFacilities-output-199,Royal Health Gate Nursing & Rehabilitation,1314 Brunswick Avenue,,Trenton,08638,NJ,US,(609) 656-9291,Long Term Care Facility,476002,12/31/2017,Mr. ELIEZER FINKELSTEIN,149
+USA-NJ-44-NJ-HealthFacilities-output-200,Preferred Care At Mercer,1201 Parkway Avenue,,Ewing,08628,NJ,US,(609) 882-6900,Long Term Care Facility,476003,06/30/2018,Mr. ISAAC SHAPIRO,100
+USA-NJ-44-NJ-HealthFacilities-output-201,Brookdale Hamilton,1645 Whitehorse-Mercerville Road,,Trenton,08619,NJ,US,(609) 586-4000,Assisted Living Residence,47a000,11/30/2017,Ms. JENNIFER GARCIA,50
+USA-NJ-44-NJ-HealthFacilities-output-202,Presbyterian Home At Meadow Lakes,300 Meadow Lakes,,East Windsor,08520,NJ,US,(609) 448-4100,Assisted Living Residence,47a001,10/31/2017,Ms. KAREN CORNEAL,44
+USA-NJ-44-NJ-HealthFacilities-output-203,Rose Hill Assisted Living,1150 Washington Blvd,,Robbinsville,08691,NJ,US,(609) 371-7007,Assisted Living Residence,47a002,07/31/2018,Ms. GEORGEANN POLITO,76
+USA-NJ-44-NJ-HealthFacilities-output-204,Acorn Glen,775 Mt. Lucas Road,,Princeton,08540,NJ,US,(609) 430-4000,Assisted Living Residence,47a003,09/30/2018,Ms. FERN SPADAFINO,120
+USA-NJ-44-NJ-HealthFacilities-output-205,Abrams Residence,50 Walter Street,,Ewing,08628,NJ,US,(609) 883-5391,Assisted Living Residence,47A102,07/31/2018,Mr. DAVID KATZ,29
+USA-NJ-44-NJ-HealthFacilities-output-206,New Jersey Veterans Memorial Vineland,524 North West Blvd,,Vineland,08360,NJ,US,(856) 405-4207,Long Term Care Facility,050625,01/31/2018,Ms. ALLYSON BAILEY,300
+USA-NJ-44-NJ-HealthFacilities-output-207,The Chelsea At East Brunswick,606 Cranbury Road,,East Brunswick,08816,NJ,US,(732) 651-6100,Assisted Living Residence,50A000,08/31/2018,Ms. CYNTHIA ROZENBERG,102
+USA-NJ-44-NJ-HealthFacilities-output-208,Brighton Gardens Of Edison,1801 Oak Tree Road,,Edison,08820,NJ,US,(732) 767-1031,Assisted Living Residence,50A001,12/31/2017,Ms. TRACEY BORGES,118
+USA-NJ-44-NJ-HealthFacilities-output-209,Reformed Church Home,1990 Route 18 North,,Old Bridge,08857,NJ,US,(732) 607-9230,Assisted Living Residence,50a002,07/31/2018,Ms. KATHERINE SHEPARD,54
+USA-NJ-44-NJ-HealthFacilities-output-210,Brookdale Monroe,380 Forsgate Drive,,Monroe Township,08831,NJ,US,(609) 409-7525,Assisted Living Residence,50a003,07/31/2018,Ms. SHAIN LEVY,116
+USA-NJ-44-NJ-HealthFacilities-output-211,Sunrise Assisted Living Of East Brunswick,190 Summerhill Road,,East Brunswick,08816,NJ,US,(732) 613-1355,Assisted Living Residence,50a004,04/30/2018,Ms. ALISA WYNN,108
+USA-NJ-44-NJ-HealthFacilities-output-212,Heritage At Clara Barton,1015 Amboy Avenue,,Edison,08837,NJ,US,(732) 225-5990,Assisted Living Residence,50a005,09/30/2017,Mr. JOHN BUCCI,98
+USA-NJ-44-NJ-HealthFacilities-output-213,Whispering Knoll Assisted Living,62 James Street,,Edison,08820,NJ,US,(732) 744-5541,Assisted Living Residence,50A006,03/31/2018,Ms. AMY STARK,126
+USA-NJ-44-NJ-HealthFacilities-output-214,Heritage At Clara Barton,1015 Amboy Avenue,,Edison,08837,NJ,US,(732) 225-5990,Assisted Living Program,50A110,12/31/2017,Mr. JOHN BUCCI,
+USA-NJ-44-NJ-HealthFacilities-output-215,Monroe Village Assisted Living,One David Brainerd Drive,,Monroe Township,08831,NJ,US,(732) 521-6400,Assisted Living Residence,50A8312,06/30/2018,Ms. TINA HANOMAN,42
+USA-NJ-44-NJ-HealthFacilities-output-216,New Jersey Veterans Memorial Home Menlo Park,132 Evergreen Rd,,Edison,08818,NJ,US,(732) 452-4100,Long Term Care Facility,051225,01/31/2018,Mr. JOSEPH BRANDSPIEGEL,328
+USA-NJ-44-NJ-HealthFacilities-output-217,Roosevelt Care Center,118 Parsonage Road,,Edison,08837,NJ,US,(732) 321-6800,Long Term Care Facility,021203,06/30/2018,Mr. FRANK DAMIANI,362
+USA-NJ-44-NJ-HealthFacilities-output-218,Atrium Post Acute Care Of  Matawan,38 Freneau Avenue,,Matawan,07747,NJ,US,(732) 765-5600,Long Term Care Facility,556200,02/28/2018,Ms. HEATHER STOCKMAN,22
+USA-NJ-44-NJ-HealthFacilities-output-219,Care One At Wall,2621 Highway 138,,Wall,07719,NJ,US,(732) 556-1060,Long Term Care Facility,556213,08/31/2018,Ms. TOYA CASPER,138
+USA-NJ-44-NJ-HealthFacilities-output-220,The Chelsea At Tinton Falls,One Hartford Drive,,Tinton Falls,07701,NJ,US,(732) 933-4700,Assisted Living Residence,55A000,08/31/2018,Ms. ASHLEY SCALZO,70
+USA-NJ-44-NJ-HealthFacilities-output-221,Brighton Gardens Of Middletown,620 State Highway 35 South,,Middletown,07748,NJ,US,(732) 275-0790,Assisted Living Residence,55A001,08/31/2018,Mr. KENNETH SEAMAN,132
+USA-NJ-44-NJ-HealthFacilities-output-222,Brandywine Assisted Living At Governor's Crossing,49 Lasatta Avenue,,Englishtown,07726,NJ,US,(732) 786-1000,Assisted Living Residence,55A002,12/31/2017,Mr. CHARLES PLACEK,110
+USA-NJ-44-NJ-HealthFacilities-output-223,The Willows At Holmdel,713 N Beers Street,,Holmdel,07733,NJ,US,(732) 335-4405,Assisted Living Residence,55a003,03/31/2018,Ms. NICOLE SERLUCO,121
+USA-NJ-44-NJ-HealthFacilities-output-224,Monmouth Crossing,560 Iron Bridge Road,,Freehold,07728,NJ,US,(732) 303-8600,Assisted Living Residence,55a005,02/28/2018,Ms. HELEYNE GLADSTEIN,94
+USA-NJ-44-NJ-HealthFacilities-output-225,Atrium Senior Living Of Matawan,40 Freneau Avenue,,Matawan,07747,NJ,US,(732) 566-0800,Assisted Living Residence,55a006,02/28/2018,,70
+USA-NJ-44-NJ-HealthFacilities-output-226,Brandywine Assisted Living At The Sycamore,5 Meridian Way,,Shrewsbury,07702,NJ,US,(732) 212-2600,Assisted Living Residence,55A007,12/31/2017,Ms. ELIZABETH IRRIZARRY,130
+USA-NJ-44-NJ-HealthFacilities-output-227,Sunrise Assisted Living Of Wall,2600 Allaire Road,,Wall,07719,NJ,US,(732) 282-1700,Assisted Living Residence,55A008,04/30/2018,Ms. SUSAN FOLEY,90
+USA-NJ-44-NJ-HealthFacilities-output-228,The Brookside,93 Manalapan Avenue,,Freehold,07728,NJ,US,(732) 303-8800,Assisted Living Residence,55A009,10/31/2017,Ms. JULIA FRASER,199
+USA-NJ-44-NJ-HealthFacilities-output-229,Brandywine Senior Living At Wall,2021 Highway 35,,Wall,07719,NJ,US,(732) 282-1910,Assisted Living Residence,55A112,10/31/2017,Mr. KEITH HARPER,103
+USA-NJ-44-NJ-HealthFacilities-output-230,Care One At The Cupola,W 100 Ridgewood Avenue,,Paramus,07652,NJ,US,(201) 444-8200,Assisted Living Residence,5a000,06/30/2018,Ms. LISA RHOADS,169
+USA-NJ-44-NJ-HealthFacilities-output-231,Atrium Senior Living Of Park Ridge,124 Noyes Drive,,Park Ridge,07656,NJ,US,(201) 782-0440,Assisted Living Residence,05A001,02/28/2018,Ms. TSLIKA BROOKS,155
+USA-NJ-44-NJ-HealthFacilities-output-232,Brighton Gardens Of Saddle River,5 Boroline Road,,Saddle River,07458,NJ,US,(201) 818-8680,Assisted Living Residence,05A002,03/31/2018,Mr. PETER GUNDERSON,132
+USA-NJ-44-NJ-HealthFacilities-output-233,Sunrise Assisted Living Of Paramus,567 Paramus Road,,Paramus,07652,NJ,US,(201) 493-9889,Assisted Living Residence,05a003,12/31/2017,Ms. MARGARET QUINN,98
+USA-NJ-44-NJ-HealthFacilities-output-234,Brookdale Emerson,590 Old Hook Road,,Emerson,07630,NJ,US,(201) 986-9009,Assisted Living Residence,05A004,07/31/2018,Ms. KRISTIN MORAN,105
+USA-NJ-44-NJ-HealthFacilities-output-235,Christian Health Care Center,301 Sicomac Avenue,,Wyckoff,07481,NJ,US,(201) 848-4300,Assisted Living Residence,5a005,11/30/2017,Ms. PAMELA ROONEY,95
+USA-NJ-44-NJ-HealthFacilities-output-236,Brookdale Paramus,186 Paramus Road,,Paramus,07652,NJ,US,(201) 251-9600,Assisted Living Residence,05A006,08/31/2018,Mr. RICHARD CUPELLI,140
+USA-NJ-44-NJ-HealthFacilities-output-237,Sunrise Of Woodcliff Lake,430 Chestnut Ridge Road,,Woodcliff Lake,07675,NJ,US,(201) 782-1888,Assisted Living Residence,05a007,04/30/2018,Ms. GRACE COSGROVE,116
+USA-NJ-44-NJ-HealthFacilities-output-238,Sunrise Of Edgewater,351 River Road,,Edgewater,07020,NJ,US,(201) 941-6111,Assisted Living Residence,05a008,12/31/2017,Ms. LAURIE KLEID,87
+USA-NJ-44-NJ-HealthFacilities-output-239,The Health Center At Galloway,66 West Jimmie Leeds Road,,Galloway Township,08205,NJ,US,(609) 748-9100,Long Term Care Facility,060102,05/31/2018,Mr. MAYER WERZBERGER,120
+USA-NJ-44-NJ-HealthFacilities-output-240,Eastern Pines Convalescent Center,29 North Vermont Ave,,Atlantic City,08401,NJ,US,(609) 344-8911,Long Term Care Facility,060103,06/30/2018,Mr. ELI SEEVE,10
+USA-NJ-44-NJ-HealthFacilities-output-241,Linwood Care Center,201 New Road And Central Ave,,Linwood,08221,NJ,US,(609) 927-6131,Long Term Care Facility,060104,11/30/2017,Ms. DIANE DELANEY,16
+USA-NJ-44-NJ-HealthFacilities-output-242,Our Lady's Center For Rehabilitation & Healthcare,1100 Clematis Ave,,Pleasantville,08232,NJ,US,(609) 646-2450,Long Term Care Facility,060106,11/30/2017,Mr. MOSHE ROSENBLATT,214
+USA-NJ-44-NJ-HealthFacilities-output-243,Hammonton Center For Rehabilitation And Healthcare,43 N White Horse Pike,,Hammonton,08037,NJ,US,(609) 567-3100,Long Term Care Facility,060113,02/28/2018,Mr. TZVI ALTER,240
+USA-NJ-44-NJ-HealthFacilities-output-244,Mainland Manor Nursing & Rehabilitation Center,930 Church Street,,Pleasantville,08232,NJ,US,(609) 646-6900,Long Term Care Facility,060114,10/31/2017,,140
+USA-NJ-44-NJ-HealthFacilities-output-245,Absecon Manor Nursing & Rehabilitation Center,1020 Pitney Road,,Absecon,08201,NJ,US,(609) 646-5400,Long Term Care Facility,060115,05/31/2018,Ms. KIMBERLY FRAZEE,32
+USA-NJ-44-NJ-HealthFacilities-output-246,Allendale Nursing Home,85 Harreton Road,,Allendale,07401,NJ,US,(201) 825-0660,Long Term Care Facility,060201,09/30/2018,Ms. KATHRYN MANGER,120
+USA-NJ-44-NJ-HealthFacilities-output-247,Emerson Health Care Center,100 Kinderkamack Road,,Emerson,07630,NJ,US,(201) 265-3700,Long Term Care Facility,060202,08/31/2018,Ms. MARTA SANTIAGO,155
+USA-NJ-44-NJ-HealthFacilities-output-248,Maywood Center For Health And Rehabilitation,100 West Magnolia Avenue,,Maywood,07607,NJ,US,(201) 843-8411,Long Term Care Facility,60203,12/31/2017,Ms. MAUREEN TORELLI,120
+USA-NJ-44-NJ-HealthFacilities-output-249,Plaza Healthcare & Rehabilitation Center,456 Rahway Avenue,,Elizabeth,07202,NJ,US,(908) 354-1300,Long Term Care Facility,602030,12/31/2017,Mr. BENJAMIN GLUCK,128
+USA-NJ-44-NJ-HealthFacilities-output-250,Christian Health Care Center,301 Sicomac Ave,,Wyckoff,07481,NJ,US,(201) 848-5200,Long Term Care Facility,060204,11/30/2017,Mr. PETER PETERSON,44
+USA-NJ-44-NJ-HealthFacilities-output-251,Care One At Wellington,301 Union Street,,Hackensack,07601,NJ,US,(201) 487-4900,Long Term Care Facility,060205,03/31/2018,Ms. SINDY VAILLENCOURT,128
+USA-NJ-44-NJ-HealthFacilities-output-252,County Manor Rehabilitation And Health Care Center,133 County Road,,Tenafly,07670,NJ,US,(201) 567-7800,Long Term Care Facility,060206,09/30/2017,Mr. BARRY RUBIN,69
+USA-NJ-44-NJ-HealthFacilities-output-253,Dellridge Health & Rehabilitation Center,532 Farview Ave,,Paramus,07652,NJ,US,(201) 265-5600,Long Term Care Facility,060207,02/28/2018,Ms. ANNE-MARIE GAUNTLETT,96
+USA-NJ-44-NJ-HealthFacilities-output-254,Care One At Cresskill,221 County Road,,Cresskill,07626,NJ,US,(201) 567-9310,Long Term Care Facility,060208,06/30/2018,Ms. CHERYL DORN,113
+USA-NJ-44-NJ-HealthFacilities-output-255,Inglemoor Center,333 Grand Ave,,Englewood,07631,NJ,US,(201) 568-0900,Long Term Care Facility,060210,01/31/2018,Ms. KAREN LAPARA,62
+USA-NJ-44-NJ-HealthFacilities-output-256,Care One At Ridgewood Avenue,W-90 Ridgewood Ave,,Paramus,07652,NJ,US,(201) 652-1950,Long Term Care Facility,060214,02/28/2018,Ms. MARY JO KURTZ,110
+USA-NJ-44-NJ-HealthFacilities-output-257,Ridgewood Center,330 Franklin Tpk,,Ridgewood,07450,NJ,US,(201) 447-1900,Long Term Care Facility,060215,01/31/2018,Ms. MARY KALMAN,90
+USA-NJ-44-NJ-HealthFacilities-output-258,Teaneck Nursing Center,1104 Teaneck Road,,Teaneck,07666,NJ,US,(201) 833-2400,Long Term Care Facility,060217,08/31/2018,Mr. GERALD ROTH,107
+USA-NJ-44-NJ-HealthFacilities-output-259,Care One At Valley,300 Old Hook Road,,Westwood,07675,NJ,US,(201) 664-8888,Long Term Care Facility,060218,02/28/2018,Mr. JAMES GARDNER,120
+USA-NJ-44-NJ-HealthFacilities-output-260,Woodcliff Lake Health & Rehabilitation Center,555 Chestnut Ridge Road,,Woodcliff Lake,07677,NJ,US,(201) 391-0900,Long Term Care Facility,060221,02/28/2018,Mr. YARON ENGELSTEIN,114
+USA-NJ-44-NJ-HealthFacilities-output-261,Care One At New Milford,800 River Road,,New Milford,07646,NJ,US,(201) 967-1700,Long Term Care Facility,060222,04/30/2018,Ms. JESSICA ARROYO,236
+USA-NJ-44-NJ-HealthFacilities-output-262,Oakland Rehabilitation And Healthcare Center,20 Breakneck Road,,Oakland,07436,NJ,US,(201) 337-3300,Long Term Care Facility,060223,03/31/2018,Mr. AVROHOM BROWN,215
+USA-NJ-44-NJ-HealthFacilities-output-263,Maple Glen Center,12-15 Saddle River Road,,Fairlawn,07410,NJ,US,(201) 797-9522,Long Term Care Facility,060224,01/31/2018,Ms. LAURAINE HARRISON,161
+USA-NJ-44-NJ-HealthFacilities-output-264,Van Dyk Manor Of Ridgewood,304 S. Van Dien Ave,,Ridgewood,07450,NJ,US,(201) 445-8200,Long Term Care Facility,060227,04/30/2018,Ms. AFRIKA PARKS,96
+USA-NJ-44-NJ-HealthFacilities-output-265,N. J. Veterans Memorial Home - Paramus,1 Veterans Drive,,Paramus,07652,NJ,US,(201) 634-8212,Long Term Care Facility,060228,08/31/2018,Mr. JEFFREY FIRST,336
+USA-NJ-44-NJ-HealthFacilities-output-266,Alaris Health At Rochelle Park,96 Parkway Avenue,,Rochelle Park,07662,NJ,US,(201) 845-0099,Long Term Care Facility,060229,12/31/2017,Mr. KENNETH BITTMAN,240
+USA-NJ-44-NJ-HealthFacilities-output-267,Bergen County Health Care Center,35 B Piermont Road,,Rockleigh,07647,NJ,US,(201) 750-8310,Long Term Care Facility,060230,01/31/2018,Mr. HARVEY SILBERSTEIN,110
+USA-NJ-44-NJ-HealthFacilities-output-268,Regent Care Center,50 Polifly Road,,Hackensack,07601,NJ,US,(201) 646-1166,Long Term Care Facility,060231,07/31/2018,Ms. HELEN YEE,180
+USA-NJ-44-NJ-HealthFacilities-output-269,The Buckingham At Norwood Care & Rehabilitation,100 Mcclellan Street,,Norwood,07648,NJ,US,(201) 768-6222,Long Term Care Facility,060232,01/31/2018,Ms. HELAINE LEDANY,240
+USA-NJ-44-NJ-HealthFacilities-output-270,Care One At Oradell,600 Kinderkamack Road,,Oradell,07649,NJ,US,(201) 967-0002,Long Term Care Facility,060234,04/30/2018,Ms. CHARLOTTE SODORA,154
+USA-NJ-44-NJ-HealthFacilities-output-271,Burlington Woods,115 Sunset Road,,Burlington,08016,NJ,US,(609) 387-3620,Long Term Care Facility,060301,01/31/2018,Ms. SABRINA SABELLA,215
+USA-NJ-44-NJ-HealthFacilities-output-272,Aspen Hills Healthcare Center,600 Pemberton Brown Mills Rd,,Pemberton,08068,NJ,US,(609) 836-6000,Long Term Care Facility,060302,07/31/2018,Mr. NACHUM ZAGER,204
+USA-NJ-44-NJ-HealthFacilities-output-273,The Palace Rehabilitation And Care Center,315 West Mill Road,,Maple Shade,08052,NJ,US,(856) 779-1500,Long Term Care Facility,060307,12/31/2017,Mr. CHAIM SHAPIRO,165
+USA-NJ-44-NJ-HealthFacilities-output-274,Medford Leas,One Medford Leas Way,,Medford,08055,NJ,US,(609) 654-3000,Long Term Care Facility,060308,02/28/2018,Mr. JEREMY VICKERS,24
+USA-NJ-44-NJ-HealthFacilities-output-275,Virtua Health & Rehabilitation Center At Mt. Holly,62 Richmond Avenue,,Lumberton,08048,NJ,US,(609) 914-8880,Long Term Care Facility,60310,01/31/2018,Ms. CLAIRE SMITH,180
+USA-NJ-44-NJ-HealthFacilities-output-276,Sterling Manor,794 N Forklanding Road,,Maple Shade,08052,NJ,US,(856) 779-9333,Long Term Care Facility,060312,12/31/2017,Ms. CHERYL DESHIELDS,124
+USA-NJ-44-NJ-HealthFacilities-output-277,Medford Care Center,185 Tuckerton Road,,Medford,08055,NJ,US,(856) 983-8500,Long Term Care Facility,060313,07/31/2018,Mr. MARK STRATOTI,180
+USA-NJ-44-NJ-HealthFacilities-output-278,Cinnaminson Center,1700 Wynwood Drive,,Cinnaminson,08077,NJ,US,(856) 829-9000,Long Term Care Facility,060314,01/31/2018,Ms. JEANIE PRESSEY,114
+USA-NJ-44-NJ-HealthFacilities-output-279,Marcella Center,2305 Rancocas Road,,Burlington,08016,NJ,US,(609) 387-9300,Long Term Care Facility,060315,01/31/2018,Mr. MICHAEL HANDSMAN,150
+USA-NJ-44-NJ-HealthFacilities-output-280,Avista Healthcare,3025 Chapel Avenue West,,Cherry Hill,08002,NJ,US,(856) 675-3000,Long Term Care Facility,060402,02/28/2018,Mr. NATE SILVERBERG,162
+USA-NJ-44-NJ-HealthFacilities-output-281,Barclays Rehabillitation And Healthcare Center Llc,1412 Marlton Pike,,Cherry Hill,08034,NJ,US,(856) 428-6100,Long Term Care Facility,060403,10/31/2017,Mr. YOEL TEITELBAUM,108
+USA-NJ-44-NJ-HealthFacilities-output-282,Laurel Manor Healthcare And Rehabilitation Center,18 W Laurel Road,,Stratford,08084,NJ,US,(856) 784-2400,Long Term Care Facility,060405,12/31/2017,Mr. MENDY PILLER,104
+USA-NJ-44-NJ-HealthFacilities-output-283,Silver Healthcare Center,1417 Brace Road,,Cherry Hill,08034,NJ,US,(856) 795-3131,Long Term Care Facility,060407,12/31/2017,Ms. SANDRA LOWDEN,20
+USA-NJ-44-NJ-HealthFacilities-output-284,Premier Cadbury Of Cherry Hill,2150 Route 38,,Cherry Hill,08002,NJ,US,(856) 667-4550,Long Term Care Facility,060409,07/31/2018,Ms. MEREDITH BECKER,118
+USA-NJ-44-NJ-HealthFacilities-output-285,Elmwood Hills Healthcare Center Llc,425 Woodbury-Turnersville Road,,Blackwood,08012,NJ,US,(856) 374-6600,Long Term Care Facility,060411,11/30/2017,Mr. AVROHOM ROTBERG,300
+USA-NJ-44-NJ-HealthFacilities-output-286,Majestic Center For Rehabilitation & Sub-Acute Care,Two Cooper Plaza,,Camden,08103,NJ,US,(856) 342-7600,Long Term Care Facility,060412,12/31/2017,Mr. CHANOCH GEWIRTZ,120
+USA-NJ-44-NJ-HealthFacilities-output-287,Kresson View Center,2601 Evesham Road,,Voorhees,08043,NJ,US,(856) 596-1113,Long Term Care Facility,060413,01/31/2018,Ms. RITA DEGORE,240
+USA-NJ-44-NJ-HealthFacilities-output-288,Voorhees Center,3001 Evesham Road,,Voorhees,08043,NJ,US,(856) 751-1600,Long Term Care Facility,060414,01/31/2018,Ms. VERONICA DOTTOLI,190
+USA-NJ-44-NJ-HealthFacilities-output-289,Cooper River West,5101 North Park Drive,,Pennsauken,08109,NJ,US,(856) 665-8844,Long Term Care Facility,060415,01/31/2018,Mr. DONALD LYNCH,180
+USA-NJ-44-NJ-HealthFacilities-output-290,Voorhees Pediatric Facility,1304 Laurel Oak Road,,Voorhees,08043,NJ,US,(856) 346-3300,Long Term Care Facility,060416,07/31/2018,Mr. SCOTT GOLDBERG,119
+USA-NJ-44-NJ-HealthFacilities-output-291,Abigail House For Nursing & Rehabilitation Llc,1105 -1115 Linden Street,,Camden,08102,NJ,US,(856) 365-8500,Long Term Care Facility,060418,08/31/2018,Mr. SHLOIMI SCHON,188
+USA-NJ-44-NJ-HealthFacilities-output-292,The Fountains At Cedar Parke,114 Hayes Mill Road,,Atco,08004,NJ,US,(856) 753-2000,Long Term Care Facility,060419,10/31/2017,Ms. ANITA GEIS,60
+USA-NJ-44-NJ-HealthFacilities-output-293,Crest Haven Nursing And Rehabilitation Center,4 Moore Road,,Cape May Court House,08210,NJ,US,(609) 465-1260,Long Term Care Facility,060501,06/30/2018,Ms. LINDA THORNTON,180
+USA-NJ-44-NJ-HealthFacilities-output-294,Oceana Rehabilitation And Nursing Center,502 Route 9 North,,Cape May Court House,08210,NJ,US,(609) 465-7633,Long Term Care Facility,060503,06/30/2018,Mr. ZVI BRODT,116
+USA-NJ-44-NJ-HealthFacilities-output-295,Court House Center,144 Magnolia Drive,,Cape May Court House,08210,NJ,US,(609) 465-7171,Long Term Care Facility,060507,01/31/2018,Mr. DAVID KINDER,120
+USA-NJ-44-NJ-HealthFacilities-output-296,Bishop Mccarthy Center For Rehabilitation & Healthcare,1045 E Chestnut Ave,,Vineland,08360,NJ,US,(856) 692-2850,Long Term Care Facility,060601,11/30/2017,Ms. LINDA GATIER,182
+USA-NJ-44-NJ-HealthFacilities-output-297,South Jersey Extended Care,99 Manheim Avenue,,Bridgeton,08302,NJ,US,(856) 455-2100,Long Term Care Facility,060602,12/31/2017,Mr. JOSHUA ROSENBERG,167
+USA-NJ-44-NJ-HealthFacilities-output-298,Cumberland Manor Nursing And Rehabilitation Center,154 Sunny Slope Drive,,Bridgeton,08302,NJ,US,(856) 455-8000,Long Term Care Facility,060603,04/30/2018,Mr. YEHUDA MAY,196
+USA-NJ-44-NJ-HealthFacilities-output-299,Lincoln Specialty Care Center,1640 South Lincoln Avenue,,Vineland,08360,NJ,US,(856) 692-8080,Long Term Care Facility,060607,12/31/2017,Mr. STEVEN EISENSTEIN,190
+USA-NJ-44-NJ-HealthFacilities-output-300,Millville Center,54 N Sharp Street,,Millville,08332,NJ,US,(856) 327-2700,Long Term Care Facility,060608,01/31/2018,Mr. GREGORY MARKS,167
+USA-NJ-44-NJ-HealthFacilities-output-301,Gates Manor,111-115 Gates Avenue,,Montclair,07042,NJ,US,(973) 746-4616,Long Term Care Facility,060702,10/31/2017,Mr. BARRY SCHEIER,64
+USA-NJ-44-NJ-HealthFacilities-output-302,New Grove Manor,101 North Grove Street,,East Orange,07017,NJ,US,(973) 672-1700,Long Term Care Facility,060704,08/31/2018,Mr. JOEL EHRENREICH,185
+USA-NJ-44-NJ-HealthFacilities-output-303,Alaris Health At Cedar Grove,110 Grove Ave,,Cedar Grove,07009,NJ,US,(973) 571-6600,Long Term Care Facility,306000,09/30/2018,Ms. JENNIFER PULEO,230
+USA-NJ-44-NJ-HealthFacilities-output-304,Arbor Glen Center,25 E Lindsley Road,,Cedar Grove,07009,NJ,US,(973) 256-7220,Long Term Care Facility,060706,01/31/2018,Ms. PATRICIA WOOD,122
+USA-NJ-44-NJ-HealthFacilities-output-305,Inglemoor Rehabilitation And Care Center Of Livingston,311 S Livingston Ave,,Livingston,07039,NJ,US,(973) 994-0221,Long Term Care Facility,060708,12/31/2017,Mr. STEVE IZZO,138
+USA-NJ-44-NJ-HealthFacilities-output-306,Little Nursing Home,71 Christopher St,,Montclair,07042,NJ,US,(973) 744-5518,Long Term Care Facility,060709,10/31/2017,Mr. BRIAN CUMISKEY,29
+USA-NJ-44-NJ-HealthFacilities-output-307,Sinai Post Acute Nursing And Rehab Center,65 Jay Street,,Newark,07103,NJ,US,(973) 483-6800,Long Term Care Facility,060713,12/31/2017,Ms. GOLDE BONDY,430
+USA-NJ-44-NJ-HealthFacilities-output-308,Stratford Manor Rehabilitation And Care Center,787 Northfield Ave,,West Orange,07052,NJ,US,(973) 731-4500,Long Term Care Facility,060714,12/31/2017,Mr. SHLOMO JANKELOVITS,131
+USA-NJ-44-NJ-HealthFacilities-output-309,Van Dyk Manor Of Montclair,42 North Mountain Ave,,Montclair,07042,NJ,US,(973) 783-9400,Long Term Care Facility,060719,02/28/2018,Ms. JACQUELINE COUSINS,70
+USA-NJ-44-NJ-HealthFacilities-output-310,Waterview Center,536 Ridge Road,,Cedar Grove,07009,NJ,US,(973) 239-9300,Long Term Care Facility,060720,01/31/2018,Ms. CARYN LYNN EDELBACH,190
+USA-NJ-44-NJ-HealthFacilities-output-311,White House Healthcare & Rehabilitation Center,560 Berkeley Avenue,,Orange,07050,NJ,US,(973) 672-6500,Long Term Care Facility,060721,05/31/2018,Mr. ELIEZER GROSSMAN,176
+USA-NJ-44-NJ-HealthFacilities-output-312,Windsor Gardens Care Center,140 Park Ave,,East Orange,07017,NJ,US,(973) 677-1500,Long Term Care Facility,060722,03/31/2018,Ms. JOANNE ESCOVAR,11
+USA-NJ-44-NJ-HealthFacilities-output-313,The Canterbury At Cedar Grove Care And Rehabilitation,398 Pompton Avenue,,Cedar Grove,07009,NJ,US,(973) 239-7600,Long Term Care Facility,060729,01/31/2018,,180
+USA-NJ-44-NJ-HealthFacilities-output-314,New Vista Nursing And Rehabilitation Center,300 Broadway,,Newark,07104,NJ,US,(973) 484-4222,Long Term Care Facility,06730,01/31/2018,Mr. TZVI KLEIMAN,340
+USA-NJ-44-NJ-HealthFacilities-output-315,New Community Extended Care Facility,266 S Orange Ave,,Newark,07103,NJ,US,(973) 624-2020,Long Term Care Facility,060731,01/31/2018,Ms. VERONICA ANYANWU-ONWUNAKA,180
+USA-NJ-44-NJ-HealthFacilities-output-316,Brookhaven Health Care Center,120 Park End Place,,East Orange,07018,NJ,US,(973) 676-6221,Long Term Care Facility,060732,12/31/2017,Mr. AARON GRUMAN,122
+USA-NJ-44-NJ-HealthFacilities-output-317,Park Crescent Healthcare & Rehabilitation Center,480 Parkway Drive,,East Orange,07017,NJ,US,(973) 674-2700,Long Term Care Facility,060733,12/31/2017,Mr. JOSEPH BERNFELD,190
+USA-NJ-44-NJ-HealthFacilities-output-318,West Caldwell Care Center,165 Fairfield Ave,,West Caldwell,07006,NJ,US,(973) 226-1100,Long Term Care Facility,060734,01/31/2018,Mr. JOHN COFRANCESCO,180
+USA-NJ-44-NJ-HealthFacilities-output-319,Alaris Health At Essex,155 Fortieth Street,,Irvington,07111,NJ,US,(973) 232-3100,Long Term Care Facility,060736,11/30/2017,Ms. JEAN JOSEPH,212
+USA-NJ-44-NJ-HealthFacilities-output-320,St. Vincent's Healthcare And Rehab Center,315 East Lindsley Road,,Cedar Grove,07009,NJ,US,(973) 754-4800,Long Term Care Facility,060737,01/31/2018,Mr. JASON GRANT,151
+USA-NJ-44-NJ-HealthFacilities-output-321,Broadway House For Continuing Care,298 Broadway,,Newark,07104,NJ,US,(973) 268-9797,Long Term Care Facility,060738,06/30/2018,Mr. JAMES GONZALEZ,78
+USA-NJ-44-NJ-HealthFacilities-output-322,Summit Ridge Center,20 Summit Street,,West Orange,07052,NJ,US,(973) 736-2000,Long Term Care Facility,060739,01/31/2018,Mr. TSEGA ASEFAHA,152
+USA-NJ-44-NJ-HealthFacilities-output-323,Deptford Center For Rehabilitation And Healthcare,1511 Clements Bridge Rd,,Deptford,08096,NJ,US,(856) 845-9400,Long Term Care Facility,060804,02/28/2018,Mr. MOSHE MERMELSTEIN,240
+USA-NJ-44-NJ-HealthFacilities-output-324,Shady Lane Gloucester County Home,256 County House Road,,Clarksboro,08020,NJ,US,(856) 224-6979,Long Term Care Facility,060805,03/31/2018,Ms. MICHELLE BAYLOR,61
+USA-NJ-44-NJ-HealthFacilities-output-325,Kennedy Health Care Center,535 Egg Harbor Road,,Sewell,08080,NJ,US,(856) 582-3170,Long Term Care Facility,060806,06/30/2018,Mr. GARY PIZZICHILLO,190
+USA-NJ-44-NJ-HealthFacilities-output-326,Manorcare Health Services,550 Jessup Road,,West Deptford,08066,NJ,US,(856) 848-9551,Long Term Care Facility,060807,12/31/2017,Ms. KARINE PETERSIDE,156
+USA-NJ-44-NJ-HealthFacilities-output-327,Meadowview Nursing & Respiratory Care,1420 South Black Horse Pike,,Williamstown,08094,NJ,US,(856) 875-0100,Long Term Care Facility,060808,11/30/2017,Ms. RENEE VERRIER,32
+USA-NJ-44-NJ-HealthFacilities-output-328,Hudsonview Health Care Center,9020 Wall Street,,North Bergen,07047,NJ,US,(201) 861-4040,Long Term Care Facility,060902,11/30/2017,Mr. YOSEF FRANKEL,273
+USA-NJ-44-NJ-HealthFacilities-output-329,Majestic Rehabilitation And Nursing Center Inc.,620 Montgomery Street,,Jersey City,07302,NJ,US,(201) 435-0033,Long Term Care Facility,060903,02/28/2018,Mr. DOUGLAS KREIL,180
+USA-NJ-44-NJ-HealthFacilities-output-330,Alaris Health At Boulevard East,6819 Boulevard East,,Guttenberg,07093,NJ,US,(201) 868-3600,Long Term Care Facility,060904,06/30/2018,Ms. LESLEY VODOFSKY,108
+USA-NJ-44-NJ-HealthFacilities-output-331,Alaris Health At Harbor View,178-198 Ogden Ave,,Jersey City,07307,NJ,US,(201) 963-1800,Long Term Care Facility,060905,03/31/2018,Ms. PAULA BURROUGHS,180
+USA-NJ-44-NJ-HealthFacilities-output-332,Alaris Health At Hamilton Park,525 Monmouth Street,,Jersey City,07302,NJ,US,(201) 653-8800,Long Term Care Facility,060906,04/30/2018,Ms. FRANCINE SOKOLOWSKI,260
+USA-NJ-44-NJ-HealthFacilities-output-333,Harborage,7600 River Road,,North Bergen,07047,NJ,US,(201) 854-5400,Long Term Care Facility,060907,02/28/2018,Mr. PATRICK SWEENEY,13
+USA-NJ-44-NJ-HealthFacilities-output-334,Alaris Health At Castle Hill,615 23rd Street,,Union City,07087,NJ,US,(201) 348-0818,Long Term Care Facility,060910,11/30/2017,Ms. REBECCA RESH,215
+USA-NJ-44-NJ-HealthFacilities-output-335,Alaris Health At The Fountains,595 County Avenue,,Secaucus,07094,NJ,US,(201) 863-8866,Long Term Care Facility,60918,11/30/2017,Mr. PAUL COHEN,334
+USA-NJ-44-NJ-HealthFacilities-output-336,"The Villa At Florham Park, Inc",190  Park Avenue,,Florham Park,07932,NJ,US,(973) 867-1500,Long Term Care Facility,60920,09/30/2017,Ms. MERCEDITA GONZALES,80
+USA-NJ-44-NJ-HealthFacilities-output-337,Care One At Madison Avenue,151 Madison Avenue,,Morristown,07960,NJ,US,(973) 656-2700,Long Term Care Facility,60921,12/31/2017,Mr. JAMES GARDNER,178
+USA-NJ-44-NJ-HealthFacilities-output-338,Cedar Crest/mountainview Gardens,4 Cedar Crest Village Drive,,Pompton Plains,07444,NJ,US,(973) 831-3504,Long Term Care Facility,60922,02/28/2018,Mr. BRIAN ALEXOPOULOS,113
+USA-NJ-44-NJ-HealthFacilities-output-339,Brookdale Florham Park,8 James Street,,Florham Park,07932,NJ,US,(973) 443-0444,Assisted Living Residence,60a000,07/31/2018,Ms. ASHLEY MASTROIANNI,77
+USA-NJ-44-NJ-HealthFacilities-output-340,Brighton Gardens Of Florham Park,21 Ridgedale Avenue,,Florham Park,07932,NJ,US,(973) 966-8999,Assisted Living Residence,60A001,08/31/2018,Ms. MICHELLE REICH,132
+USA-NJ-44-NJ-HealthFacilities-output-341,The Oaks At Denville,19 Pocono Road,,Denville,07834,NJ,US,(973) 586-5000,Assisted Living Residence,60a002,04/30/2018,Ms. LISA ANNE LALUMIA-KRANIS,34
+USA-NJ-44-NJ-HealthFacilities-output-342,Arden Courts Of Whippany,18 Eden Lane,,Whippany,07981,NJ,US,(973) 581-1800,Assisted Living Residence,60a003,12/31/2017,Ms. ELIZABETH MURPHY,60
+USA-NJ-44-NJ-HealthFacilities-output-343,Victoria Mews Assisted Living,51 North Main Street,,Boonton Township,07005,NJ,US,(973) 263-3000,Assisted Living Residence,60a004,11/30/2017,Ms. ANNE ORTEGA,107
+USA-NJ-44-NJ-HealthFacilities-output-344,Spring Hills At Morristown,17 Spring Place,,Morristown,07960,NJ,US,(973) 539-3370,Assisted Living Residence,60a005,04/30/2018,Ms. KAREN GRIFFITHS,108
+USA-NJ-44-NJ-HealthFacilities-output-345,Juniper Village At Chatham,500 Southern Boulevard,,Chatham,07928,NJ,US,(973) 966-5483,Assisted Living Residence,60A006,02/28/2018,Ms. JOANN MALANGA,134
+USA-NJ-44-NJ-HealthFacilities-output-346,Care One At Morris Assisted Living,200 Mazdabrook Road,,Parsippany Troy Hill,07054,NJ,US,(973) 463-5800,Assisted Living Residence,60A007,03/31/2018,Ms. DAWN BLANKENSHIP,93
+USA-NJ-44-NJ-HealthFacilities-output-347,Bentley Commons At Paragon Village,425/427 Route 46 East,,Hackettstown,07840,NJ,US,(908) 979-9080,Assisted Living Residence,60A008,02/28/2018,Mr. ROBERT ANGEL,82
+USA-NJ-44-NJ-HealthFacilities-output-348,Sunrise Assisted Living Of Madison,215 Madison Avenue,,Madison,07940,NJ,US,(973) 301-0005,Assisted Living Residence,60A009,04/30/2018,Mr. MARK PARETTI,97
+USA-NJ-44-NJ-HealthFacilities-output-349,"The Villa At Florham Park, Inc",190 Park Avenue,,Florham Park,07932,NJ,US,(973) 867-1514,Assisted Living Residence,60A010,09/30/2017,Ms. MERCEDITA GONZALES,21
+USA-NJ-44-NJ-HealthFacilities-output-350,Cedar Crest/mountainview Gardens,4 Cedar Crest Village Drive,,Pompton Plains,07444,NJ,US,(973) 831-3546,Assisted Living Residence,60A011,02/28/2018,Mr. ROY DAVID,92
+USA-NJ-44-NJ-HealthFacilities-output-351,Sunrise Assisted Living Of Randolph,648 Route 10,,Randolph,07869,NJ,US,(973) 328-1922,Assisted Living Residence,60A012,12/31/2017,Ms. STACY RUTZ,100
+USA-NJ-44-NJ-HealthFacilities-output-352,Brightview Randolph,175 Quaker Church Road,,Randolph,07869,NJ,US,(973) 348-9857,Assisted Living Residence,60A013,09/30/2017,Ms. MARIE MILANO,75
+USA-NJ-44-NJ-HealthFacilities-output-353,Little Brook Nursing And Convalescent Home,78 Sliker Road,,Califon,07830,NJ,US,(908) 832-2220,Long Term Care Facility,061003,12/31/2017,Mr. JOHN KASARDA,36
+USA-NJ-44-NJ-HealthFacilities-output-354,Rolling Hills Care Center,16 Cratetown Road,,Lebanon,08833,NJ,US,(908) 236-2011,Long Term Care Facility,061004,12/31/2017,Mr. SHALOM FRIEDLAND,67
+USA-NJ-44-NJ-HealthFacilities-output-355,Country Arch Care Center,114 Pittstown Road,,Pittstown,08867,NJ,US,(908) 735-6600,Long Term Care Facility,061006,04/30/2018,Mr. ROBERT COHEN,130
+USA-NJ-44-NJ-HealthFacilities-output-356,Hunterdon Care Center,1 Leisure Court,,Flemington,08822,NJ,US,(908) 788-9292,Long Term Care Facility,061007,10/31/2017,Mr. ROBERT KOVACS,185
+USA-NJ-44-NJ-HealthFacilities-output-357,Providence Nursing And Rehabilitation Center,439 Bellevue Avenue,,Trenton,08618,NJ,US,(609) 396-2646,Long Term Care Facility,061101,08/31/2018,Mr. SHIMON AUERBACH,106
+USA-NJ-44-NJ-HealthFacilities-output-358,Atrium Post Acute Care Of Lawrenceville,112 Franklin Corner Road,,Lawrenceville,08648,NJ,US,(609) 896-1494,Long Term Care Facility,061104,11/30/2017,Mr. JASON GIBBS,100
+USA-NJ-44-NJ-HealthFacilities-output-359,Arcadia Nursing And Rehabilitation,1501 State Hwy 33,,Hamilton Square,08690,NJ,US,(609) 586-1114,Long Term Care Facility,61105,08/31/2018,Ms. SUZANNE WALDO,126
+USA-NJ-44-NJ-HealthFacilities-output-360,Mercerville Center,2240 Whitehorse-Mercerville Road,,Mercerville,08619,NJ,US,(609) 586-7500,Long Term Care Facility,061106,01/31/2018,Mr. MICHAEL LOPATINE,114
+USA-NJ-44-NJ-HealthFacilities-output-361,Princeton Care Center,728 Bunn Drive,,Princeton,08540,NJ,US,(609) 924-9000,Long Term Care Facility,061107,12/31/2017,Mr. EZRA BOGNER,119
+USA-NJ-44-NJ-HealthFacilities-output-362,The Gardens At Monroe Healthcare And Rehabilitation,189 Applegarth Road,,Monroe Township,08831,NJ,US,(609) 448-7036,Long Term Care Facility,061109,10/31/2017,Mr. YECHEZKEL ERLANGER,136
+USA-NJ-44-NJ-HealthFacilities-output-363,Hamilton Continuing Care Center,1059 Edinburg Road,,Hamilton,08690,NJ,US,(609) 588-0091,Long Term Care Facility,061111,11/30/2017,Mr. JOSEF BOGDAN,180
+USA-NJ-44-NJ-HealthFacilities-output-364,Water's Edge Healthcare & Rehabilitation,512 Union Street,,Trenton,08611,NJ,US,(609) 393-8622,Long Term Care Facility,061113,02/28/2018,Mr. TIMOTHY DALLOS,215
+USA-NJ-44-NJ-HealthFacilities-output-365,Amboy Care Center,1 Lindberg Avenue,,Perth Amboy,08861,NJ,US,(732) 826-0500,Long Term Care Facility,061201,08/31/2018,Mr. SHALOM DICKSTEIN,179
+USA-NJ-44-NJ-HealthFacilities-output-366,Care One At The Highlands,1350 Inman Avenue,,Edison,08820,NJ,US,(908) 754-7100,Long Term Care Facility,061202,04/30/2018,Mr. NELSON DURAN,122
+USA-NJ-44-NJ-HealthFacilities-output-367,Rose Mountain Care Center,Route 1 & 18,,New Brunswick,08901,NJ,US,(732) 828-2400,Long Term Care Facility,061204,07/31/2018,Mr. SHLOMA ARON,112
+USA-NJ-44-NJ-HealthFacilities-output-368,Alameda Center For Rehabilitation And Healthcare,303 Elm Street,,Perth Amboy,08861,NJ,US,(732) 442-9540,Long Term Care Facility,061209,04/30/2018,Mr. YAAKOV BERGER,250
+USA-NJ-44-NJ-HealthFacilities-output-369,Summer Hill Nursing Home,111 Route 516,,Old Bridge,08857,NJ,US,(732) 254-8200,Long Term Care Facility,061210,12/31/2017,Mr. NATHAN FRIED,120
+USA-NJ-44-NJ-HealthFacilities-output-370,The Elms Of Cranbury,61 Maplewood Avenue,,Cranbury,08512,NJ,US,(609) 395-0641,Long Term Care Facility,061211,04/30/2018,Ms. LIANA REYNOLDS,120
+USA-NJ-44-NJ-HealthFacilities-output-371,Francis E Parker Memorial Home Piscataway,1421 River Road,,Piscataway,08854,NJ,US,(732) 545-8330,Long Term Care Facility,061213,08/31/2018,Ms. GINA KIRCHOFF,79
+USA-NJ-44-NJ-HealthFacilities-output-372,Aristacare At Cedar Oaks,1311 Durham Avenue,,South Plainfield,07080,NJ,US,(732) 287-9555,Long Term Care Facility,061216,03/31/2018,Mr. STEVEN ISAAC,230
+USA-NJ-44-NJ-HealthFacilities-output-373,Madison Center,625 State Highway 34,,Matawan,07747,NJ,US,(732) 566-6400,Long Term Care Facility,061217,01/31/2018,Ms. SUSAN LOVE,183
+USA-NJ-44-NJ-HealthFacilities-output-374,Hartwyck At Oak Tree,2048 Oak Tree Road,,Edison,08820,NJ,US,(732) 906-2100,Long Term Care Facility,061218,11/30/2017,Ms. DAWN GIAKAS,20
+USA-NJ-44-NJ-HealthFacilities-output-375,Monroe Village Health Care Center,One David Brainerd Drive,,Monroe Township,08831,NJ,US,(732) 521-6400,Long Term Care Facility,061219,06/30/2018,Mr. BRENDEN GAROZZO,60
+USA-NJ-44-NJ-HealthFacilities-output-376,"Preferred Care At Old Bridge, Llc",6989 Rt18,,Old Bridge,08857,NJ,US,(732) 360-2277,Long Term Care Facility,061220,03/31/2018,Mr. MENACHEM BECK,140
+USA-NJ-44-NJ-HealthFacilities-output-377,Brighton Gardens Of Edison,1801 Oaktree Road,,Edison,08820,NJ,US,(732) 767-1031,Long Term Care Facility,061222,12/31/2017,Ms. TRACEY BORGES,30
+USA-NJ-44-NJ-HealthFacilities-output-378,St. Joseph's Home Assisted Living & Nursing Ctr Inc Dba St. Joseph's Senior Home,1-3 St Joseph's Terrace,,Woodbridge,07095,NJ,US,(732) 750-0077,Long Term Care Facility,061223,12/31/2017,Sr. ELZBIETA LOPATKA,51
+USA-NJ-44-NJ-HealthFacilities-output-379,Cranbury Center,292 Applegarth Road,,Monroe Township,08831,NJ,US,(609) 860-2500,Long Term Care Facility,061224,01/31/2018,Mr. RAMON MEDINA,154
+USA-NJ-44-NJ-HealthFacilities-output-380,Arnold Walter Nursing Home,622 S Laurel Avenue,,Hazlet,07730,NJ,US,(732) 787-6300,Long Term Care Facility,061301,05/31/2018,Mr. BENZION SCHACHTER,202
+USA-NJ-44-NJ-HealthFacilities-output-381,Regency Park Nursing Center,3325 Highway 35,,Hazlet,07730,NJ,US,(732) 264-5800,Long Term Care Facility,061303,10/31/2017,Mr. CHAIM RIBIAT,170
+USA-NJ-44-NJ-HealthFacilities-output-382,Neptune Gardens Nursing And Rehab Llc,101 Walnut St,,Neptune,07753,NJ,US,(732) 774-3550,Long Term Care Facility,061304,10/31/2017,Mr. JOSH EISEN,105
+USA-NJ-44-NJ-HealthFacilities-output-383,Gateway Care Center,139 Grant Ave,,Eatontown,07724,NJ,US,(732) 542-4700,Long Term Care Facility,061305,10/31/2017,Mr. YEHOSHUA ARON,178
+USA-NJ-44-NJ-HealthFacilities-output-384,The Manor,689 West Main St,,Freehold,07728,NJ,US,(732) 431-5200,Long Term Care Facility,061307,02/28/2018,Ms. TONI LYNN DAVIS,123
+USA-NJ-44-NJ-HealthFacilities-output-385,Wardell Gardens At Tinton Falls,524 Wardell Road,,Tinton Falls,07753,NJ,US,(732) 922-9330,Long Term Care Facility,061310,01/31/2018,Mr. ELI SENDEROVITS,100
+USA-NJ-44-NJ-HealthFacilities-output-386,Care One At Holmdel,188 Highway 34,,Holmdel,07733,NJ,US,(732) 946-4200,Long Term Care Facility,061312,02/28/2018,Ms. TERRI RUFO,130
+USA-NJ-44-NJ-HealthFacilities-output-387,Allaire Rehab & Nursing,115 Dutch Lane Road,,Freehold,07728,NJ,US,(732) 431-7420,Long Term Care Facility,061314,12/31/2017,Mr. JESSE IFRAH,174
+USA-NJ-44-NJ-HealthFacilities-output-388,Care One At King James,1040 Route 36,,Atlantic Highlands,07716,NJ,US,(732) 291-3400,Long Term Care Facility,061315,08/31/2018,Ms. JILL MONAHAN,127
+USA-NJ-44-NJ-HealthFacilities-output-389,Coral Harbor Rehabilitation And Healthcare Center,2050 Sixth Ave,,Neptune City,07753,NJ,US,(732) 774-8300,Long Term Care Facility,061317,05/31/2017,Mr. NORMAN ROKEACH,110
+USA-NJ-44-NJ-HealthFacilities-output-390,Monmouth Care Center,229 Bath Avenue,,Long Branch,07740,NJ,US,(732) 229-4300,Long Term Care Facility,061318,11/30/2017,Mr. EFRAIM SIEGFRIED,120
+USA-NJ-44-NJ-HealthFacilities-output-391,Pine Brook Care Center,104 Pension Road,,Englishtown,07726,NJ,US,(732) 446-3600,Long Term Care Facility,061323,12/31/2017,Mr. BRIAN PANETH,132
+USA-NJ-44-NJ-HealthFacilities-output-392,Majestic Rehabilitation And Nursing Center At Red Bank Inc,100 Chapin Avenue,,Red Bank,07701,NJ,US,(732) 741-8811,Long Term Care Facility,061325,08/31/2018,Ms. KORINNE GUILIANO,180
+USA-NJ-44-NJ-HealthFacilities-output-393,Meridian Nursing & Rehabilitation At Shrewsbury,89 Avenue At The Common,,Shrewsbury,07702,NJ,US,(732) 676-5800,Long Term Care Facility,061326,08/31/2018,Ms. MEGAN SPALTHOFF,140
+USA-NJ-44-NJ-HealthFacilities-output-394,Sunnyside Manor,2500 Ridgewood Road,,Wall,07719,NJ,US,(732) 528-9311,Long Term Care Facility,061329,07/31/2018,Ms. MARYELLEN KEANE,60
+USA-NJ-44-NJ-HealthFacilities-output-395,Preferred Care At Wall,2350 Hospital Road,,Allenwood,08720,NJ,US,(732) 683-8600,Long Term Care Facility,061330,12/31/2017,Mr. SHLOMO FOGEL,135
+USA-NJ-44-NJ-HealthFacilities-output-396,Tower Lodge Care Center,1506 Gully Road,,Wall,07719,NJ,US,(732) 681-1400,Long Term Care Facility,061331,07/31/2018,Mr. YISRAEL BROYDE,60
+USA-NJ-44-NJ-HealthFacilities-output-397,Laurel Bay Health & Rehabilitation Center,32 Laurel Avenue,,Keansburg,07734,NJ,US,(732) 787-8100,Long Term Care Facility,061333,03/31/2018,Mr. ERIC GREENBERGER,123
+USA-NJ-44-NJ-HealthFacilities-output-398,Imperial Care Center,919 Green Grove Road,,Neptune,07753,NJ,US,(732) 922-3400,Long Term Care Facility,061335,02/28/2018,Ms. LIOR BENISTI,121
+USA-NJ-44-NJ-HealthFacilities-output-399,King Manor Care And Rehabilitation Center,2303 West Bangs Ave,,Neptune,07753,NJ,US,(732) 774-3500,Long Term Care Facility,061341,12/31/2017,Mr. CHAIM MANDELBAUM,120
+USA-NJ-44-NJ-HealthFacilities-output-400,Applewood Estates,Applewood Drive,,Freehold,07728,NJ,US,(732) 780-7370,Long Term Care Facility,061343,03/31/2018,Mr. KEITH GRADY,60
+USA-NJ-44-NJ-HealthFacilities-output-401,Meridian Nursing And Rehabilitation At Ocean Grove,160 Main Street,,Ocean Grove,07756,NJ,US,(732) 481-8300,Long Term Care Facility,061344,12/31/2017,Ms. KRISTEN HEANEY,147
+USA-NJ-44-NJ-HealthFacilities-output-402,Park Place Center,2 Deer Park Drive,,Monmouth Junction,08852,NJ,US,(732) 274-1122,Long Term Care Facility,061345,01/31/2018,Ms. JENNIFER JONES,94
+USA-NJ-44-NJ-HealthFacilities-output-403,Garden Terrace Nursing Home,361 Main Street,,Chatham,07928,NJ,US,(973) 635-0899,Long Term Care Facility,061403,11/30/2017,"Mr. PETER FLEMMING, SR.",34
+USA-NJ-44-NJ-HealthFacilities-output-404,Holly Manor Center,84 Cold Hill Road,,Mendham,07945,NJ,US,(973) 543-2500,Long Term Care Facility,061406,01/31/2018,Ms. LAURA SANSONE,124
+USA-NJ-44-NJ-HealthFacilities-output-405,Chatham Hills Subacute Care Center,415 Southern Blvd,,Chatham,07928,NJ,US,(973) 822-1500,Long Term Care Facility,061407,01/31/2018,Mr. JUDAH ORBACH,108
+USA-NJ-44-NJ-HealthFacilities-output-406,Lincoln Park Renaissance Rehab & Nursing Center,521 Pine Brook Road,,Lincoln Park,07035,NJ,US,(973) 696-3300,Long Term Care Facility,061408,12/31/2017,Mr. MORDECHAI WINKLER,189
+USA-NJ-44-NJ-HealthFacilities-output-407,Lincoln Park Care Center,499 Pine Brook Road,,Lincoln Park,07035,NJ,US,(973) 696-3300,Long Term Care Facility,061409,12/31/2017,Mr. HOWARD WOLF,547
+USA-NJ-44-NJ-HealthFacilities-output-408,Merry Heart Nursing Home,200 Rt 10 West,,Succasunna,07876,NJ,US,(973) 584-4000,Long Term Care Facility,061410,10/31/2017,Mr. VISHAL CHHEDA,113
+USA-NJ-44-NJ-HealthFacilities-output-409,Morris View Healthcare Center,540 West Hanover Avenue,,Morris Plains,07950,NJ,US,(973) 285-2800,Long Term Care Facility,061411,11/30/2017,Mr. FRANK INFANTE,283
+USA-NJ-44-NJ-HealthFacilities-output-410,Pine Acres Convalescent Center,51 Madison Ave,,Madison,07940,NJ,US,(973) 377-2124,Long Term Care Facility,061413,08/31/2018,Mr. ARYEH GERSON,102
+USA-NJ-44-NJ-HealthFacilities-output-411,Merry Heart Of Boonton Township,199 Powerville Road,,Boonton,07005,NJ,US,(973) 334-2454,Long Term Care Facility,061415,10/31/2017,Ms. BARBARA BONIFACIO,117
+USA-NJ-44-NJ-HealthFacilities-output-412,Troy Hills Center,200 Reynolds Ave,,Parsippany,07054,NJ,US,(973) 887-8080,Long Term Care Facility,061416,01/31/2018,Mr. JOSEPH SCHMIDT,130
+USA-NJ-44-NJ-HealthFacilities-output-413,Morris Hills Center,77 Madison Avenue,,Morristown,07960,NJ,US,(973) 540-9800,Long Term Care Facility,061417,01/31/2018,Mr. BRIAN FASZCZEWSKI,287
+USA-NJ-44-NJ-HealthFacilities-output-414,New Jersey Firemen's Home,565 Lathrop Ave,,Boonton,07005,NJ,US,(973) 334-0024,Long Term Care Facility,061419,06/30/2018,Mr. HUGH FLOOD,75
+USA-NJ-44-NJ-HealthFacilities-output-415,Cheshire Home,9 Ridgedale Ave,,Florham Park,07932,NJ,US,(973) 966-1232,Long Term Care Facility,061421,10/31/2017,Mr. GEORGE ZEITLER,35
+USA-NJ-44-NJ-HealthFacilities-output-416,The Oaks At Denville,21 Pocono Road,,Denville,07834,NJ,US,(973) 586-5000,Long Term Care Facility,061424,04/30/2018,Ms. LISA ANNE LALUMIA-KRANIS,84
+USA-NJ-44-NJ-HealthFacilities-output-417,Skilled Nursing At Fellowship Village,8000 Fellowship Drive,,Basking Ridge,07920,NJ,US,(908) 580-3800,Long Term Care Facility,061425,06/30/2018,Mr. JACK ELLIAS,54
+USA-NJ-44-NJ-HealthFacilities-output-418,Crystal Lake Healthcare And Rehabilitation Center,395 Lakeside Blvd,,Bayville,08721,NJ,US,(732) 269-0500,Long Term Care Facility,061501,01/31/2018,Mr. SHLOMO PICK,235
+USA-NJ-44-NJ-HealthFacilities-output-419,Claremont Center,1515 Hulse Road,,Pt Pleasant,08742,NJ,US,(732) 295-9300,Long Term Care Facility,061502,08/31/2018,Ms. SUSAN WOOD,118
+USA-NJ-44-NJ-HealthFacilities-output-420,Atlantic Coast Rehabilitation & Health Care,485 River Ave,,Lakewood,08701,NJ,US,(732) 364-7100,Long Term Care Facility,061504,02/28/2018,Mr. REUVEN ALTER,160
+USA-NJ-44-NJ-HealthFacilities-output-421,Rose Garden Nursing And Rehabilitation Center,1579 Old Freehold Road,,Toms River,08753,NJ,US,(732) 505-4477,Long Term Care Facility,061511,04/30/2018,Mr. ANDREW SHAWN,128
+USA-NJ-44-NJ-HealthFacilities-output-422,Leisure Chateau Rehabilitation,962 River Ave,,Lakewood,08701,NJ,US,(732) 370-8600,Long Term Care Facility,061515,12/31/2017,Mr. SHIMON FALIK,202
+USA-NJ-44-NJ-HealthFacilities-output-423,Willow Springs Rehabilitation And Healthcare Center,1049 Burnt Tavern Road,,Brick,08724,NJ,US,(732) 840-3700,Long Term Care Facility,061518,11/30/2017,Mr. SHLOMO GOLDBERGER,164
+USA-NJ-44-NJ-HealthFacilities-output-424,Concord Healthcare & Rehabilitation Center,963 Ocean Ave,,Lakewood,08701,NJ,US,(732) 367-7444,Long Term Care Facility,061519,08/31/2018,Mr. ISAAC SONENBLICK,120
+USA-NJ-44-NJ-HealthFacilities-output-425,Manahawkin Convalescent Center,1211 Rt 72 West,,Manahawkin,08050,NJ,US,(609) 597-8500,Long Term Care Facility,061520,08/31/2018,Mr. ELIEZER WEISS,120
+USA-NJ-44-NJ-HealthFacilities-output-426,Bartley Healthcare Nursing And Rehabilitation,175 Bartley Road,,Jackson,08527,NJ,US,(732) 370-4700,Long Term Care Facility,061521,12/31/2017,Ms. DEBORAH SHAPIRO,234
+USA-NJ-44-NJ-HealthFacilities-output-427,Seacrest Village,1001 Center St,,Little Egg Harbor Tw,08087,NJ,US,(609) 296-9292,Long Term Care Facility,061522,10/31/2017,Mr. BRIAN HOLLOWAY,171
+USA-NJ-44-NJ-HealthFacilities-output-428,Aristacare At Whiting,23 Schoolhouse Road,,Whiting,08759,NJ,US,(732) 849-4300,Long Term Care Facility,061523,05/31/2018,Mr. MORDY PERLOW,180
+USA-NJ-44-NJ-HealthFacilities-output-429,Barnegat Rehabilitation And Nursing Center,859 West Bay Ave,,Barnegat,08005,NJ,US,(609) 698-1400,Long Term Care Facility,061524,11/30/2017,Mr. MOSHE GOTTLIEB,116
+USA-NJ-44-NJ-HealthFacilities-output-430,Care One At Jackson,11 History Lane,,Jackson,08527,NJ,US,(732) 367-6600,Long Term Care Facility,061525,01/31/2018,Mr. ARTHUR FRISCH,124
+USA-NJ-44-NJ-HealthFacilities-output-431,Holiday Care Center,4 Plaza Drive,,Toms River,08757,NJ,US,(732) 240-0900,Long Term Care Facility,061526,11/30/2017,Ms. DONNA SCHWARTZMAN,180
+USA-NJ-44-NJ-HealthFacilities-output-432,Leisure Park Health Center,1400 Route 70,,Lakewood,08701,NJ,US,(732) 370-0444,Long Term Care Facility,061527,01/31/2018,Mr. DAVID WEINER,60
+USA-NJ-44-NJ-HealthFacilities-output-433,Harrogate,400 Locust Street,,Lakewood,08701,NJ,US,(732) 905-7070,Long Term Care Facility,061528,05/31/2018,Mr. CHARLES BENJAMIN,68
+USA-NJ-44-NJ-HealthFacilities-output-434,Bey Lea Village Care Center,1351 Old Freehold Road,,Toms River,08753,NJ,US,(732) 240-0090,Long Term Care Facility,061529,11/30/2017,Ms. CHARISSE EMERICK,120
+USA-NJ-44-NJ-HealthFacilities-output-435,Green Acres Manor,1931 Lakewood Road,,Toms River,08755,NJ,US,(732) 286-2323,Long Term Care Facility,061531,09/30/2017,Mr. ROBERT LAPID,185
+USA-NJ-44-NJ-HealthFacilities-output-436,Laurelton Village Care Center,475 Jack Martin Blvd,,Brick,08724,NJ,US,(732) 458-6600,Long Term Care Facility,061532,11/30/2017,Ms. NANETTA MALONE,180
+USA-NJ-44-NJ-HealthFacilities-output-437,Crestwood Manor,50 Lacey Road,,Whiting,08759,NJ,US,(732) 849-4900,Long Term Care Facility,061533,02/28/2018,Mr. MICHAEL DIFIGLIA,64
+USA-NJ-44-NJ-HealthFacilities-output-438,Whiting Health Care Center,3000 Hilltop Road,,Whiting,08759,NJ,US,(732) 849-4400,Long Term Care Facility,061534,11/30/2017,Ms. JENNIFER CAUSER,200
+USA-NJ-44-NJ-HealthFacilities-output-439,Hampton Ridge Healthcare And Rehabilitation,94 Stevens Road,,Toms River,08755,NJ,US,(732) 286-5005,Long Term Care Facility,061535,11/30/2017,Mr. AARON OPPENHEIMER,204
+USA-NJ-44-NJ-HealthFacilities-output-440,Fountain View Care Center,527 River Ave,,Lakewood,08701,NJ,US,(732) 905-0700,Long Term Care Facility,061536,09/30/2018,Mr. STEVEN FRIEDMAN,123
+USA-NJ-44-NJ-HealthFacilities-output-441,Arbors Care Center,1750 Route 37 West,,Toms River,08757,NJ,US,(732) 914-0090,Long Term Care Facility,061537,06/30/2018,Ms. WENDY METZGER,120
+USA-NJ-44-NJ-HealthFacilities-output-442,Atrium Post Acute Care Of Wayne,1120 Alps Road,,Wayne,07470,NJ,US,(973) 694-2100,Long Term Care Facility,061601,02/28/2018,Ms. SAMANTHA NEWMAN-WEBSTER,209
+USA-NJ-44-NJ-HealthFacilities-output-443,Chestnut Hill Convalescent Center,360 Chestnut Street,,Passaic,07055,NJ,US,(973) 777-7800,Long Term Care Facility,061605,10/31/2017,Ms. MARILYN POMEROY,111
+USA-NJ-44-NJ-HealthFacilities-output-444,Lakeview Rehabilitation And Care Center,130 Terhune Drive,,Wayne,07470,NJ,US,(973) 839-4500,Long Term Care Facility,61610,08/31/2017,Mr. BORUCH FINK,18
+USA-NJ-44-NJ-HealthFacilities-output-445,Llanfair House Care & Rehabilitation Center,1140 Black Oak Ridge Road,,Wayne,07470,NJ,US,(973) 835-7443,Long Term Care Facility,061611,12/31/2017,Mr. RUDOLF STERNSCHEIN,180
+USA-NJ-44-NJ-HealthFacilities-output-446,Milford Manor,69 Maple Road,,West Milford,07480,NJ,US,(973) 697-5640,Long Term Care Facility,061612,10/31/2017,Ms. ELIZABETH MARTIN,120
+USA-NJ-44-NJ-HealthFacilities-output-447,Regency Gardens Nursing Center,296 Hamburg Turnpike,,Wayne,07470,NJ,US,(973) 790-5800,Long Term Care Facility,061614,08/31/2018,Mr. MARK BENEDEK,120
+USA-NJ-44-NJ-HealthFacilities-output-448,Preakness Healthcare Center,305 Oldham Road,,Wayne,07470,NJ,US,(973) 585-2132,Long Term Care Facility,061617,10/31/2017,Ms. LUCINDA CORRADO,11
+USA-NJ-44-NJ-HealthFacilities-output-449,Care One At Wayne  - Snf,493 Black Oak Ridge Road,,Wayne,07470,NJ,US,(973) 692-9500,Long Term Care Facility,061619,03/31/2018,Ms. KYRI MENAKER,73
+USA-NJ-44-NJ-HealthFacilities-output-450,Doctors Subacute Care,59 Birch Street,,Paterson,07522,NJ,US,(973) 942-8899,Long Term Care Facility,061620,05/31/2018,Ms. BARBARA ANDREWS,49
+USA-NJ-44-NJ-HealthFacilities-output-451,Lakeland Health Care Center,25 Fifth Avenue,,Haskell,07420,NJ,US,(973) 839-6000,Long Term Care Facility,061621,12/31/2017,Mr. YEHUDA PEPPER,201
+USA-NJ-44-NJ-HealthFacilities-output-452,Oak Ridge Rehabilitation & Nursing Center,261 Terhune Drive,,Wayne,07470,NJ,US,(973) 835-3871,Long Term Care Facility,061625,11/30/2017,Mr. WAYNE BLUM,120
+USA-NJ-44-NJ-HealthFacilities-output-453,Hamilton Plaza Nursing & Rehabilitation Center,56 Hamilton Avenue,,Passaic,07055,NJ,US,(973) 773-7070,Long Term Care Facility,061627,11/30/2017,Mr. ROBERT ARNOLD,120
+USA-NJ-44-NJ-HealthFacilities-output-454,Atrium Post Acute Care Of Wayneview,2020 Rt 23 North,,Wayne,07470,NJ,US,(973) 305-8400,Long Term Care Facility,061629,02/28/2018,Ms. RHONDA BRAND,170
+USA-NJ-44-NJ-HealthFacilities-output-455,Complete Care At Passaic Llc,77 East 43rd Street,,Paterson,07514,NJ,US,(973) 754-6700,Long Term Care Facility,706000,06/30/2018,Mr. HERSHEL SCHWARTZ,180
+USA-NJ-44-NJ-HealthFacilities-output-456,The Health Center At Bloomingdale,255 Union Ave,,Bloomingdale,07403,NJ,US,(973) 283-1700,Long Term Care Facility,061631,06/30/2018,Mr. SHIMON IDELS,120
+USA-NJ-44-NJ-HealthFacilities-output-457,Carneys Point Rehabilitation And Nursing Center,201 Fifth Avenue,,Carneys Point,08069,NJ,US,(856) 299-6800,Long Term Care Facility,061702,12/31/2017,Mr. PINCHUS FRIEDMAN,161
+USA-NJ-44-NJ-HealthFacilities-output-458,Golden Rehabilitation And Nursing Center,438 Salem-Woodstown Road,,Salem,08079,NJ,US,(856) 935-6677,Long Term Care Facility,061703,05/31/2018,Mr. DANIEL ENGELSON,116
+USA-NJ-44-NJ-HealthFacilities-output-459,Eagleview Health And Rehabilitation,849 Big Oak Road,,Pittsgrove,08318,NJ,US,(856) 451-5000,Long Term Care Facility,061704,03/31/2018,Ms. GEORGINE TRACY,84
+USA-NJ-44-NJ-HealthFacilities-output-460,Regency Heritage Nursing And Rehabilitation Center,380 Demott Lane,,Somerset,08873,NJ,US,(732) 873-2000,Long Term Care Facility,061801,02/28/2018,Mr. MORDECHAI BENGIO,265
+USA-NJ-44-NJ-HealthFacilities-output-461,Franklin Care Center,3371 Route 27,,Franklin Park,08823,NJ,US,(732) 821-8000,Long Term Care Facility,061804,10/31/2017,Mr. RICHARD PINELES,180
+USA-NJ-44-NJ-HealthFacilities-output-462,Abingdon Care & Rehabilitation Center,303 Rock Ave,,Green Brook,08812,NJ,US,(732) 968-5500,Long Term Care Facility,061805,12/31/2017,Ms. SHEILA COLEMAN,180
+USA-NJ-44-NJ-HealthFacilities-output-463,Green Knoll Center,875 Route 202-206 North,,Bridgewater,08807,NJ,US,(908) 526-8600,Long Term Care Facility,061806,11/30/2017,Ms. KATHERINE KRASINSKI,176
+USA-NJ-44-NJ-HealthFacilities-output-464,Willow Creek Rehabilitation And Care Center,1165 Easton Ave,,Somerset,08873,NJ,US,(732) 246-4100,Long Term Care Facility,061808,11/30/2017,Ms. VICKI HAYES,180
+USA-NJ-44-NJ-HealthFacilities-output-465,Rehab At River's Edge,633 Route 28,,Raritan,08869,NJ,US,(908) 526-8950,Long Term Care Facility,061809,05/31/2018,Mr. ARYEH MARKOWITZ,138
+USA-NJ-44-NJ-HealthFacilities-output-466,Care One At Somerset Valley,1621 Route 22 West,,Bound Brook,08805,NJ,US,(732) 469-2000,Long Term Care Facility,061810,10/31/2017,Mr. AMIN SANAIA,64
+USA-NJ-44-NJ-HealthFacilities-output-467,Bridgeway Care And Rehabilitation Center At Bridgewater,270 Route 28,,Bridgewater,08807,NJ,US,(908) 722-7022,Long Term Care Facility,061811,06/30/2018,Ms. SUSAN LANZA,151
+USA-NJ-44-NJ-HealthFacilities-output-468,Parker At Mccarrick,15 Dellwood Lane,,Somerset,08873,NJ,US,(732) 545-4200,Long Term Care Facility,061812,01/31/2018,Mr. JAMES ZAUNER,120
+USA-NJ-44-NJ-HealthFacilities-output-469,Mcauley Hall Health Care Center,1633 Highway 22,,Watchung,07069,NJ,US,(908) 754-3663,Long Term Care Facility,061813,09/30/2017,Ms. GRACE KIDNEY,74
+USA-NJ-44-NJ-HealthFacilities-output-470,Andover Subacute And Rehabilitation Ii,99 Mulford Road,,Andover,07821,NJ,US,(973) 383-6200,Long Term Care Facility,061901,05/31/2018,Ms. CYNTHIA BRADFORD,543
+USA-NJ-44-NJ-HealthFacilities-output-471,Andover Subacute And Rehabilitation I,1 O'brien Lane,,Andover,07821,NJ,US,(973) 383-6200,Long Term Care Facility,061902,05/31/2018,Ms. SONIA VELMONTE,159
+USA-NJ-44-NJ-HealthFacilities-output-472,Barn Hill Care Center,249 High Street,,Newton,07860,NJ,US,(973) 383-5600,Long Term Care Facility,061903,03/31/2018,Ms. STEPHANIE PONIST,154
+USA-NJ-44-NJ-HealthFacilities-output-473,Valley View Rehabilitation And Healthcare Center,1 Summit Avenue,,Newton,07860,NJ,US,(973) 383-1450,Long Term Care Facility,061904,01/31/2018,Mr. MORDECHAI HOROVITZ,31
+USA-NJ-44-NJ-HealthFacilities-output-474,Homestead Rehabilitation & Health Care Center,129 Morris Turnpike,,Newton,07860,NJ,US,(973) 948-5400,Long Term Care Facility,061905,12/31/2017,Mr. JAKE LIGHTEN,128
+USA-NJ-44-NJ-HealthFacilities-output-475,Ashbrook Care & Rehabilitation Center,1610 Raritan Road,,Scotch Plains,07076,NJ,US,(908) 889-5500,Long Term Care Facility,062002,12/31/2017,Mr. SCOTT ROYER,114
+USA-NJ-44-NJ-HealthFacilities-output-476,Cornell Hall Care & Rehabilitation Center,234 Chestnut Street,,Union,07083,NJ,US,(908) 687-7800,Long Term Care Facility,062004,12/31/2017,Mr. STEVEN SALVANTO,177
+USA-NJ-44-NJ-HealthFacilities-output-477,Cranford Park Rehabilitation & Healthcare Center,600 Lincoln Park East,,Cranford,07016,NJ,US,(908) 276-7100,Long Term Care Facility,062005,12/31/2017,Mr. ELI HUTMAN,100
+USA-NJ-44-NJ-HealthFacilities-output-478,Cranford Rehab & Nursing Center,205 Birchwood Ave,,Cranford,07016,NJ,US,(908) 272-6660,Long Term Care Facility,062006,05/31/2018,Mr. YISRAEL BROYDE,200
+USA-NJ-44-NJ-HealthFacilities-output-479,Elizabeth Nursing And Rehab Center,1048 Grove Street,,Elizabeth,07202,NJ,US,(908) 354-0002,Long Term Care Facility,62007X,08/31/2018,Mr. ZEV FISHMAN,102
+USA-NJ-44-NJ-HealthFacilities-output-480,Manorcare Health Services-New Providence,144 Gales Drive,,New Providence,07974,NJ,US,(908) 464-8600,Long Term Care Facility,062008,12/31/2017,Ms. FARRAH MOLFETTA,106
+USA-NJ-44-NJ-HealthFacilities-output-481,Jfk Hartwyck At Cedar Brook,1340 Park Ave,,Plainfield,07060,NJ,US,(908) 754-3100,Long Term Care Facility,062009,05/31/2018,Ms. AIMEE ALLEN,106
+USA-NJ-44-NJ-HealthFacilities-output-482,Westfield Center,1515 Lamberts Mill Road,,Westfield,07090,NJ,US,(908) 233-9700,Long Term Care Facility,062013,01/31/2018,Ms. KATHLEEN MADDEN,8
+USA-NJ-44-NJ-HealthFacilities-output-483,Autumn Lake Healthcare At Berkeley Heights,35 Cottage Street,,Berkeley Heights,07922,NJ,US,(908) 464-0048,Long Term Care Facility,062016,05/31/2018,Mr. MEACHAEL MULLER,130
+USA-NJ-44-NJ-HealthFacilities-output-484,Aristacare At Delaire,400 W Stimpson Ave,,Linden,07036,NJ,US,(908) 862-3399,Long Term Care Facility,062017,06/30/2018,Mr. JOHN PILEK,240
+USA-NJ-44-NJ-HealthFacilities-output-485,Alaris Health At Riverton,1777 Lawrence Street,,Rahway,07065,NJ,US,(732) 499-7927,Long Term Care Facility,062018,07/31/2018,Ms. KRISTINE GILES,122
+USA-NJ-44-NJ-HealthFacilities-output-486,Aristacare At Norwood Terrace,40 Norwood Avenue,,Plainfield,07060,NJ,US,(908) 769-1400,Long Term Care Facility,062020,02/28/2018,Mr. EPHRAIM HALPERT,120
+USA-NJ-44-NJ-HealthFacilities-output-487,Manor Care Health Services Mountainside,1180 Route 22 West,,Mountainside,07092,NJ,US,(908) 654-0020,Long Term Care Facility,062021,12/31/2017,Mr. MCINTOSH THERVIL,151
+USA-NJ-44-NJ-HealthFacilities-output-488,The Woodlands,1400 Woodland Ave,,Plainfield,07060,NJ,US,(908) 753-1113,Long Term Care Facility,062022,01/31/2018,Mr. MICHAEL BAHOOSHIAN,120
+USA-NJ-44-NJ-HealthFacilities-output-489,South Mountain Healthcare & Rehabilitation,2385 Springfield Avenue,,Vauxhall,07088,NJ,US,(908) 688-3400,Long Term Care Facility,062023,08/31/2018,Mr. BENZION WILLNER,195
+USA-NJ-44-NJ-HealthFacilities-output-490,Clark Nursing And Rehabilitation Center,1213 Westfield Avenue,,Clark,07066,NJ,US,(732) 396-7100,Long Term Care Facility,062211,08/31/2018,Mr. GARY SANTO,10
+USA-NJ-44-NJ-HealthFacilities-output-491,Phillipsburg Center,843 Wilbur Avenue,,Phillipsburg,08865,NJ,US,(908) 454-2627,Long Term Care Facility,062101,01/31/2018,Ms. WANDA MERCADO,60
+USA-NJ-44-NJ-HealthFacilities-output-492,Warren Haven Rehab And Nursing Center,350 Oxford Road,,Oxford,07863,NJ,US,(908) 453-7700,Long Term Care Facility,62102,11/30/2017,Mr. MICHAEL BABE,180
+USA-NJ-44-NJ-HealthFacilities-output-493,Forest Manor Health Care Center,145 State Park Road,,Hope,07844,NJ,US,(908) 459-4128,Long Term Care Facility,062103,09/30/2018,Ms. DANA ELLIOTT,120
+USA-NJ-44-NJ-HealthFacilities-output-494,Lopatcong Center,390 Red School Lane,,Phillipsburg,08865,NJ,US,(908) 859-0200,Long Term Care Facility,062105,01/31/2018,Ms. ELAINE YOCUM,153
+USA-NJ-44-NJ-HealthFacilities-output-495,Brakeley Park Center,290 Red School Lane,,Phillipsburg,08865,NJ,US,(908) 859-2800,Long Term Care Facility,062106,01/31/2018,Ms. MARY TUCKER,120
+USA-NJ-44-NJ-HealthFacilities-output-496,North Cape Center,700 Townbank Road,,Cape May,08204,NJ,US,(609) 898-8899,Long Term Care Facility,62200,01/31/2018,Ms. KAREN HOFFMAN,120
+USA-NJ-44-NJ-HealthFacilities-output-497,Atrium Post Acute Care Of Princeton,5000 Windrow Drive,,Princeton,08540,NJ,US,(609) 987-1221,Long Term Care Facility,62202,03/31/2018,Ms. CARALEE DILL,180
+USA-NJ-44-NJ-HealthFacilities-output-498,Forest Hill Healthcare Center,497 Mt Prospect Ave,,Newark,07104,NJ,US,(973) 482-5000,Long Term Care Facility,62203,10/31/2017,Mr. GEORGE E. MERVINE,120
+USA-NJ-44-NJ-HealthFacilities-output-499,De La Salle Hall,810 Newman Springs Rd,,Lincroft,07738,NJ,US,(732) 530-9470,Long Term Care Facility,62207,12/31/2017,Ms. KIRSTEN KIM,32
+USA-NJ-44-NJ-HealthFacilities-output-500,Alaris Health At St. Mary's,135 South Center Street,,Orange,07050,NJ,US,(973) 266-3000,Long Term Care Facility,062209,07/31/2018,Mr. GERRY NWABUEZE,27
+USA-NJ-44-NJ-HealthFacilities-output-501,Jersey Shore Center,3 Industrial Way East,,Eatontown,07724,NJ,US,(732) 544-1557,Long Term Care Facility,62214,01/31/2018,Mr. DIMITRY RUCHAEVSKY,158
+USA-NJ-44-NJ-HealthFacilities-output-502,Friends Retirement Concepts/arbor Glen,100 Monroe Street,,Bridgewater,08807,NJ,US,(908) 595-6565,Long Term Care Facility,62215,04/30/2018,Ms. MARINA SHAYKEVICH FERRER,64
+USA-NJ-44-NJ-HealthFacilities-output-503,Hamilton Place At The Pines At Whiting,507 Route 530,,Whiting,08759,NJ,US,(732) 849-0400,Long Term Care Facility,656000,07/31/2018,Ms. PATRICIA POLCHAK,66
+USA-NJ-44-NJ-HealthFacilities-output-504,Meridian Nursing And Rehabilitation At Brick,415 Jack Martin Blvd,,Brick,08724,NJ,US,(732) 206-8000,Long Term Care Facility,656001,04/30/2018,Ms. ARIEL KIRCHNER,137
+USA-NJ-44-NJ-HealthFacilities-output-505,Holy Name Friary,Two Morris Road,,Ringwood,07456,NJ,US,(973) 962-7200,Long Term Care Facility,62218,06/30/2018,Ms. EVELYN MANGER,29
+USA-NJ-44-NJ-HealthFacilities-output-506,Atrium Post Acute Care Of Park Ridge,120 Noyes Drive,,Park Ridge,07656,NJ,US,(201) 505-1777,Long Term Care Facility,62219,02/28/2018,Mr. TREVOR DUBLIN,210
+USA-NJ-44-NJ-HealthFacilities-output-507,Shore Meadows Rehabilitation And Nursing Center,231 Warner Street,,Toms River,08757,NJ,US,(732) 942-0800,Long Term Care Facility,656002,12/31/2017,Mr. REFOEL GOTTLIEB,149
+USA-NJ-44-NJ-HealthFacilities-output-508,Shorrock Gardens Care Center Inc,75 Old Toms River Road,,Brick,08723,NJ,US,(732) 451-1000,Long Term Care Facility,656003,04/30/2018,Ms. CYNTHIA WHITE,180
+USA-NJ-44-NJ-HealthFacilities-output-509,Mystic Meadows Rehab & Nursing Center,151 Ninth Avenue,,Little Egg Harbor Tw,08087,NJ,US,(609) 294-3200,Long Term Care Facility,656004,04/30/2018,Mr. MOSHE NEIMAN,120
+USA-NJ-44-NJ-HealthFacilities-output-510,Tallwoods Care Center,18 Butler Boulevard,,Bayville,08721,NJ,US,(732) 237-2220,Long Term Care Facility,656005,06/30/2018,Mr. MENDY DRILLICK,180
+USA-NJ-44-NJ-HealthFacilities-output-511,Community Medical Center Tcu,99 Route 37 West,,Toms River,08755,NJ,US,(732) 557-8000,Long Term Care Facility,656100,01/31/2018,Ms. PATRICIA OSTASZEWSKI,
+USA-NJ-44-NJ-HealthFacilities-output-512,Brighton Gardens Of Leisure Park,1400 Route 70,,Lakewood,08701,NJ,US,(732) 370-0444,Assisted Living Residence,65A000,01/31/2018,Mr. PATRICK DUFFY,110
+USA-NJ-44-NJ-HealthFacilities-output-513,Georgetown Commons At The Pines At Whiting,507 Route 530,,Whiting,08759,NJ,US,(732) 849-0400,Assisted Living Residence,65A001,10/31/2017,Ms. PATRICIA POLCHAK,96
+USA-NJ-44-NJ-HealthFacilities-output-514,Brookdale Stafford,1275 Route 72,,Manahawkin,08050,NJ,US,(609) 597-2500,Assisted Living Residence,65a002,07/31/2018,,94
+USA-NJ-44-NJ-HealthFacilities-output-515,Hearthstone Estates,77 Williams Street,,Lakewood,08701,NJ,US,(732) 363-8505,Assisted Living Residence,65a003,11/30/2017,Ms. ALEXIS COMODORE,47
+USA-NJ-44-NJ-HealthFacilities-output-516,Shorrock Gardens Care Center Inc,75 Old Toms River Road,,Brick,08723,NJ,US,(732) 451-1000,Assisted Living Residence,65a004,04/30/2018,Ms. CYNTHIA WHITE,30
+USA-NJ-44-NJ-HealthFacilities-output-517,Reflections At The Gables,1594 Route 88,,Brick,08724,NJ,US,(732) 785-3370,Assisted Living Residence,65a005,12/31/2017,Ms. MELISSA HINGHER,52
+USA-NJ-44-NJ-HealthFacilities-output-518,Spring Oak Assisted Living At Forked River,601 North Main Street,,Lanoka Harbor,08734,NJ,US,(609) 242-2661,Assisted Living Residence,65a006,09/30/2018,Ms. CATHERINE DIFIORE,104
+USA-NJ-44-NJ-HealthFacilities-output-519,The Chelsea At Brick,458 Jack Martin Blvd.,,Brick,08724,NJ,US,(732) 206-9800,Assisted Living Residence,65a007,08/31/2017,Ms. DIANE DWULET,123
+USA-NJ-44-NJ-HealthFacilities-output-520,Bella Terra Assisted Living Residence,2 Kathleen Drive,,Jackson,08527,NJ,US,(732) 730-9500,Assisted Living Residence,65A008,06/30/2018,Ms. KIMBERLY GREER,107
+USA-NJ-44-NJ-HealthFacilities-output-521,The Lakewood Courtyard,52 Madison Avenue,,Lakewood,08701,NJ,US,(732) 905-2055,Assisted Living Residence,65A111,07/31/2018,Ms. MARIA RICCIARDI,100
+USA-NJ-44-NJ-HealthFacilities-output-522,Brandywine Assisted Living At Toms River,1587 Old Freehold Road,,Toms River,08755,NJ,US,(732) 240-0043,Assisted Living Residence,65A112,12/31/2017,Mr. FRANK EVEGAN,120
+USA-NJ-44-NJ-HealthFacilities-output-523,Spring Oak Of Toms River,2145 Whitesville Road,,Toms River,08755,NJ,US,(732) 905-9222,Assisted Living Residence,65A113,05/31/2018,Ms. KRISTEN SABO,104
+USA-NJ-44-NJ-HealthFacilities-output-524,The Chelsea At Toms River,1657 Silverton Road,,Toms River,08755,NJ,US,(732) 941-8100,Assisted Living Residence,65A114,12/31/2017,Ms. ANGELA GAROFOLA,140
+USA-NJ-44-NJ-HealthFacilities-output-525,Daughters Of Israel Pleasant Valley Home,1155 Pleasant Valley Way,,West Orange,07052,NJ,US,(973) 731-5100,Long Term Care Facility,030703,10/31/2017,Ms. SUSAN GROSSER,303
+USA-NJ-44-NJ-HealthFacilities-output-526,The Chelsea At Bald Eagle,197 Cahill Cross Road,,West Milford,07480,NJ,US,(973) 728-6000,Assisted Living Residence,70A000,12/31/2017,Mr. THOMAS MULLER,66
+USA-NJ-44-NJ-HealthFacilities-output-527,Sunrise Assisted Living Of Wayne,184 Berdan Avenue,,Wayne,07470,NJ,US,(973) 628-4900,Assisted Living Residence,70a001,04/30/2018,Ms. LISA ONNEMBO,108
+USA-NJ-44-NJ-HealthFacilities-output-528,Arden Courts Of Wayne,800 Hamburg Turnpike,,Wayne,07470,NJ,US,(973) 942-5600,Assisted Living Residence,70a002,12/31/2017,Ms. KATHERINE HARRISON,56
+USA-NJ-44-NJ-HealthFacilities-output-529,Brookdale Wayne,820 Hamburg Turnpike,,Wayne,07470,NJ,US,(973) 942-4800,Assisted Living Residence,70A003,07/31/2018,Ms. MICHELLE WANAT,105
+USA-NJ-44-NJ-HealthFacilities-output-530,Lindsay Place,39 Supawna Road,,Pennsville,08070,NJ,US,(856) 339-0100,Assisted Living Residence,75A000,03/31/2018,Mr. JOSEPH DETZNER,47
+USA-NJ-44-NJ-HealthFacilities-output-531,Merion Gardens Assisted Living,315 Merion Avenue,,Carneys Point,08069,NJ,US,(856) 299-0300,Assisted Living Residence,75A001,11/30/2017,Ms. JENNIFER ZERRA,98
+USA-NJ-44-NJ-HealthFacilities-output-532,Friends Village At Woodstown (alr),One Friends Drive,,Woodstown,08098,NJ,US,(856) 769-1500,Assisted Living Residence,75A002,04/30/2018,Mr. DANIEL MURRAY,67
+USA-NJ-44-NJ-HealthFacilities-output-533,Alaris Health At The Atrium,350 Ninth Street,,Jersey City,07302,NJ,US,(201) 716-8000,Assisted Living Residence,7U0NFD,04/30/2018,Ms. MARIANNE ALFANO,113
+USA-NJ-44-NJ-HealthFacilities-output-534,Southern Ocean Center,1361 Route 72 West,,Manahawkin,08050,NJ,US,(609) 978-0600,Long Term Care Facility,080413,01/31/2018,Mr. LAWRENCE SULLIVAN,136
+USA-NJ-44-NJ-HealthFacilities-output-535,Stonebridge At Montgomery Health Care Center,100 Hollinshead Spring Road,,Skillman,08558,NJ,US,(609) 759-3654,Long Term Care Facility,806112,08/31/2018,Ms. MARY CANNON,40
+USA-NJ-44-NJ-HealthFacilities-output-536,Friends Retirement Concepts,100 Monroe Street,,Bridgewater,08807,NJ,US,(908) 595-6565,Assisted Living Residence,80a000,04/30/2018,Ms. MARINA SHAYKEVICH FERRER,35
+USA-NJ-44-NJ-HealthFacilities-output-537,Spring Hills At Somerset,473 Demott Lane,,Somerset,08873,NJ,US,(732) 873-4800,Assisted Living Residence,80a001,09/30/2018,Mr. ERIO ROSARIO,120
+USA-NJ-44-NJ-HealthFacilities-output-538,Brookdale Hillsborough,600 Auten Road,,Hillsborough,08844,NJ,US,(908) 431-1300,Assisted Living Residence,80a002,07/31/2018,Ms. KATHLEEN GILLIS,94
+USA-NJ-44-NJ-HealthFacilities-output-539,The Chelsea At Warren,274 King George Road,,Warren,07059,NJ,US,(908) 903-0911,Assisted Living Residence,80A003,08/31/2018,Ms. ASHLEY SCALZO,94
+USA-NJ-44-NJ-HealthFacilities-output-540,Brandywine Assisted Living At Middlebrook Crossing,2005 Route 22 West,,Bridgewater,08807,NJ,US,(732) 868-8181,Assisted Living Residence,80A004,12/31/2017,Ms. NANCYE SNYDER,128
+USA-NJ-44-NJ-HealthFacilities-output-541,Brandywine Senior Living At Mountain Ridge,680 Mountain Boulevard,,Watchung,07069,NJ,US,(908) 754-8180,Assisted Living Residence,80a005,10/31/2017,Ms. ALISON MANASSO,119
+USA-NJ-44-NJ-HealthFacilities-output-542,Avalon At Bridgewater,565 State Highway 28,,Bridgewater,08807,NJ,US,(908) 707-8800,Assisted Living Residence,80A006,05/31/2018,Mr. TOM ROTELLA,74
+USA-NJ-44-NJ-HealthFacilities-output-543,The Chelsea At Bridgewater,680 202/206 North,,Bridgewater,08807,NJ,US,(908) 252-3400,Assisted Living Residence,80A007,08/31/2018,Ms. KELLY ADAMS,115
+USA-NJ-44-NJ-HealthFacilities-output-544,Sunrise Of Basking Ridge,404 King George Road,,Basking Ridge,07920,NJ,US,(908) 542-9000,Assisted Living Residence,80a008,12/31/2017,Ms. ANGELA BISKING JANOSKO,110
+USA-NJ-44-NJ-HealthFacilities-output-545,"Martin And Edith Stein Assisted Living Residence, Inc.",350 Demott Lane,,Somerset,08873,NJ,US,(732) 568-1155,Assisted Living Residence,80A110,05/31/2018,Ms. ANNA SIMMONS,90
+USA-NJ-44-NJ-HealthFacilities-output-546,Stonebridge At Montgomery Health Care Center,100 Hollinshead Spring Road,,Skillman,08558,NJ,US,(609) 759-3600,Assisted Living Residence,80A112,08/31/2018,Ms. SANDRA ADOUR,60
+USA-NJ-44-NJ-HealthFacilities-output-547,The Avalon At Hillsborough,393 Amwell Road,,Hillsborough,08844,NJ,US,(908) 874-7200,Assisted Living Residence,80A113,10/31/2017,Ms. ELLA FURLONG,97
+USA-NJ-44-NJ-HealthFacilities-output-548,Assisted Living At Fellowship Village,9000 Fellowship Road,,Basking Ridge,07920,NJ,US,(908) 580-3824,Assisted Living Residence,082436,06/30/2018,Mr. JACK ELLIAS,81
+USA-NJ-44-NJ-HealthFacilities-output-549,The Chelsea At Forsgate,319 Forsgate Drive,,Jamesburg,08831,NJ,US,(732) 656-1000,Assisted Living Residence,082462,01/31/2018,Mr. SCOTT YAEGER,156
+USA-NJ-44-NJ-HealthFacilities-output-550,United Methodist Communities At Bristol Glen,200 Bristol Glen Drive,,Newton,07860,NJ,US,(973) 300-5788,Assisted Living Residence,85A001,03/31/2018,Mr. JEFFREY LISK,133
+USA-NJ-44-NJ-HealthFacilities-output-551,Knoll View Corp,8 Knoll Road,,Sparta,07871,NJ,US,(973) 729-4311,Assisted Living Program,85A100,05/31/2018,Ms. LISA REIDINGER,
+USA-NJ-44-NJ-HealthFacilities-output-552,Bear Creek Assisted Living,291 Village Road East,,West Windsor,08550,NJ,US,(609) 918-1075,Assisted Living Residence,8HEV7E,12/31/2017,Mr. JESSE FARMER,100
+USA-NJ-44-NJ-HealthFacilities-output-553,Van Dyk's Senior Residence Of Hawthorne,644 Goffle Road,,Hawthorne,07506,NJ,US,(973) 636-7000,Assisted Living Residence,8XD1WY,09/30/2017,Mr. TODD ARONSON,140
+USA-NJ-44-NJ-HealthFacilities-output-554,Sunrise Assisted Living Of Old Tappan,195 Old Tappan Road,,Old Tappan,07675,NJ,US,(201) 750-1110,Assisted Living Residence,90103,04/30/2018,Ms. COLLEEN VARNUM,108
+USA-NJ-44-NJ-HealthFacilities-output-555,Brightview Mt. Laurel,400 Fernbrooke Lane,,Mount Laurel,08054,NJ,US,(856) 222-1213,Assisted Living Residence,90106,08/31/2018,Ms. LAVANDA CLINKSCALES,108
+USA-NJ-44-NJ-HealthFacilities-output-556,Maurice House,1719 West Main Street,,Millville,08332,NJ,US,(856) 825-4002,Assisted Living Residence,90108,12/31/2017,Ms. BRANDYLEE MYERS,47
+USA-NJ-44-NJ-HealthFacilities-output-557,Summit Place,540 Mullica Hill Road,,Glassboro,08028,NJ,US,(856) 307-0617,Assisted Living Residence,90110,03/31/2018,Ms. DAHENA VELEZ,47
+USA-NJ-44-NJ-HealthFacilities-output-558,Atrium Senior Living Of Princeton,1000 Windrow Drive,,Princeton,08540,NJ,US,(609) 514-9111,Assisted Living Residence,90112,03/31/2018,Ms. LORI BELLPORT,105
+USA-NJ-44-NJ-HealthFacilities-output-559,Bayside Manor,7 Laurel Avenue,,Keansburg,07734,NJ,US,(732) 471-1600,Assisted Living Residence,90115,04/30/2018,Mr. ANTHONY CAPPADONA,146
+USA-NJ-44-NJ-HealthFacilities-output-560,Sunrise Assisted Living Of Morris Plains,209 Littleton Road,,Morris Plains,07950,NJ,US,(973) 538-7878,Assisted Living Residence,90117,04/30/2018,Mr. THOMAS CANA,108
+USA-NJ-44-NJ-HealthFacilities-output-561,The Haven At Manchester,1700 Route 37 West,,Toms River,08757,NJ,US,(732) 341-0880,Assisted Living Residence,90119,04/30/2018,Ms. JESSICA STEWART,96
+USA-NJ-44-NJ-HealthFacilities-output-562,Brighton Gardens Of Mountainside,1350 Route 22 West,,Mountainside,07092,NJ,US,(908) 654-4460,Assisted Living Residence,90122,06/30/2018,Mr. JONATHAN GRAF,141
+USA-NJ-44-NJ-HealthFacilities-output-563,Brookdale Westampton,480 W. Woodlane Road,,Westampton,08060,NJ,US,(609) 877-0555,Assisted Living Residence,90138,11/30/2017,Ms. REGINA MOSCHIK,50
+USA-NJ-44-NJ-HealthFacilities-output-564,Brandywine Assisted Living At The Gables,515 Jack Martin Blvd,,Brick,08723,NJ,US,(732) 836-1400,Assisted Living Residence,90143,12/31/2017,Ms. MARILYN GOLDSTEIN,99
+USA-NJ-44-NJ-HealthFacilities-output-565,Sunrise Assisted Living Of Westfield,240 Springfield Avenue,,Westfield,07090,NJ,US,(908) 317-3030,Assisted Living Residence,90144,04/30/2018,Ms. KATHLEEN KRUSAS,108
+USA-NJ-44-NJ-HealthFacilities-output-566,The Chelsea At Fanwood,295 South Avenue,,Fanwood,07023,NJ,US,(908) 654-5200,Assisted Living Residence,90A000,08/31/2018,Ms. JENNIFER RICCI,95
+USA-NJ-44-NJ-HealthFacilities-output-567,Spring Meadows Summit,41 Springfield Avenue,,Summit,07901,NJ,US,(908) 522-8852,Assisted Living Residence,90a001,02/28/2018,Ms. DONNA BRITO,98
+USA-NJ-44-NJ-HealthFacilities-output-568,Center For Hope Hospice  Inc.,1900 Raritan Road,,Scotch Plains,07076,NJ,US,(908) 889-7780,Assisted Living Program,90A100,08/31/2018,Ms. NANCY RAGER,
+USA-NJ-44-NJ-HealthFacilities-output-569,"Amber Court Of Elizabeth, Llc",1155 East Jersey Street,,Elizabeth,07201,NJ,US,(908) 352-9200,Assisted Living Residence,90A120,05/31/2018,Mr. SHLOMO PINES,120
+USA-NJ-44-NJ-HealthFacilities-output-570,House Of The Good Shepherd,798 Willow Grove Street,,Hackettstown,07840,NJ,US,(908) 684-5900,Assisted Living Residence,95A001,11/30/2017,Ms. DEBORAH BEARDS,35
+USA-NJ-44-NJ-HealthFacilities-output-571,Southern Ocean Medical Center,1140 Route 72 West,,Manahawkin,08050,NJ,US,(609) 978-8900,Long Term Care Facility,10504L,06/30/2017,Ms. ANNETTE NILSEN,20
+USA-NJ-44-NJ-HealthFacilities-output-572,Jewish Home At Rockleigh,10 Link Drive,,Rockleigh,07647,NJ,US,(201) 784-1414,Long Term Care Facility,JZ24OP,11/30/2017,Ms. SUNNI HERMAN,180
+USA-NJ-44-NJ-HealthFacilities-output-573,Mill Gardens At Midland Park,36 Faner Road,,Midland Park,07432,NJ,US,(201) 493-7400,Assisted Living Residence,LRR782,09/30/2017,Mr. NICHOLAS DRIVANOS,98
+USA-NJ-44-NJ-HealthFacilities-output-574,Care One At East Brunswick,599 Cranbury Road,,East Brunswick,08816,NJ,US,(732) 967-0100,Long Term Care Facility,NJNDFH9U,12/31/2017,Mr. ALAN ESERNER,132
+USA-NJ-44-NJ-HealthFacilities-output-575,Care One At Morris,100 Mazdabrook Road,,Parsippany Troy Hill,07054,NJ,US,(973) 952-5300,Long Term Care Facility,PSIFQU,06/30/2018,Ms. SARAH UR,118
+USA-NJ-44-NJ-HealthFacilities-output-576,Continuing Care At Seabrook,3002 Essex Road,,Tinton Falls,07753,NJ,US,(732) 643-2000,Long Term Care Facility,Q3VL3S,06/30/2018,Ms. GLORIA ZAYANSKOSKY,86
+USA-NJ-44-NJ-HealthFacilities-output-577,Care One At Hamilton,1660 Whitehorse-Hamilton Square Road,,Hamilton Township,08619,NJ,US,(609) 586-4600,Assisted Living Residence,X1KYQQ,05/31/2018,Mr. ROBERT ANGEL,95
+USA-NJ-44-NJ-HealthFacilities-output-578,The Chelsea At Manalapan,445 Route 9 South,,Manalapan,07726,NJ,US,(732) 972-6200,Assisted Living Residence,05MOOY,08/31/2018,Ms. JOANNE PROSPERO,73
+USA-NJ-44-NJ-HealthFacilities-output-579,Arbor Terrace Shrewsbury,864 Shrewsbury Avenue,,Tinton Falls,07724,NJ,US,(732) 784-2400,Assisted Living Residence,Q4VDWW,03/31/2018,Ms. MEGHAN WINDREM,124
+USA-NJ-44-NJ-HealthFacilities-output-580,Weston Assisted Living Residence,905 Route 10 East,,Whippany,07981,NJ,US,(973) 929-2700,Assisted Living Residence,QPB2N9,01/31/2018,Ms. MARLENE GLASS,60
+USA-NJ-44-NJ-HealthFacilities-output-581,Continuing Care At Seabrook,3002 Essex Road,,Tinton Falls,07753,NJ,US,(732) 643-2029,Assisted Living Residence,T5SN2I,06/30/2018,Ms. MARTA OLANDER,96
+USA-NJ-44-NJ-HealthFacilities-output-582,Magnolia Gardens,1935 Lakewood Road,,Toms River,08755,NJ,US,(732) 557-6500,Assisted Living Residence,YMOSFX,01/31/2018,Ms. CHRISTINE DELVALLE,120
+USA-NJ-44-NJ-HealthFacilities-output-583,Brandywine Senior Living At Pennington,143 West Franklin Avenue,,Pennington,08534,NJ,US,(609) 730-9922,Assisted Living Residence,ZRXUPT,10/31/2017,Ms. ELLEN MOYLE,119

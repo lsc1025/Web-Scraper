@@ -1,0 +1,584 @@
+name,contact_first_name,contact_last_name,contact_name,email,contact_email,fax,mailing_address_line_1,mailing_address_line_2,mailing_city,mailing_contact_first_name,mailing_contact_last_name,mailing_contact_name,mailing_country,mailing_county,mailing_postalcode,mailing_province,provider_name,primary_phone,secondary_phone,twitter,website,source,contact_occupation,dsgne_first_name,dsgne_last_name,admin_name,co_address_line_1,co_address_line_2,co_company,co_city,co_postalcode,co_province,ombudsman_phone,typeofcare,typeofcare2,low_high_rate,low_rate,high_rate,address_line_1,address_line_2,address_directions,city,municipality,region,province,state_id,postal_code,country,latitude,longitude,neighborhood,addr_valid
+Sunrise Assisted Living Of Marlboro,,,,,,,,,,,,,,,,,,(732) 409-6665,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,3a South Main Street,,,Marlboro,,,NJ,,07746,US,40.3131558,-74.2476657,,True
+Seashore Gardens Living Center,,,,,,,,,,,,,,,,,,(609) 404-4848,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,22 West Jimmie Leeds Road,,,Galloway Township,,,NJ,,08205,US,39.473857,-74.533734,Pomona,True
+The Actors' Fund Homes,,,,,,,,,,,,,,,,,,(201) 871-8882,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,175 West Hudson Ave,,,Englewood,,,NJ,,07631,US,40.91146639999999,-73.9755887,,True
+United Methodist Communities At Bristol Glen,,,,,,,,,,,,,,,,,,(973) 300-5788,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,200 Bristol Glen Drive,,,Newton,,,NJ,,07860,US,41.0440845,-74.7648823,,True
+The Orchards At Bartley,,,,,,,,,,,,,,,,,,(732) 730-1700,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,100 North County Line Road,,,Jackson,,,NJ,,08527,US,40.1340326,-74.2814882,,True
+Meadowview Nursing And Rehabilitation Center,,,,,,,,,,,,,,,,,,(609) 645-5955,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,235 Dolphin Ave,,,Northfield,,,NJ,,08225,US,39.3799402,-74.54231810000002,,True
+The Voorhees Care & Rehabilitation Center,,,,,,,,,,,,,,,,,,(856) 346-1200,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1302 Laurel Oak Road,,,Voorhees,,,NJ,,08043,US,39.8494948,-74.9701187,,True
+Aristacare At Cherry Hill,,,,,,,,,,,,,,,,,,(856) 663-9009,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1399 Chapel Ave West,,,Cherry Hill,,,NJ,,08002,US,39.937888,-75.03723719999999,Golden Triangle,True
+Autumn Lake Healthcare At Oceanview,,,,,,,,,,,,,,,,,,(609) 624-3881,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,2721 Route 9,,,Ocean View,,,NJ,,08230,US,39.1898952,-74.72140120000002,,False
+Alaris Health At Jersey City,,,,,,,,,,,,,,,,,,(201) 451-9000,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,198 Stevens Ave,,,Jersey City,,,NJ,,07305,US,40.7045666,-74.09192,Greenville,True
+"Hamilton Grove Healthcare And Rehabilitation, Llc",,,,,,,,,,,,,,,,,,(609) 588-5800,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,2300 Hamilton Ave,,,Hamilton,,,NJ,,08619,US,40.2309554,-74.7057543,Mercerville-Hamilton Square,True
+Riverside Nursing And Rehabilitation Center,,,,,,,,,,,,,,,,,,(609) 394-3400,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,325 Jersey Street,,,Trenton,,,NJ,,08611,US,40.2001691,-74.75114359999999,Chestnut Park,True
+Jfk Hartwyck At Edison Estates,,,,,,,,,,,,,,,,,,(732) 985-1500,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,10 Brunswick Avenue,,,Edison,,,NJ,,08817,US,40.5265836,-74.4125318,,True
+Francis E Parker Memorial Home New Brunswick,,,,,,,,,,,,,,,,,,(732) 545-3110,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,Easton Ave At Landing Lane,,,New Brunswick,,,NJ,,08901,US,40.5048819,-74.466921,,False
+Bayshore Health Care Center,,,,,,,,,,,,,,,,,,(732) 847-3000,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,715 North Beers Street,,,Holmdel,,,NJ,,07733,US,40.4083467,-74.1944613,,True
+Regency Grande Nursing And Rehabilitation Center,,,,,,,,,,,,,,,,,,(973) 361-5200,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,65 North Sussex Street,,,Dover,,,NJ,,07801,US,40.88676449999999,-74.55915259999999,,True
+Aristacare At Manchester,,,,,,,,,,,,,,,,,,(732) 657-1800,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1770 Tobias Avenue,,,Manchester,,,NJ,,08759,US,40.0156733,-74.3025054,Leisure Knoll,True
+The Wanaque Center For Nursing & Rehabilitation,,,,,,,,,,,,,,,,,,(973) 839-2119,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1433 Ringwood Ave,,,Haskell,,,NJ,,07420,US,41.0142596,-74.2984362,Haskell,True
+"Friends Village At Woodstown, Inc.",,,,,,,,,,,,,,,,,,(856) 769-1500,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1 Friends Drive,,,Woodstown,,,NJ,,08098,US,39.6477663,-75.31560429999999,,True
+Southgate Health Care Center,,,,,,,,,,,,,,,,,,(856) 299-8900,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,449 S Pennsville-Auburn Road,,,Carneys Point,,,NJ,,08069,US,39.68836899999999,-75.4703782,Carneys Point,True
+Foothill Acres Rehabilitation & Nursing Center,,,,,,,,,,,,,,,,,,(908) 369-8711,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,39 East Mountain Road,,,Hillsborough,,,NJ,,08844,US,40.5062161,-74.6893686,,True
+Clover Rest Home,,,,,,,,,,,,,,,,,,(908) 496-4307,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,28 Washington Street,,,Columbia,,,NJ,,07832,US,40.9254968,-75.0939369,,True
+Reflections At Colts Neck,,,,,,,,,,,,,,,,,,(732) 303-3100,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,3 Meridian Circle,,,Colts Neck,,,NJ,,07722,US,40.28064020000001,-74.1736097,,True
+Mt Arlington Senior Living,,,,,,,,,,,,,,,,,,(973) 601-0988,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,2 Hillside Drive,,,Mount Arlington,,,NJ,,07856,US,40.9039379,-74.638722,,True
+Brandywine Assisted Living At Howell,,,,,,,,,,,,,,,,,,(732) 719-0100,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,100 Meridian Place,,,Howell,,,NJ,,07731,US,40.17677500000001,-74.285088,,True
+Sunrise Assisted Living Of Lincroft,,,,,,,,,,,,,,,,,,(732) 212-1910,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,734 Newman Springs Road,,,Lincroft,,,NJ,,07738,US,40.3323269,-74.1246094,Lincroft,True
+The Clare Estate,,,,,,,,,,,,,,,,,,(609) 298-9960,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,201 Crosswicks Street,,,Bordentown,,,NJ,,08505,US,40.1466558,-74.7041136,,True
+Brandywine Senior Living At Princeton,,,,,,,,,,,,,,,,,,(732) 329-8888,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,155 Raymond Road,,,Princeton,,,NJ,,08540,US,40.3801449,-74.5845196,,True
+Egg Harbor Care Center,,,,,,,,,,,,,,,,,,(609) 453-3200,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,6818 Delilah Road,,,Egg Harbor Township,,,NJ,,08234,US,39.4132205,-74.5289074,,True
+Renaissance Pavilion,,,,,,,,,,,,,,,,,,(609) 652-7000,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,61 W Jimmie Leeds Road,,,Pomona,,,NJ,,08240,US,39.4788204,-74.5397117,,True
+Royal Suites Health Care & Rehabilitation,,,,,,,,,,,,,,,,,,(609) 748-9900,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,214 West Jimmie Leeds Road,,,Galloway Township,,,NJ,,08205,US,39.477649,-74.5614779,Pomona,True
+Seashore Gardens Living Center,,,,,,,,,,,,,,,,,,(609) 404-4848,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,22 West Jimmie Leeds Road,,,Galloway Township,,,NJ,,08205,US,39.473857,-74.533734,Pomona,True
+"Caring Senior Living, Inc",,,,,,,,,,,,,,,,,,(609) 345-3089,,,,,,,,,,,,,,,,,Assisted Living Program,,,,227 North Vermont Avenue,,,Atlantic City,,,NJ,,08401,US,39.3713408,-74.4162067,,True
+Care One At Teaneck,,,,,,,,,,,,,,,,,,(201) 862-3300,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,544 Teaneck Road,,,Teaneck,,,NJ,,07666,US,40.8775926,-74.011801,,True
+Jewish Home Assisted Living,,,,,,,,,,,,,,,,,,(201) 666-2370,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,685 Westwood Avenue,,,River Vale,,,NJ,,07675,US,40.994474,-74.0041687,Rivervale,True
+Five Star Premier Residences Of Teaneck,,,,,,,,,,,,,,,,,,(201) 836-3634,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,655 Pomander Walk,,,Teaneck,,,NJ,,07666,US,40.8896408,-74.0321606,,True
+The Bristal At Woodcliff Lake,,,,,,,,,,,,,,,,,,(201) 505-9500,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,364 Chestnut Ridge Road,,,Woodcliff Lake,,,NJ,,07677,US,41.03810590000001,-74.07391799999999,,True
+Brightview Paramus,,,,,,,,,,,,,,,,,,(201) 957-1966,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,396 Forest Avenue,,,Paramus,,,NJ,,07652,US,40.9426722,-74.050848,,True
+Portable Assisted Living Services (pals),,,,,,,,,,,,,,,,,,(201) 692-1000,,,,,,,,,,,,,,,,,Assisted Living Program,,,,300 Teaneck Road,,,Teaneck,,,NJ,,07666,US,40.87133670000001,-74.0139221,,True
+Brightview Tenafly,,,,,,,,,,,,,,,,,,(201) 510-2060,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,55 Hudson Avenue,,,Tenafly,,,NJ,,07670,US,40.93422099999999,-73.961078,,True
+Brandywine Senior Living At Mahwah,,,,,,,,,,,,,,,,,,(201) 800-8070,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,814 Wyckoff Avenue,,,Mahwah,,,NJ,,07430,US,41.0258113,-74.1674798,,True
+Powerback Rehabilitation Moorestown,,,,,,,,,,,,,,,,,,(856) 291-4800,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,212 Marter Avenue,,,Moorestown,,,NJ,,08057,US,39.9698991,-74.9214863,,True
+Laurel Brook Rehabilitation And Healthcare Center,,,,,,,,,,,,,,,,,,(856) 235-7100,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,3718 Church Road,,,Mount Laurel,,,NJ,,08054,US,39.9292806,-74.9766065,Ramblewood,True
+Care One At Evesham Assisted Living,,,,,,,,,,,,,,,,,,(856) 988-2400,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,874 Route 70 East,,,Marlton,,,NJ,,08053,US,39.8980034,-74.8687286,,True
+Care One Harmony Village At Moorestown,,,,,,,,,,,,,,,,,,(856) 638-1244,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,301 N Stanwick Road,,,Moorestown,,,NJ,,08057,US,39.9730033,-74.930722,,True
+The Evergreens,,,,,,,,,,,,,,,,,,(856) 439-2000,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,309 Bridgeboro Road,,,Moorestown,,,NJ,,08057,US,39.9844111,-74.9483891,,True
+Lutheran Crossings Enhanced Living,,,,,,,,,,,,,,,,,,(856) 235-1214,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,255 E Main Street,,,Moorestown,,,NJ,,08057,US,39.9694096,-74.9349277,Moorestown-Lenola,True
+Brightview Greentree,,,,,,,,,,,,,,,,,,(856) 810-0070,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,170 Greentree Road,,,Marlton,,,NJ,,08053,US,39.9134248,-74.92642359999999,Marlton,True
+"Artis Senior Living Of Evesham, Llc",,,,,,,,,,,,,,,,,,(856) 810-0007,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,302 Lippincott Drive,,,Evesham,,,NJ,,08053,US,39.8857,-74.92479999999999,Marlton,True
+Lions Gate,,,,,,,,,,,,,,,,,,(856) 667-3100,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1100 Laurel Oak Road,,,Voorhees,,,NJ,,08043,US,39.84884929999999,-74.9726768,,True
+"Powerback Rehabilitation, Route 73",,,,,,,,,,,,,,,,,,(856) 809-3500,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,113 South Route 73,,,Voorhees,,,NJ,,08043,US,39.8318148,-74.92779840000001,,False
+Brandywine Senior Living At Voorhees,,,,,,,,,,,,,,,,,,(856) 424-0004,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,311 Route 73 South,,,Voorhees,,,NJ,,08043,US,39.8499049,-74.92377060000001,,True
+Lions Gate,,,,,,,,,,,,,,,,,,(856) 667-3100,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,1100 Laurel Oak Road,,,Voorhees,,,NJ,,08043,US,39.84884929999999,-74.9726768,,True
+Bentley Alp,,,,,,,,,,,,,,,,,,(856) 488-5557,,,,,,,,,,,,,,,,,Assisted Living Program,,,,7999 North Route 130,,,Pennsauken,,,NJ,,08110,US,39.9752606,-75.0378695,,False
+Spring Hills Cherry Hill,,,,,,,,,,,,,,,,,,(856) 874-7700,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,1450 Marlton Pike,,,Cherry Hill,,,NJ,,08034,US,39.9108414,-74.9897579,Barclay-Kingston,True
+Dpsp Health Care,,,,,,,,,,,,,,,,,,(856) 308-2163,,,,,,,,,,,,,,,,,Assisted Living Program,,,,102 Hearthstone Drive,,,Berlin,,,NJ,,08009,US,39.7705259,-74.912274,,True
+Brandywine Senior Living At Haddonfield,,,,,,,,,,,,,,,,,,(856) 429-5500,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,132 Warwick Road,,,Haddonfield,,,NJ,,08033,US,39.8920942,-75.03844769999999,,True
+Victoria Manor,,,,,,,,,,,,,,,,,,(609) 898-0677,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,3809 Bayshore Road,,,North Cape May,,,NJ,,08204,US,38.9799275,-74.941713,,True
+Prospect Heights Care Center,,,,,,,,,,,,,,,,,,(201) 678-1800,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,336 Prospect Ave,,,Hackensack,,,NJ,,07601,US,40.8937702,-74.0522084,,True
+Alaris Health At The Chateau,,,,,,,,,,,,,,,,,,(201) 226-9600,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,96 Parkway,,,Rochelle Park,,,NJ,,07662,US,40.8976723,-74.07414469999999,,True
+Sunrise Assisted Living Of Cresskill,,,,,,,,,,,,,,,,,,(201) 871-0300,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,3 Tenakill Park Drive East,,,Cresskill,,,NJ,,07626,US,40.9392,-73.96355199999999,,True
+Clara Maass Transitional Care Unit,,,,,,,,,,,,,,,,,,(973) 450-2963,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1 Clara Maass Drive,,,Belleville,,,NJ,,07109,US,40.7857505,-74.1764017,,True
+Atria Roseland,,,,,,,,,,,,,,,,,,(973) 618-1888,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,345 Eagle Rock Avenue,,,Roseland,,,NJ,,07068,US,40.8192309,-74.3102727,,True
+Brandywine Living At Livingston,,,,,,,,,,,,,,,,,,(856) 813-2000,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,369 East Mtpleasant Avenue,,,Livingston,,,NJ,,07039,US,40.7967707,-74.2895539,,True
+Manorcare Health Services-Washington Township,,,,,,,,,,,,,,,,,,(856) 218-4200,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,378 Fries Mill Road,,,Sewell,,,NJ,,08080,US,39.7140764,-75.0498333,Sewell,True
+"Advanced Subacute Rehabilitation Center At Sewell, Llc",,,,,,,,,,,,,,,,,,(856) 468-2500,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,685 Salina Road,,,Sewell,,,NJ,,08080,US,39.779886,-75.1365507,Sewell,True
+Atrium Post Acute Care Of Woodbury,,,,,,,,,,,,,,,,,,(856) 345-1200,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,467 Cooper Street,,,Woodbury,,,NJ,,08096,US,39.83148500000001,-75.14232,,True
+Mullica Gardens Assisted Living,,,,,,,,,,,,,,,,,,(856) 434-4000,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,161 Mullica Hill Road,,,Mullica Hill,,,NJ,,08062,US,39.73403029999999,-75.2124702,,True
+Hoboken University Medical Center Transitional Care Unit,,,,,,,,,,,,,,,,,,(201) 418-1000,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,308 Willow Avenue,,,Hoboken,,,NJ,,07030,US,40.741148,-74.0341469,,True
+Bergen Regional Medical Center,,,,,,,,,,,,,,,,,,(201) 967-4000,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,230 E Ridgewood Ave,,,Paramus,,,NJ,,07652,US,40.9564184,-74.0587029,,True
+Brandywine Senior Care At Moorestown,,,,,,,,,,,,,,,,,,(856) 778-0600,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1205 North Church Street,,,Moorestown,,,NJ,,08057,US,39.9722279,-74.9684831,Moorestown-Lenola,True
+Care One At Moorestown,,,,,,,,,,,,,,,,,,(856) 914-0444,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,895 Westfield Avenue,,,Moorestown,,,NJ,,08057,US,39.9900098,-74.9366287,,True
+Alaris Health At Kearny,,,,,,,,,,,,,,,,,,(201) 955-7067,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,206 Bergen Ave,,,Kearny,,,NJ,,07032,US,40.7579399,-74.1490927,,True
+Granville Place,,,,,,,,,,,,,,,,,,(609) 239-5440,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,111 Sunset Road,,,Burlington,,,NJ,,08016,US,40.0501298,-74.8448875,,True
+Brookdale Florence,,,,,,,,,,,,,,,,,,(609) 499-6662,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,901 Broad Street,,,Florence,,,NJ,,08518,US,40.1129863,-74.80958849999999,Florence,True
+Brandywine Assisted Living At Moorestown Estates,,,,,,,,,,,,,,,,,,(856) 778-0600,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,1205 N Church Street,,,Moorestown,,,NJ,,08057,US,39.9722279,-74.9684831,Moorestown-Lenola,True
+Care One At Moorestown,,,,,,,,,,,,,,,,,,(856) 914-0444,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,895 Westfield Avenue,,,Moorestown,,,NJ,,08057,US,39.9900098,-74.9366287,,True
+The Clare Estate,,,,,,,,,,,,,,,,,,(609) 298-6628,,,,,,,,,,,,,,,,,Assisted Living Program,,,,201 Crosswicks Street,,,Bordentown,,,NJ,,08505,US,40.1466558,-74.7041136,,True
+Atrium Post Acute Care Of Hamilton,,,,,,,,,,,,,,,,,,(609) 631-2555,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,3 Hamilton Health Place,,,Hamilton,,,NJ,,08690,US,40.2153605,-74.67488759999999,,True
+Merwick Care & Rehabilitation Center,,,,,,,,,,,,,,,,,,(609) 759-6000,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,100 Plainsboro Road,,,Plainsboro,,,NJ,,08536,US,40.3361968,-74.62229959999999,Cranbury,True
+The Dwelling Place At Saint Clare's,,,,,,,,,,,,,,,,,,(973) 989-3500,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,400 West Blackwell St,,,Dover,,,NJ,,07801,US,40.8848548,-74.5759522,,True
+Atlantic Rehabilitation Institute,,,,,,,,,,,,,,,,,,(973) 971-4481,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,95 Mt Kemble Avenue,,,Morristown,,,NJ,,07960,US,40.78965349999999,-74.4892469,,True
+Alaris Health At Belgrove,,,,,,,,,,,,,,,,,,(973) 844-4800,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,195 Belgrove Drive,,,Kearny,,,NJ,,07032,US,40.758939,-74.15781129999999,,True
+"Assisted Living, Inc",,,,,,,,,,,,,,,,,,(609) 432-4430,,,,,,,,,,,,,,,,,Assisted Living Program,,,,1015 Whitehead Road Extension,,,Ewing,,,NJ,,08638,US,40.261659,-74.7568163,,True
+St. Francis Assisted Living Program,,,,,,,,,,,,,,,,,,(609) 599-5161,,,,,,,,,,,,,,,,,Assisted Living Program,,,,601 Hamilton Avenue,,,Trenton,,,NJ,,08629,US,40.216605,-74.7412866,,True
+Trinitas Hospital,,,,,,,,,,,,,,,,,,(908) 994-7525,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,655 East Jersey Street,,,Elizabeth,,,NJ,,07206,US,40.6591256,-74.1975535,,True
+Care Connection Rahway,,,,,,,,,,,,,,,,,,(732) 499-6460,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,865 Stone Street,,,Rahway,,,NJ,,07065,US,40.6130787,-74.2909286,,True
+Roosevelt Care Center At Old Bridge,,,,,,,,,,,,,,,,,,(732) 360-9830,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1133 Marlboro Road,,,Old Bridge,,,NJ,,08857,US,40.3639676,-74.3194887,Old Bridge,True
+The Venetian Care & Rehabilitation Center,,,,,,,,,,,,,,,,,,(732) 654-1700,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,275 John T O'leary Boulevard,,,South Amboy,,,NJ,,08879,US,40.47760679999999,-74.27776159999999,,True
+Parker At Monroe,,,,,,,,,,,,,,,,,,(732) 992-5200,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,395 School House Road,,,Monroe,,,NJ,,08831,US,40.3331918,-74.4018133,,True
+Lapid Manor,,,,,,,,,,,,,,,,,,(732) 286-2323,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,10 Sterling Drive,,,Piscataway,,,NJ,,08854,US,40.5369903,-74.4757832,,True
+Parker At Stonegate,,,,,,,,,,,,,,,,,,(732) 565-2500,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,443 River Road,,,Highland Park,,,NJ,,08904,US,40.5085298,-74.4440403,,True
+Care Strategies,,,,,,,,,,,,,,,,,,(609) 656-4205,,,,,,,,,,,,,,,,,Assisted Living Program,,,,201 Crosswicks Street,,,Bordentown,,,NJ,,08505,US,40.1466558,-74.7041136,,True
+Wedgwood Gardens Care Center,,,,,,,,,,,,,,,,,,(732) 677-1200,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,3419 Highway 9,,,Freehold,,,NJ,,07728,US,40.2282359,-74.2707514,West Freehold,False
+Meridian Subacute Rehabilitation,,,,,,,,,,,,,,,,,,(732) 312-1800,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1725 Meridian Trail,,,Wall,,,NJ,,07719,US,40.17266559999999,-74.065258,,True
+Applewood Estates Assisted Living Residence,,,,,,,,,,,,,,,,,,(732) 780-7370,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,1 Applewood Drive,,,Freehold,,,NJ,,07728,US,40.24899599999999,-74.315584,,True
+Arbor Terrace Of Morris Plains,,,,,,,,,,,,,,,,,,(610) 246-6663,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,361 Speedwell Avenue,,,Morris Plains,,,NJ,,07950,US,40.8231982,-74.4801766,,True
+The Solana Marlboro,,,,,,,,,,,,,,,,,,(732) 536-3000,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,52 County Road 520,,,Morganville,,,NJ,,07751,US,40.3527691,-74.3035611,Morganville,True
+Sunnyside Manor,,,,,,,,,,,,,,,,,,(732) 528-9311,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,2500 Ridgewood Road,,,Wall,,,NJ,,07719,US,40.14298549999999,-74.0861803,,True
+Arbor Terrace Of Middletown,,,,,,,,,,,,,,,,,,(732) 957-0083,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,1800 Highway 35 South,,,Middletown,,,NJ,,07748,US,40.408281,-74.1308725,,True
+Care One At Hanover Township,,,,,,,,,,,,,,,,,,(973) 599-7500,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,101 Whippany Road,,,Whippany,,,NJ,,07981,US,40.81708709999999,-74.419581,Whippany,True
+"Merry Heart Assisted Living, Llc",,,,,,,,,,,,,,,,,,(973) 584-4000,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,118 Main Street,,,Succasunna,,,NJ,,07876,US,40.869653,-74.64123359999999,Succasunna,True
+Virtua Health & Rehabilitation Center At Berlin,,,,,,,,,,,,,,,,,,(856) 322-3600,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,100 Long-A-Coming Lane,,,Berlin,,,NJ,,08009,US,39.78070160000001,-74.9209345,,True
+Care One At Evesham,,,,,,,,,,,,,,,,,,(856) 396-0005,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,870 East Route 70,,,Marlton,,,NJ,,08053,US,39.8978127,-74.86800629999999,Marlton,False
+Manorcare Health Services Voorhees,,,,,,,,,,,,,,,,,,(856) 454-9100,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1086 Dumont Circle,,,Voorhees,,,NJ,,08043,US,39.8415475,-74.9792882,Echelon,True
+Brookdale Evesham,,,,,,,,,,,,,,,,,,(856) 424-7773,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,1 Brendenwood Drive,,,Voorhees,,,NJ,,08043,US,39.87046480000001,-74.93366929999999,,True
+Arden Courts Of Cherry Hill,,,,,,,,,,,,,,,,,,(856) 667-6543,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,2700 Chapel Avenue,,,Cherry Hill,,,NJ,,08002,US,39.92831350000001,-75.01351129999999,Erlton-Ellisburg,True
+Brookdale Marlton Crossing,,,,,,,,,,,,,,,,,,(856) 424-7227,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,1979 Route 70 East,,,Cherry Hill,,,NJ,,08003,US,39.89857689999999,-74.9570445,Greentree,True
+Voorhees Senior Living,,,,,,,,,,,,,,,,,,(856) 566-2340,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,501 Laurel Oak Road,,,Voorhees,,,NJ,,08043,US,39.8428511,-74.9843185,Echelon,True
+Cherry Hill Senior Living,,,,,,,,,,,,,,,,,,(856) 482-9300,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,490 Cooper Landing Road,,,Cherry Hill,,,NJ,,08002,US,39.9255708,-75.01666209999999,Golden Triangle,True
+Premier Cadbury Of Cherry Hill,,,,,,,,,,,,,,,,,,(856) 667-4550,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,2150 Route 38,,,Cherry Hill,,,NJ,,08002,US,39.9407915,-75.0158058,,False
+Brookdale Voorhees,,,,,,,,,,,,,,,,,,(856) 783-8383,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,1301 Laurel Oak Road,,,Voorhees,,,NJ,,08043,US,39.84824950000001,-74.9688067,,True
+The Fountains At Cedar Parke,,,,,,,,,,,,,,,,,,(856) 753-2000,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,114 Hayes Mill Road,,,Atco,,,NJ,,08004,US,39.7633006,-74.90626639999999,,True
+Spring Oak Assisted Living At Voorhees,,,,,,,,,,,,,,,,,,(856) 719-9599,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,396 So White Horse Pike,,,Berlin,,,NJ,,08009,US,39.7819583,-74.9159968,,True
+Spring Oak Of Toms River,,,,,,,,,,,,,,,,,,(732) 905-9222,,,,,,,,,,,,,,,,,Assisted Living Program,,,,2145 Whitesville Road,,,Toms River,,,NJ,,08755,US,40.0394788,-74.24323629999999,,True
+Sunrise Assisted Living Of Jackson,,,,,,,,,,,,,,,,,,(732) 928-5600,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,390 North County Line Road,,,Jackson,,,NJ,,08527,US,40.142134,-74.30323849999999,,True
+The Terraces At Seacrest Village,,,,,,,,,,,,,,,,,,(609) 857-4141,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,281 Mathistown Road,,,Little Egg Harbor Tw,,,NJ,,08087,US,39.5847723,-74.374906,Mystic Island,True
+Care One At Jackson Assisted Living,,,,,,,,,,,,,,,,,,(732) 367-6600,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,11 History Lane,,,Jackson,,,NJ,,08527,US,40.1261709,-74.26635449999999,,True
+"Barnert Subacute Rehabilitation Center, Llc",,,,,,,,,,,,,,,,,,(973) 754-0999,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,680 Broadway,Suite 301,,Paterson,,,NJ,,07514,US,40.9175923,-74.1441037,,True
+Chestnut Hill Residence,,,,,,,,,,,,,,,,,,(973) 777-7800,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,338 Chestnut Street,,,Passaic,,,NJ,,07055,US,40.86483310000001,-74.13640869999999,,True
+Bridgeway Care And Rehabilitation Center At Hillsborough,,,,,,,,,,,,,,,,,,(908) 281-4400,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,395 Amwell Road,,,Hillsborough,,,NJ,,08844,US,40.5021426,-74.63835519999999,,True
+Somerset Woods Rehabilitation & Nursing Center,,,,,,,,,,,,,,,,,,(732) 653-3000,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,780 Old New Brunswick Road,,,Somerset,,,NJ,,08873,US,40.528716,-74.53571099999999,Somerset,True
+Brightview Warren,,,,,,,,,,,,,,,,,,(908) 756-3790,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,57 Mt Bethel Road,,,Warren,,,NJ,,07059,US,40.619571,-74.498024,,True
+Care One At Somerset Valley Assisted Living,,,,,,,,,,,,,,,,,,(732) 469-2000,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,1621 Route 22 West,,,Bound Brook,,,NJ,,08805,US,40.5762636,-74.5494557,Martinsville,True
+"Evermay At Branchville, Llc",,,,,,,,,,,,,,,,,,(973) 948-8884,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,3 Phillips Road,,,Branchville,,,NJ,,07826,US,41.1561949,-74.748361,,True
+Brandall Estates,,,,,,,,,,,,,,,,,,(609) 926-4663,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,432 Central Avenue,,,Linwood,,,NJ,,08221,US,39.3594352,-74.568911,,True
+Woodview Estates,,,,,,,,,,,,,,,,,,(609) 625-4878,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,5030 Unami Boulevard,,,Mays Landing,,,NJ,,08330,US,39.43972979999999,-74.6874217,Mays Landing,True
+Somers Place,,,,,,,,,,,,,,,,,,(609) 926-5891,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,199 Steelmanville Road,,,Egg Harbor Township,,,NJ,,08234,US,39.34672580000001,-74.604451,,True
+Spring Village At Galloway,,,,,,,,,,,,,,,,,,(609) 404-1126,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,42 West Jimmie Leeds,,,Galloway Township,,,NJ,,08205,US,39.475309,-74.5382503,Pomona,True
+Spring Village At Galloway,,,,,,,,,,,,,,,,,,(609) 404-1099,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,46 West Jimmie Leeds Road,,,Galloway Township,,,NJ,,08205,US,39.474319,-74.536956,Pomona,True
+Villa Raffaella Assisted Living Community,,,,,,,,,,,,,,,,,,(609) 645-9300,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,917 S Main Street,,,Pleasantville,,,NJ,,08232,US,39.3831101,-74.530684,,True
+The Heritage Assisted Living,,,,,,,,,,,,,,,,,,(609) 561-8977,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,45 Route 206,,,Hammonton,,,NJ,,08037,US,39.6510372,-74.7886762,,False
+St. Catherine Of Siena,,,,,,,,,,,,,,,,,,(973) 226-1577,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,7 Ryerson Avenue,,,Caldwell,,,NJ,,07006,US,40.8320799,-74.2702268,,True
+The Wexford At Wall Township,,,,,,,,,,,,,,,,,,(732) 282-1014,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,2018 Highway 35,,,Spring Lake,,,NJ,,07762,US,40.1503588,-74.0549008,,False
+Continuing Care At Lantern Hill,,,,,,,,,,,,,,,,,,(908) 516-9300,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,537 Mountain Avenue,,,New Providence,,,NJ,,07974,US,40.6869283,-74.3997129,,True
+Brookdale Cape May,,,,,,,,,,,,,,,,,,(609) 463-6344,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,591 Route 9 South,,,Cape May Court House,,,NJ,,08210,US,39.0659077,-74.83315,Cape May Court House,True
+United Methodist Communities At The Shores,,,,,,,,,,,,,,,,,,(609) 399-8505,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,2201 Bay Avenue,,,Ocean City,,,NJ,,08226,US,39.26635669999999,-74.5979759,,True
+Care Strategies,,,,,,,,,,,,,,,,,,(609) 656-4205,,,,,,,,,,,,,,,,,Assisted Living Program,,,,201 Crosswicks Street,,,Bordentown,,,NJ,,08505,US,40.1466558,-74.7041136,,True
+Continuing Care At Lantern Hill,,,,,,,,,,,,,,,,,,(908) 516-9300,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,537 Mountain Avenue,,,New Providence,,,NJ,,07974,US,40.6869283,-74.3997129,,True
+Wildwood Housing Authority,,,,,,,,,,,,,,,,,,(609) 729-0220,,,,,,,,,,,,,,,,,Assisted Living Program,,,,3700 New Jersey Ave,,,Wildwood,,,NJ,,08260,US,38.99007880000001,-74.8172329,,True
+St. Lawrence Rehabilitation Center,,,,,,,,,,,,,,,,,,(609) 896-9500,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,2381 Lawrenceville Road,,,Lawrenceville,,,NJ,,08648,US,40.2882584,-74.7355942,,True
+The Chelsea At Brookfield,,,,,,,,,,,,,,,,,,(908) 475-5556,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,1 Brookfield Court,,,Belvidere,,,NJ,,07823,US,40.81507870000001,-75.0584013,,True
+Runnells Center For Rehabilitation & Healthcare,,,,,,,,,,,,,,,,,,(908) 771-5700,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,40 Watchung Way,,,Berkeley Heights,,,NJ,,07922,US,40.6651468,-74.4217615,,True
+Children's Specialized Hospital,,,,,,,,,,,,,,,,,,(732) 797-3800,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,94 Stevens Road,,,Toms River,,,NJ,,08755,US,40.009668,-74.222083,,True
+Children's Specialized Hospital,,,,,,,,,,,,,,,,,,(908) 233-3720,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,150 New Providence Road,,,Mountainside,,,NJ,,07092,US,40.669838,-74.354066,,True
+Baker Place,,,,,,,,,,,,,,,,,,(856) 691-9111,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,685 S Brewster Road,,,Vineland,,,NJ,,08360,US,39.47354610000001,-74.97567500000001,,True
+Spring Oak Assisted Living At Vineland,,,,,,,,,,,,,,,,,,(856) 507-1505,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,1611 South Main Road,,,Vineland,,,NJ,,08360,US,39.4620738,-75.005766,,True
+Armenian Nursing And Rehabilitation Center,,,,,,,,,,,,,,,,,,(201) 261-6662,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,70 Main Street,,,Emerson,,,NJ,,07630,US,40.9747086,-74.0185364,,True
+Baptist Home Of South Jersey,,,,,,,,,,,,,,,,,,(856) 829-2274,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,303 Bank Ave,,,Riverton,,,NJ,,08077,US,40.0134037,-75.0192914,,True
+The Evergreens,,,,,,,,,,,,,,,,,,(856) 439-2000,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,309 Bridgeboro Road,,,Moorestown,,,NJ,,08057,US,39.9844111,-74.9483891,,True
+Lutheran Crossings Enhanced Living At Moorestown,,,,,,,,,,,,,,,,,,(856) 235-1214,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,255 East Main St,,,Moorestown,,,NJ,,08057,US,39.9694096,-74.9349277,Moorestown-Lenola,True
+Masonic Village At Burlington,,,,,,,,,,,,,,,,,,(609) 239-3900,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,902 Jacksonville Road,,,Burlington,,,NJ,,08016,US,40.06185850000001,-74.8265236,,True
+Wiley Mission Home For The Aged,,,,,,,,,,,,,,,,,,(856) 983-0411,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,99 East Main Street,,,Marlton,,,NJ,,08053,US,39.8875012,-74.9131364,Marlton,True
+United Methodist Communities At Collingswood,,,,,,,,,,,,,,,,,,(856) 854-4331,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,460 Haddon Ave,,,Collingswood,,,NJ,,08108,US,39.91807659999999,-75.07670399999999,,True
+St. Mary's Center For Rehabilitation & Healthcare,,,,,,,,,,,,,,,,,,(856) 874-5300,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,210 St Mary's Drive,,,Cherry Hill,,,NJ,,08003,US,39.884926,-74.96573099999999,,True
+United Methodist Communities At The Shores,,,,,,,,,,,,,,,,,,(609) 399-8505,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,2201 Bay Avenue,,,Ocean City,,,NJ,,08226,US,39.26635669999999,-74.5979759,,True
+Alaris Health At West Orange,,,,,,,,,,,,,,,,,,(973) 324-3000,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,5 Brook End Drive,,,West Orange,,,NJ,,07052,US,40.771553,-74.2827342,,True
+Hackensack-Umc Mountainside,,,,,,,,,,,,,,,,,,(973) 429-6949,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1 Bay Ave,,,Montclair,,,NJ,,07042,US,40.8121043,-74.20395850000001,,True
+Lutheran Social Ministries At Crane's Mill,,,,,,,,,,,,,,,,,,(973) 276-3018,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,459 Passaic Avenue,,,West Caldwell,,,NJ,,07006,US,40.843372,-74.30501199999999,,True
+Care One At Livingston,,,,,,,,,,,,,,,,,,(973) 758-9000,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,68 Passaic Avenue,,,Livingston,,,NJ,,07039,US,40.76725039999999,-74.35399190000001,,True
+Job Haines Home For Aged People,,,,,,,,,,,,,,,,,,(973) 743-0792,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,250 Bloomfield Ave,,,Bloomfield,,,NJ,,07003,US,40.78324320000001,-74.1929287,,True
+Green Hill,,,,,,,,,,,,,,,,,,(973) 731-2300,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,103 Pleasant Valley Way,,,West Orange,,,NJ,,07052,US,40.82160729999999,-74.25463839999999,,True
+Reformed Church Home,,,,,,,,,,,,,,,,,,(732) 607-9230,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1990 Route 18 North,,,Old Bridge,,,NJ,,08857,US,40.3843696,-74.3279522,Old Bridge,True
+United Methodist Communities At Pitman,,,,,,,,,,,,,,,,,,(856) 589-7800,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,535 N Oak Ave,,,Pitman,,,NJ,,08071,US,39.7375164,-75.13710669999999,,True
+"Hudson Hills Senior Living, Llc",,,,,,,,,,,,,,,,,,(201) 867-3585,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,3161 Kennedy Blvd,,,North Bergen,,,NJ,,07047,US,40.775877,-74.03346189999999,,True
+St. Ann's Home For The Aged,,,,,,,,,,,,,,,,,,(201) 433-0950,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,198 Old Bergen Road,,,Jersey City,,,NJ,,07305,US,40.6959817,-74.09303229999999,Greenville,True
+Margaret Anna Cusack Care Center,,,,,,,,,,,,,,,,,,(201) 653-8300,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,537 Pavonia Avenue,,,Jersey City,,,NJ,,07306,US,40.7311789,-74.0582342,Journal Square,True
+Winchester Gardens,,,,,,,,,,,,,,,,,,(973) 762-5050,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,333 Elmwood Avenue,,,Maplewood,,,NJ,,07040,US,40.7268469,-74.25482869999999,,True
+Brookdale West Orange,,,,,,,,,,,,,,,,,,(973) 325-5700,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,520 Prospect Avenue,,,West Orange,,,NJ,,07052,US,40.786439,-74.2562793,,True
+Arden Courts Of West Orange,,,,,,,,,,,,,,,,,,(973) 736-3100,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,510 Prospect Avenue,,,West Orange,,,NJ,,07052,US,40.7927398,-74.25575669999999,,True
+Sunrise Assisted Living At West Essex,,,,,,,,,,,,,,,,,,(973) 228-7890,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,47 Greenbrook Road,,,Fairfield,,,NJ,,07004,US,40.87239900000001,-74.2732973,,True
+Brighton Gardens Of West Orange,,,,,,,,,,,,,,,,,,(973) 731-9840,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,220 Pleasant Valley Way,,,West Orange,,,NJ,,07052,US,40.8173856,-74.25385080000001,,True
+Lutheran Social Ministries At Crane's Mill,,,,,,,,,,,,,,,,,,(973) 276-3018,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,459 Passaic Avenue,,,West Caldwell,,,NJ,,07006,US,40.843372,-74.30501199999999,,True
+Job Haines Home For Aged People/hearthside Commons,,,,,,,,,,,,,,,,,,(973) 743-0792,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,250 Bloomfield Avenue,,,Bloomfield,,,NJ,,07003,US,40.78324320000001,-74.1929287,,True
+The Cliffs At Eagle Rock,,,,,,,,,,,,,,,,,,(973) 669-0011,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,707 Eagle Rock Avenue,,,West Orange,,,NJ,,07052,US,40.8124196,-74.264033,,True
+Care One At Livingston Assisted Living,,,,,,,,,,,,,,,,,,(973) 758-4100,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,76 Passaic Avenue,,,Livingston,,,NJ,,07039,US,40.7672617,-74.35398769999999,,True
+Greenwood House Home For The Jewish Aged,,,,,,,,,,,,,,,,,,(609) 883-5391,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,53 Walter Street,,,Trenton,,,NJ,,08628,US,40.2607678,-74.802185,,True
+Presbyterian Home At Meadow Lakes,,,,,,,,,,,,,,,,,,(609) 448-4100,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,300 Meadow Lakes,,,Hightstown,,,NJ,,08520,US,40.2578423,-74.5161431,,True
+Morris Hall/st. Joseph's Nursing Center,,,,,,,,,,,,,,,,,,(609) 896-0006,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1 Bishops Drive,,,Lawrenceville,,,NJ,,08648,US,40.28763600000001,-74.737104,Lawrenceville,True
+The Atrium At Navesink Harbor,,,,,,,,,,,,,,,,,,(732) 842-3400,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,40 Riverside Avenue,,,Red Bank,,,NJ,,07701,US,40.3521423,-74.0715915,,True
+Heath Village,,,,,,,,,,,,,,,,,,(908) 852-4801,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,430 Schooley's Mountain Rd,,,Hackettstown,,,NJ,,07840,US,40.8229903,-74.8188401,,True
+Daughters Of Miriam Center,,,,,,,,,,,,,,,,,,(973) 772-3700,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,155 Hazel Street,,,Clifton,,,NJ,,07011,US,40.88334419999999,-74.16040459999999,,True
+Holland Christian Home,,,,,,,,,,,,,,,,,,(973) 427-4087,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,151 Graham Avenue,,,North Haledon,,,NJ,,07508,US,40.9727258,-74.1850747,,True
+St. Joseph's Home For Elderly,,,,,,,,,,,,,,,,,,(973) 942-0300,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,140 Shepherd Lane,,,Totowa,,,NJ,,07512,US,40.9154293,-74.2075953,,True
+"N. J.  Eastern Star Home, Inc.",,,,,,,,,,,,,,,,,,(908) 722-4140,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,111 Finderne Avenue,,,Bridgewater,,,NJ,,08807,US,40.5672567,-74.5775211,,True
+Elmora Hills Health & Rehabilitation Center,,,,,,,,,,,,,,,,,,(908) 353-1220,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,225 W Jersey Street,,,Elizabeth,,,NJ,,07202,US,40.6637166,-74.2244085,,True
+House Of The Good Shepherd,,,,,,,,,,,,,,,,,,(908) 684-5900,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,798 Willow Grove Street,,,Hackettstown,,,NJ,,07840,US,40.8680823,-74.80891179999999,,True
+Brookdale Deptford,,,,,,,,,,,,,,,,,,(856) 686-9500,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,1674 Delsea Drive,,,Deptford,,,NJ,,08096,US,39.8150925,-75.1256928,,True
+Cardinal Village,,,,,,,,,,,,,,,,,,(856) 582-5292,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,455 Hurffville-Crosskeys Road,,,Sewell,,,NJ,,08080,US,39.7375838,-75.0693312,Sewell,True
+Washington Township Senior Living,,,,,,,,,,,,,,,,,,(856) 582-8700,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,600 Medical Center Drive,,,Sewell,,,NJ,,08080,US,39.73885,-75.063047,Sewell,True
+Terraces At Parke Place,,,,,,,,,,,,,,,,,,(856) 256-1776,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,661 Delsea Drive,,,Sewell,,,NJ,,08080,US,39.7422578,-75.1142167,Sewell,True
+"Juniper Village At Williamstown, Wellspring Memory Care Program",,,,,,,,,,,,,,,,,,(856) 740-9400,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,1648 S Black Horse Pike,,,Williamstown,,,NJ,,08094,US,39.6642894,-74.96755449999999,Williamstown,True
+Juniper Village At Williamstown,,,,,,,,,,,,,,,,,,(856) 740-9400,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,1640 S Black Horse Pike,,,Williamstown,,,NJ,,08094,US,39.6650164,-74.9672729,Williamstown,True
+Woodbury Mews Senior Living,,,,,,,,,,,,,,,,,,(856) 384-6600,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,124 Green Avenue,,,Woodbury,,,NJ,,08096,US,39.8333103,-75.150736,,True
+Greenfield Senior Living At Cross Keys,,,,,,,,,,,,,,,,,,(856) 307-2100,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,3152 Glassboro Cross Keys Road,,,Glassboro,,,NJ,,08028,US,39.7089864,-75.0838668,,True
+Manhattanview Nursing Home,,,,,,,,,,,,,,,,,,(201) 325-8400,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,3200 Hudson Avenue,,,Union City,,,NJ,,07087,US,40.769483,-74.026607,,True
+Bayonne Hospital Center Transitional Care Unit,,,,,,,,,,,,,,,,,,(201) 858-7330,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,29 East 29th Street,,,Bayonne,,,NJ,,07002,US,40.6681933,-74.11314949999999,Constable Hook,True
+Independence Manor At Hunterdon,,,,,,,,,,,,,,,,,,(908) 788-4893,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,188 State Highway 31,,,Flemington,,,NJ,,08822,US,40.53180699999999,-74.853951,,False
+Royal Health Gate Nursing & Rehabilitation,,,,,,,,,,,,,,,,,,(609) 656-9291,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1314 Brunswick Avenue,,,Trenton,,,NJ,,08638,US,40.24309569999999,-74.7439368,Top Road,True
+Preferred Care At Mercer,,,,,,,,,,,,,,,,,,(609) 882-6900,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1201 Parkway Avenue,,,Ewing,,,NJ,,08628,US,40.2617118,-74.7995933,,True
+Brookdale Hamilton,,,,,,,,,,,,,,,,,,(609) 586-4000,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,1645 Whitehorse-Mercerville Road,,,Trenton,,,NJ,,08619,US,40.2200029,-74.68718129999999,,True
+Presbyterian Home At Meadow Lakes,,,,,,,,,,,,,,,,,,(609) 448-4100,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,300 Meadow Lakes,,,East Windsor,,,NJ,,08520,US,40.2578423,-74.5161431,,True
+Rose Hill Assisted Living,,,,,,,,,,,,,,,,,,(609) 371-7007,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,1150 Washington Blvd,,,Robbinsville,,,NJ,,08691,US,40.223828,-74.634429,Town Center,True
+Acorn Glen,,,,,,,,,,,,,,,,,,(609) 430-4000,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,775 Mt Lucas Road,,,Princeton,,,NJ,,08540,US,40.3854184,-74.6532184,,True
+Abrams Residence,,,,,,,,,,,,,,,,,,(609) 883-5391,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,50 Walter Street,,,Ewing,,,NJ,,08628,US,40.2610375,-74.800472,,True
+New Jersey Veterans Memorial Vineland,,,,,,,,,,,,,,,,,,(856) 405-4207,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,524 North West Blvd,,,Vineland,,,NJ,,08360,US,39.49500829999999,-75.0276938,,True
+The Chelsea At East Brunswick,,,,,,,,,,,,,,,,,,(732) 651-6100,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,606 Cranbury Road,,,East Brunswick,,,NJ,,08816,US,40.4082729,-74.42029749999999,,True
+Brighton Gardens Of Edison,,,,,,,,,,,,,,,,,,(732) 767-1031,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,1801 Oak Tree Road,,,Edison,,,NJ,,08820,US,40.571437,-74.35204759999999,,True
+Reformed Church Home,,,,,,,,,,,,,,,,,,(732) 607-9230,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,1990 Route 18 North,,,Old Bridge,,,NJ,,08857,US,40.3843696,-74.3279522,Old Bridge,True
+Brookdale Monroe,,,,,,,,,,,,,,,,,,(609) 409-7525,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,380 Forsgate Drive,,,Monroe Township,,,NJ,,08831,US,40.3439145,-74.47493229999999,Rossmoor,True
+Sunrise Assisted Living Of East Brunswick,,,,,,,,,,,,,,,,,,(732) 613-1355,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,190 Summerhill Road,,,East Brunswick,,,NJ,,08816,US,40.42462769999999,-74.3890808,,True
+Heritage At Clara Barton,,,,,,,,,,,,,,,,,,(732) 225-5990,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,1015 Amboy Avenue,,,Edison,,,NJ,,08837,US,40.5338629,-74.33707869999999,,True
+Whispering Knoll Assisted Living,,,,,,,,,,,,,,,,,,(732) 744-5541,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,62 James Street,,,Edison,,,NJ,,08820,US,40.5585539,-74.3485386,,True
+Heritage At Clara Barton,,,,,,,,,,,,,,,,,,(732) 225-5990,,,,,,,,,,,,,,,,,Assisted Living Program,,,,1015 Amboy Avenue,,,Edison,,,NJ,,08837,US,40.5338629,-74.33707869999999,,True
+Monroe Village Assisted Living,,,,,,,,,,,,,,,,,,(732) 521-6400,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,1 David Brainerd Drive,,,Monroe Township,,,NJ,,08831,US,40.3377472,-74.4527743,,True
+New Jersey Veterans Memorial Home Menlo Park,,,,,,,,,,,,,,,,,,(732) 452-4100,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,132 Evergreen Rd,,,Edison,,,NJ,,08818,US,40.5547546,-74.3305949,,True
+Roosevelt Care Center,,,,,,,,,,,,,,,,,,(732) 321-6800,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,118 Parsonage Road,,,Edison,,,NJ,,08837,US,40.5522125,-74.3352561,,True
+Atrium Post Acute Care Of  Matawan,,,,,,,,,,,,,,,,,,(732) 765-5600,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,38 Freneau Avenue,,,Matawan,,,NJ,,07747,US,40.3999019,-74.2379275,,True
+Care One At Wall,,,,,,,,,,,,,,,,,,(732) 556-1060,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,2621 Highway 138,,,Wall,,,NJ,,07719,US,40.1700281,-74.0646793,,False
+The Chelsea At Tinton Falls,,,,,,,,,,,,,,,,,,(732) 933-4700,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,1 Hartford Drive,,,Tinton Falls,,,NJ,,07701,US,40.33005649999999,-74.07553209999999,,True
+Brighton Gardens Of Middletown,,,,,,,,,,,,,,,,,,(732) 275-0790,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,620 State Highway 35 South,,,Middletown,,,NJ,,07748,US,40.3822758,-74.0943132,,True
+Brandywine Assisted Living At Governor's Crossing,,,,,,,,,,,,,,,,,,(732) 786-1000,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,49 Lasatta Avenue,,,Englishtown,,,NJ,,07726,US,40.2968418,-74.3696409,,True
+The Willows At Holmdel,,,,,,,,,,,,,,,,,,(732) 335-4405,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,713 N Beers Street,,,Holmdel,,,NJ,,07733,US,40.4092802,-74.19384769999999,,True
+Monmouth Crossing,,,,,,,,,,,,,,,,,,(732) 303-8600,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,560 Iron Bridge Road,,,Freehold,,,NJ,,07728,US,40.2355946,-74.30966850000002,West Freehold,True
+Atrium Senior Living Of Matawan,,,,,,,,,,,,,,,,,,(732) 566-0800,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,40 Freneau Avenue,,,Matawan,,,NJ,,07747,US,40.3998179,-74.23826249999999,,True
+Brandywine Assisted Living At The Sycamore,,,,,,,,,,,,,,,,,,(732) 212-2600,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,5 Meridian Way,,,Shrewsbury,,,NJ,,07702,US,40.3168068,-74.0670447,,True
+Sunrise Assisted Living Of Wall,,,,,,,,,,,,,,,,,,(732) 282-1700,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,2600 Allaire Road,,,Wall,,,NJ,,07719,US,40.1527877,-74.0652035,,True
+The Brookside,,,,,,,,,,,,,,,,,,(732) 303-8800,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,93 Manalapan Avenue,,,Freehold,,,NJ,,07728,US,40.2603176,-74.286031,,True
+Brandywine Senior Living At Wall,,,,,,,,,,,,,,,,,,(732) 282-1910,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,2021 Highway 35,,,Wall,,,NJ,,07719,US,40.1505921,-74.058058,,False
+Care One At The Cupola,,,,,,,,,,,,,,,,,,(201) 444-8200,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,W 100 Ridgewood Avenue,,,Paramus,,,NJ,,07652,US,40.9660684,-74.0706201,,False
+Atrium Senior Living Of Park Ridge,,,,,,,,,,,,,,,,,,(201) 782-0440,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,124 Noyes Drive,,,Park Ridge,,,NJ,,07656,US,41.038768,-74.03463099999999,,True
+Brighton Gardens Of Saddle River,,,,,,,,,,,,,,,,,,(201) 818-8680,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,5 Boroline Road,,,Saddle River,,,NJ,,07458,US,41.0357237,-74.1141397,,True
+Sunrise Assisted Living Of Paramus,,,,,,,,,,,,,,,,,,(201) 493-9889,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,567 Paramus Road,,,Paramus,,,NJ,,07652,US,40.9645131,-74.0928306,,True
+Brookdale Emerson,,,,,,,,,,,,,,,,,,(201) 986-9009,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,590 Old Hook Road,,,Emerson,,,NJ,,07630,US,40.9794509,-73.99940740000001,,True
+Christian Health Care Center,,,,,,,,,,,,,,,,,,(201) 848-4300,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,301 Sicomac Avenue,,,Wyckoff,,,NJ,,07481,US,40.9812871,-74.1723954,,True
+Brookdale Paramus,,,,,,,,,,,,,,,,,,(201) 251-9600,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,186 Paramus Road,,,Paramus,,,NJ,,07652,US,40.9388537,-74.0916064,,True
+Sunrise Of Woodcliff Lake,,,,,,,,,,,,,,,,,,(201) 782-1888,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,430 Chestnut Ridge Road,,,Woodcliff Lake,,,NJ,,07675,US,41.0405865,-74.07288700000001,,True
+Sunrise Of Edgewater,,,,,,,,,,,,,,,,,,(201) 941-6111,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,351 River Road,,,Edgewater,,,NJ,,07020,US,40.8091753,-73.9878722,,True
+The Health Center At Galloway,,,,,,,,,,,,,,,,,,(609) 748-9100,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,66 West Jimmie Leeds Road,,,Galloway Township,,,NJ,,08205,US,39.4748061,-74.5403749,Pomona,True
+Eastern Pines Convalescent Center,,,,,,,,,,,,,,,,,,(609) 344-8911,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,29 North Vermont Ave,,,Atlantic City,,,NJ,,08401,US,39.3690308,-74.41466319999999,,True
+Linwood Care Center,,,,,,,,,,,,,,,,,,(609) 927-6131,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,201 New Road And Central Ave,,,Linwood,,,NJ,,08221,US,39.3586463,-74.5681456,,True
+Our Lady's Center For Rehabilitation & Healthcare,,,,,,,,,,,,,,,,,,(609) 646-2450,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1100 Clematis Ave,,,Pleasantville,,,NJ,,08232,US,39.3800836,-74.52851439999999,,True
+Hammonton Center For Rehabilitation And Healthcare,,,,,,,,,,,,,,,,,,(609) 567-3100,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,43 N White Horse Pike,,,Hammonton,,,NJ,,08037,US,39.6499554,-74.7899624,,True
+Mainland Manor Nursing & Rehabilitation Center,,,,,,,,,,,,,,,,,,(609) 646-6900,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,930 Church Street,,,Pleasantville,,,NJ,,08232,US,39.391297,-74.54558899999999,,True
+Absecon Manor Nursing & Rehabilitation Center,,,,,,,,,,,,,,,,,,(609) 646-5400,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1020 Pitney Road,,,Absecon,,,NJ,,08201,US,39.44252,-74.495694,,True
+Allendale Nursing Home,,,,,,,,,,,,,,,,,,(201) 825-0660,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,85 Harreton Road,,,Allendale,,,NJ,,07401,US,41.0447082,-74.1198873,,True
+Emerson Health Care Center,,,,,,,,,,,,,,,,,,(201) 265-3700,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,100 Kinderkamack Road,,,Emerson,,,NJ,,07630,US,40.9731125,-74.0291025,,True
+Maywood Center For Health And Rehabilitation,,,,,,,,,,,,,,,,,,(201) 843-8411,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,100 West Magnolia Avenue,,,Maywood,,,NJ,,07607,US,40.9003277,-74.06936329999999,,True
+Plaza Healthcare & Rehabilitation Center,,,,,,,,,,,,,,,,,,(908) 354-1300,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,456 Rahway Avenue,,,Elizabeth,,,NJ,,07202,US,40.6568498,-74.2278438,,True
+Christian Health Care Center,,,,,,,,,,,,,,,,,,(201) 848-5200,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,301 Sicomac Ave,,,Wyckoff,,,NJ,,07481,US,40.9812871,-74.1723954,,True
+Care One At Wellington,,,,,,,,,,,,,,,,,,(201) 487-4900,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,301 Union Street,,,Hackensack,,,NJ,,07601,US,40.8881962,-74.0445632,,True
+County Manor Rehabilitation And Health Care Center,,,,,,,,,,,,,,,,,,(201) 567-7800,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,133 County Road,,,Tenafly,,,NJ,,07670,US,40.9290702,-73.96211009999999,,True
+Dellridge Health & Rehabilitation Center,,,,,,,,,,,,,,,,,,(201) 265-5600,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,532 Farview Ave,,,Paramus,,,NJ,,07652,US,40.9548,-74.05710119999999,,True
+Care One At Cresskill,,,,,,,,,,,,,,,,,,(201) 567-9310,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,221 County Road,,,Cresskill,,,NJ,,07626,US,40.9419945,-73.9578897,,True
+Inglemoor Center,,,,,,,,,,,,,,,,,,(201) 568-0900,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,333 Grand Ave,,,Englewood,,,NJ,,07631,US,40.8820566,-73.9777558,,True
+Care One At Ridgewood Avenue,,,,,,,,,,,,,,,,,,(201) 652-1950,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,W-90 Ridgewood Ave,,,Paramus,,,NJ,,07652,US,40.9707614,-74.087221,,False
+Ridgewood Center,,,,,,,,,,,,,,,,,,(201) 447-1900,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,330 Franklin Tpk,,,Ridgewood,,,NJ,,07450,US,40.9937939,-74.1035483,,True
+Teaneck Nursing Center,,,,,,,,,,,,,,,,,,(201) 833-2400,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1104 Teaneck Road,,,Teaneck,,,NJ,,07666,US,40.8919709,-74.0035848,,True
+Care One At Valley,,,,,,,,,,,,,,,,,,(201) 664-8888,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,300 Old Hook Road,,,Westwood,,,NJ,,07675,US,40.984491,-74.012344,,True
+Woodcliff Lake Health & Rehabilitation Center,,,,,,,,,,,,,,,,,,(201) 391-0900,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,555 Chestnut Ridge Road,,,Woodcliff Lake,,,NJ,,07677,US,41.0452067,-74.0726632,,True
+Care One At New Milford,,,,,,,,,,,,,,,,,,(201) 967-1700,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,800 River Road,,,New Milford,,,NJ,,07646,US,40.9291336,-74.0262544,,True
+Oakland Rehabilitation And Healthcare Center,,,,,,,,,,,,,,,,,,(201) 337-3300,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,20 Breakneck Road,,,Oakland,,,NJ,,07436,US,41.0006352,-74.24732670000002,,True
+Maple Glen Center,,,,,,,,,,,,,,,,,,(201) 797-9522,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,12-15 Saddle River Road,,,Fairlawn,,,NJ,,07410,US,40.9404045,-74.09768749999999,,True
+Van Dyk Manor Of Ridgewood,,,,,,,,,,,,,,,,,,(201) 445-8200,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,304 S Van Dien Ave,,,Ridgewood,,,NJ,,07450,US,40.96953600000001,-74.107196,,True
+N. J. Veterans Memorial Home - Paramus,,,,,,,,,,,,,,,,,,(201) 634-8212,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1 Veterans Drive,,,Paramus,,,NJ,,07652,US,40.9596343,-74.06233379999999,,True
+Alaris Health At Rochelle Park,,,,,,,,,,,,,,,,,,(201) 845-0099,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,96 Parkway Avenue,,,Rochelle Park,,,NJ,,07662,US,40.8976723,-74.07414469999999,,True
+Bergen County Health Care Center,,,,,,,,,,,,,,,,,,(201) 750-8310,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,35 B Piermont Road,,,Rockleigh,,,NJ,,07647,US,41.005665,-73.9318052,,True
+Regent Care Center,,,,,,,,,,,,,,,,,,(201) 646-1166,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,50 Polifly Road,,,Hackensack,,,NJ,,07601,US,40.8792176,-74.0546686,,True
+The Buckingham At Norwood Care & Rehabilitation,,,,,,,,,,,,,,,,,,(201) 768-6222,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,100 Mcclellan Street,,,Norwood,,,NJ,,07648,US,41.0100664,-73.9603468,,True
+Care One At Oradell,,,,,,,,,,,,,,,,,,(201) 967-0002,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,600 Kinderkamack Road,,,Oradell,,,NJ,,07649,US,40.9610826,-74.03003369999999,,True
+Burlington Woods,,,,,,,,,,,,,,,,,,(609) 387-3620,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,115 Sunset Road,,,Burlington,,,NJ,,08016,US,40.0484597,-74.8464944,,True
+Aspen Hills Healthcare Center,,,,,,,,,,,,,,,,,,(609) 836-6000,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,600 Pemberton Brown Mills Rd,,,Pemberton,,,NJ,,08068,US,39.96752499999999,-74.6371011,,True
+The Palace Rehabilitation And Care Center,,,,,,,,,,,,,,,,,,(856) 779-1500,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,315 West Mill Road,,,Maple Shade,,,NJ,,08052,US,39.9428032,-75.0027854,,True
+Medford Leas,,,,,,,,,,,,,,,,,,(609) 654-3000,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1 Medford Leas Way,,,Medford,,,NJ,,08055,US,39.9087975,-74.8151496,,True
+Virtua Health & Rehabilitation Center At Mt. Holly,,,,,,,,,,,,,,,,,,(609) 914-8880,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,62 Richmond Avenue,,,Lumberton,,,NJ,,08048,US,39.9866,-74.7998999,,True
+Sterling Manor,,,,,,,,,,,,,,,,,,(856) 779-9333,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,794 N Forklanding Road,,,Maple Shade,,,NJ,,08052,US,39.9690967,-75.01290929999999,,True
+Medford Care Center,,,,,,,,,,,,,,,,,,(856) 983-8500,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,185 Tuckerton Road,,,Medford,,,NJ,,08055,US,39.87269999999999,-74.84649999999999,,True
+Cinnaminson Center,,,,,,,,,,,,,,,,,,(856) 829-9000,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1700 Wynwood Drive,,,Cinnaminson,,,NJ,,08077,US,40.00183369999999,-74.9866864,,True
+Marcella Center,,,,,,,,,,,,,,,,,,(609) 387-9300,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,2305 Rancocas Road,,,Burlington,,,NJ,,08016,US,40.0426476,-74.8494117,,True
+Avista Healthcare,,,,,,,,,,,,,,,,,,(856) 675-3000,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,3025 Chapel Avenue West,,,Cherry Hill,,,NJ,,08002,US,39.92547400000001,-75.002675,Erlton-Ellisburg,True
+Barclays Rehabillitation And Healthcare Center Llc,,,,,,,,,,,,,,,,,,(856) 428-6100,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1412 Marlton Pike,,,Cherry Hill,,,NJ,,08034,US,39.9113768,-74.9926971,Barclay-Kingston,True
+Laurel Manor Healthcare And Rehabilitation Center,,,,,,,,,,,,,,,,,,(856) 784-2400,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,18 W Laurel Road,,,Stratford,,,NJ,,08084,US,39.8245368,-75.01038489999999,,True
+Silver Healthcare Center,,,,,,,,,,,,,,,,,,(856) 795-3131,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1417 Brace Road,,,Cherry Hill,,,NJ,,08034,US,39.8923995,-75.0170354,Ashland,True
+Premier Cadbury Of Cherry Hill,,,,,,,,,,,,,,,,,,(856) 667-4550,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,2150 Route 38,,,Cherry Hill,,,NJ,,08002,US,39.9407915,-75.0158058,,False
+Elmwood Hills Healthcare Center Llc,,,,,,,,,,,,,,,,,,(856) 374-6600,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,425 Woodbury-Turnersville Road,,,Blackwood,,,NJ,,08012,US,39.7896103,-75.0735712,Blackwood,True
+Majestic Center For Rehabilitation & Sub-Acute Care,,,,,,,,,,,,,,,,,,(856) 342-7600,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,2 Cooper Plaza,,,Camden,,,NJ,,08103,US,39.9419975,-75.1144291,Cooper Lanning,True
+Kresson View Center,,,,,,,,,,,,,,,,,,(856) 596-1113,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,2601 Evesham Road,,,Voorhees,,,NJ,,08043,US,39.8687516,-74.94279089999999,,True
+Voorhees Center,,,,,,,,,,,,,,,,,,(856) 751-1600,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,3001 Evesham Road,,,Voorhees,,,NJ,,08043,US,39.87170690000001,-74.9312808,,True
+Cooper River West,,,,,,,,,,,,,,,,,,(856) 665-8844,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,5101 North Park Drive,,,Pennsauken,,,NJ,,08109,US,39.9281189,-75.07051469999999,,True
+Voorhees Pediatric Facility,,,,,,,,,,,,,,,,,,(856) 346-3300,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1304 Laurel Oak Road,,,Voorhees,,,NJ,,08043,US,39.8506449,-74.9697498,,True
+Abigail House For Nursing & Rehabilitation Llc,,,,,,,,,,,,,,,,,,(856) 365-8500,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1105 -1115 Linden Street,,,Camden,,,NJ,,08102,US,39.9474217,-75.109923,Pyne Poynt,True
+The Fountains At Cedar Parke,,,,,,,,,,,,,,,,,,(856) 753-2000,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,114 Hayes Mill Road,,,Atco,,,NJ,,08004,US,39.7633006,-74.90626639999999,,True
+Crest Haven Nursing And Rehabilitation Center,,,,,,,,,,,,,,,,,,(609) 465-1260,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,4 Moore Road,,,Cape May Court House,,,NJ,,08210,US,39.1040386,-74.8007263,Cape May Court House,True
+Oceana Rehabilitation And Nursing Center,,,,,,,,,,,,,,,,,,(609) 465-7633,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,502 Route 9 North,,,Cape May Court House,,,NJ,,08210,US,39.09424229999999,-74.811222,Cape May Court House,True
+Court House Center,,,,,,,,,,,,,,,,,,(609) 465-7171,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,144 Magnolia Drive,,,Cape May Court House,,,NJ,,08210,US,39.0877391,-74.82088449999999,Cape May Court House,True
+Bishop Mccarthy Center For Rehabilitation & Healthcare,,,,,,,,,,,,,,,,,,(856) 692-2850,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1045 E Chestnut Ave,,,Vineland,,,NJ,,08360,US,39.47749450000001,-75.01178290000001,,True
+South Jersey Extended Care,,,,,,,,,,,,,,,,,,(856) 455-2100,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,99 Manheim Avenue,,,Bridgeton,,,NJ,,08302,US,39.433694,-75.217302,,True
+Cumberland Manor Nursing And Rehabilitation Center,,,,,,,,,,,,,,,,,,(856) 455-8000,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,154 Sunny Slope Drive,,,Bridgeton,,,NJ,,08302,US,39.4114428,-75.2628912,,True
+Lincoln Specialty Care Center,,,,,,,,,,,,,,,,,,(856) 692-8080,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1640 South Lincoln Avenue,,,Vineland,,,NJ,,08360,US,39.4607963,-74.9834233,,True
+Millville Center,,,,,,,,,,,,,,,,,,(856) 327-2700,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,54 N Sharp Street,,,Millville,,,NJ,,08332,US,39.41607390000001,-75.0440618,,True
+Gates Manor,,,,,,,,,,,,,,,,,,(973) 746-4616,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,111-115 Gates Avenue,,,Montclair,,,NJ,,07042,US,40.8071977,-74.2218589,,True
+New Grove Manor,,,,,,,,,,,,,,,,,,(973) 672-1700,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,101 North Grove Street,,,East Orange,,,NJ,,07017,US,40.7600632,-74.2038037,,True
+Alaris Health At Cedar Grove,,,,,,,,,,,,,,,,,,(973) 571-6600,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,110 Grove Ave,,,Cedar Grove,,,NJ,,07009,US,40.84942929999999,-74.2373499,,True
+Arbor Glen Center,,,,,,,,,,,,,,,,,,(973) 256-7220,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,25 E Lindsley Road,,,Cedar Grove,,,NJ,,07009,US,40.8745959,-74.238309,,True
+Inglemoor Rehabilitation And Care Center Of Livingston,,,,,,,,,,,,,,,,,,(973) 994-0221,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,311 S Livingston Ave,,,Livingston,,,NJ,,07039,US,40.78453779999999,-74.313012,,True
+Little Nursing Home,,,,,,,,,,,,,,,,,,(973) 744-5518,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,71 Christopher St,,,Montclair,,,NJ,,07042,US,40.8189898,-74.2052908,,True
+Sinai Post Acute Nursing And Rehab Center,,,,,,,,,,,,,,,,,,(973) 483-6800,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,65 Jay Street,,,Newark,,,NJ,,07103,US,40.7471417,-74.1837122,University Heights,True
+Stratford Manor Rehabilitation And Care Center,,,,,,,,,,,,,,,,,,(973) 731-4500,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,787 Northfield Ave,,,West Orange,,,NJ,,07052,US,40.7700724,-74.29718799999999,,True
+Van Dyk Manor Of Montclair,,,,,,,,,,,,,,,,,,(973) 783-9400,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,42 North Mountain Ave,,,Montclair,,,NJ,,07042,US,40.82224430000001,-74.2226008,,True
+Waterview Center,,,,,,,,,,,,,,,,,,(973) 239-9300,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,536 Ridge Road,,,Cedar Grove,,,NJ,,07009,US,40.8550029,-74.2189106,,True
+White House Healthcare & Rehabilitation Center,,,,,,,,,,,,,,,,,,(973) 672-6500,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,560 Berkeley Avenue,,,Orange,,,NJ,,07050,US,40.7590029,-74.2415614,,True
+Windsor Gardens Care Center,,,,,,,,,,,,,,,,,,(973) 677-1500,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,140 Park Ave,,,East Orange,,,NJ,,07017,US,40.7640829,-74.1987825,,True
+The Canterbury At Cedar Grove Care And Rehabilitation,,,,,,,,,,,,,,,,,,(973) 239-7600,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,398 Pompton Avenue,,,Cedar Grove,,,NJ,,07009,US,40.8473912,-74.22992459999999,,True
+New Vista Nursing And Rehabilitation Center,,,,,,,,,,,,,,,,,,(973) 484-4222,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,300 Broadway,,,Newark,,,NJ,,07104,US,40.7612104,-74.1692247,Mount Pleasant/Lower Broadway,True
+New Community Extended Care Facility,,,,,,,,,,,,,,,,,,(973) 624-2020,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,266 S Orange Ave,,,Newark,,,NJ,,07103,US,40.73869639999999,-74.1948618,West Side,True
+Brookhaven Health Care Center,,,,,,,,,,,,,,,,,,(973) 676-6221,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,120 Park End Place,,,East Orange,,,NJ,,07018,US,40.756512,-74.232248,,True
+Park Crescent Healthcare & Rehabilitation Center,,,,,,,,,,,,,,,,,,(973) 674-2700,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,480 Parkway Drive,,,East Orange,,,NJ,,07017,US,40.776425,-74.2005128,,True
+West Caldwell Care Center,,,,,,,,,,,,,,,,,,(973) 226-1100,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,165 Fairfield Ave,,,West Caldwell,,,NJ,,07006,US,40.85888790000001,-74.28696169999999,,True
+Alaris Health At Essex,,,,,,,,,,,,,,,,,,(973) 232-3100,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,155 Fortieth Street,,,Irvington,,,NJ,,07111,US,40.71937380000001,-74.2497837,,True
+St. Vincent's Healthcare And Rehab Center,,,,,,,,,,,,,,,,,,(973) 754-4800,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,315 East Lindsley Road,,,Cedar Grove,,,NJ,,07009,US,40.8696066,-74.2244989,,True
+Broadway House For Continuing Care,,,,,,,,,,,,,,,,,,(973) 268-9797,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,298 Broadway,,,Newark,,,NJ,,07104,US,40.76114930000001,-74.1692502,Mount Pleasant/Lower Broadway,True
+Summit Ridge Center,,,,,,,,,,,,,,,,,,(973) 736-2000,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,20 Summit Street,,,West Orange,,,NJ,,07052,US,40.7877273,-74.27919279999999,,True
+Deptford Center For Rehabilitation And Healthcare,,,,,,,,,,,,,,,,,,(856) 845-9400,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1511 Clements Bridge Rd,,,Deptford,,,NJ,,08096,US,39.8297809,-75.1069301,,True
+Shady Lane Gloucester County Home,,,,,,,,,,,,,,,,,,(856) 224-6979,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,256 County House Road,,,Clarksboro,,,NJ,,08020,US,39.799142,-75.211561,,True
+Kennedy Health Care Center,,,,,,,,,,,,,,,,,,(856) 582-3170,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,535 Egg Harbor Road,,,Sewell,,,NJ,,08080,US,39.7375564,-75.067537,Sewell,True
+Manorcare Health Services,,,,,,,,,,,,,,,,,,(856) 848-9551,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,550 Jessup Road,,,West Deptford,,,NJ,,08066,US,39.82920900000001,-75.18217790000001,,True
+Meadowview Nursing & Respiratory Care,,,,,,,,,,,,,,,,,,(856) 875-0100,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1420 South Black Horse Pike,,,Williamstown,,,NJ,,08094,US,39.6711185,-74.9709632,Williamstown,True
+Hudsonview Health Care Center,,,,,,,,,,,,,,,,,,(201) 861-4040,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,9020 Wall Street,,,North Bergen,,,NJ,,07047,US,40.8037714,-73.9956366,,True
+Majestic Rehabilitation And Nursing Center Inc.,,,,,,,,,,,,,,,,,,(201) 435-0033,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,620 Montgomery Street,,,Jersey City,,,NJ,,07302,US,40.723772,-74.0633263,Bergen/Lafayette,True
+Alaris Health At Boulevard East,,,,,,,,,,,,,,,,,,(201) 868-3600,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,6819 Boulevard East,,,Guttenberg,,,NJ,,07093,US,40.7905437,-74.0014132,,True
+Alaris Health At Harbor View,,,,,,,,,,,,,,,,,,(201) 963-1800,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,178-198 Ogden Ave,,,Jersey City,,,NJ,,07307,US,40.740327,-74.045662,The Heights,True
+Alaris Health At Hamilton Park,,,,,,,,,,,,,,,,,,(201) 653-8800,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,525 Monmouth Street,,,Jersey City,,,NJ,,07302,US,40.7290978,-74.0487568,Historic Downtown,True
+Harborage,,,,,,,,,,,,,,,,,,(201) 854-5400,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,7600 River Road,,,North Bergen,,,NJ,,07047,US,40.7937964,-73.9964049,,True
+Alaris Health At Castle Hill,,,,,,,,,,,,,,,,,,(201) 348-0818,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,615 23rd Street,,,Union City,,,NJ,,07087,US,40.7676235,-74.03465969999999,,True
+Alaris Health At The Fountains,,,,,,,,,,,,,,,,,,(201) 863-8866,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,595 County Avenue,,,Secaucus,,,NJ,,07094,US,40.78312940000001,-74.0588039,,True
+"The Villa At Florham Park, Inc",,,,,,,,,,,,,,,,,,(973) 867-1500,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,190 Park Avenue,,,Florham Park,,,NJ,,07932,US,40.78749439999999,-74.4320688,,True
+Care One At Madison Avenue,,,,,,,,,,,,,,,,,,(973) 656-2700,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,151 Madison Avenue,,,Morristown,,,NJ,,07960,US,40.7879652,-74.4595452,,True
+Cedar Crest/mountainview Gardens,,,,,,,,,,,,,,,,,,(973) 831-3504,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,4 Cedar Crest Village Drive,,,Pompton Plains,,,NJ,,07444,US,40.98562039999999,-74.32652630000001,Pompton Plains,True
+Brookdale Florham Park,,,,,,,,,,,,,,,,,,(973) 443-0444,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,8 James Street,,,Florham Park,,,NJ,,07932,US,40.7892391,-74.3864782,,True
+Brighton Gardens Of Florham Park,,,,,,,,,,,,,,,,,,(973) 966-8999,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,21 Ridgedale Avenue,,,Florham Park,,,NJ,,07932,US,40.77310080000001,-74.4035907,,True
+The Oaks At Denville,,,,,,,,,,,,,,,,,,(973) 586-5000,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,19 Pocono Road,,,Denville,,,NJ,,07834,US,40.89505219999999,-74.4685336,,True
+Arden Courts Of Whippany,,,,,,,,,,,,,,,,,,(973) 581-1800,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,18 Eden Lane,,,Whippany,,,NJ,,07981,US,40.819519,-74.4223274,Whippany,True
+Victoria Mews Assisted Living,,,,,,,,,,,,,,,,,,(973) 263-3000,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,51 North Main Street,,,Boonton Township,,,NJ,,07005,US,40.91289640000001,-74.4203538,,True
+Spring Hills At Morristown,,,,,,,,,,,,,,,,,,(973) 539-3370,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,17 Spring Place,,,Morristown,,,NJ,,07960,US,40.7986834,-74.4764029,,True
+Juniper Village At Chatham,,,,,,,,,,,,,,,,,,(973) 966-5483,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,500 Southern Boulevard,,,Chatham,,,NJ,,07928,US,40.7443899,-74.4296356,,True
+Care One At Morris Assisted Living,,,,,,,,,,,,,,,,,,(973) 463-5800,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,200 Mazdabrook Road,,,Parsippany Troy Hill,,,NJ,,07054,US,40.8599134,-74.402552,Parsippany,True
+Bentley Commons At Paragon Village,,,,,,,,,,,,,,,,,,(908) 979-9080,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,425/427 Route 46 East,,,Hackettstown,,,NJ,,07840,US,40.8560299,-74.763458,,True
+Sunrise Assisted Living Of Madison,,,,,,,,,,,,,,,,,,(973) 301-0005,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,215 Madison Avenue,,,Madison,,,NJ,,07940,US,40.7698936,-74.43185439999999,,True
+"The Villa At Florham Park, Inc",,,,,,,,,,,,,,,,,,(973) 867-1514,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,190 Park Avenue,,,Florham Park,,,NJ,,07932,US,40.78749439999999,-74.4320688,,True
+Cedar Crest/mountainview Gardens,,,,,,,,,,,,,,,,,,(973) 831-3546,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,4 Cedar Crest Village Drive,,,Pompton Plains,,,NJ,,07444,US,40.98562039999999,-74.32652630000001,Pompton Plains,True
+Sunrise Assisted Living Of Randolph,,,,,,,,,,,,,,,,,,(973) 328-1922,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,648 Route 10,,,Randolph,,,NJ,,07869,US,40.8610944,-74.5850408,,False
+Brightview Randolph,,,,,,,,,,,,,,,,,,(973) 348-9857,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,175 Quaker Church Road,,,Randolph,,,NJ,,07869,US,40.8653357,-74.5600631,,True
+Little Brook Nursing And Convalescent Home,,,,,,,,,,,,,,,,,,(908) 832-2220,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,78 Sliker Road,,,Califon,,,NJ,,07830,US,40.74519900000001,-74.86265399999999,,True
+Rolling Hills Care Center,,,,,,,,,,,,,,,,,,(908) 236-2011,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,16 Cratetown Road,,,Lebanon,,,NJ,,08833,US,40.5918285,-74.86431069999999,,True
+Country Arch Care Center,,,,,,,,,,,,,,,,,,(908) 735-6600,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,114 Pittstown Road,,,Pittstown,,,NJ,,08867,US,40.615697,-74.938423,Pittstown,True
+Hunterdon Care Center,,,,,,,,,,,,,,,,,,(908) 788-9292,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1 Leisure Court,,,Flemington,,,NJ,,08822,US,40.534006,-74.85316399999999,,True
+Providence Nursing And Rehabilitation Center,,,,,,,,,,,,,,,,,,(609) 396-2646,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,439 Bellevue Avenue,,,Trenton,,,NJ,,08618,US,40.22918629999999,-74.77776279999999,Stuyvesant/Prospect,True
+Atrium Post Acute Care Of Lawrenceville,,,,,,,,,,,,,,,,,,(609) 896-1494,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,112 Franklin Corner Road,,,Lawrenceville,,,NJ,,08648,US,40.2816752,-74.7171881,Lawrenceville,True
+Arcadia Nursing And Rehabilitation,,,,,,,,,,,,,,,,,,(609) 586-1114,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1501 State Hwy 33,,,Hamilton Square,,,NJ,,08690,US,40.22521200000001,-74.656576,Mercerville-Hamilton Square,False
+Mercerville Center,,,,,,,,,,,,,,,,,,(609) 586-7500,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,2240 Whitehorse-Mercerville Road,,,Mercerville,,,NJ,,08619,US,40.22958,-74.688389,Mercerville-Hamilton Square,True
+Princeton Care Center,,,,,,,,,,,,,,,,,,(609) 924-9000,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,728 Bunn Drive,,,Princeton,,,NJ,,08540,US,40.3803175,-74.6519169,,True
+The Gardens At Monroe Healthcare And Rehabilitation,,,,,,,,,,,,,,,,,,(609) 448-7036,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,189 Applegarth Road,,,Monroe Township,,,NJ,,08831,US,40.2868502,-74.472719,,True
+Hamilton Continuing Care Center,,,,,,,,,,,,,,,,,,(609) 588-0091,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1059 Edinburg Road,,,Hamilton,,,NJ,,08690,US,40.249647,-74.6571429,Hamilton Square,True
+Water's Edge Healthcare & Rehabilitation,,,,,,,,,,,,,,,,,,(609) 393-8622,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,512 Union Street,,,Trenton,,,NJ,,08611,US,40.2071538,-74.7615099,South Trenton,True
+Amboy Care Center,,,,,,,,,,,,,,,,,,(732) 826-0500,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1 Lindberg Avenue,,,Perth Amboy,,,NJ,,08861,US,40.5347045,-74.2804483,,True
+Care One At The Highlands,,,,,,,,,,,,,,,,,,(908) 754-7100,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1350 Inman Avenue,,,Edison,,,NJ,,08820,US,40.59724089999999,-74.3859093,,True
+Rose Mountain Care Center,,,,,,,,,,,,,,,,,,(732) 828-2400,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,Route 1 & 18,,,New Brunswick,,,NJ,,08901,US,40.48919,-74.415155,,False
+Alameda Center For Rehabilitation And Healthcare,,,,,,,,,,,,,,,,,,(732) 442-9540,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,303 Elm Street,,,Perth Amboy,,,NJ,,08861,US,40.51088559999999,-74.27416869999999,,True
+Summer Hill Nursing Home,,,,,,,,,,,,,,,,,,(732) 254-8200,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,111 Route 516,,,Old Bridge,,,NJ,,08857,US,40.40876300000001,-74.350878,Old Bridge,False
+The Elms Of Cranbury,,,,,,,,,,,,,,,,,,(609) 395-0641,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,61 Maplewood Avenue,,,Cranbury,,,NJ,,08512,US,40.315189,-74.51114299999999,Cranbury,True
+Francis E Parker Memorial Home Piscataway,,,,,,,,,,,,,,,,,,(732) 545-8330,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1421 River Road,,,Piscataway,,,NJ,,08854,US,40.5098078,-74.4437895,,True
+Aristacare At Cedar Oaks,,,,,,,,,,,,,,,,,,(732) 287-9555,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1311 Durham Avenue,,,South Plainfield,,,NJ,,07080,US,40.5462413,-74.40820339999999,,True
+Madison Center,,,,,,,,,,,,,,,,,,(732) 566-6400,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,625 State Highway 34,,,Matawan,,,NJ,,07747,US,40.41770869999999,-74.250289,,False
+Hartwyck At Oak Tree,,,,,,,,,,,,,,,,,,(732) 906-2100,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,2048 Oak Tree Road,,,Edison,,,NJ,,08820,US,40.5761555,-74.3737853,,True
+Monroe Village Health Care Center,,,,,,,,,,,,,,,,,,(732) 521-6400,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1 David Brainerd Drive,,,Monroe Township,,,NJ,,08831,US,40.3377472,-74.4527743,,True
+"Preferred Care At Old Bridge, Llc",,,,,,,,,,,,,,,,,,(732) 360-2277,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,6989 Rt18,,,Old Bridge,,,NJ,,08857,US,40.38262539999999,-74.33050949999999,Old Bridge,False
+Brighton Gardens Of Edison,,,,,,,,,,,,,,,,,,(732) 767-1031,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1801 Oaktree Road,,,Edison,,,NJ,,08820,US,40.571437,-74.35204759999999,,True
+St. Joseph's Home Assisted Living & Nursing Ctr Inc Dba St. Joseph's Senior Home,,,,,,,,,,,,,,,,,,(732) 750-0077,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1-3 St Joseph's Terrace,,,Woodbridge,,,NJ,,07095,US,40.5461903,-74.2763786,Woodbridge,True
+Cranbury Center,,,,,,,,,,,,,,,,,,(609) 860-2500,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,292 Applegarth Road,,,Monroe Township,,,NJ,,08831,US,40.3113148,-74.4741798,,True
+Arnold Walter Nursing Home,,,,,,,,,,,,,,,,,,(732) 787-6300,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,622 S Laurel Avenue,,,Hazlet,,,NJ,,07730,US,40.4240294,-74.1436164,,True
+Regency Park Nursing Center,,,,,,,,,,,,,,,,,,(732) 264-5800,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,3325 Highway 35,,,Hazlet,,,NJ,,07730,US,40.42317269999999,-74.191458,,False
+Neptune Gardens Nursing And Rehab Llc,,,,,,,,,,,,,,,,,,(732) 774-3550,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,101 Walnut St,,,Neptune,,,NJ,,07753,US,40.2070543,-74.0485214,,True
+Gateway Care Center,,,,,,,,,,,,,,,,,,(732) 542-4700,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,139 Grant Ave,,,Eatontown,,,NJ,,07724,US,40.29246699999999,-74.06391400000001,,True
+The Manor,,,,,,,,,,,,,,,,,,(732) 431-5200,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,689 West Main St,,,Freehold,,,NJ,,07728,US,40.2381472,-74.309247,West Freehold,True
+Wardell Gardens At Tinton Falls,,,,,,,,,,,,,,,,,,(732) 922-9330,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,524 Wardell Road,,,Tinton Falls,,,NJ,,07753,US,40.2241668,-74.0998419,,True
+Care One At Holmdel,,,,,,,,,,,,,,,,,,(732) 946-4200,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,188 Highway 34,,,Holmdel,,,NJ,,07733,US,40.3601961,-74.1958275,,False
+Allaire Rehab & Nursing,,,,,,,,,,,,,,,,,,(732) 431-7420,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,115 Dutch Lane Road,,,Freehold,,,NJ,,07728,US,40.271232,-74.259913,,True
+Care One At King James,,,,,,,,,,,,,,,,,,(732) 291-3400,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1040 Route 36,,,Atlantic Highlands,,,NJ,,07716,US,40.4060561,-74.0145132,,False
+Coral Harbor Rehabilitation And Healthcare Center,,,,,,,,,,,,,,,,,,(732) 774-8300,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,2050 Sixth Ave,,,Neptune City,,,NJ,,07753,US,40.206345,-74.04116739999999,,True
+Monmouth Care Center,,,,,,,,,,,,,,,,,,(732) 229-4300,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,229 Bath Avenue,,,Long Branch,,,NJ,,07740,US,40.2938732,-73.9899439,,True
+Pine Brook Care Center,,,,,,,,,,,,,,,,,,(732) 446-3600,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,104 Pension Road,,,Englishtown,,,NJ,,07726,US,40.3162022,-74.3482453,Yorketown,True
+Majestic Rehabilitation And Nursing Center At Red Bank Inc,,,,,,,,,,,,,,,,,,(732) 741-8811,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,100 Chapin Avenue,,,Red Bank,,,NJ,,07701,US,40.3381404,-74.0873512,,True
+Meridian Nursing & Rehabilitation At Shrewsbury,,,,,,,,,,,,,,,,,,(732) 676-5800,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,89 Avenue At The Common,,,Shrewsbury,,,NJ,,07702,US,40.3156772,-74.05924040000001,,True
+Sunnyside Manor,,,,,,,,,,,,,,,,,,(732) 528-9311,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,2500 Ridgewood Road,,,Wall,,,NJ,,07719,US,40.14298549999999,-74.0861803,,True
+Preferred Care At Wall,,,,,,,,,,,,,,,,,,(732) 683-8600,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,2350 Hospital Road,,,Allenwood,,,NJ,,08720,US,40.1376385,-74.1281528,Allenwood,True
+Tower Lodge Care Center,,,,,,,,,,,,,,,,,,(732) 681-1400,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1506 Gully Road,,,Wall,,,NJ,,07719,US,40.1892713,-74.0765596,,True
+Laurel Bay Health & Rehabilitation Center,,,,,,,,,,,,,,,,,,(732) 787-8100,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,32 Laurel Avenue,,,Keansburg,,,NJ,,07734,US,40.4494792,-74.142136,,True
+Imperial Care Center,,,,,,,,,,,,,,,,,,(732) 922-3400,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,919 Green Grove Road,,,Neptune,,,NJ,,07753,US,40.22529969999999,-74.0735615,,True
+King Manor Care And Rehabilitation Center,,,,,,,,,,,,,,,,,,(732) 774-3500,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,2303 West Bangs Ave,,,Neptune,,,NJ,,07753,US,40.2185745,-74.0390919,,True
+Applewood Estates,,,,,,,,,,,,,,,,,,(732) 780-7370,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,Applewood Drive,,,Freehold,,,NJ,,07728,US,40.24845639999999,-74.3154143,,False
+Meridian Nursing And Rehabilitation At Ocean Grove,,,,,,,,,,,,,,,,,,(732) 481-8300,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,160 Main Street,,,Ocean Grove,,,NJ,,07756,US,40.20871589999999,-74.0154393,Ocean Grove,True
+Park Place Center,,,,,,,,,,,,,,,,,,(732) 274-1122,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,2 Deer Park Drive,,,Monmouth Junction,,,NJ,,08852,US,40.3767832,-74.5845475,Monmouth Junction,True
+Garden Terrace Nursing Home,,,,,,,,,,,,,,,,,,(973) 635-0899,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,361 Main Street,,,Chatham,,,NJ,,07928,US,40.7416166,-74.3872556,,True
+Holly Manor Center,,,,,,,,,,,,,,,,,,(973) 543-2500,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,84 Cold Hill Road,,,Mendham,,,NJ,,07945,US,40.78966130000001,-74.5862215,,True
+Chatham Hills Subacute Care Center,,,,,,,,,,,,,,,,,,(973) 822-1500,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,415 Southern Blvd,,,Chatham,,,NJ,,07928,US,40.7380563,-74.42857500000001,,True
+Lincoln Park Renaissance Rehab & Nursing Center,,,,,,,,,,,,,,,,,,(973) 696-3300,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,521 Pine Brook Road,,,Lincoln Park,,,NJ,,07035,US,40.9161389,-74.30724599999999,,True
+Lincoln Park Care Center,,,,,,,,,,,,,,,,,,(973) 696-3300,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,499 Pine Brook Road,,,Lincoln Park,,,NJ,,07035,US,40.91571160000001,-74.3051756,,True
+Merry Heart Nursing Home,,,,,,,,,,,,,,,,,,(973) 584-4000,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,200 Rt 10 West,,,Succasunna,,,NJ,,07876,US,40.8693475,-74.6409489,Succasunna,True
+Morris View Healthcare Center,,,,,,,,,,,,,,,,,,(973) 285-2800,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,540 West Hanover Avenue,,,Morris Plains,,,NJ,,07950,US,40.8313963,-74.5212621,,True
+Pine Acres Convalescent Center,,,,,,,,,,,,,,,,,,(973) 377-2124,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,51 Madison Ave,,,Madison,,,NJ,,07940,US,40.7641182,-74.4227624,,True
+Merry Heart Of Boonton Township,,,,,,,,,,,,,,,,,,(973) 334-2454,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,199 Powerville Road,,,Boonton,,,NJ,,07005,US,40.9169772,-74.4297009,,True
+Troy Hills Center,,,,,,,,,,,,,,,,,,(973) 887-8080,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,200 Reynolds Ave,,,Parsippany,,,NJ,,07054,US,40.8482808,-74.4024362,Parsippany,True
+Morris Hills Center,,,,,,,,,,,,,,,,,,(973) 540-9800,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,77 Madison Avenue,,,Morristown,,,NJ,,07960,US,40.78746580000001,-74.46579320000001,,True
+New Jersey Firemen's Home,,,,,,,,,,,,,,,,,,(973) 334-0024,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,565 Lathrop Ave,,,Boonton,,,NJ,,07005,US,40.9015754,-74.3956559,,True
+Cheshire Home,,,,,,,,,,,,,,,,,,(973) 966-1232,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,9 Ridgedale Ave,,,Florham Park,,,NJ,,07932,US,40.7721274,-74.4053098,,True
+The Oaks At Denville,,,,,,,,,,,,,,,,,,(973) 586-5000,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,21 Pocono Road,,,Denville,,,NJ,,07834,US,40.894907,-74.46673899999999,,True
+Skilled Nursing At Fellowship Village,,,,,,,,,,,,,,,,,,(908) 580-3800,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,8000 Fellowship Drive,,,Basking Ridge,,,NJ,,07920,US,40.6570358,-74.5832331,Basking Ridge,True
+Crystal Lake Healthcare And Rehabilitation Center,,,,,,,,,,,,,,,,,,(732) 269-0500,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,395 Lakeside Blvd,,,Bayville,,,NJ,,08721,US,39.8937861,-74.1950933,Bayville,True
+Claremont Center,,,,,,,,,,,,,,,,,,(732) 295-9300,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1515 Hulse Road,,,Pt Pleasant,,,NJ,,08742,US,40.0754574,-74.061224,,True
+Atlantic Coast Rehabilitation & Health Care,,,,,,,,,,,,,,,,,,(732) 364-7100,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,485 River Ave,,,Lakewood,,,NJ,,08701,US,40.0763008,-74.2154973,Lakewood,True
+Rose Garden Nursing And Rehabilitation Center,,,,,,,,,,,,,,,,,,(732) 505-4477,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1579 Old Freehold Road,,,Toms River,,,NJ,,08753,US,40.0061613,-74.2004924,,True
+Leisure Chateau Rehabilitation,,,,,,,,,,,,,,,,,,(732) 370-8600,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,962 River Ave,,,Lakewood,,,NJ,,08701,US,40.06207409999999,-74.2208648,Lakewood,True
+Willow Springs Rehabilitation And Healthcare Center,,,,,,,,,,,,,,,,,,(732) 840-3700,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1049 Burnt Tavern Road,,,Brick,,,NJ,,08724,US,40.0919024,-74.1304413,,True
+Concord Healthcare & Rehabilitation Center,,,,,,,,,,,,,,,,,,(732) 367-7444,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,963 Ocean Ave,,,Lakewood,,,NJ,,08701,US,40.087475,-74.17766350000001,Lakewood,True
+Manahawkin Convalescent Center,,,,,,,,,,,,,,,,,,(609) 597-8500,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1211 Rt 72 West,,,Manahawkin,,,NJ,,08050,US,39.8116358,-74.4100028,Barnegat,True
+Bartley Healthcare Nursing And Rehabilitation,,,,,,,,,,,,,,,,,,(732) 370-4700,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,175 Bartley Road,,,Jackson,,,NJ,,08527,US,40.1350656,-74.2804216,,True
+Seacrest Village,,,,,,,,,,,,,,,,,,(609) 296-9292,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1001 Center St,,,Little Egg Harbor Tw,,,NJ,,08087,US,39.5771948,-74.3809685,Mystic Island,True
+Aristacare At Whiting,,,,,,,,,,,,,,,,,,(732) 849-4300,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,23 Schoolhouse Road,,,Whiting,,,NJ,,08759,US,39.9355033,-74.3428634,Whiting,True
+Barnegat Rehabilitation And Nursing Center,,,,,,,,,,,,,,,,,,(609) 698-1400,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,859 West Bay Ave,,,Barnegat,,,NJ,,08005,US,39.7563757,-74.2401112,Barnegat,True
+Care One At Jackson,,,,,,,,,,,,,,,,,,(732) 367-6600,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,11 History Lane,,,Jackson,,,NJ,,08527,US,40.1261709,-74.26635449999999,,True
+Holiday Care Center,,,,,,,,,,,,,,,,,,(732) 240-0900,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,4 Plaza Drive,,,Toms River,,,NJ,,08757,US,39.9704254,-74.2438653,Holiday City-Berkeley,True
+Leisure Park Health Center,,,,,,,,,,,,,,,,,,(732) 370-0444,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1400 Route 70,,,Lakewood,,,NJ,,08701,US,40.0524278,-74.17410009999999,Lakewood,False
+Harrogate,,,,,,,,,,,,,,,,,,(732) 905-7070,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,400 Locust Street,,,Lakewood,,,NJ,,08701,US,40.0452903,-74.2079387,Lakewood,True
+Bey Lea Village Care Center,,,,,,,,,,,,,,,,,,(732) 240-0090,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1351 Old Freehold Road,,,Toms River,,,NJ,,08753,US,39.9902232,-74.1951157,,True
+Green Acres Manor,,,,,,,,,,,,,,,,,,(732) 286-2323,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1931 Lakewood Road,,,Toms River,,,NJ,,08755,US,40.0221572,-74.220912,,True
+Laurelton Village Care Center,,,,,,,,,,,,,,,,,,(732) 458-6600,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,475 Jack Martin Blvd,,,Brick,,,NJ,,08724,US,40.0796733,-74.1343265,,True
+Crestwood Manor,,,,,,,,,,,,,,,,,,(732) 849-4900,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,50 Lacey Road,,,Whiting,,,NJ,,08759,US,39.94401550000001,-74.3615628,,True
+Whiting Health Care Center,,,,,,,,,,,,,,,,,,(732) 849-4400,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,3000 Hilltop Road,,,Whiting,,,NJ,,08759,US,39.9643227,-74.3790653,Whiting,True
+Hampton Ridge Healthcare And Rehabilitation,,,,,,,,,,,,,,,,,,(732) 286-5005,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,94 Stevens Road,,,Toms River,,,NJ,,08755,US,40.009668,-74.222083,,True
+Fountain View Care Center,,,,,,,,,,,,,,,,,,(732) 905-0700,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,527 River Ave,,,Lakewood,,,NJ,,08701,US,40.0745543,-74.21591269999999,Lakewood,True
+Arbors Care Center,,,,,,,,,,,,,,,,,,(732) 914-0090,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1750 Route 37 West,,,Toms River,,,NJ,,08757,US,39.9923538,-74.27109159999999,,True
+Atrium Post Acute Care Of Wayne,,,,,,,,,,,,,,,,,,(973) 694-2100,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1120 Alps Road,,,Wayne,,,NJ,,07470,US,40.9451984,-74.2425293,,True
+Chestnut Hill Convalescent Center,,,,,,,,,,,,,,,,,,(973) 777-7800,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,360 Chestnut Street,,,Passaic,,,NJ,,07055,US,40.86481749999999,-74.137036,,True
+Lakeview Rehabilitation And Care Center,,,,,,,,,,,,,,,,,,(973) 839-4500,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,130 Terhune Drive,,,Wayne,,,NJ,,07470,US,40.9933622,-74.2740032,,True
+Llanfair House Care & Rehabilitation Center,,,,,,,,,,,,,,,,,,(973) 835-7443,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1140 Black Oak Ridge Road,,,Wayne,,,NJ,,07470,US,40.9783708,-74.2735951,,True
+Milford Manor,,,,,,,,,,,,,,,,,,(973) 697-5640,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,69 Maple Road,,,West Milford,,,NJ,,07480,US,41.0663259,-74.38915899999999,,True
+Regency Gardens Nursing Center,,,,,,,,,,,,,,,,,,(973) 790-5800,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,296 Hamburg Turnpike,,,Wayne,,,NJ,,07470,US,40.94884500000001,-74.2061694,,True
+Preakness Healthcare Center,,,,,,,,,,,,,,,,,,(973) 585-2132,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,305 Oldham Road,,,Wayne,,,NJ,,07470,US,40.9370245,-74.20458909999999,,True
+Care One At Wayne  - Snf,,,,,,,,,,,,,,,,,,(973) 692-9500,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,493 Black Oak Ridge Road,,,Wayne,,,NJ,,07470,US,40.9577778,-74.2696476,,True
+Doctors Subacute Care,,,,,,,,,,,,,,,,,,(973) 942-8899,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,59 Birch Street,,,Paterson,,,NJ,,07522,US,40.9145631,-74.18510859999999,,True
+Lakeland Health Care Center,,,,,,,,,,,,,,,,,,(973) 839-6000,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,25 Fifth Avenue,,,Haskell,,,NJ,,07420,US,41.03120689999999,-74.29432419999999,Haskell,True
+Oak Ridge Rehabilitation & Nursing Center,,,,,,,,,,,,,,,,,,(973) 835-3871,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,261 Terhune Drive,,,Wayne,,,NJ,,07470,US,40.9972804,-74.2739388,,True
+Hamilton Plaza Nursing & Rehabilitation Center,,,,,,,,,,,,,,,,,,(973) 773-7070,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,56 Hamilton Avenue,,,Passaic,,,NJ,,07055,US,40.8637403,-74.1237223,,True
+Atrium Post Acute Care Of Wayneview,,,,,,,,,,,,,,,,,,(973) 305-8400,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,2020 Rt 23 North,,,Wayne,,,NJ,,07470,US,40.9483165,-74.27532839999999,,True
+Complete Care At Passaic Llc,,,,,,,,,,,,,,,,,,(973) 754-6700,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,77 East 43rd Street,,,Paterson,,,NJ,,07514,US,40.918643,-74.131849,,True
+The Health Center At Bloomingdale,,,,,,,,,,,,,,,,,,(973) 283-1700,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,255 Union Ave,,,Bloomingdale,,,NJ,,07403,US,41.0156403,-74.31520549999999,,True
+Carneys Point Rehabilitation And Nursing Center,,,,,,,,,,,,,,,,,,(856) 299-6800,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,201 Fifth Avenue,,,Carneys Point,,,NJ,,08069,US,39.7416151,-75.4695524,Carneys Point,True
+Golden Rehabilitation And Nursing Center,,,,,,,,,,,,,,,,,,(856) 935-6677,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,438 Salem-Woodstown Road,,,Salem,,,NJ,,08079,US,39.5969735,-75.4323879,,True
+Eagleview Health And Rehabilitation,,,,,,,,,,,,,,,,,,(856) 451-5000,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,849 Big Oak Road,,,Pittsgrove,,,NJ,,08318,US,39.485976,-75.122068,,True
+Regency Heritage Nursing And Rehabilitation Center,,,,,,,,,,,,,,,,,,(732) 873-2000,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,380 Demott Lane,,,Somerset,,,NJ,,08873,US,40.4998528,-74.51629729999999,Somerset,True
+Franklin Care Center,,,,,,,,,,,,,,,,,,(732) 821-8000,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,3371 Route 27,,,Franklin Park,,,NJ,,08823,US,40.4291252,-74.560182,Franklin Park,False
+Abingdon Care & Rehabilitation Center,,,,,,,,,,,,,,,,,,(732) 968-5500,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,303 Rock Ave,,,Green Brook,,,NJ,,08812,US,40.608213,-74.464079,,True
+Green Knoll Center,,,,,,,,,,,,,,,,,,(908) 526-8600,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,875 Route 202-206 North,,,Bridgewater,,,NJ,,08807,US,40.6154641,-74.6269904,,True
+Willow Creek Rehabilitation And Care Center,,,,,,,,,,,,,,,,,,(732) 246-4100,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1165 Easton Ave,,,Somerset,,,NJ,,08873,US,40.5192682,-74.49050319999999,Somerset,True
+Rehab At River's Edge,,,,,,,,,,,,,,,,,,(908) 526-8950,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,633 Route 28,,,Raritan,,,NJ,,08869,US,40.5840871,-74.6470218,,False
+Care One At Somerset Valley,,,,,,,,,,,,,,,,,,(732) 469-2000,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1621 Route 22 West,,,Bound Brook,,,NJ,,08805,US,40.5762636,-74.5494557,Martinsville,True
+Bridgeway Care And Rehabilitation Center At Bridgewater,,,,,,,,,,,,,,,,,,(908) 722-7022,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,270 Route 28,,,Bridgewater,,,NJ,,08807,US,40.5953977,-74.6669785,,False
+Parker At Mccarrick,,,,,,,,,,,,,,,,,,(732) 545-4200,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,15 Dellwood Lane,,,Somerset,,,NJ,,08873,US,40.5194498,-74.50158499999999,Somerset,True
+Mcauley Hall Health Care Center,,,,,,,,,,,,,,,,,,(908) 754-3663,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1633 Highway 22,,,Watchung,,,NJ,,07069,US,40.64660800000001,-74.41436999999999,,False
+Andover Subacute And Rehabilitation Ii,,,,,,,,,,,,,,,,,,(973) 383-6200,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,99 Mulford Road,,,Andover,,,NJ,,07821,US,41.04574580000001,-74.7006861,,True
+Andover Subacute And Rehabilitation I,,,,,,,,,,,,,,,,,,(973) 383-6200,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1 O'brien Lane,,,Andover,,,NJ,,07821,US,41.04460700000001,-74.6987879,,True
+Barn Hill Care Center,,,,,,,,,,,,,,,,,,(973) 383-5600,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,249 High Street,,,Newton,,,NJ,,07860,US,41.054682,-74.76850499999999,,True
+Valley View Rehabilitation And Healthcare Center,,,,,,,,,,,,,,,,,,(973) 383-1450,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1 Summit Avenue,,,Newton,,,NJ,,07860,US,41.056622,-74.7618351,,True
+Homestead Rehabilitation & Health Care Center,,,,,,,,,,,,,,,,,,(973) 948-5400,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,129 Morris Turnpike,,,Newton,,,NJ,,07860,US,41.125578,-74.7557526,,True
+Ashbrook Care & Rehabilitation Center,,,,,,,,,,,,,,,,,,(908) 889-5500,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1610 Raritan Road,,,Scotch Plains,,,NJ,,07076,US,40.616072,-74.3627939,,True
+Cornell Hall Care & Rehabilitation Center,,,,,,,,,,,,,,,,,,(908) 687-7800,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,234 Chestnut Street,,,Union,,,NJ,,07083,US,40.67348760000001,-74.26745389999999,,True
+Cranford Park Rehabilitation & Healthcare Center,,,,,,,,,,,,,,,,,,(908) 276-7100,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,600 Lincoln Park East,,,Cranford,,,NJ,,07016,US,40.65227120000001,-74.2998691,,True
+Cranford Rehab & Nursing Center,,,,,,,,,,,,,,,,,,(908) 272-6660,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,205 Birchwood Ave,,,Cranford,,,NJ,,07016,US,40.66649200000001,-74.291549,,True
+Elizabeth Nursing And Rehab Center,,,,,,,,,,,,,,,,,,(908) 354-0002,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1048 Grove Street,,,Elizabeth,,,NJ,,07202,US,40.6575255,-74.2258058,,True
+Manorcare Health Services-New Providence,,,,,,,,,,,,,,,,,,(908) 464-8600,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,144 Gales Drive,,,New Providence,,,NJ,,07974,US,40.702436,-74.402759,,True
+Jfk Hartwyck At Cedar Brook,,,,,,,,,,,,,,,,,,(908) 754-3100,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1340 Park Ave,,,Plainfield,,,NJ,,07060,US,40.6032831,-74.4036916,,True
+Westfield Center,,,,,,,,,,,,,,,,,,(908) 233-9700,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1515 Lamberts Mill Road,,,Westfield,,,NJ,,07090,US,40.6263424,-74.3318178,,True
+Autumn Lake Healthcare At Berkeley Heights,,,,,,,,,,,,,,,,,,(908) 464-0048,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,35 Cottage Street,,,Berkeley Heights,,,NJ,,07922,US,40.68067840000001,-74.4375075,,True
+Aristacare At Delaire,,,,,,,,,,,,,,,,,,(908) 862-3399,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,400 W Stimpson Ave,,,Linden,,,NJ,,07036,US,40.6247706,-74.24968439999999,,True
+Alaris Health At Riverton,,,,,,,,,,,,,,,,,,(732) 499-7927,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1777 Lawrence Street,,,Rahway,,,NJ,,07065,US,40.6088807,-74.2692886,,True
+Aristacare At Norwood Terrace,,,,,,,,,,,,,,,,,,(908) 769-1400,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,40 Norwood Avenue,,,Plainfield,,,NJ,,07060,US,40.6264268,-74.4182034,,True
+Manor Care Health Services Mountainside,,,,,,,,,,,,,,,,,,(908) 654-0020,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1180 Route 22 West,,,Mountainside,,,NJ,,07092,US,40.67967719999999,-74.3455639,,True
+The Woodlands,,,,,,,,,,,,,,,,,,(908) 753-1113,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1400 Woodland Ave,,,Plainfield,,,NJ,,07060,US,40.60192,-74.3957607,,True
+South Mountain Healthcare & Rehabilitation,,,,,,,,,,,,,,,,,,(908) 688-3400,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,2385 Springfield Avenue,,,Vauxhall,,,NJ,,07088,US,40.71593419999999,-74.2875634,Vauxhall,True
+Clark Nursing And Rehabilitation Center,,,,,,,,,,,,,,,,,,(732) 396-7100,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1213 Westfield Avenue,,,Clark,,,NJ,,07066,US,40.62618469999999,-74.3209594,,True
+Phillipsburg Center,,,,,,,,,,,,,,,,,,(908) 454-2627,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,843 Wilbur Avenue,,,Phillipsburg,,,NJ,,08865,US,40.68289100000001,-75.173148,,True
+Warren Haven Rehab And Nursing Center,,,,,,,,,,,,,,,,,,(908) 453-7700,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,350 Oxford Road,,,Oxford,,,NJ,,07863,US,40.83034339999999,-74.9505226,Oxford,True
+Forest Manor Health Care Center,,,,,,,,,,,,,,,,,,(908) 459-4128,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,145 State Park Road,,,Hope,,,NJ,,07844,US,40.9226956,-74.9262655,,True
+Lopatcong Center,,,,,,,,,,,,,,,,,,(908) 859-0200,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,390 Red School Lane,,,Phillipsburg,,,NJ,,08865,US,40.7078294,-75.1694467,,True
+Brakeley Park Center,,,,,,,,,,,,,,,,,,(908) 859-2800,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,290 Red School Lane,,,Phillipsburg,,,NJ,,08865,US,40.70451609999999,-75.16843639999999,,True
+North Cape Center,,,,,,,,,,,,,,,,,,(609) 898-8899,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,700 Townbank Road,,,Cape May,,,NJ,,08204,US,38.9722446,-74.92402899999999,,True
+Atrium Post Acute Care Of Princeton,,,,,,,,,,,,,,,,,,(609) 987-1221,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,5000 Windrow Drive,,,Princeton,,,NJ,,08540,US,40.3581828,-74.6161644,,True
+Forest Hill Healthcare Center,,,,,,,,,,,,,,,,,,(973) 482-5000,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,497 Mt Prospect Ave,,,Newark,,,NJ,,07104,US,40.7686125,-74.16873919999999,Forest Hill,True
+De La Salle Hall,,,,,,,,,,,,,,,,,,(732) 530-9470,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,810 Newman Springs Rd,,,Lincroft,,,NJ,,07738,US,40.33504499999999,-74.138256,Lincroft,True
+Alaris Health At St. Mary's,,,,,,,,,,,,,,,,,,(973) 266-3000,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,135 South Center Street,,,Orange,,,NJ,,07050,US,40.768223,-74.23083,,True
+Jersey Shore Center,,,,,,,,,,,,,,,,,,(732) 544-1557,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,3 Industrial Way East,,,Eatontown,,,NJ,,07724,US,40.2783628,-74.0433299,,True
+Friends Retirement Concepts/arbor Glen,,,,,,,,,,,,,,,,,,(908) 595-6565,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,100 Monroe Street,,,Bridgewater,,,NJ,,08807,US,40.5739275,-74.5918467,,True
+Hamilton Place At The Pines At Whiting,,,,,,,,,,,,,,,,,,(732) 849-0400,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,507 Route 530,,,Whiting,,,NJ,,08759,US,39.9478949,-74.3515654,Whiting,False
+Meridian Nursing And Rehabilitation At Brick,,,,,,,,,,,,,,,,,,(732) 206-8000,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,415 Jack Martin Blvd,,,Brick,,,NJ,,08724,US,40.0765272,-74.1284915,,True
+Holy Name Friary,,,,,,,,,,,,,,,,,,(973) 962-7200,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,2 Morris Road,,,Ringwood,,,NJ,,07456,US,41.1305121,-74.2581179,,True
+Atrium Post Acute Care Of Park Ridge,,,,,,,,,,,,,,,,,,(201) 505-1777,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,120 Noyes Drive,,,Park Ridge,,,NJ,,07656,US,41.03877800000001,-74.03469199999999,,True
+Shore Meadows Rehabilitation And Nursing Center,,,,,,,,,,,,,,,,,,(732) 942-0800,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,231 Warner Street,,,Toms River,,,NJ,,08757,US,40.035032,-74.2439181,,True
+Shorrock Gardens Care Center Inc,,,,,,,,,,,,,,,,,,(732) 451-1000,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,75 Old Toms River Road,,,Brick,,,NJ,,08723,US,40.0251532,-74.1589339,,True
+Mystic Meadows Rehab & Nursing Center,,,,,,,,,,,,,,,,,,(609) 294-3200,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,151 Ninth Avenue,,,Little Egg Harbor Tw,,,NJ,,08087,US,39.617852,-74.344239,,True
+Tallwoods Care Center,,,,,,,,,,,,,,,,,,(732) 237-2220,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,18 Butler Boulevard,,,Bayville,,,NJ,,08721,US,39.8874361,-74.15665849999999,Bayville,True
+Community Medical Center Tcu,,,,,,,,,,,,,,,,,,(732) 557-8000,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,99 Route 37 West,,,Toms River,,,NJ,,08755,US,39.96425489999999,-74.2156583,,True
+Brighton Gardens Of Leisure Park,,,,,,,,,,,,,,,,,,(732) 370-0444,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,1400 Route 70,,,Lakewood,,,NJ,,08701,US,40.0524278,-74.17410009999999,Lakewood,False
+Georgetown Commons At The Pines At Whiting,,,,,,,,,,,,,,,,,,(732) 849-0400,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,507 Route 530,,,Whiting,,,NJ,,08759,US,39.9478949,-74.3515654,Whiting,False
+Brookdale Stafford,,,,,,,,,,,,,,,,,,(609) 597-2500,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,1275 Route 72,,,Manahawkin,,,NJ,,08050,US,39.7229719,-74.28947529999999,Manahawkin,False
+Hearthstone Estates,,,,,,,,,,,,,,,,,,(732) 363-8505,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,77 Williams Street,,,Lakewood,,,NJ,,08701,US,40.0762742,-74.2204881,Lakewood,True
+Shorrock Gardens Care Center Inc,,,,,,,,,,,,,,,,,,(732) 451-1000,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,75 Old Toms River Road,,,Brick,,,NJ,,08723,US,40.0251532,-74.1589339,,True
+Reflections At The Gables,,,,,,,,,,,,,,,,,,(732) 785-3370,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,1594 Route 88,,,Brick,,,NJ,,08724,US,40.078498,-74.1358032,,False
+Spring Oak Assisted Living At Forked River,,,,,,,,,,,,,,,,,,(609) 242-2661,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,601 North Main Street,,,Lanoka Harbor,,,NJ,,08734,US,39.857727,-74.17647,Lanoka Harbor,True
+The Chelsea At Brick,,,,,,,,,,,,,,,,,,(732) 206-9800,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,458 Jack Martin Blvd,,,Brick,,,NJ,,08724,US,40.0804143,-74.13221519999999,,True
+Bella Terra Assisted Living Residence,,,,,,,,,,,,,,,,,,(732) 730-9500,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,2 Kathleen Drive,,,Jackson,,,NJ,,08527,US,40.12787410000001,-74.266891,,True
+The Lakewood Courtyard,,,,,,,,,,,,,,,,,,(732) 905-2055,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,52 Madison Avenue,,,Lakewood,,,NJ,,08701,US,40.0898286,-74.216877,Lakewood,True
+Brandywine Assisted Living At Toms River,,,,,,,,,,,,,,,,,,(732) 240-0043,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,1587 Old Freehold Road,,,Toms River,,,NJ,,08755,US,40.0075508,-74.2025494,,True
+Spring Oak Of Toms River,,,,,,,,,,,,,,,,,,(732) 905-9222,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,2145 Whitesville Road,,,Toms River,,,NJ,,08755,US,40.0394788,-74.24323629999999,,True
+The Chelsea At Toms River,,,,,,,,,,,,,,,,,,(732) 941-8100,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,1657 Silverton Road,,,Toms River,,,NJ,,08755,US,40.0228202,-74.1817579,,True
+Daughters Of Israel Pleasant Valley Home,,,,,,,,,,,,,,,,,,(973) 731-5100,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1155 Pleasant Valley Way,,,West Orange,,,NJ,,07052,US,40.7878081,-74.2746453,,True
+The Chelsea At Bald Eagle,,,,,,,,,,,,,,,,,,(973) 728-6000,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,197 Cahill Cross Road,,,West Milford,,,NJ,,07480,US,41.119043,-74.359467,,True
+Sunrise Assisted Living Of Wayne,,,,,,,,,,,,,,,,,,(973) 628-4900,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,184 Berdan Avenue,,,Wayne,,,NJ,,07470,US,40.9663189,-74.2420855,,True
+Arden Courts Of Wayne,,,,,,,,,,,,,,,,,,(973) 942-5600,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,800 Hamburg Turnpike,,,Wayne,,,NJ,,07470,US,40.9578157,-74.2226069,,True
+Brookdale Wayne,,,,,,,,,,,,,,,,,,(973) 942-4800,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,820 Hamburg Turnpike,,,Wayne,,,NJ,,07470,US,40.95842529999999,-74.2233708,,True
+Lindsay Place,,,,,,,,,,,,,,,,,,(856) 339-0100,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,39 Supawna Road,,,Pennsville,,,NJ,,08070,US,39.6061801,-75.4961849,,True
+Merion Gardens Assisted Living,,,,,,,,,,,,,,,,,,(856) 299-0300,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,315 Merion Avenue,,,Carneys Point,,,NJ,,08069,US,39.7051458,-75.4679543,Carneys Point,True
+Friends Village At Woodstown (alr),,,,,,,,,,,,,,,,,,(856) 769-1500,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,1 Friends Drive,,,Woodstown,,,NJ,,08098,US,39.6477663,-75.31560429999999,,True
+Alaris Health At The Atrium,,,,,,,,,,,,,,,,,,(201) 716-8000,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,350 Ninth Street,,,Jersey City,,,NJ,,07302,US,40.729064,-74.04913499999999,Historic Downtown,True
+Southern Ocean Center,,,,,,,,,,,,,,,,,,(609) 978-0600,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1361 Route 72 West,,,Manahawkin,,,NJ,,08050,US,39.72530779999999,-74.2912769,Manahawkin,True
+Stonebridge At Montgomery Health Care Center,,,,,,,,,,,,,,,,,,(609) 759-3654,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,100 Hollinshead Spring Road,,,Skillman,,,NJ,,08558,US,40.414424,-74.6388398,Skillman,True
+Friends Retirement Concepts,,,,,,,,,,,,,,,,,,(908) 595-6565,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,100 Monroe Street,,,Bridgewater,,,NJ,,08807,US,40.5739275,-74.5918467,,True
+Spring Hills At Somerset,,,,,,,,,,,,,,,,,,(732) 873-4800,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,473 Demott Lane,,,Somerset,,,NJ,,08873,US,40.4999712,-74.52233369999999,Somerset,True
+Brookdale Hillsborough,,,,,,,,,,,,,,,,,,(908) 431-1300,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,600 Auten Road,,,Hillsborough,,,NJ,,08844,US,40.4986403,-74.6554039,,True
+The Chelsea At Warren,,,,,,,,,,,,,,,,,,(908) 903-0911,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,274 King George Road,,,Warren,,,NJ,,07059,US,40.64307340000001,-74.515243,,True
+Brandywine Assisted Living At Middlebrook Crossing,,,,,,,,,,,,,,,,,,(732) 868-8181,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,2005 Route 22 West,,,Bridgewater,,,NJ,,08807,US,40.58384699999999,-74.516013,Martinsville,True
+Brandywine Senior Living At Mountain Ridge,,,,,,,,,,,,,,,,,,(908) 754-8180,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,680 Mountain Boulevard,,,Watchung,,,NJ,,07069,US,40.62437250000001,-74.4760524,,True
+Avalon At Bridgewater,,,,,,,,,,,,,,,,,,(908) 707-8800,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,565 State Highway 28,,,Bridgewater,,,NJ,,08807,US,40.5683806,-74.5656793,,False
+The Chelsea At Bridgewater,,,,,,,,,,,,,,,,,,(908) 252-3400,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,680 202/206 North,,,Bridgewater,,,NJ,,08807,US,40.6016891,-74.62061109999999,,True
+Sunrise Of Basking Ridge,,,,,,,,,,,,,,,,,,(908) 542-9000,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,404 King George Road,,,Basking Ridge,,,NJ,,07920,US,40.6553772,-74.52822069999999,Basking Ridge,True
+"Martin And Edith Stein Assisted Living Residence, Inc.",,,,,,,,,,,,,,,,,,(732) 568-1155,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,350 Demott Lane,,,Somerset,,,NJ,,08873,US,40.49938679999999,-74.5124987,Somerset,True
+Stonebridge At Montgomery Health Care Center,,,,,,,,,,,,,,,,,,(609) 759-3600,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,100 Hollinshead Spring Road,,,Skillman,,,NJ,,08558,US,40.414424,-74.6388398,Skillman,True
+The Avalon At Hillsborough,,,,,,,,,,,,,,,,,,(908) 874-7200,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,393 Amwell Road,,,Hillsborough,,,NJ,,08844,US,40.5010822,-74.63854649999999,,True
+Assisted Living At Fellowship Village,,,,,,,,,,,,,,,,,,(908) 580-3824,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,9000 Fellowship Road,,,Basking Ridge,,,NJ,,07920,US,40.6564527,-74.58369259999999,Basking Ridge,True
+The Chelsea At Forsgate,,,,,,,,,,,,,,,,,,(732) 656-1000,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,319 Forsgate Drive,,,Jamesburg,,,NJ,,08831,US,40.3458019,-74.4479487,,True
+United Methodist Communities At Bristol Glen,,,,,,,,,,,,,,,,,,(973) 300-5788,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,200 Bristol Glen Drive,,,Newton,,,NJ,,07860,US,41.0440845,-74.7648823,,True
+Knoll View Corp,,,,,,,,,,,,,,,,,,(973) 729-4311,,,,,,,,,,,,,,,,,Assisted Living Program,,,,8 Knoll Road,,,Sparta,,,NJ,,07871,US,41.0383716,-74.6438363,Lake Mohawk,True
+Bear Creek Assisted Living,,,,,,,,,,,,,,,,,,(609) 918-1075,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,291 Village Road East,,,West Windsor,,,NJ,,08550,US,40.26824999999999,-74.5946031,,True
+Van Dyk's Senior Residence Of Hawthorne,,,,,,,,,,,,,,,,,,(973) 636-7000,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,644 Goffle Road,,,Hawthorne,,,NJ,,07506,US,40.95562249999999,-74.16357169999999,,True
+Sunrise Assisted Living Of Old Tappan,,,,,,,,,,,,,,,,,,(201) 750-1110,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,195 Old Tappan Road,,,Old Tappan,,,NJ,,07675,US,41.0145862,-73.9790077,,True
+Brightview Mt. Laurel,,,,,,,,,,,,,,,,,,(856) 222-1213,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,400 Fernbrooke Lane,,,Mount Laurel,,,NJ,,08054,US,39.9577417,-74.899959,,True
+Maurice House,,,,,,,,,,,,,,,,,,(856) 825-4002,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,1719 West Main Street,,,Millville,,,NJ,,08332,US,39.400011,-75.079877,,True
+Summit Place,,,,,,,,,,,,,,,,,,(856) 307-0617,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,540 Mullica Hill Road,,,Glassboro,,,NJ,,08028,US,39.7115544,-75.1316641,,True
+Atrium Senior Living Of Princeton,,,,,,,,,,,,,,,,,,(609) 514-9111,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,1000 Windrow Drive,,,Princeton,,,NJ,,08540,US,40.35801230000001,-74.6154943,,True
+Bayside Manor,,,,,,,,,,,,,,,,,,(732) 471-1600,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,7 Laurel Avenue,,,Keansburg,,,NJ,,07734,US,40.44980029999999,-74.1437364,,True
+Sunrise Assisted Living Of Morris Plains,,,,,,,,,,,,,,,,,,(973) 538-7878,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,209 Littleton Road,,,Morris Plains,,,NJ,,07950,US,40.84003469999999,-74.4657514,,True
+The Haven At Manchester,,,,,,,,,,,,,,,,,,(732) 341-0880,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,1700 Route 37 West,,,Toms River,,,NJ,,08757,US,39.9937822,-74.2690137,,True
+Brighton Gardens Of Mountainside,,,,,,,,,,,,,,,,,,(908) 654-4460,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,1350 Route 22 West,,,Mountainside,,,NJ,,07092,US,40.673395,-74.353627,,True
+Brookdale Westampton,,,,,,,,,,,,,,,,,,(609) 877-0555,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,480 W Woodlane Road,,,Westampton,,,NJ,,08060,US,40.0238225,-74.858126,,True
+Brandywine Assisted Living At The Gables,,,,,,,,,,,,,,,,,,(732) 836-1400,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,515 Jack Martin Blvd,,,Brick,,,NJ,,08723,US,40.0805426,-74.1364072,,True
+Sunrise Assisted Living Of Westfield,,,,,,,,,,,,,,,,,,(908) 317-3030,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,240 Springfield Avenue,,,Westfield,,,NJ,,07090,US,40.6730977,-74.3245132,,True
+The Chelsea At Fanwood,,,,,,,,,,,,,,,,,,(908) 654-5200,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,295 South Avenue,,,Fanwood,,,NJ,,07023,US,40.6416817,-74.3826555,,True
+Spring Meadows Summit,,,,,,,,,,,,,,,,,,(908) 522-8852,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,41 Springfield Avenue,,,Summit,,,NJ,,07901,US,40.7178883,-74.33409809999999,,True
+Center For Hope Hospice  Inc.,,,,,,,,,,,,,,,,,,(908) 889-7780,,,,,,,,,,,,,,,,,Assisted Living Program,,,,1900 Raritan Road,,,Scotch Plains,,,NJ,,07076,US,40.62138129999999,-74.35297469999999,,True
+"Amber Court Of Elizabeth, Llc",,,,,,,,,,,,,,,,,,(908) 352-9200,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,1155 East Jersey Street,,,Elizabeth,,,NJ,,07201,US,40.6654335,-74.21353030000002,,True
+House Of The Good Shepherd,,,,,,,,,,,,,,,,,,(908) 684-5900,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,798 Willow Grove Street,,,Hackettstown,,,NJ,,07840,US,40.8680823,-74.80891179999999,,True
+Southern Ocean Medical Center,,,,,,,,,,,,,,,,,,(609) 978-8900,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,1140 Route 72 West,,,Manahawkin,,,NJ,,08050,US,39.72108089999999,-74.285275,Manahawkin,True
+Jewish Home At Rockleigh,,,,,,,,,,,,,,,,,,(201) 784-1414,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,10 Link Drive,,,Rockleigh,,,NJ,,07647,US,41.0074581,-73.9326075,,True
+Mill Gardens At Midland Park,,,,,,,,,,,,,,,,,,(201) 493-7400,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,36 Faner Road,,,Midland Park,,,NJ,,07432,US,40.98752289999999,-74.14719649999999,,True
+Care One At East Brunswick,,,,,,,,,,,,,,,,,,(732) 967-0100,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,599 Cranbury Road,,,East Brunswick,,,NJ,,08816,US,40.4087347,-74.422449,,True
+Care One At Morris,,,,,,,,,,,,,,,,,,(973) 952-5300,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,100 Mazdabrook Road,,,Parsippany Troy Hill,,,NJ,,07054,US,40.8600582,-74.4014052,Parsippany,True
+Continuing Care At Seabrook,,,,,,,,,,,,,,,,,,(732) 643-2000,,,,,,,,,,,,,,,,,Long Term Care Facility,,,,3002 Essex Road,,,Tinton Falls,,,NJ,,07753,US,40.22352679999999,-74.0873095,,True
+Care One At Hamilton,,,,,,,,,,,,,,,,,,(609) 586-4600,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,1660 Whitehorse-Hamilton Square Road,,,Hamilton Township,,,NJ,,08619,US,40.2129212,-74.6803961,,True
+The Chelsea At Manalapan,,,,,,,,,,,,,,,,,,(732) 972-6200,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,445 Route 9 South,,,Manalapan,,,NJ,,07726,US,40.3192065,-74.3060083,,True
+Arbor Terrace Shrewsbury,,,,,,,,,,,,,,,,,,(732) 784-2400,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,864 Shrewsbury Avenue,,,Tinton Falls,,,NJ,,07724,US,40.316222,-74.07364799999999,,True
+Weston Assisted Living Residence,,,,,,,,,,,,,,,,,,(973) 929-2700,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,905 Route 10 East,,,Whippany,,,NJ,,07981,US,40.8277764,-74.4293173,Whippany,True
+Continuing Care At Seabrook,,,,,,,,,,,,,,,,,,(732) 643-2029,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,3002 Essex Road,,,Tinton Falls,,,NJ,,07753,US,40.22352679999999,-74.0873095,,True
+Magnolia Gardens,,,,,,,,,,,,,,,,,,(732) 557-6500,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,1935 Lakewood Road,,,Toms River,,,NJ,,08755,US,40.0224977,-74.2201082,,True
+Brandywine Senior Living At Pennington,,,,,,,,,,,,,,,,,,(609) 730-9922,,,,,,,,,,,,,,,,,Assisted Living Residence,,,,143 West Franklin Avenue,,,Pennington,,,NJ,,08534,US,40.3331905,-74.79933059999999,,True

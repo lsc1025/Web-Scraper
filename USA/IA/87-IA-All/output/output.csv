@@ -1,0 +1,877 @@
+row_id,Facility Name,Facility Type,Address1,Address2,City,Zip,State,Country,Phone,Latitude,Longitude
+USA-IA-87-IA-All-output-1,ALTERNATIVE LIVING-FREDERICK,3-5 Bed RCF/ID/MI/DD,205 N Frederick Ave,,Oelwein,50662,IA,US,Fayette (33),42.6816365,-91.9129002
+USA-IA-87-IA-All-output-2,"ANCHOR HOMES, INC. - JAMES' JOURNEY",3-5 Bed RCF/ID/MI/DD,215 N 19th St,,Clarinda,51632,IA,US,Page (73),40.739958,-95.0420225
+USA-IA-87-IA-All-output-3,"ANCHOR HOMES, INC. - MICKEY'S MANSION",3-5 Bed RCF/ID/MI/DD,501 N 15th St,,Clarinda,51632,IA,US,Page (73),40.7423592,-95.0360828
+USA-IA-87-IA-All-output-4,ARCH I,3-5 Bed RCF/ID/MI/DD,402 S 4th St,,Clinton,52732,IA,US,Clinton (23),41.8420978,-90.1935779
+USA-IA-87-IA-All-output-5,ARCH II,3-5 Bed RCF/ID/MI/DD,734 5th Ave S,PO BOX 0278,Clinton,52732,IA,US,Clinton (23),41.8412891,-90.2035391
+USA-IA-87-IA-All-output-6,ARCH IV,3-5 Bed RCF/ID/MI/DD,78 32nd Ave N,,Clinton,52732,IA,US,Clinton (23),41.8826,-90.174569
+USA-IA-87-IA-All-output-7,BEACON COMMUNITY LIVING HOME,3-5 Bed RCF/ID/MI/DD,2417 Beacon Hill Dr,,Dubuque,52003,IA,US,Dubuque (31),42.4782045,-90.7008043
+USA-IA-87-IA-All-output-8,BIRCH HOUSE,3-5 Bed RCF/ID/MI/DD,745 Pepper Dr,,Iowa City,52240,IA,US,Johnson (52),41.6355647,-91.5252832
+USA-IA-87-IA-All-output-9,BUNKER COMMUNITY LIVING HOME,3-5 Bed RCF/ID/MI/DD,2085 Bunker Hill Rd,,Dubuque,52001,IA,US,Dubuque (31),42.5059186,-90.7010299
+USA-IA-87-IA-All-output-10,COMMUNITY NEURO REHAB - ASHWORTH,3-5 Bed RCF/ID/MI/DD,5008 Ashworth Rd,,West Des Moines,50266,IA,US,Polk (77),41.584198,-93.771468
+USA-IA-87-IA-All-output-11,COMMUNITY NEURO REHAB-ONEIDA POINT,3-5 Bed RCF/ID/MI/DD,3000 SW 37th St,,Des Moines,50321,IA,US,Polk (77),41.5573599,-93.6678619
+USA-IA-87-IA-All-output-12,COMMUNITY NEUROREHAB - GLEN OAKS,3-5 Bed RCF/ID/MI/DD,2033 Glen Oaks Ridge,,Coralville,52241,IA,US,Johnson (52),41.7102268,-91.5923388
+USA-IA-87-IA-All-output-13,CONCORD COMMUNITY LIVING HOME,3-5 Bed RCF/ID/MI/DD,2052 Concord Ct,,Dubuque,52003,IA,US,Dubuque (31),42.4890576,-90.6936429
+USA-IA-87-IA-All-output-14,FALEY REFLECTIONS HOUSE,3-5 Bed RCF/ID/MI/DD,2439 Wilbricht Ln,,Dubuque,52001,IA,US,Dubuque (31),42.5046911,-90.7023016
+USA-IA-87-IA-All-output-15,FLORA ADULT GROUP HOME,3-5 Bed RCF/ID/MI/DD,2535 Wilbricht Ln,,Dubuque,52001,IA,US,Dubuque (31),42.504813,-90.705016
+USA-IA-87-IA-All-output-16,KENNEDY COMMUNITY LIVING HOME,3-5 Bed RCF/ID/MI/DD,12488 John F Kennedy Rd,,Dubuque,52002,IA,US,Dubuque (31),42.536036,-90.730877
+USA-IA-87-IA-All-output-17,KEYWAY COMMUNITY LIVING HOME,3-5 Bed RCF/ID/MI/DD,2129 Key Way Dr,,Dubuque,52002,IA,US,Dubuque (31),42.508688,-90.725487
+USA-IA-87-IA-All-output-18,MARYWOOD GROUP HOME,3-5 Bed RCF/ID/MI/DD,2671 Marywood Dr,,Dubuque,52001,IA,US,Dubuque (31),42.518015,-90.7176999
+USA-IA-87-IA-All-output-19,NEURORESTORATIVE - ANKENY,3-5 Bed RCF/ID/MI/DD,4102 NW 2nd Ct,,Ankeny,50023,IA,US,Polk (77),41.7325058,-93.6540676
+USA-IA-87-IA-All-output-20,NEURORESTORATIVE - CAVALIER,3-5 Bed RCF/ID/MI/DD,2021 Cavalier Way,,Sioux City,51109,IA,US,Woodbury (97),42.5142957,-96.4857651
+USA-IA-87-IA-All-output-21,NEURORESTORATIVE - CEDAR RAPIDS,3-5 Bed RCF/ID/MI/DD,6006 Beverly Rd SW,,Cedar Rapids,52404,IA,US,Linn (57),41.939202,-91.749127
+USA-IA-87-IA-All-output-22,NEURORESTORATIVE - DEWITT,3-5 Bed RCF/ID/MI/DD,2803 262nd St,,DeWitt,52742,IA,US,Clinton (23),41.7986015,-90.5480454
+USA-IA-87-IA-All-output-23,NEURORESTORATIVE - FLORENCE,3-5 Bed RCF/ID/MI/DD,1126 Florence Ave,,Sioux City,51109,IA,US,Woodbury (97),42.5139497,-96.4823164
+USA-IA-87-IA-All-output-24,NEURORESTORATIVE - IOWA CITY,3-5 Bed RCF/ID/MI/DD,4569 Jenn Ln NE,,Iowa City,52240,IA,US,Johnson (52),41.710622,-91.486829
+USA-IA-87-IA-All-output-25,NEW VENTURE GROUP HOME,3-5 Bed RCF/ID/MI/DD,401 S Washington St,,Corydon,50060,IA,US,Wayne (93),40.754928,-93.318026
+USA-IA-87-IA-All-output-26,SPIRES COMMUNITY LIVING HOME,3-5 Bed RCF/ID/MI/DD,969 Spires Dr,,Dubuque,52001,IA,US,Dubuque (31),42.513112,-90.687943
+USA-IA-87-IA-All-output-27,VIZALEEA HOUSE,3-5 Bed RCF/ID/MI/DD,1785 Vizaleea Dr,,Dubuque,52002,IA,US,Dubuque (31),42.5023512,-90.7300058
+USA-IA-87-IA-All-output-28,3801 Grand,ALP/D,3801 Grand Ave,,Des Moines,50312,IA,US,Polk (77),41.5852402,-93.6684961
+USA-IA-87-IA-All-output-29,Arbor Place,ALP/D,1140 K Ave NW,,Cedar Rapids,52405,IA,US,Linn (57),41.984344,-91.688878
+USA-IA-87-IA-All-output-30,Arlington Place of Oelwein,ALP/D,1101 3rd St SW,,Oelwein,50662,IA,US,Fayette (33),42.6751983,-91.9310002
+USA-IA-87-IA-All-output-31,Arlington Place of Pocahontas,ALP/D,101 NE 5th St,,Pocahontas,50574,IA,US,Pocahontas (76),42.7340989,-94.6611491
+USA-IA-87-IA-All-output-32,Arlington Place of Red Oak,ALP/D,800 Ratliff Rd,,Red Oak,51566,IA,US,Montgomery (69),41.0312914,-95.2222784
+USA-IA-87-IA-All-output-33,Bickford Cottage Burlington,ALP/D,3301 Sterling Dr,,Burlington,52601,IA,US,Des Moines (29),40.7988746,-91.1433791
+USA-IA-87-IA-All-output-34,Bickford Cottage Clinton,ALP/D,1150 13th Ave N,,Clinton,52732,IA,US,Clinton (23),41.8594971,-90.2120474
+USA-IA-87-IA-All-output-35,Bickford Cottage Davenport,ALP/D,4040 E 55th St,,Davenport,52807,IA,US,Scott (82),41.5782697,-90.5152211
+USA-IA-87-IA-All-output-36,Bickford Cottage Fort Dodge,ALP/D,1536 20th Ave N,,Fort Dodge,50501,IA,US,Webster (94),42.5270055,-94.1763706
+USA-IA-87-IA-All-output-37,Bickford Cottage II Sioux City,ALP/D,4022 Indian Hills Dr,,Sioux City,51108,IA,US,Woodbury (97),42.5401301,-96.3739604
+USA-IA-87-IA-All-output-38,Bickford Cottage Iowa City,ALP/D,3500 Lower West Branch Rd,,Iowa City,52245,IA,US,Johnson (52),41.665228,-91.4822113
+USA-IA-87-IA-All-output-39,Bickford Cottage Marion,ALP/D,1100 Linden Dr,,Marion,52302,IA,US,Linn (57),42.0375474,-91.5764803
+USA-IA-87-IA-All-output-40,Bickford Cottage Marshalltown,ALP/D,101 Newcastle Rd,,Marshalltown,50158,IA,US,Marshall (64),42.0199915,-92.9111448
+USA-IA-87-IA-All-output-41,Bickford Cottage Muscatine,ALP/D,2807 Cedar St,,Muscatine,52761,IA,US,Muscatine (70),41.4369075,-91.0769939
+USA-IA-87-IA-All-output-42,Bickford Cottage Urbandale,ALP/D,5915 Sutton Pl,,Urbandale,50322,IA,US,Polk (77),41.6490547,-93.7014816
+USA-IA-87-IA-All-output-43,Bickford Cottage WDM,ALP/D,5050 Hawthorne Dr,,West Des Moines,50265,IA,US,Polk (77),41.5631855,-93.7724897
+USA-IA-87-IA-All-output-44,Bridges at Ankeny,ALP/D,3510 NW Abilene Rd,,Ankeny,50023,IA,US,Polk (77),41.7562806,-93.628545
+USA-IA-87-IA-All-output-45,Calvin Community AL Services,ALP/D,4210 Hickman Rd,,Des Moines,50310,IA,US,Polk (77),41.6145061,-93.6753852
+USA-IA-87-IA-All-output-46,Cedars of Madrid Homes,ALP/D,600 N Kennedy Ave,,Madrid,50156,IA,US,Boone (08),41.8842944,-93.8163254
+USA-IA-87-IA-All-output-47,Claremont's Ramsey Village,ALP/D,1611 27th St,,Des Moines,50310,IA,US,Polk (77),41.6088931,-93.652725
+USA-IA-87-IA-All-output-48,Clover Ridge Place,ALP/D,205 Ehlers Ln,,Maquoketa,52060,IA,US,Jackson (49),42.0702436,-90.6861531
+USA-IA-87-IA-All-output-49,Cottage Grove Place,ALP/D,2115 1st Ave SE,,Cedar Rapids,52402,IA,US,Linn (57),41.9958922,-91.6363803
+USA-IA-87-IA-All-output-50,Country Manor Memory Care,ALP/D,900 W 46th St,,Davenport,52806,IA,US,Scott (82),41.5673523,-90.5859798
+USA-IA-87-IA-All-output-51,"Country Meadow Place, LLC",ALP/D,17396 Kingbird Ave,,Mason City,50401,IA,US,Cerro Gordo (17),43.145659,-93.2881419
+USA-IA-87-IA-All-output-52,CountryHouse Residence,ALP/D,1831 E Kanesville Blvd,,Council Bluffs,51503,IA,US,Pottawattamie (78),41.26979,-95.8349768
+USA-IA-87-IA-All-output-53,Courtyard Estates at Cedar Pointe,ALP/D,6132 NE 12th Ave,,Pleasant Hill,50327,IA,US,Polk (77),41.6021339,-93.4903002
+USA-IA-87-IA-All-output-54,Courtyard Estates at Hawthorne Crossing,ALP/D,601 Hawthorne Crossing Dr SE,,Bondurant,50035,IA,US,Polk (77),41.6971,-93.4465939
+USA-IA-87-IA-All-output-55,Donald Lundak Assisted Living Center,ALP/D,21668 80th St,,Cresco,52136,IA,US,Howard (45),43.3994635,-92.1459353
+USA-IA-87-IA-All-output-56,Edencrest at Green Meadows,ALP/D,6750 Corporate Dr,,Johnston,50131,IA,US,Polk (77),41.6649293,-93.7077683
+USA-IA-87-IA-All-output-57,Edencrest at Riverwoods Assisted Living,ALP/D,2210 E Park Ave,,Des Moines,50320,IA,US,Polk (77),41.5557174,-93.5757965
+USA-IA-87-IA-All-output-58,Edencrest at Siena Hills,ALP/D,455 SW Ankeny Rd,,Ankeny,50023,IA,US,Polk (77),41.7016674,-93.6041796
+USA-IA-87-IA-All-output-59,Edgewater Assisted Living,ALP/D,9250 Edgeline Dr,,West Des Moines,50266,IA,US,Dallas (25),41.5561064,-93.8320266
+USA-IA-87-IA-All-output-60,Emery Place,ALP/D,901 S Mentzer Rd,,Robins,52328,IA,US,Linn (57),42.0598432,-91.6582227
+USA-IA-87-IA-All-output-61,Fountain View Assisted Living,ALP/D,5501 Gordon Dr,,Sioux City,51106,IA,US,Woodbury (97),42.4772293,-96.3372811
+USA-IA-87-IA-All-output-62,Fountains Assisted Living,ALP/D,3752 Thunder Ridge Rd,,Bettendorf,52722,IA,US,Scott (82),41.580997,-90.480382
+USA-IA-87-IA-All-output-63,Friesland AL and Zeeland Memory Support,ALP/D,1742 Main St,,Pella,50219,IA,US,Marion (63),41.428445,-92.915699
+USA-IA-87-IA-All-output-64,Garden View Senior Community,ALP/D,800 Darby Dr,,Monona,52159,IA,US,Clayton (22),43.0500654,-91.400571
+USA-IA-87-IA-All-output-65,Gardens at Luther Park,ALP/D,2910 E 16th St,,Des Moines,50316,IA,US,Polk (77),41.621728,-93.5950685
+USA-IA-87-IA-All-output-66,Gardens of Cedar Rapids,ALP/D,5710 Dean Rd SW,,Cedar Rapids,52404,IA,US,Linn (57),41.9449547,-91.748358
+USA-IA-87-IA-All-output-67,Glenwood Place,ALP/D,2907 S 6th St,,Marshalltown,50158,IA,US,Marshall (64),42.0110691,-92.9233777
+USA-IA-87-IA-All-output-68,Grand Haven,ALP/D,201 E Franklin St,,Eldridge,52748,IA,US,Scott (82),41.656576,-90.5807449
+USA-IA-87-IA-All-output-69,Grand Meadows,ALP/D,5300 Grand Meadow Dr,,Asbury,52002,IA,US,Dubuque (31),42.5130116,-90.7545344
+USA-IA-87-IA-All-output-70,Hansen House,ALP/D,2331 Nash Blvd,,Council Bluffs,51501,IA,US,Pottawattamie (78),41.2743645,-95.8786688
+USA-IA-87-IA-All-output-71,Heritage at Northern Hills,ALP/D,4002 Teton Trace,,Sioux City,51104,IA,US,Woodbury (97),42.5386473,-96.3855882
+USA-IA-87-IA-All-output-72,Holy Spirit,ALP/D,1701 W 25th St,,Sioux City,51103,IA,US,Woodbury (97),42.5171268,-96.4330986
+USA-IA-87-IA-All-output-73,Homestead of Centerville,ALP/D,19999 Old Hwy 5,,Centerville,52544,IA,US,Appanoose (04),40.7533117,-92.8597174
+USA-IA-87-IA-All-output-74,Homestead of Creston Operations LLC,ALP/D,1709 W Prairie St,,Creston,50801,IA,US,Union (88),41.06799,-94.382137
+USA-IA-87-IA-All-output-75,Homestead of Knoxville Memory Care Center,ALP/D,711 Willetts Dr,,Knoxville,50138,IA,US,Marion (63),41.312973,-93.1184746
+USA-IA-87-IA-All-output-76,Homestead of Osceola,ALP/D,334 N W View Dr,,Osceola,50213,IA,US,Clarke (20),41.0375467,-93.7865005
+USA-IA-87-IA-All-output-77,Homestead of Oskaloosa,ALP/D,2102 S Market St,,Oskaloosa,52577,IA,US,Mahaska (62),41.276363,-92.643993
+USA-IA-87-IA-All-output-78,Jersey Ridge Place,ALP/D,5605 Jersey Ridge Rd,,Davenport,52807,IA,US,Scott (82),41.5777434,-90.5408446
+USA-IA-87-IA-All-output-79,John's Harbor Memory Loss Center,ALP/D,3520 Grand Ave,,Des Moines,50312,IA,US,Polk (77),41.5833955,-93.6645761
+USA-IA-87-IA-All-output-80,Journey Senior Living of Ankeny,ALP/D,3602 NW 5th St,,Ankeny,50023,IA,US,Polk (77),41.7362072,-93.6466692
+USA-IA-87-IA-All-output-81,"Kensington, The",ALP/D,2210 Ave H,,Fort Madison,52627,IA,US,Lee (56),40.6320663,-91.3373817
+USA-IA-87-IA-All-output-82,Keystone Cedars,ALP/D,6325 Rockwell Dr NE,,Cedar Rapids,52402,IA,US,Linn (57),42.040856,-91.649572
+USA-IA-87-IA-All-output-83,Keystone Place at Forevergreen,ALP/D,1275 W Forevergreen Rd,,North Liberty,52317,IA,US,Johnson (52),41.7231641,-91.6193285
+USA-IA-87-IA-All-output-84,Lakeside Village,ALP/D,2067 IA-4,,Panora,50216,IA,US,Guthrie (39),41.7087871,-94.3633973
+USA-IA-87-IA-All-output-85,Lakeview Lodge,ALP/D,312 Southbrooke Dr,,Waterloo,50702,IA,US,Blackhawk (07),42.4583141,-92.3504331
+USA-IA-87-IA-All-output-86,Legacy Gardens,ALP/D,15 Silvercrest Pl,,Iowa City,52240,IA,US,Johnson (52),41.647781,-91.481759
+USA-IA-87-IA-All-output-87,Legacy Pointe,ALP/D,1020 S Scott Blvd,,Iowa City,52240,IA,US,Johnson (52),41.6492542,-91.4816555
+USA-IA-87-IA-All-output-88,Maple Memory Lane,ALP/D,100 Bolger Dr,,Fayette,52142,IA,US,Fayette (33),42.841852,-91.809242
+USA-IA-87-IA-All-output-89,MeadowView Memory Care Village,ALP/D,3005 F Ave NW,,Cedar Rapids,52405,IA,US,Linn (57),41.9791468,-91.7119255
+USA-IA-87-IA-All-output-90,"Newton Village, Inc.",ALP/D,122 N 5th Ave W,,Newton,50208,IA,US,Jasper (50),41.703235,-93.0539108
+USA-IA-87-IA-All-output-91,Oak Park Place,ALP/D,1381 Oak Park Pl,,Dubuque,52002,IA,US,Dubuque (31),42.4968672,-90.7345757
+USA-IA-87-IA-All-output-92,Oaknoll AL,ALP/D,1 Oaknoll Dr,,Iowa City,52246,IA,US,Johnson (52),41.6512374,-91.5555969
+USA-IA-87-IA-All-output-93,Oakwood Place AL,ALP/D,4126 Northwest Blvd,,Davenport,52806,IA,US,Scott (82),41.5635022,-90.5812098
+USA-IA-87-IA-All-output-94,Parker Place Retirement,ALP/D,707 IA-57,,Parkersburg,50665,IA,US,Butler (12),42.5704867,-92.7853274
+USA-IA-87-IA-All-output-95,Pioneer Place AL,ALP/D,415 E Pioneer Rd,,Lone Tree,52755,IA,US,Johnson (52),41.4815077,-91.4173079
+USA-IA-87-IA-All-output-96,Prairie Hills at Clinton,ALP/D,1791-1625 13th Ave N,,Clinton,52732,IA,US,Clinton (23),41.8592817,-90.2255597
+USA-IA-87-IA-All-output-97,Prairie Hills at Des Moines,ALP/D,5815 SE 27th St,,Des Moines,50320,IA,US,Polk (77),41.5317047,-93.5646938
+USA-IA-87-IA-All-output-98,Prairie Hills at Independence,ALP/D,505 Enterprise Dr,,Independence,50644,IA,US,Buchanan (10),42.4501854,-91.898026
+USA-IA-87-IA-All-output-99,Prairie Hills at Ottumwa,ALP/D,173 E Rochester Rd,,Ottumwa,52501,IA,US,Wapello (90),41.0601505,-92.4055986
+USA-IA-87-IA-All-output-100,Prairie Hills at Penn Place,ALP/D,2 Pennsylvania Pl,,Ottumwa,52501,IA,US,Wapello (90),41.0275238,-92.3852826
+USA-IA-87-IA-All-output-101,Prairie Hills at Tipton,ALP/D,219 S Cedar St,,Tipton,52772,IA,US,Cedar (16),41.7623144,-91.1295303
+USA-IA-87-IA-All-output-102,Promise House,ALP/D,1320 Litchfield Dr,,Hiawatha,52233,IA,US,Linn (57),42.042489,-91.690934
+USA-IA-87-IA-All-output-103,QHC Madison Square LLC,ALP/D,209 W Jefferson St,,Winterset,50273,IA,US,Madison (61),41.335511,-94.015877
+USA-IA-87-IA-All-output-104,QHC Villa Cottages,ALP/D,925 Martin Luther King Dr,,Fort Dodge,50501,IA,US,Webster (94),42.5138253,-94.1603084
+USA-IA-87-IA-All-output-105,Reflections Assisted Living,ALP/D,512 13th St,,Wellman,52356,IA,US,Washington (92),41.474849,-91.8347645
+USA-IA-87-IA-All-output-106,Risen Son Christian Village,ALP/D,3000 Risen Son Blvd,,Council Bluffs,51503,IA,US,Pottawattamie (78),41.2305914,-95.8011642
+USA-IA-87-IA-All-output-107,River Ridge & Gardens at Friendship Haven,ALP/D,420 Kenyon Rd,,Fort Dodge,50501,IA,US,Webster (94),42.4888372,-94.195821
+USA-IA-87-IA-All-output-108,Riverview Terrace,ALP/D,1501 St Luke Dr,,Spencer,51301,IA,US,Clay (21),43.1261079,-95.1257603
+USA-IA-87-IA-All-output-109,Rowley Masonic AL Community,ALP/D,1300 28th St,,Perry,50220,IA,US,Dallas (25),41.8398111,-94.0757395
+USA-IA-87-IA-All-output-110,Senior Star at Elmore Place ALPD,ALP/D,4504 Elmore Avenue,,Davenport,52807,IA,US,Scott (82),41.5670464,-90.5246226
+USA-IA-87-IA-All-output-111,Shores at Pleasant Hill,ALP/D,1500 Edgewater Dr,,Pleasant Hill,50327,IA,US,Polk (77),41.6034051,-93.5252528
+USA-IA-87-IA-All-output-112,Silvercrest at Woodlands Creek,ALP/D,12605 Woodlands Pkwy,,Clive,50325,IA,US,Polk (77),41.6101068,-93.7903616
+USA-IA-87-IA-All-output-113,Silvercrest Garner Farms,ALP/D,1575 W 53rd St,,Davenport,52806,IA,US,Scott (82),41.5735041,-90.5965717
+USA-IA-87-IA-All-output-114,Sitler Center for Helpful Living,ALP/D,1015 S Iowa Ave,,Washington,52353,IA,US,Washington (92),41.289216,-91.692049
+USA-IA-87-IA-All-output-115,Spring Valley Senior AL,ALP/D,501 12th St,,Perry,50220,IA,US,Dallas (25),41.8330558,-94.0919993
+USA-IA-87-IA-All-output-116,Summit Pointe Senior Living Community,ALP/D,3505 English Glen Ave,,Marion,52302,IA,US,Linn (57),42.052418,-91.5730504
+USA-IA-87-IA-All-output-117,SunnyBrook of Burlington,ALP/D,5175 West Ave,,Burlington,52601,IA,US,Des Moines (29),40.7966562,-91.1691967
+USA-IA-87-IA-All-output-118,SunnyBrook of Carroll,ALP/D,1214 E 18th St,,Carroll,51401,IA,US,Carroll (14),42.077684,-94.849417
+USA-IA-87-IA-All-output-119,SunnyBrook of Fort Madison,ALP/D,5025 River Valley Rd,,Fort Madison,52627,IA,US,Lee (56),40.632488,-91.378071
+USA-IA-87-IA-All-output-120,SunnyBrook of Mt. Pleasant,ALP/D,1406 E Linden Dr,,Mt Pleasant,52641,IA,US,Henry (44),40.9484025,-91.530876
+USA-IA-87-IA-All-output-121,SunnyBrook of Muscatine,ALP/D,3515 Diana Queen Dr,,Muscatine,52761,IA,US,Muscatine (70),41.44837,-91.077815
+USA-IA-87-IA-All-output-122,Sunset Park Place Company LLC,ALP/D,3730 Pennsylvania Ave,,Dubuque,52002,IA,US,Dubuque (31),42.500194,-90.7333661
+USA-IA-87-IA-All-output-123,Traditions at West Union,ALP/D,609 IA-150,,West Union,52175,IA,US,Fayette (33),42.969439,-91.816031
+USA-IA-87-IA-All-output-124,Village Ridge,ALP/D,365 Marion Blvd,,Marion,52302,IA,US,Linn (57),42.0286628,-91.6143032
+USA-IA-87-IA-All-output-125,Vintage Hills at Prairie Trail,ALP/D,1275 SW State St,,Ankeny,50023,IA,US,Polk (77),41.7175709,-93.6176446
+USA-IA-87-IA-All-output-126,Vintage Hills Retirement Community,ALP/D,604 E Hillcrest Ave,,Indianola,50125,IA,US,Warren (91),41.3812095,-93.5527191
+USA-IA-87-IA-All-output-127,Vista Prairie at Fieldcrest AL,ALP/D,2501 E 6th St,,Sheldon,51201,IA,US,O'Brien (71),43.1823607,-95.8221972
+USA-IA-87-IA-All-output-128,Vista Prairie at Keelson Harbour,ALP/D,2810 Aurora Ave,,Spirit Lake,51360,IA,US,Dickinson (30),43.4135946,-95.1250298
+USA-IA-87-IA-All-output-129,Vriendschap Village ALP,ALP/D,2604 Fifield Rd,,Pella,50219,IA,US,Marion (63),41.40739,-92.9493693
+USA-IA-87-IA-All-output-130,Walnut Ridge Senior Community,ALP/D,1701 Campus Dr,,Clive,50325,IA,US,Polk (77),41.6061014,-93.7717525
+USA-IA-87-IA-All-output-131,"Waukee Memory Care, LLC",ALP/D,1505 SE Laurel St,,Waukee,50263,IA,US,Dallas (25),41.6123456,-93.8425757
+USA-IA-87-IA-All-output-132,Whispering Creek,ALP/D,2607 Nicklaus Blvd,,Sioux City,51106,IA,US,Woodbury (97),42.4635297,-96.3143094
+USA-IA-87-IA-All-output-133,Whispering Willow AL,ALP/D,601 Dawn Avenue,,Fredericksburg,50630,IA,US,Chickasaw (19),42.958582,-92.1951496
+USA-IA-87-IA-All-output-134,Willows (The),ALP/D,710 E Arbor Ln,,Mt Pleasant,52641,IA,US,Henry (44),40.9750206,-91.5445019
+USA-IA-87-IA-All-output-135,Windhaven Assisted Living Center,ALP/D,5500 S Main St,,Cedar Falls,50613,IA,US,Blackhawk (07),42.4884289,-92.444533
+USA-IA-87-IA-All-output-136,Windsor Manor AL,ALP/D,2015 3rd Ave N,,Estherville,51334,IA,US,Emmet (32),43.4046153,-94.8151964
+USA-IA-87-IA-All-output-137,Windsor Manor Algona,ALP/D,512 N Finn Dr,,Algona,50511,IA,US,Kossuth (55),43.0735309,-94.2062803
+USA-IA-87-IA-All-output-138,Windsor Manor Grinnell,ALP/D,229 Pearl St,,Grinnell,50112,IA,US,Poweshiek (79),41.7343532,-92.7304355
+USA-IA-87-IA-All-output-139,Windsor Manor Indianola,ALP/D,608 S 15th St,,Indianola,50125,IA,US,Warren (91),41.3537479,-93.538539
+USA-IA-87-IA-All-output-140,Windsor Manor Nevada,ALP/D,1642 S G Ave,,Nevada,50201,IA,US,Story (85),42.00473,-93.4389779
+USA-IA-87-IA-All-output-141,Windsor Manor Shenandoah,ALP/D,601 Harrison St,,Shenandoah,51601,IA,US,Page (73),40.7603099,-95.3577472
+USA-IA-87-IA-All-output-142,Windsor Manor Vinton,ALP/D,1807 W 5th St,,Vinton,52349,IA,US,Benton (06),42.166705,-92.045196
+USA-IA-87-IA-All-output-143,Aase Haugen AL,ALP,8 Ohio St,,Decorah,52101,IA,US,Winneshiek (96),43.303056,-91.8028341
+USA-IA-87-IA-All-output-144,Accura Healthcare of Cherokee,ALP,921 Riverview Dr,,Cherokee,51012,IA,US,Cherokee (18),42.75948,-95.536039
+USA-IA-87-IA-All-output-145,Accura Healthcare of Pomeroy,ALP,713 S Scuyler St,,Pomeroy,50575,IA,US,Calhoun (13),42.5434163,-94.6813298
+USA-IA-87-IA-All-output-146,Adel Assisted Living Apartments,ALP,504 Van Fossen Ln,,Adel,50003,IA,US,Dallas (25),41.6107025,-94.034394
+USA-IA-87-IA-All-output-147,Afton Oaks AL,ALP,405 9th St,,Elma,50628,IA,US,Howard (45),43.2441182,-92.4465979
+USA-IA-87-IA-All-output-148,Allen Place,ALP,1406 E 19th St,,Atlantic,50022,IA,US,Cass (15),41.392293,-94.9929616
+USA-IA-87-IA-All-output-149,Amelia Place,ALP,57 W Ferndale Dr,,Council Bluffs,51503,IA,US,Pottawattamie (78),41.2598279,-95.7977305
+USA-IA-87-IA-All-output-150,Apple Valley AL,ALP,405 27 Ave S,,Clear Lake,50428,IA,US,Cerro Gordo (17),43.1104048,-93.3869898
+USA-IA-87-IA-All-output-151,Apple Valley Assisted Living,ALP,300 Lyndale Ave,,Osage,50461,IA,US,Mitchell (66),43.2704206,-92.8181824
+USA-IA-87-IA-All-output-152,Apple Valley Assisted Living Charles City,ALP,801 Blunt St #39,,Charles City,50616,IA,US,Floyd (34),43.0685309,-92.6757368
+USA-IA-87-IA-All-output-153,Apple Valley Hampton,ALP,1724 Central Ave E,,Hampton,50441,IA,US,Franklin (35),42.7434547,-93.1836159
+USA-IA-87-IA-All-output-154,Arbor Heights at University,ALP,233 University Ave,,Des Moines,50314,IA,US,Polk (77),41.6008029,-93.6210502
+USA-IA-87-IA-All-output-155,Arlin Falck AL,ALP,911 Ridgewood Dr,,Decorah,52101,IA,US,Winneshiek (96),43.294223,-91.777214
+USA-IA-87-IA-All-output-156,Arlington Place of Grundy Center,ALP,95 D Ave,,Grundy Center,50638,IA,US,Grundy (38),42.3643271,-92.7614376
+USA-IA-87-IA-All-output-157,Ashbrook Assisted Living,ALP,1121 N Fremont St,,Iowa Falls,50126,IA,US,Hardin (42),42.5269727,-93.2614726
+USA-IA-87-IA-All-output-158,Aspen Heights Assisted Living,ALP,1410 Aspen St,,Hull,51239,IA,US,Sioux (84),43.1935116,-96.1237991
+USA-IA-87-IA-All-output-159,Assisi Village Assisted Living,ALP,1001 Assisi Dr,,Dubuque,52001,IA,US,Dubuque (31),42.5328737,-90.6707496
+USA-IA-87-IA-All-output-160,Avoca Lodge AL,ALP,612 York Rd,,Avoca,51521,IA,US,Pottawattamie (78),41.5058679,-95.3860383
+USA-IA-87-IA-All-output-161,Ballard Creek Community,ALP,908 US-69,,Huxley,50124,IA,US,Story (85),41.9026725,-93.6081955
+USA-IA-87-IA-All-output-162,Bavarian Meadows,ALP,632 L14,,Remsen,51050,IA,US,Plymouth (75),42.8088922,-95.9586211
+USA-IA-87-IA-All-output-163,Belle Haven Independent and Assisted Living,ALP,815 Luick's Ln N,,Belmond,50421,IA,US,Wright (99),42.8537383,-93.6030003
+USA-IA-87-IA-All-output-164,Bethany Heights Assisted Living,ALP,11 Elliott St,,Council Bluffs,51503,IA,US,Pottawattamie (78),41.278721,-95.837435
+USA-IA-87-IA-All-output-165,Bickford Cottage Ames,ALP,2418 Kent Ave,,Ames,50010,IA,US,Story (85),42.0463225,-93.6393003
+USA-IA-87-IA-All-output-166,Bickford Cottage Cedar Falls,ALP,5101 University Ave,,Cedar Falls,50613,IA,US,Blackhawk (07),42.5082347,-92.4187456
+USA-IA-87-IA-All-output-167,Bickford Cottage I Sioux City,ALP,4020 Indian Hills Dr,,Sioux City,51108,IA,US,Woodbury (97),42.5394644,-96.3733387
+USA-IA-87-IA-All-output-168,Brown Deer Place,ALP,1500 1st Ave,,Coralville,52241,IA,US,Johnson (52),41.693393,-91.567447
+USA-IA-87-IA-All-output-169,Bryhl Assisted Living,ALP,7511 University Ave,,Cedar Falls,50613,IA,US,Blackhawk (07),42.511635,-92.449517
+USA-IA-87-IA-All-output-170,Cardinal Grove,ALP,1355 Division St,,Garner,50438,IA,US,Hancock (41),43.0920308,-93.6090133
+USA-IA-87-IA-All-output-171,Carlisle Center for AL,ALP,685 Cole St,,Carlisle,50047,IA,US,Warren (91),41.495782,-93.4939594
+USA-IA-87-IA-All-output-172,Cedar Place Assisted Living,ALP,812 Cedar St,,Story City,50248,IA,US,Story (85),42.1828585,-93.5918748
+USA-IA-87-IA-All-output-173,Cedar Vale,ALP,100 Poppe Ln,,Nashua,50658,IA,US,Chickasaw (19),42.9559195,-92.532514
+USA-IA-87-IA-All-output-174,Char Mac AL of Lawton,ALP,200 E Char-Mac Dr,,Lawton,51030,IA,US,Woodbury (97),42.4751649,-96.1838398
+USA-IA-87-IA-All-output-175,CHAR-MAC AL OF HOLSTEIN/THE RIDGE,ALP,1500 S Kiel St,,Holstein,51025,IA,US,Ida (47),42.4762521,-95.5372551
+USA-IA-87-IA-All-output-176,Char-Mac of Manning,ALP,203 11th St,,Manning,51455,IA,US,Carroll (14),41.902601,-95.05693
+USA-IA-87-IA-All-output-177,Cherry Ridge,ALP,217 US-30,,Mt Vernon,52314,IA,US,Linn (57),41.916029,-91.4196196
+USA-IA-87-IA-All-output-178,Circle Terrace Lodge,ALP,155 Circle Terrace,,Manly,50456,IA,US,Worth (98),43.282906,-93.19641
+USA-IA-87-IA-All-output-179,Clarence Assisted Living,ALP,408 2nd Ave,,Clarence,52216,IA,US,Cedar (16),41.8855427,-91.063049
+USA-IA-87-IA-All-output-180,Clearview Estates AL,ALP,500 W Columbus St,,Mt Ayr,50854,IA,US,Ringgold (80),40.718177,-94.2424956
+USA-IA-87-IA-All-output-181,Cobble Creek AL of Sheldon,ALP,980 Oak St,,Sheldon,51201,IA,US,O'Brien (71),43.1874911,-95.843962
+USA-IA-87-IA-All-output-182,Cobble Creek AL of Spencer,ALP,2116 1st Ave E,,Spencer,51301,IA,US,Clay (21),43.1598316,-95.1435933
+USA-IA-87-IA-All-output-183,Cobblestone Court Assisted Living,ALP,3187 140th St,,Sumner,50674,IA,US,Bremer (09),42.8474026,-92.1235005
+USA-IA-87-IA-All-output-184,Colonial Estates,ALP,815 Colonial Ave,,Columbus Junction,52738,IA,US,Louisa (58),41.2730367,-91.3706118
+USA-IA-87-IA-All-output-185,Community Memorial AL,ALP,233 N 8th Ave W,,Hartley,51346,IA,US,O'Brien (71),43.1839643,-95.4868508
+USA-IA-87-IA-All-output-186,Cornerstone AL,ALP,302 2nd St NE,,Mason City,50401,IA,US,Cerro Gordo (17),43.153959,-93.195778
+USA-IA-87-IA-All-output-187,Courtyard A.L.,ALP,401 W 10th Ave N,,Clear Lake,50428,IA,US,Cerro Gordo (17),43.1444273,-93.3896368
+USA-IA-87-IA-All-output-188,Courtyard Estates of Walcott,ALP,510 N Main St,,Walcott,52773,IA,US,Scott (82),41.5903374,-90.7755923
+USA-IA-87-IA-All-output-189,Courtyard Terrace,ALP,717 W 3rd St,,Boone,50036,IA,US,Boone (08),42.0595007,-93.9000059
+USA-IA-87-IA-All-output-190,Cresco Assisted Living,ALP,1004 N Elm St,,Cresco,52136,IA,US,Howard (45),43.383429,-92.113879
+USA-IA-87-IA-All-output-191,Crown Pointe,ALP,1400 7th Ave SE,,Sioux Center,51250,IA,US,Sioux (84),43.0609498,-96.1633416
+USA-IA-87-IA-All-output-192,Custom Care,ALP,1224 13th St NW,,Cedar Rapids,52405,IA,US,Linn (57),41.9860967,-91.6932319
+USA-IA-87-IA-All-output-193,Davenport Lutheran AL,ALP,1128 W 53rd St,,Davenport,52806,IA,US,Scott (82),41.5746417,-90.589261
+USA-IA-87-IA-All-output-194,Deer View Manor,ALP,1212 S Stuart St,,Sigourney,52591,IA,US,Keokuk (54),41.3233932,-92.2070168
+USA-IA-87-IA-All-output-195,Deerfield Place,ALP,505 E Gilman St,,Sheffield,50475,IA,US,Franklin (35),42.8931728,-93.2178902
+USA-IA-87-IA-All-output-196,"Deerfield Retirement Community, Inc.",ALP,13731 Hickman Rd,,Urbandale,50323,IA,US,Polk (77),41.616894,-93.808145
+USA-IA-87-IA-All-output-197,Dunlap Assisted Living,ALP,1405 Harrison Rd,,Dunlap,51529,IA,US,Harrison (43),41.8487653,-95.5885681
+USA-IA-87-IA-All-output-198,Dutchman's Oaks Assisted LIving,ALP,921 3rd St,,Dumont,50625,IA,US,Butler (12),42.7503202,-92.976849
+USA-IA-87-IA-All-output-199,Eagle Pointe Place,ALP,2700 Matthew John Dr,,Dubuque,52002,IA,US,Dubuque (31),42.5214772,-90.7318857
+USA-IA-87-IA-All-output-200,Eagle Ridge Independent and Assisted Living,ALP,1329 Acre St,,Guttenberg,52052,IA,US,Clayton (22),42.7802226,-91.1060699
+USA-IA-87-IA-All-output-201,Eiler Place,ALP,920 W Garfield St,,Clarinda,51632,IA,US,Page (73),40.7341365,-95.0502113
+USA-IA-87-IA-All-output-202,Ellen Kennedy Living Center,ALP,1177 7th St SW,,Dyersville,52040,IA,US,Dubuque (31),42.4756642,-91.1334115
+USA-IA-87-IA-All-output-203,Elm Crest Retirement Comm,ALP,2108 12th St,,Harlan,51537,IA,US,Shelby (83),41.6477076,-95.3248208
+USA-IA-87-IA-All-output-204,Elm Springs AL Apts,ALP,900 7th St,,Allison,50602,IA,US,Butler (12),42.7558366,-92.8043838
+USA-IA-87-IA-All-output-205,Elms,ALP,1007 3rd St,,Reinbeck,50669,IA,US,Grundy (38),42.3239816,-92.6063718
+USA-IA-87-IA-All-output-206,"Elmwood PE, LLC",ALP,190 15th St,,Onawa,51040,IA,US,Monona (67),42.0375476,-96.1048661
+USA-IA-87-IA-All-output-207,Emerald Oaks,ALP,2603 17th St,,Emmetsburg,50536,IA,US,Palo Alto (74),43.1047573,-94.6845839
+USA-IA-87-IA-All-output-208,Emerson Point,ALP,1355 Shannon Dr,,Iowa City,52246,IA,US,Johnson (52),41.6467203,-91.5813642
+USA-IA-87-IA-All-output-209,Estabrook Lodge Assisted Living,ALP,2302 Rick Collins Way,,Eldora,50627,IA,US,Hardin (42),42.357247,-93.111102
+USA-IA-87-IA-All-output-210,Faith Home Assisted Living,ALP,912 Davidson Dr,,Osage,50461,IA,US,Mitchell (66),43.2766435,-92.8084652
+USA-IA-87-IA-All-output-211,Floyd Place,ALP,403 C St,,Sergeant Bluff,51054,IA,US,Woodbury (97),42.4041091,-96.3630237
+USA-IA-87-IA-All-output-212,Forest Plaza AL,ALP,635 IA-9,,Forest City,50436,IA,US,Winnebago (95),43.2717,-93.6280472
+USA-IA-87-IA-All-output-213,Franken Manor,ALP,527 N Main Ave,,Sioux Center,51250,IA,US,Sioux (84),43.082931,-96.1763565
+USA-IA-87-IA-All-output-214,Gardens @ Cherokee,ALP,1610 IA-3,,Cherokee,51012,IA,US,Cherokee (18),42.7706962,-95.5511742
+USA-IA-87-IA-All-output-215,Gardens Assisted Living,ALP,1000 W Washington St,,Jefferson,50129,IA,US,Greene (37),42.017314,-94.387151
+USA-IA-87-IA-All-output-216,Garnett Place,ALP,202 35th St Dr SE,,Cedar Rapids,52403,IA,US,Linn (57),42.01485,-91.6320269
+USA-IA-87-IA-All-output-217,Golden Horizons,ALP,Byron Godbersen Dr,,Ida Grove,51445,IA,US,Ida (47),42.3358532,-95.4633542
+USA-IA-87-IA-All-output-218,Good Samaritan Society - Timber Ridge,ALP,2 Oak Ridge Rd,,Ottumwa,52501,IA,US,Wapello (90),41.003602,-92.4609599
+USA-IA-87-IA-All-output-219,Grand JiVante,ALP,1008 2nd Ave,,Ackley,50601,IA,US,Hardin (42),42.5521992,-93.0484035
+USA-IA-87-IA-All-output-220,Greenfield Manor AL,ALP,615 SE Kent St,,Greenfield,50849,IA,US,Adair (01),41.303148,-94.450348
+USA-IA-87-IA-All-output-221,Griswold Care Center AL,ALP,106 Harrison St,,Griswold,51535,IA,US,Cass (15),41.2366773,-95.1339033
+USA-IA-87-IA-All-output-222,Hawkeye AL,ALP,1401 H Ave,,Milford,51351,IA,US,Dickinson (30),43.3288937,-95.1585742
+USA-IA-87-IA-All-output-223,Hawkeye AL - Bancroft,ALP,548 E Ramsey St,,Bancroft,50517,IA,US,Kossuth (55),43.2929738,-94.2092816
+USA-IA-87-IA-All-output-224,Heartland Care Center,ALP,604 E Fenton St,,Marcus,51035,IA,US,Cherokee (18),42.820181,-95.800412
+USA-IA-87-IA-All-output-225,Heartwood Heights,ALP,409 9th Ave N,,Sibley,51249,IA,US,Osceola (72),43.4050809,-95.741726
+USA-IA-87-IA-All-output-226,Heritage at Fox Run Assisted Living,ALP,3121 Macineery Dr,,Council Bluffs,51501,IA,US,Pottawattamie (78),41.2107701,-95.8956702
+USA-IA-87-IA-All-output-227,Heritage Court,ALP,1499 Office Park Rd,,West Des Moines,50265,IA,US,Polk (77),41.5911996,-93.7237389
+USA-IA-87-IA-All-output-228,Heritage House,ALP,1200 Brookridge Cir,,Atlantic,50022,IA,US,Cass (15),41.3977464,-94.9992695
+USA-IA-87-IA-All-output-229,Highland Ridge,ALP,100 Village View Cir,,Williamsburg,52361,IA,US,Iowa (48),41.671479,-92.002812
+USA-IA-87-IA-All-output-230,Homestead Assisted Living,ALP,2501 W State St,,Mason City,50401,IA,US,Cerro Gordo (17),43.1517083,-93.2385281
+USA-IA-87-IA-All-output-231,Homestead of Albia,ALP,6592 165 St,,Albia,52531,IA,US,Monroe (68),41.0445089,-92.7980845
+USA-IA-87-IA-All-output-232,Homestead of Chariton,ALP,1110 N 6th St,,Chariton,50049,IA,US,Lucas (59),41.0272409,-93.300247
+USA-IA-87-IA-All-output-233,Homestead of Knoxville,ALP,908 S Park Ln Dr,,Knoxville,50138,IA,US,Marion (63),41.3112591,-93.1153536
+USA-IA-87-IA-All-output-234,Huskamp Haven,ALP,300 W Riverview Dr,,Algona,50511,IA,US,Kossuth (55),43.0641379,-94.2417413
+USA-IA-87-IA-All-output-235,Indian Creek Independent & Assisted Living Apts.,ALP,100 6th St,,Nevada,50201,IA,US,Story (85),42.0118062,-93.4543706
+USA-IA-87-IA-All-output-236,Irving Point,ALP,910 7th Ave SE,,Cedar Rapids,52401,IA,US,Linn (57),41.9772067,-91.656578
+USA-IA-87-IA-All-output-237,Kennybrook Village,ALP,200 SW Brookside Dr,,Grimes,50111,IA,US,Polk (77),41.6865979,-93.8058444
+USA-IA-87-IA-All-output-238,Kensington Place,ALP,504 Short Ave,,New Hampton,50659,IA,US,Chickasaw (19),43.0544507,-92.304987
+USA-IA-87-IA-All-output-239,Kentucky Ridge Neighborhood AL,ALP,2060 S Kentucky Ave,,Mason City,50401,IA,US,Cerro Gordo (17),43.133167,-93.183834
+USA-IA-87-IA-All-output-240,Keystone Senior Suites,ALP,251 6th St,,Keystone,52249,IA,US,Benton (06),42.0044294,-92.2004245
+USA-IA-87-IA-All-output-241,Kingston Court,ALP,118 Reimer St SW,,Elkader,52043,IA,US,Clayton (22),42.8468345,-91.4063382
+USA-IA-87-IA-All-output-242,Kosgrove Estates,ALP,4155 US-75,,Sioux Center,51250,IA,US,Sioux (84),43.0443343,-96.1752262
+USA-IA-87-IA-All-output-243,Lakeside Assisted Living,ALP,401 Lawler St,,Emmetsburg,50536,IA,US,Palo Alto (74),43.1163248,-94.6830622
+USA-IA-87-IA-All-output-244,Lakeview Village,ALP,3012 F Dr,,Amana,52203,IA,US,Iowa (48),41.801332,-91.895107
+USA-IA-87-IA-All-output-245,Lamoni AL,ALP,810 E 3rd St,,Lamoni,50140,IA,US,Decatur (27),40.6212,-93.927114
+USA-IA-87-IA-All-output-246,Landsmeer Ridge Retirement Comm,ALP,1007 7th St NE,NE,Orange City,51041,IA,US,Sioux (84),43.0136323,-96.0433422
+USA-IA-87-IA-All-output-247,Leahy Grove Independent and Assisted Living,ALP,800 2nd St SE,,Hampton,50441,IA,US,Franklin (35),42.7347045,-93.2047918
+USA-IA-87-IA-All-output-248,Leland Smith Assisted Living,ALP,309 Ovesen Dr,,Wilton,52778,IA,US,Muscatine (70),41.596549,-91.0144509
+USA-IA-87-IA-All-output-249,Lincolnway Villa AL,ALP,322-300 Lincoln Hwy,,Wheatland,52777,IA,US,Clinton (23),41.833325,-90.833242
+USA-IA-87-IA-All-output-250,Lincolnwood AL,ALP,302 W Lincoln St,PO Box 189,Edgewood,52042,IA,US,Delaware (28),42.6429982,-91.402986
+USA-IA-87-IA-All-output-251,Linden Place AL,ALP,1802 5th Ave NW,,Waverly,50677,IA,US,Bremer (09),42.7300938,-92.4932414
+USA-IA-87-IA-All-output-252,Lindens,ALP,2355 Hamilton Dr,,Ames,50014,IA,US,Story (85),42.0012818,-93.6476691
+USA-IA-87-IA-All-output-253,Linnwood Estates,ALP,700 N Linn St,,Glenwood,51534,IA,US,Mills (65),41.0527267,-95.7403398
+USA-IA-87-IA-All-output-254,Longview Retirement Apts,ALP,1010 Longview Rd,,Missouri Valley,51555,IA,US,Harrison (43),41.5669344,-95.8835145
+USA-IA-87-IA-All-output-255,Lutheran Home Apts,ALP,1413 2nd Ave,,Vinton,52349,IA,US,Benton (06),42.157918,-92.023366
+USA-IA-87-IA-All-output-256,Maggie's House Assisted Living,ALP,107 E 2nd St,,DeWitt,52742,IA,US,Clinton (23),41.8169978,-90.5318425
+USA-IA-87-IA-All-output-257,Main Street Manor,ALP,207 3rd St N,,Swea City,50590,IA,US,Kossuth (55),43.3836027,-94.310255
+USA-IA-87-IA-All-output-258,Maple Grove Senior Living,ALP,1917 S 18th St,,Centerville,52544,IA,US,Appanoose (04),40.7144799,-92.867709
+USA-IA-87-IA-All-output-259,Maple Manor Village,ALP,343 Parriott St,,Aplington,50604,IA,US,Butler (12),42.5830263,-92.8731025
+USA-IA-87-IA-All-output-260,Maple Ridge AL,ALP,1500 E South St,,Mt Ayr,50854,IA,US,Ringgold (80),40.7111026,-94.2284438
+USA-IA-87-IA-All-output-261,Maples Assisted Living,ALP,98 Bolger Dr,,Fayette,52142,IA,US,Fayette (33),42.8418612,-91.8091201
+USA-IA-87-IA-All-output-262,Martina Place,ALP,5815 Winwood Dr,,Johnston,50131,IA,US,Polk (77),41.6688781,-93.7002116
+USA-IA-87-IA-All-output-263,Mayflower Home,ALP,927 1st Ave,,Grinnell,50112,IA,US,Poweshiek (79),41.7392204,-92.7236704
+USA-IA-87-IA-All-output-264,Meadows (The),ALP,200 McCarren Dr,,Manchester,52057,IA,US,Delaware (28),42.4868193,-91.439165
+USA-IA-87-IA-All-output-265,Meadows Assisted Living,ALP,528 N Kelly St,,Shell Rock,50670,IA,US,Butler (12),42.7133658,-92.5718367
+USA-IA-87-IA-All-output-266,Meadows Assisted Living,ALP,1302 S Main St,,Clarion,50525,IA,US,Wright (99),42.721279,-93.7331951
+USA-IA-87-IA-All-output-267,Melrose Meadows Retirement Community,ALP,350 Dublin Dr,,Iowa City,52246,IA,US,Johnson (52),41.6559922,-91.584844
+USA-IA-87-IA-All-output-268,Mica Hill Estates,ALP,2121 Ave L,,Hawarden,51023,IA,US,Sioux (84),43.0095609,-96.4810642
+USA-IA-87-IA-All-output-269,Mill Pond AL,ALP,1201 SE Mill Pond Ct,,Ankeny,50021,IA,US,Polk (77),41.7245053,-93.5782222
+USA-IA-87-IA-All-output-270,Mills Harbour Independent/Assisted Living,ALP,311 S 10th Ave E,,Lake Mills,50450,IA,US,Winnebago (95),43.4112313,-93.5292851
+USA-IA-87-IA-All-output-271,MJ Estates,ALP,411 S Carthage St,,Exira,50076,IA,US,Audubon (05),41.5868314,-94.8775472
+USA-IA-87-IA-All-output-272,Mulberry Place,ALP,11 Deborah Dr,,Bloomfield,52537,IA,US,Davis (26),40.7611366,-92.4164384
+USA-IA-87-IA-All-output-273,Murphy Place Assisted Living,ALP,620 E Monroe St,,Corydon,50060,IA,US,Wayne (93),40.7549191,-93.3123224
+USA-IA-87-IA-All-output-274,New Homestead,ALP,2306 State St,,Guthrie Center,50115,IA,US,Guthrie (39),41.680092,-94.484997
+USA-IA-87-IA-All-output-275,Northridge Village,ALP,3300 George Washington Carver Ave,,Ames,50014,IA,US,Story (85),42.0561994,-93.6508352
+USA-IA-87-IA-All-output-276,Northwood Pines,ALP,700 10th St N,North,Northwood,50459,IA,US,Worth (98),43.4511963,-93.2185588
+USA-IA-87-IA-All-output-277,Oak Estates,ALP,110 N Alice St,,Conrad,50621,IA,US,Grundy (38),42.2252029,-92.8682661
+USA-IA-87-IA-All-output-278,Oakhill Assisted Living Home,ALP,1126 Oakhill Dr,,Hawarden,51023,IA,US,Sioux (84),43.011724,-96.478292
+USA-IA-87-IA-All-output-279,Oakland Heights,ALP,904 N Scenic Dr,,Oakland,51560,IA,US,Pottawattamie (78),41.3160802,-95.3864193
+USA-IA-87-IA-All-output-280,Oaks at Parkview Care Center,ALP,2235 US-34,,Fairfield,52556,IA,US,Jefferson (51),41.0025319,-91.8661469
+USA-IA-87-IA-All-output-281,Odebolt Assisted Living,ALP,799 S Des Moines St,,Odebolt,51458,IA,US,Sac (81),42.3048009,-95.2452748
+USA-IA-87-IA-All-output-282,Oneota Village,ALP,5 Ohio St,,Decorah,52101,IA,US,Winneshiek (96),43.3037258,-91.8028329
+USA-IA-87-IA-All-output-283,Otsego Place,ALP,520 Otsego St,,Storm Lake,50588,IA,US,Buena Vista (11),42.6434493,-95.2067054
+USA-IA-87-IA-All-output-284,Panora AL,ALP,807 E Main St,,Panora,50216,IA,US,Guthrie (39),41.6921229,-94.3529921
+USA-IA-87-IA-All-output-285,Park Centre,ALP,500 1st St N,,Newton,50208,IA,US,Jasper (50),41.7033376,-93.052885
+USA-IA-87-IA-All-output-286,Park Place Estates,ALP,900 Lincoln St NE,,Le Mars,51031,IA,US,Plymouth (75),42.7984928,-96.152935
+USA-IA-87-IA-All-output-287,Park Place Independent & Assisted Living,ALP,551 Park Ave,,Sac City,50583,IA,US,Sac (81),42.4207227,-94.9772924
+USA-IA-87-IA-All-output-288,Parkview Assisted Living,ALP,210 Park St,,Coon Rapids,50058,IA,US,Carroll (14),41.8719028,-94.6736081
+USA-IA-87-IA-All-output-289,Parkview Assisted Living,ALP,114 Forest St,,Fairbank,50629,IA,US,Buchanan (10),42.6402346,-92.0502916
+USA-IA-87-IA-All-output-290,Pennington Square,ALP,502 Pinehaven Dr,,Monticello,52310,IA,US,Jones (53),42.2285313,-91.1856026
+USA-IA-87-IA-All-output-291,Perry Lutheran Home AL,ALP,2323 Willis Ave,,Perry,50220,IA,US,Dallas (25),41.8380818,-94.0903925
+USA-IA-87-IA-All-output-292,Petersen Commons,ALP,1607 W 12th St,,Davenport,52804,IA,US,Scott (82),41.531409,-90.5977104
+USA-IA-87-IA-All-output-293,Pleasant View Assisted Living,ALP,200 Shannon Dr,,Whiting,51063,IA,US,Monona (67),42.1255086,-96.1592205
+USA-IA-87-IA-All-output-294,Prairie Creek Assisted Living,ALP,301 4th St,,West Bend,50597,IA,US,Palo Alto (74),43.0258769,-94.5281097
+USA-IA-87-IA-All-output-295,Prairie Hills at Cedar Rapids,ALP,2903 F Ave NW,,Cedar Rapids,52405,IA,US,Linn (57),41.9792223,-91.7107286
+USA-IA-87-IA-All-output-296,Prairie View Inn,ALP,610 Eastern St,,Sanborn,51248,IA,US,O'Brien (71),43.184527,-95.643969
+USA-IA-87-IA-All-output-297,Prairie Vista Village,ALP,2785 1st Ave S,,Altoona,50009,IA,US,Polk (77),41.6266962,-93.4634263
+USA-IA-87-IA-All-output-298,Prime Assisted Living,ALP,108 1st Ave NW,,Le Mars,51031,IA,US,Plymouth (75),42.7946226,-96.1675287
+USA-IA-87-IA-All-output-299,Prime Assisted Living,ALP,725 Pearl St,,Sioux City,51101,IA,US,Woodbury (97),42.4978594,-96.4083939
+USA-IA-87-IA-All-output-300,Primrose Retirement Community,ALP,1801 E Kanesville Blvd,,Council Bluffs,51503,IA,US,Pottawattamie (78),41.2749722,-95.8223685
+USA-IA-87-IA-All-output-301,Reed Place,ALP,2506 3rd Ave N,,Denison,51442,IA,US,Crawford (24),42.0205328,-95.3376249
+USA-IA-87-IA-All-output-302,Regency Assisted Living,ALP,815 High Rd,,Norwalk,50211,IA,US,Warren (91),41.4834568,-93.678168
+USA-IA-87-IA-All-output-303,RidgeView Assisted Living,ALP,2975 F Ave NW,,Cedar Rapids,52405,IA,US,Linn (57),41.9791166,-91.7113654
+USA-IA-87-IA-All-output-304,River Bend Retirement Community,ALP,813 Tyler St NE,,Cascade,52033,IA,US,Dubuque (31),42.307734,-91.014793
+USA-IA-87-IA-All-output-305,River Hills Village,ALP,20 Village Cir,,Keokuk,52632,IA,US,Lee (56),40.4319945,-91.4123779
+USA-IA-87-IA-All-output-306,River Living Center,ALP,831 US-52,,Guttenberg,52052,IA,US,Clayton (22),42.7762012,-91.100193
+USA-IA-87-IA-All-output-307,Riverside Senior Living,ALP,209 Park Dr,,Charles City,50616,IA,US,Floyd (34),43.0700379,-92.6873306
+USA-IA-87-IA-All-output-308,"Rock Rapids PE, LLC",ALP,1510 S Carroll St,,Rock Rapids,51246,IA,US,Lyon (60),43.4150904,-96.1727616
+USA-IA-87-IA-All-output-309,Rock Ridge Assisted Living,ALP,400 Canton St NW,,Shellsburg,52332,IA,US,Benton (06),42.0968224,-91.8731759
+USA-IA-87-IA-All-output-310,Rose of Ames,ALP,1315 Coconino Rd,,Ames,50014,IA,US,Story (85),42.0111601,-93.676983
+USA-IA-87-IA-All-output-311,Rose of Council Bluffs,ALP,2306 Sherwood Dr,,Council Bluffs,51503,IA,US,Pottawattamie (78),41.2800439,-95.812692
+USA-IA-87-IA-All-output-312,Rose of Des Moines,ALP,1330 19th St,,Des Moines,50314,IA,US,Polk (77),41.6037239,-93.6432987
+USA-IA-87-IA-All-output-313,Rose of Dubuque,ALP,3390 Lake Ridge Dr,,Dubuque,52003,IA,US,Dubuque (31),42.4852908,-90.7196376
+USA-IA-87-IA-All-output-314,Rose of East Des Moines,ALP,1331 Idaho St,,Des Moines,50316,IA,US,Polk (77),41.6032817,-93.598626
+USA-IA-87-IA-All-output-315,Rose of Waterloo,ALP,421 Oak Ave,,Waterloo,50703,IA,US,Blackhawk (07),42.5053208,-92.341495
+USA-IA-87-IA-All-output-316,Rose Vista Assisted Living,ALP,1108 Park St,Po Box 6,Woodbine,51579,IA,US,Harrison (43),41.743403,-95.7098714
+USA-IA-87-IA-All-output-317,Rosebush Gardens,ALP,4925 West Ave,,Burlington,52601,IA,US,Des Moines (29),40.7994475,-91.1579188
+USA-IA-87-IA-All-output-318,Ruthven Community Care Center,ALP,2701 Mitchell St,,Ruthven,51358,IA,US,Palo Alto (74),43.127774,-94.888954
+USA-IA-87-IA-All-output-319,Senior Star at Elmore Place Assisted Living,ALP,4500 Elmore Avenue,,Davenport,52807,IA,US,Scott (82),41.5663165,-90.5268802
+USA-IA-87-IA-All-output-320,Senior Suites of Urbandale,ALP,4700 84th St,,Urbandale,50322,IA,US,Polk (77),41.6456781,-93.7341149
+USA-IA-87-IA-All-output-321,Sigourney AL,ALP,810 S Stone St,,Sigourney,52591,IA,US,Keokuk (54),41.3271591,-92.2083082
+USA-IA-87-IA-All-output-322,Silver Pond Assisted Living,ALP,516 13th St,,Wellman,52356,IA,US,Washington (92),41.4754019,-91.8342381
+USA-IA-87-IA-All-output-323,"Silveridge, An Eventide Community, LLC",ALP,222 S 20th St,,Denison,51442,IA,US,Crawford (24),42.0134899,-95.3431639
+USA-IA-87-IA-All-output-324,Solon Assisted Living Village,ALP,623 E 5th St,,Solon,52333,IA,US,Johnson (52),41.8021046,-91.4904037
+USA-IA-87-IA-All-output-325,SOUTHCREST MANOR II,ALP,602 2nd St SW,,Waukon,52172,IA,US,Allamakee (03),43.2618523,-91.4781801
+USA-IA-87-IA-All-output-326,Southfield Wellness Community AL,ALP,2414 Des Moines St,,Webster City,50595,IA,US,Hamilton (40),42.4519424,-93.8199592
+USA-IA-87-IA-All-output-327,Spring Creek Independent and Assisted Living,ALP,110 2nd Ave,,Armstrong,50514,IA,US,Emmet (32),43.3981928,-94.4861928
+USA-IA-87-IA-All-output-328,Springvale Assisted Living,ALP,1050 15th St,,Humboldt,50548,IA,US,Humboldt (46),42.7326841,-94.2302364
+USA-IA-87-IA-All-output-329,"Stanard Family Assisted Living Center, Inc.",ALP,420 E 11th St,,Cedar Falls,50613,IA,US,Blackhawk (07),42.5291153,-92.4409589
+USA-IA-87-IA-All-output-330,Stoney Brook Village,ALP,705 S Pine St,,West Union,52175,IA,US,Fayette (33),42.9500066,-91.8035735
+USA-IA-87-IA-All-output-331,Suites of Ankeny,ALP,420 NW Ash Dr,,Ankeny,50023,IA,US,Polk (77),41.7338683,-93.6099721
+USA-IA-87-IA-All-output-332,Summit Heights,ALP,8 Summit Ave,,Nora Springs,50458,IA,US,Floyd (34),43.1429112,-93.0168795
+USA-IA-87-IA-All-output-333,Summit House Assisted Living,ALP,600 1st St NW,,Britt,50423,IA,US,Hancock (41),43.097887,-93.80909
+USA-IA-87-IA-All-output-334,SunnyBrook of Fairfield,ALP,3000 W Madison Ave,,Fairfield,52556,IA,US,Jefferson (51),41.0019888,-91.9985133
+USA-IA-87-IA-All-output-335,Sunrise Assisted Living Suites,ALP,599 Taylor St,,Traer,50675,IA,US,Tama (86),42.1889112,-92.4595615
+USA-IA-87-IA-All-output-336,Sunrise Villa,ALP,308 N 12th St,,Bellevue,52031,IA,US,Jackson (49),42.257287,-90.4376418
+USA-IA-87-IA-All-output-337,Swales Assisted Living,ALP,313 Elkader St,,Strawberry Point,52076,IA,US,Clayton (22),42.6878125,-91.5342574
+USA-IA-87-IA-All-output-338,Swan Place,ALP,1024 E 12th St,,Carroll,51401,IA,US,Carroll (14),42.0713384,-94.8508586
+USA-IA-87-IA-All-output-339,"Terrace AL of Hillcrest Home, Inc.",ALP,915 W 1st St,,Sumner,50674,IA,US,Bremer (09),42.847339,-92.109034
+USA-IA-87-IA-All-output-340,Terrace Park Sr Living,ALP,201 SW Lorraine St,,Leon,50144,IA,US,Decatur (27),40.7396327,-93.7610267
+USA-IA-87-IA-All-output-341,Thornton Heights Assisted Living,ALP,1329 Main St,,Lansing,52151,IA,US,Allamakee (03),43.360156,-91.2345945
+USA-IA-87-IA-All-output-342,Timberland Village,ALP,725 Timberland Dr,,Story City,50248,IA,US,Story (85),42.1890933,-93.574919
+USA-IA-87-IA-All-output-343,Tower Living Center,ALP,103 E Centre St,Box 477,Garnavillo,52049,IA,US,Clayton (22),42.8690648,-91.2352999
+USA-IA-87-IA-All-output-344,Turner Pointe Assisted Living,ALP,1203 Buell Ave,,McGregor,52157,IA,US,Clayton (22),43.0207839,-91.1899241
+USA-IA-87-IA-All-output-345,Valley Lodge AL,ALP,1118 US-20,,Correctionville,51016,IA,US,Woodbury (97),42.481597,-95.7769058
+USA-IA-87-IA-All-output-346,Valley View Assisted Living,ALP,150 W Washington St,Po Box 430,North English,52316,IA,US,Iowa (48),41.5183892,-92.078582
+USA-IA-87-IA-All-output-347,Valley View Manor AL,ALP,2421 Lutheran Dr,,Muscatine,52761,IA,US,Muscatine (70),41.4186702,-91.0964924
+USA-IA-87-IA-All-output-348,Village Assisted Living,ALP,2555 Guthrie Ave,,Des Moines,50317,IA,US,Polk (77),41.6139889,-93.56977
+USA-IA-87-IA-All-output-349,Village at Legacy Pointe,ALP,1654 SE Holiday Crest Cir,,Waukee,50263,IA,US,Dallas (25),41.611439,-93.839282
+USA-IA-87-IA-All-output-350,Village Terrace AL,ALP,302 Franklin St,,Keosauqua,52565,IA,US,Van Buren (89),40.7363786,-91.9594996
+USA-IA-87-IA-All-output-351,Vintage Park Apartments,ALP,810 E Van Buren St,,Lenox,50851,IA,US,Taylor (87),40.885425,-94.5560817
+USA-IA-87-IA-All-output-352,Waterford at Ames Assisted Living,ALP,1325 Coconino Rd,Ste 300,Ames,50014,IA,US,Story (85),42.0104149,-93.6774801
+USA-IA-87-IA-All-output-353,Welcov Assisted Living at Alta,ALP,705 W 7th St,,Alta,51002,IA,US,Buena Vista (11),42.668788,-95.312015
+USA-IA-87-IA-All-output-354,Welcov at Spirit Lake,ALP,1819 23rd St,,Spirit Lake,51360,IA,US,Dickinson (30),43.4174938,-95.1169353
+USA-IA-87-IA-All-output-355,Wellington Place,ALP,2475 River Rd,,Decorah,52101,IA,US,Winneshiek (96),43.3021883,-91.7404488
+USA-IA-87-IA-All-output-356,Wesley Acres Central AL,ALP,3520 Grand Ave,,Des Moines,50312,IA,US,Polk (77),41.5833955,-93.6645761
+USA-IA-87-IA-All-output-357,Wesley the Village,ALP,1203 N E St,,Indianola,50125,IA,US,Warren (91),41.373214,-93.570738
+USA-IA-87-IA-All-output-358,West Liberty AL Residences,ALP,1000 N Miller St,,West Liberty,52776,IA,US,Muscatine (70),41.5781742,-91.2584092
+USA-IA-87-IA-All-output-359,Westhaven Community,ALP,112 W 4th St,,Boone,50036,IA,US,Boone (08),42.0602578,-93.8932834
+USA-IA-87-IA-All-output-360,Westside AL Suites,ALP,110 S Ely St,,Clarksville,50619,IA,US,Butler (12),42.7842209,-92.6748375
+USA-IA-87-IA-All-output-361,White Oak Estates,ALP,914 N 12th St,,Oskaloosa,52577,IA,US,Mahaska (62),41.3024155,-92.6305718
+USA-IA-87-IA-All-output-362,Willow Dale Independent & Assisted Living,ALP,118 N Ida St,,Battle Creek,51006,IA,US,Ida (47),42.3166734,-95.5981357
+USA-IA-87-IA-All-output-363,Willows (The),ALP,324 SW 6th St,,Stuart,50250,IA,US,Guthrie (39),41.4982321,-94.3245085
+USA-IA-87-IA-All-output-364,Winding Creek Meadows,ALP,1044 9th St,,Jesup,50648,IA,US,Buchanan (10),42.4727656,-92.0588032
+USA-IA-87-IA-All-output-365,AASE HAUGEN HOME,Free Standing NF/SNF,4 Ohio St,,Decorah,52101,IA,US,Winneshiek (96),43.3030382,-91.8028342
+USA-IA-87-IA-All-output-366,ABCM REHABILITATION CENTER OF INDEPENDENCE WEST CAMPUS,Free Standing NF/SNF,1610 3rd St NE,,Independence,50644,IA,US,Buchanan (10),42.4719278,-91.8743556
+USA-IA-87-IA-All-output-367,ABCM REHABILITATION CENTERS OF INDEPENDENCE EAST CAMPUS,Free Standing NF/SNF,1700 3rd St NE,,Independence,50644,IA,US,Buchanan (10),42.4720097,-91.8726089
+USA-IA-87-IA-All-output-368,"ACCORDIUS HEALTH AT ST. MARY, LLC",Free Standing NF/SNF,800 E Rusholme St,,Davenport,52803,IA,US,Scott (82),41.543365,-90.5630192
+USA-IA-87-IA-All-output-369,"ACCURA HEALTHCARE OF AMES, LLC",Free Standing NF/SNF,3440 Grand Ave,,Ames,50010,IA,US,Story (85),42.0552039,-93.6195012
+USA-IA-87-IA-All-output-370,"ACCURA HEALTHCARE OF BAXTER, LLC",Free Standing NF/SNF,407 Southeast Ave,,Baxter,50028,IA,US,Jasper (50),41.820813,-93.1440946
+USA-IA-87-IA-All-output-371,"ACCURA HEALTHCARE OF CHEROKEE, LLC",Free Standing NF/SNF,921 Riverview Dr,,Cherokee,51012,IA,US,Cherokee (18),42.75948,-95.536039
+USA-IA-87-IA-All-output-372,"ACCURA HEALTHCARE OF KNOXVILLE, LLC",Free Standing NF/SNF,606 N 7th St,,Knoxville,50138,IA,US,Marion (63),41.3241109,-93.0923725
+USA-IA-87-IA-All-output-373,"ACCURA HEALTHCARE OF NEWTON EAST, LLC",Free Standing NF/SNF,1743 S 8th Ave E,,Newton,50208,IA,US,Jasper (50),41.691775,-93.03119
+USA-IA-87-IA-All-output-374,"ACCURA HEALTHCARE OF NEWTON WEST, LLC",Free Standing NF/SNF,2130 W 18th St S,,Newton,50208,IA,US,Jasper (50),41.6797805,-93.0740997
+USA-IA-87-IA-All-output-375,"ACCURA HEALTHCARE OF OGDEN, LLC",Free Standing NF/SNF,625 E Oak St,,Ogden,50212,IA,US,Boone (08),42.0373947,-94.0188486
+USA-IA-87-IA-All-output-376,"ACCURA HEALTHCARE OF PLEASANTVILLE, LLC",Free Standing NF/SNF,909 N State St,,Pleasantville,50225,IA,US,Marion (63),41.3941685,-93.2723492
+USA-IA-87-IA-All-output-377,"ACCURA HEALTHCARE OF POMEROY, LLC",Free Standing NF/SNF,303 E 7th St,,Pomeroy,50575,IA,US,Calhoun (13),42.5429419,-94.680701
+USA-IA-87-IA-All-output-378,"ACCURA HEALTHCARE OF SIOUX CITY, LLC",Free Standing NF/SNF,3800 Indian Hills Dr,,Sioux City,51104,IA,US,Woodbury (97),42.5359368,-96.3744816
+USA-IA-87-IA-All-output-379,ACCURA HEALTHCARE OF STANTON,Free Standing NF/SNF,213 Halland Ave,,Stanton,51573,IA,US,Montgomery (69),40.977363,-95.0990777
+USA-IA-87-IA-All-output-380,ADEL ACRES,Free Standing NF/SNF,1919 Greene St,,Adel,50003,IA,US,Dallas (25),41.6121849,-94.033721
+USA-IA-87-IA-All-output-381,AFTON CARE CENTER,Free Standing NF/SNF,508 W Pearl St,,Afton,50830,IA,US,Union (88),41.0345904,-94.2024016
+USA-IA-87-IA-All-output-382,"AKRON CARE CENTER, INC.",Free Standing NF/SNF,991 IA-3,,Akron,51001,IA,US,Plymouth (75),42.8194109,-96.5495484
+USA-IA-87-IA-All-output-383,ALGONA MANOR CARE CENTER,Free Standing NF/SNF,2221 E McGregor St,,Algona,50511,IA,US,Kossuth (55),43.067776,-94.2094556
+USA-IA-87-IA-All-output-384,ALTOONA NURSING AND REHABILITATION,Free Standing NF/SNF,200 7th Ave SW,,Altoona,50009,IA,US,Polk (77),41.6498833,-93.4732996
+USA-IA-87-IA-All-output-385,ANAMOSA CARE CENTER,Free Standing NF/SNF,1209 E 3rd St,,Anamosa,52205,IA,US,Jones (53),42.1037931,-91.2705254
+USA-IA-87-IA-All-output-386,ARBOR COURT,Free Standing NF/SNF,701 E Maple Leaf Dr,,Mt Pleasant,52641,IA,US,Henry (44),40.9745603,-91.5437682
+USA-IA-87-IA-All-output-387,ATLANTIC SPECIALTY CARE,Free Standing NF/SNF,1300 E 19th St,,Atlantic,50022,IA,US,Cass (15),41.3922963,-94.9947774
+USA-IA-87-IA-All-output-388,AVOCA SPECIALTY CARE,Free Standing NF/SNF,610 York Rd,,Avoca,51521,IA,US,Pottawattamie (78),41.5030793,-95.3334135
+USA-IA-87-IA-All-output-389,BEDFORD SPECIALTY CARE,Free Standing NF/SNF,1005 Pearl St,,Bedford,50833,IA,US,Taylor (87),40.6690481,-94.7252163
+USA-IA-87-IA-All-output-390,BELLE PLAINE SPECIALTY CARE,Free Standing NF/SNF,1505 Sunset Dr,,Belle Plaine,52208,IA,US,Benton (06),41.899648,-92.265142
+USA-IA-87-IA-All-output-391,BETHANY HOME,Free Standing NF/SNF,1005 Lincoln Ave,,Dubuque,52001,IA,US,Dubuque (31),42.5194937,-90.662247
+USA-IA-87-IA-All-output-392,BETHANY LIFE,Free Standing NF/SNF,212 Lafayette Ave,,Story City,50248,IA,US,Story (85),42.181533,-93.5918049
+USA-IA-87-IA-All-output-393,BETHANY LUTHERAN HOME,Free Standing NF/SNF,7 Elliott St,,Council Bluffs,51503,IA,US,Pottawattamie (78),41.2786358,-95.8364592
+USA-IA-87-IA-All-output-394,BETTENDORF HEALTH CARE CENTER,Free Standing NF/SNF,2730 Crow Creek Rd,,Bettendorf,52722,IA,US,Scott (82),41.5699264,-90.4941444
+USA-IA-87-IA-All-output-395,BISHOP DRUMM RETIREMENT CENTER,Free Standing NF/SNF,5837 Winwood Dr,,Johnston,50131,IA,US,Polk (77),41.669571,-93.699927
+USA-IA-87-IA-All-output-396,BLACK HAWK LIFE CARE CENTER,Free Standing NF/SNF,73 W 5th St,,Lake View,51450,IA,US,Sac (81),42.3079401,-95.0567321
+USA-IA-87-IA-All-output-397,BLAIR HOUSE,Free Standing NF/SNF,1212 Indian Hills Dr,,West Burlington,52655,IA,US,Des Moines (29),40.795121,-91.166623
+USA-IA-87-IA-All-output-398,BLOOMFIELD CARE CENTER,Free Standing NF/SNF,800 N Davis St,,Bloomfield,52537,IA,US,Davis (26),40.7604242,-92.4182799
+USA-IA-87-IA-All-output-399,BRIARWOOD HEALTHCARE CENTER,Free Standing NF/SNF,605 Greenwood Dr,,Iowa City,52246,IA,US,Johnson (52),41.651787,-91.546665
+USA-IA-87-IA-All-output-400,BROOKLYN COMMUNITY ESTATES,Free Standing NF/SNF,406 North St,,Brooklyn,52211,IA,US,Poweshiek (79),41.7395477,-92.4418239
+USA-IA-87-IA-All-output-401,BURLINGTON CARE CENTER,Free Standing NF/SNF,2610 S 5th St,,Burlington,52601,IA,US,Des Moines (29),40.778485,-91.102862
+USA-IA-87-IA-All-output-402,CALVIN COMMUNITY,Free Standing NF/SNF,4210 Hickman Rd,,Des Moines,50310,IA,US,Polk (77),41.6145061,-93.6753852
+USA-IA-87-IA-All-output-403,CAREAGE HILLS REHABILITATION AND HEALTHCARE,Free Standing NF/SNF,725 N 2nd St,,Cherokee,51012,IA,US,Cherokee (18),42.7567449,-95.552367
+USA-IA-87-IA-All-output-404,CARING ACRES NURSING & REHAB CENTER,Free Standing NF/SNF,1000 Hillcrest Dr,,Anita,50020,IA,US,Cass (15),41.4364845,-94.7665926
+USA-IA-87-IA-All-output-405,CARLISLE CENTER FOR WELLNESS & REHAB,Free Standing NF/SNF,680 Cole St,,Carlisle,50047,IA,US,Warren (91),41.4956293,-93.4927015
+USA-IA-87-IA-All-output-406,CASA DE PAZ HEALTH CARE CENTER,Free Standing NF/SNF,2121 W 19th St,,Sioux City,51103,IA,US,Woodbury (97),42.5111883,-96.435959
+USA-IA-87-IA-All-output-407,CEDAR FALLS HEALTH CARE CENTER,Free Standing NF/SNF,1728 W 8th St,,Cedar Falls,50613,IA,US,Blackhawk (07),42.530817,-92.466396
+USA-IA-87-IA-All-output-408,CEDAR HEALTH,Free Standing NF/SNF,807 5th St,,Charles City,50616,IA,US,Floyd (34),43.0603901,-92.6835185
+USA-IA-87-IA-All-output-409,CEDAR MANOR NURSING HOME,Free Standing NF/SNF,1200 Mulberry St,,Tipton,52772,IA,US,Cedar (16),41.7775986,-91.1237695
+USA-IA-87-IA-All-output-410,CENTERVILLE SPECIALTY CARE,Free Standing NF/SNF,1208 E Cross St,,Centerville,52544,IA,US,Appanoose (04),40.740477,-92.862514
+USA-IA-87-IA-All-output-411,CHARITON SPECIALTY CARE,Free Standing NF/SNF,1214 N 7th St,,Chariton,50049,IA,US,Lucas (59),41.0289215,-93.3021665
+USA-IA-87-IA-All-output-412,CHAUTAUQUA GUEST HOME #2 (11th St.),Free Standing NF/SNF,602 11th St,,Charles City,50616,IA,US,Floyd (34),43.051986,-92.6783783
+USA-IA-87-IA-All-output-413,CHAUTAUQUA GUEST HOME #3 (9th St.),Free Standing NF/SNF,302 9th St,,Charles City,50616,IA,US,Floyd (34),43.0551141,-92.6757153
+USA-IA-87-IA-All-output-414,CHEROKEE SPECIALTY CARE,Free Standing NF/SNF,1011 N Roosevelt Ave,,Cherokee,51012,IA,US,Cherokee (18),42.762611,-95.5445571
+USA-IA-87-IA-All-output-415,CLARENCE NURSING HOME,Free Standing NF/SNF,402 2nd Ave,,Clarence,52216,IA,US,Cedar (16),41.8861491,-91.0627352
+USA-IA-87-IA-All-output-416,CLARION WELLNESS AND REHABILITATION CENTER,Free Standing NF/SNF,110 13th Ave SW,,Clarion,50525,IA,US,Wright (99),42.7203834,-93.734461
+USA-IA-87-IA-All-output-417,CLARKSVILLE SKILLED NURSING AND REHABILITATION CENTER,Free Standing NF/SNF,115 N Hilton St,,Clarksville,50619,IA,US,Butler (12),42.7852169,-92.6735289
+USA-IA-87-IA-All-output-418,CLEARVIEW HOME CLRFLD,Free Standing NF/SNF,202 Jefferson St,,Clearfield,50840,IA,US,Taylor (87),40.803525,-94.4768663
+USA-IA-87-IA-All-output-419,CLEARVIEW HOME MT AYR,Free Standing NF/SNF,406 W Washington,,Mt Ayr,50854,IA,US,Ringgold (80),40.7182825,-94.2421866
+USA-IA-87-IA-All-output-420,COLONIAL MANOR OF AMANA,Free Standing NF/SNF,3207 220th Trail,,Amana,52203,IA,US,Iowa (48),41.799113,-91.89469
+USA-IA-87-IA-All-output-421,COLONIAL MANOR OF ELMA,Free Standing NF/SNF,407 9th St,,Elma,50628,IA,US,Howard (45),43.2441169,-92.4465966
+USA-IA-87-IA-All-output-422,COLONIAL MANORS OF COLUMBUS COMMUNITY,Free Standing NF/SNF,814 Springer Ave,,Columbus Junction,52738,IA,US,Louisa (58),41.2716531,-91.3711471
+USA-IA-87-IA-All-output-423,COMMUNITY CARE CENTER,Free Standing NF/SNF,325 SW 7th St,,Stuart,50250,IA,US,Adair (01),41.4974127,-94.3223381
+USA-IA-87-IA-All-output-424,COMMUNITY MEMORIAL HEALTH CENTER,Free Standing NF/SNF,231 N 8th Ave W,,Hartley,51346,IA,US,O'Brien (71),43.1839399,-95.4868508
+USA-IA-87-IA-All-output-425,CONCORD CARE CENTER,Free Standing NF/SNF,490 W Lyons St,,Garner,50438,IA,US,Hancock (41),43.0904678,-93.6080455
+USA-IA-87-IA-All-output-426,CORNING SPECIALTY CARE,Free Standing NF/SNF,1614 Northgate Dr,PO BOX 479,Corning,50841,IA,US,Adams (02),40.999178,-94.732328
+USA-IA-87-IA-All-output-427,CORRECTIONVILLE SPECIALTY CARE,Free Standing NF/SNF,1115 US-20,BOX H,Correctionville,51016,IA,US,Woodbury (97),42.4827454,-95.8849919
+USA-IA-87-IA-All-output-428,CORYDON SPECIALTY CARE,Free Standing NF/SNF,745 E South St,BOX 387,Corydon,50060,IA,US,Wayne (93),40.754318,-93.309196
+USA-IA-87-IA-All-output-429,COUNTRY VIEW MANOR INC.,Free Standing NF/SNF,100 Cedar Ln,,Sibley,51249,IA,US,Osceola (72),43.4095922,-95.744474
+USA-IA-87-IA-All-output-430,COUNTRY VIEW NF/SNF,Free Standing NF/SNF,1410 W Dunkerton Rd,,Waterloo,50703,IA,US,Blackhawk (07),42.571656,-92.36543
+USA-IA-87-IA-All-output-431,COUNTRYSIDE HEALTH CARE CENTER,Free Standing NF/SNF,6120 Morningside Ave,,Sioux City,51106,IA,US,Woodbury (97),42.4602938,-96.3277306
+USA-IA-87-IA-All-output-432,CREST HAVEN CARE CENTRE,Free Standing NF/SNF,1000 E Howard St,,Creston,50801,IA,US,Union (88),41.0609025,-94.3498325
+USA-IA-87-IA-All-output-433,CRESTON SPECIALTY CARE,Free Standing NF/SNF,1001 Cottonwood Rd,,Creston,50801,IA,US,Union (88),41.0693147,-94.38532
+USA-IA-87-IA-All-output-434,CRESTRIDGE CARE CENTER,Free Standing NF/SNF,1015 Wesley Dr,,Maquoketa,52060,IA,US,Jackson (49),42.0657923,-90.6800726
+USA-IA-87-IA-All-output-435,CRESTVIEW ACRES,Free Standing NF/SNF,1485 Grand Ave,,Marion,52302,IA,US,Linn (57),42.0197651,-91.5943047
+USA-IA-87-IA-All-output-436,CRESTVIEW NURSING & REHAB,Free Standing NF/SNF,2401 Des Moines St,,Webster City,50595,IA,US,Hamilton (40),42.4512434,-93.8211787
+USA-IA-87-IA-All-output-437,CRESTVIEW SPECIALTY CARE,Free Standing NF/SNF,451 W Orange St,,West Branch,52358,IA,US,Cedar (16),41.6756435,-91.3532261
+USA-IA-87-IA-All-output-438,CRYSTAL HEIGHTS CARE CENTER,Free Standing NF/SNF,1514 High Ave W,,Oskaloosa,52577,IA,US,Mahaska (62),41.295209,-92.661523
+USA-IA-87-IA-All-output-439,DANVILLE CARE CENTER,Free Standing NF/SNF,401 S Birch St,,Danville,52623,IA,US,Des Moines (29),40.862451,-91.3162569
+USA-IA-87-IA-All-output-440,DAVENPORT LUTHERAN HOME,Free Standing NF/SNF,1130 W 53rd St,,Davenport,52806,IA,US,Scott (82),41.576189,-90.5884839
+USA-IA-87-IA-All-output-441,DENISON CARE CENTER,Free Standing NF/SNF,1202 Ridge Rd,,Denison,51442,IA,US,Crawford (24),42.0316597,-95.3362935
+USA-IA-87-IA-All-output-442,DENVER SUNSET HOME,Free Standing NF/SNF,235 N Mill St,,Denver,50622,IA,US,Bremer (09),42.674524,-92.334788
+USA-IA-87-IA-All-output-443,DONNELLSON HEALTH CENTER,Free Standing NF/SNF,901 State St,,Donnellson,52625,IA,US,Lee (56),40.646885,-91.569809
+USA-IA-87-IA-All-output-444,DUBUQUE SPECIALTY CARE,Free Standing NF/SNF,2935 Kaufmann Ave,,Dubuque,52001,IA,US,Dubuque (31),42.5149487,-90.7075075
+USA-IA-87-IA-All-output-445,DUMONT WELLNESS CENTER,Free Standing NF/SNF,921 3rd St,,Dumont,50625,IA,US,Butler (12),42.7503202,-92.976849
+USA-IA-87-IA-All-output-446,DUNLAP SPECIALTY CARE,Free Standing NF/SNF,1403 Harrison Rd,,Dunlap,51529,IA,US,Harrison (43),41.8486412,-95.5886722
+USA-IA-87-IA-All-output-447,EAGLE POINT HEALTH CARE CENTER,Free Standing NF/SNF,801 28th Ave N,,Clinton,52732,IA,US,Clinton (23),41.877789,-90.1897777
+USA-IA-87-IA-All-output-448,EASTERN STAR MASONIC HOME,Free Standing NF/SNF,715 W 3rd St,,Boone,50036,IA,US,Boone (08),42.059323,-93.9019389
+USA-IA-87-IA-All-output-449,EDGEWATER A WESLEY ACTIVE LIFE COMMUNITY LLC,Free Standing NF/SNF,9225 Cascade Ave,,West Des Moines,50266,IA,US,Dallas (25),41.5557228,-93.8332076
+USA-IA-87-IA-All-output-450,EDGEWOOD CONVALESCENT HOME,Free Standing NF/SNF,513 S Bell St,,Edgewood,52042,IA,US,Delaware (28),42.6427598,-91.4034152
+USA-IA-87-IA-All-output-451,ELDORA SPECIALTY CARE,Free Standing NF/SNF,1510 22nd St,,Eldora,50627,IA,US,Hardin (42),42.3575768,-93.1110914
+USA-IA-87-IA-All-output-452,ELKADER CARE CENTER,Free Standing NF/SNF,116 Reimer St SW,,Elkader,52043,IA,US,Clayton (22),42.8472764,-91.4068786
+USA-IA-87-IA-All-output-453,ELM CREST RETIREMENT COMMUNITY,Free Standing NF/SNF,2104 12th St,,Harlan,51537,IA,US,Shelby (83),41.648206,-95.324801
+USA-IA-87-IA-All-output-454,ELM HEIGHTS CARE CENTER,Free Standing NF/SNF,1203 S Elm St,,Shenandoah,51601,IA,US,Page (73),40.7551581,-95.3732511
+USA-IA-87-IA-All-output-455,ELMWOOD CARE CENTER,Free Standing NF/SNF,222 15th St,,Onawa,51040,IA,US,Monona (67),42.0364708,-96.1048683
+USA-IA-87-IA-All-output-456,EMBASSY HEALTHCARE COMMUNITY,Free Standing NF/SNF,206 Port Neal Rd,,Sergeant Bluff,51054,IA,US,Woodbury (97),42.3972545,-96.3542039
+USA-IA-87-IA-All-output-457,EMMETSBURG CARE CENTER,Free Standing NF/SNF,2405 21st St,,Emmetsburg,50536,IA,US,Palo Alto (74),43.1017714,-94.6823221
+USA-IA-87-IA-All-output-458,ENGLISH VALLEY NURSING CARE CENTER,Free Standing NF/SNF,150 W Washington St,,North English,52316,IA,US,Iowa (48),41.5183892,-92.078582
+USA-IA-87-IA-All-output-459,ENNOBLE SKILLED NURSING AND REHABILITATION CENTER,Free Standing NF/SNF,2000 Pasadena Dr,,Dubuque,52001,IA,US,Dubuque (31),42.5044878,-90.7177416
+USA-IA-87-IA-All-output-460,EVANS MEMORIAL HOME,Free Standing NF/SNF,1010 N Elm St,,Cresco,52136,IA,US,Howard (45),43.3835377,-92.1138514
+USA-IA-87-IA-All-output-461,EVENTIDE LUTHERAN HOME,Free Standing NF/SNF,114 S 20th St,,Denison,51442,IA,US,Crawford (24),42.0138565,-95.341895
+USA-IA-87-IA-All-output-462,EXIRA CARE CENTER,Free Standing NF/SNF,409 S Carthage St,,Exira,50076,IA,US,Audubon (05),41.5868405,-94.8775477
+USA-IA-87-IA-All-output-463,FAITH LUTHERAN HOME,Free Standing NF/SNF,914 Davidson Dr,,Osage,50461,IA,US,Mitchell (66),43.2766437,-92.8084414
+USA-IA-87-IA-All-output-464,FELLOWSHIP VILLAGE,Free Standing NF/SNF,300 E Jefferson St,,Inwood,51240,IA,US,Lyon (60),43.30716,-96.4291065
+USA-IA-87-IA-All-output-465,FLEUR HEIGHTS CENTER FOR WELLNESS & REHAB,Free Standing NF/SNF,4911 SW 19th St,,Des Moines,50315,IA,US,Polk (77),41.53908,-93.642004
+USA-IA-87-IA-All-output-466,FONDA SPECIALTY CARE,Free Standing NF/SNF,607 Queen St,,Fonda,50540,IA,US,Pocahontas (76),42.5859896,-94.8426615
+USA-IA-87-IA-All-output-467,FORT DODGE HEALTH AND REHABILITATION,Free Standing NF/SNF,728 14th Ave N,,Fort Dodge,50501,IA,US,Webster (94),42.5197067,-94.1925516
+USA-IA-87-IA-All-output-468,FOUNTAIN WEST HEALTH CENTER,Free Standing NF/SNF,1501 Office Park Rd,,West Des Moines,50265,IA,US,Polk (77),41.5925538,-93.7247172
+USA-IA-87-IA-All-output-469,FRIENDSHIP HAVEN,Free Standing NF/SNF,420 Kenyon Rd,,Fort Dodge,50501,IA,US,Webster (94),42.4888372,-94.195821
+USA-IA-87-IA-All-output-470,FRIENDSHIP HOME ASSOCIATION,Free Standing NF/SNF,714 N Division St,,Audubon,50025,IA,US,Audubon (05),41.7248689,-94.9292979
+USA-IA-87-IA-All-output-471,FRIENDSHIP VILLAGE RETIREMENT CENTER,Free Standing NF/SNF,600 Park Ln,,Waterloo,50702,IA,US,Blackhawk (07),42.4624899,-92.3504758
+USA-IA-87-IA-All-output-472,GARDEN VIEW CARE CENTER,Free Standing NF/SNF,1200 W Nishna Rd,,Shenandoah,51601,IA,US,Page (73),40.7565893,-95.3815122
+USA-IA-87-IA-All-output-473,GENESIS SENIOR LIVING CENTER,Free Standing NF/SNF,5608 SW 9th St,,Des Moines,50315,IA,US,Polk (77),41.5330862,-93.6264147
+USA-IA-87-IA-All-output-474,GLEN HAVEN HOME,Free Standing NF/SNF,302 6th St,,Glenwood,51534,IA,US,Mills (65),41.052412,-95.741177
+USA-IA-87-IA-All-output-475,GOLDEN AGE CARE CENTER,Free Standing NF/SNF,1915 S 18th St,,Centerville,52544,IA,US,Appanoose (04),40.7151053,-92.8667852
+USA-IA-87-IA-All-output-476,GOLDENROD MANOR,Free Standing NF/SNF,225 W Laperla Dr,,Clarinda,51632,IA,US,Page (73),40.724596,-95.039538
+USA-IA-87-IA-All-output-477,GOOD NEIGHBOR HOME,Free Standing NF/SNF,105 McCarren Dr,,Manchester,52057,IA,US,Delaware (28),42.4849121,-91.4378369
+USA-IA-87-IA-All-output-478,GOOD SAMARITAN SOCIETY - ALGONA,Free Standing NF/SNF,412 W Kennedy,,Algona,50511,IA,US,Kossuth (55),43.0649067,-94.2402759
+USA-IA-87-IA-All-output-479,GOOD SAMARITAN SOCIETY - DAVENPORT,Free Standing NF/SNF,700 Waverly Rd,,Davenport,52804,IA,US,Scott (82),41.5254529,-90.6235297
+USA-IA-87-IA-All-output-480,GOOD SAMARITAN SOCIETY - ESTHERVILLE,Free Standing NF/SNF,1646 5th Ave N,,Estherville,51334,IA,US,Emmet (32),43.408321,-94.8205426
+USA-IA-87-IA-All-output-481,GOOD SAMARITAN SOCIETY - FONTANELLE,Free Standing NF/SNF,326 Summerset St,,Fontanelle,50846,IA,US,Adair (01),41.2944123,-94.5636987
+USA-IA-87-IA-All-output-482,GOOD SAMARITAN SOCIETY - FOREST CITY,Free Standing NF/SNF,606 S 7th St,,Forest City,50436,IA,US,Winnebago (95),43.2585339,-93.6412314
+USA-IA-87-IA-All-output-483,GOOD SAMARITAN SOCIETY - GEORGE,Free Standing NF/SNF,324 1st Ave N,,George,51237,IA,US,Lyon (60),43.3487361,-95.9950435
+USA-IA-87-IA-All-output-484,GOOD SAMARITAN SOCIETY - HOLSTEIN,Free Standing NF/SNF,505 W 2nd St,,Holstein,51025,IA,US,Ida (47),42.4886077,-95.5509894
+USA-IA-87-IA-All-output-485,GOOD SAMARITAN SOCIETY - INDIANOLA,Free Standing NF/SNF,708 S Jefferson Way,,Indianola,50125,IA,US,Warren (91),41.3538443,-93.5572596
+USA-IA-87-IA-All-output-486,GOOD SAMARITAN SOCIETY - LE MARS,Free Standing NF/SNF,1140 Lincoln St NE,,Le Mars,51031,IA,US,Plymouth (75),42.7998144,-96.1492768
+USA-IA-87-IA-All-output-487,GOOD SAMARITAN SOCIETY - MANSON,Free Standing NF/SNF,1402 Main St,,Manson,50563,IA,US,Calhoun (13),42.5344702,-94.5348457
+USA-IA-87-IA-All-output-488,GOOD SAMARITAN SOCIETY - NEWELL,Free Standing NF/SNF,415 IA-7,BOX 395,Newell,50568,IA,US,Buena Vista (11),42.6029608,-95.0079947
+USA-IA-87-IA-All-output-489,GOOD SAMARITAN SOCIETY - OTTUMWA,Free Standing NF/SNF,2035 Chester Ave,,Ottumwa,52501,IA,US,Wapello (90),41.0051123,-92.4587136
+USA-IA-87-IA-All-output-490,GOOD SAMARITAN SOCIETY - POSTVILLE,Free Standing NF/SNF,400 Hardin Dr,,Postville,52162,IA,US,Allamakee (03),43.0821507,-91.5587643
+USA-IA-87-IA-All-output-491,GOOD SAMARITAN SOCIETY - RED OAK,Free Standing NF/SNF,201 Alix St,,Red Oak,51566,IA,US,Montgomery (69),41.0235325,-95.2312354
+USA-IA-87-IA-All-output-492,GOOD SAMARITAN SOCIETY - SAINT ANSGAR,Free Standing NF/SNF,701 E 4th St,,St Ansgar,50472,IA,US,Mitchell (66),43.3790519,-92.9101696
+USA-IA-87-IA-All-output-493,GOOD SAMARITAN SOCIETY - VILLISCA,Free Standing NF/SNF,202 Central Ave,,Villisca,50864,IA,US,Montgomery (69),40.9346627,-94.9824774
+USA-IA-87-IA-All-output-494,GOOD SAMARITAN SOCIETY - WAUKON,Free Standing NF/SNF,21 E Main St,,Waukon,52172,IA,US,Allamakee (03),43.2685766,-91.4739609
+USA-IA-87-IA-All-output-495,GOOD SAMARITAN SOCIETY - WEST UNION,Free Standing NF/SNF,201 Hall St,,West Union,52175,IA,US,Fayette (33),42.9704778,-91.8112628
+USA-IA-87-IA-All-output-496,GOOD SHEPHERD HEALTH CENTER,Free Standing NF/SNF,302 2nd St NE,,Mason City,50401,IA,US,Cerro Gordo (17),43.153959,-93.195778
+USA-IA-87-IA-All-output-497,GRAND JI VANTE,Free Standing NF/SNF,502 Butler St,,Ackley,50601,IA,US,Hardin (42),42.5521792,-93.0466169
+USA-IA-87-IA-All-output-498,GRANDVIEW HEALTH CARE CENTER,Free Standing NF/SNF,508 2nd St NE,,Dayton,50530,IA,US,Webster (94),42.267154,-94.065384
+USA-IA-87-IA-All-output-499,GRANDVIEW HEALTHCARE CENTER,Free Standing NF/SNF,800 5th St SE,,Oelwein,50662,IA,US,Fayette (33),42.6708471,-91.9018529
+USA-IA-87-IA-All-output-500,GRANDVIEW HEIGHTS,Free Standing NF/SNF,910 E Olive St,,Marshalltown,50158,IA,US,Marshall (64),42.0293286,-92.897627
+USA-IA-87-IA-All-output-501,GRANGER NURSING AND REHABILITATION CENTER,Free Standing NF/SNF,2001 Kennedy St,,Granger,50109,IA,US,Dallas (25),41.7629312,-93.8298411
+USA-IA-87-IA-All-output-502,GREAT RIVER CARE CENTER,Free Standing NF/SNF,1400 W Main St,,McGregor,52157,IA,US,Clayton (22),43.0201263,-91.1931291
+USA-IA-87-IA-All-output-503,GREEN HILLS HEALTH CARE CENTER,Free Standing NF/SNF,2200 Hamilton Dr,SUITE 100,Ames,50014,IA,US,Story (85),42.002432,-93.646044
+USA-IA-87-IA-All-output-504,GREENFIELD REHABILITATION & HEALTH CARE CENTER,Free Standing NF/SNF,615 SE Kent St,,Greenfield,50849,IA,US,Adair (01),41.303148,-94.450348
+USA-IA-87-IA-All-output-505,GRISWOLD REHABILITATION & HEALTH CARE CENTER,Free Standing NF/SNF,106 Harrison St,,Griswold,51535,IA,US,Cass (15),41.2366773,-95.1339033
+USA-IA-87-IA-All-output-506,GRUNDY CARE CENTER,Free Standing NF/SNF,102 E J Ave,,Grundy Center,50638,IA,US,Grundy (38),42.3582528,-92.7625678
+USA-IA-87-IA-All-output-507,GUTTENBERG CARE CENTER,Free Standing NF/SNF,1315 Acre St,,Guttenberg,52052,IA,US,Clayton (22),42.7796873,-91.1049943
+USA-IA-87-IA-All-output-508,HALCYON HOUSE,Free Standing NF/SNF,1015 S Iowa Ave,,Washington,52353,IA,US,Washington (92),41.289216,-91.692049
+USA-IA-87-IA-All-output-509,HALLMARK CARE CENTER MV,Free Standing NF/SNF,215 US-30,,Mt Vernon,52314,IA,US,Linn (57),41.9160289,-91.4196466
+USA-IA-87-IA-All-output-510,HAPPY SIESTA NURSING HOME,Free Standing NF/SNF,423 Roosevelt St,,Remsen,51050,IA,US,Plymouth (75),42.8094474,-95.9669619
+USA-IA-87-IA-All-output-511,HARMONY HOUSE HEALTH CARE CENTER NF/SNF,Free Standing NF/SNF,2950 W Shaulis Rd,,Waterloo,50701,IA,US,Blackhawk (07),42.4435068,-92.4152883
+USA-IA-87-IA-All-output-512,HAWKEYE CARE CENTER BANCROFT,Free Standing NF/SNF,546 E Ramsey St,,Bancroft,50517,IA,US,Kossuth (55),43.2929742,-94.2093822
+USA-IA-87-IA-All-output-513,HAWKEYE CARE CENTER CARROLL,Free Standing NF/SNF,2241 N West St,,Carroll,51401,IA,US,Carroll (14),42.0844142,-94.8699887
+USA-IA-87-IA-All-output-514,HAWKEYE CARE CENTER CRESCO,Free Standing NF/SNF,701 Vernon Rd,,Cresco,52136,IA,US,Howard (45),43.365684,-92.124432
+USA-IA-87-IA-All-output-515,HAWKEYE CARE CENTER DUBUQUE,Free Standing NF/SNF,4885 Asbury Rd,,Dubuque,52002,IA,US,Dubuque (31),42.5146765,-90.7459174
+USA-IA-87-IA-All-output-516,HAWKEYE CARE CENTER MARSHALLTOWN,Free Standing NF/SNF,2401 S 2nd St,,Marshalltown,50158,IA,US,Marshall (64),42.0172093,-92.9165761
+USA-IA-87-IA-All-output-517,HAWKEYE CARE CENTER MILFORD,Free Standing NF/SNF,1600 13th St,,Milford,51351,IA,US,Dickinson (30),43.3287626,-95.1591912
+USA-IA-87-IA-All-output-518,HAWKEYE CARE CENTER SIOUX RAPIDS,Free Standing NF/SNF,702 Blake St,,Sioux Rapids,50585,IA,US,Buena Vista (11),42.8945678,-95.1438505
+USA-IA-87-IA-All-output-519,HAWKEYE CARE CENTER SPIRIT LAKE,Free Standing NF/SNF,1912 Zenith Ave,,Spirit Lake,51360,IA,US,Dickinson (30),43.4215886,-95.1225328
+USA-IA-87-IA-All-output-520,HEARTLAND CARE CENTER,Free Standing NF/SNF,604 E Fenton St,,Marcus,51035,IA,US,Cherokee (18),42.820181,-95.800412
+USA-IA-87-IA-All-output-521,HERITAGE CARE &  REHABILTATION CENTER,Free Standing NF/SNF,501 S Kentucky Ave,,Mason City,50401,IA,US,Cerro Gordo (17),43.1470056,-93.1802768
+USA-IA-87-IA-All-output-522,HERITAGE CARE CENTER,Free Standing NF/SNF,2320 Washington Ave,,Iowa Falls,50126,IA,US,Hardin (42),42.52057,-93.2861
+USA-IA-87-IA-All-output-523,HERITAGE HOUSE,Free Standing NF/SNF,1200 Brookridge Cir,,Atlantic,50022,IA,US,Cass (15),41.3977464,-94.9992695
+USA-IA-87-IA-All-output-524,HERITAGE SPECIALTY CARE,Free Standing NF/SNF,200 Clive Dr SW,,Cedar Rapids,52404,IA,US,Linn (57),41.9665808,-91.723129
+USA-IA-87-IA-All-output-525,HIAWATHA CARE CENTER,Free Standing NF/SNF,405 N 15th Ave,,Hiawatha,52233,IA,US,Linn (57),42.0428336,-91.6922308
+USA-IA-87-IA-All-output-526,"HIGHLAND RIDGE CARE CENTER, LLC",Free Standing NF/SNF,102 S Highland St,,Williamsburg,52361,IA,US,Iowa (48),41.6650166,-92.0073294
+USA-IA-87-IA-All-output-527,HILLCREST HEALTH CARE CENTER,Free Standing NF/SNF,2121 Ave L,,Hawarden,51023,IA,US,Sioux (84),43.0095609,-96.4810642
+USA-IA-87-IA-All-output-528,"HILLCREST HOME, INC.",Free Standing NF/SNF,915 W 1st St,,Sumner,50674,IA,US,Bremer (09),42.847339,-92.109034
+USA-IA-87-IA-All-output-529,HOLY SPIRIT RETIREMENT HOME,Free Standing NF/SNF,1701 W 25th St,,Sioux City,51103,IA,US,Woodbury (97),42.5171268,-96.4330986
+USA-IA-87-IA-All-output-530,HUBBARD CARE CENTER,Free Standing NF/SNF,403 S State St,,Hubbard,50122,IA,US,Hardin (42),42.300657,-93.291764
+USA-IA-87-IA-All-output-531,IOOF HOME AND COMMUNITY THERAPY CENTER,Free Standing NF/SNF,1037 19th St SW,,Mason City,50401,IA,US,Cerro Gordo (17),43.13267,-93.218273
+USA-IA-87-IA-All-output-532,IOWA CITY REHAB & HEALTH CARE CENTER,Free Standing NF/SNF,3661 Rochester Ave,,Iowa City,52245,IA,US,Johnson (52),41.6681679,-91.4792973
+USA-IA-87-IA-All-output-533,IOWA JEWISH SENIOR LIFE CENTER,Free Standing NF/SNF,900 Polk Blvd,,Des Moines,50312,IA,US,Polk (77),41.593539,-93.68293
+USA-IA-87-IA-All-output-534,IOWA MASONIC HEALTH FACILITIES,Free Standing NF/SNF,2500 Grant St,PO BOX 70,Bettendorf,52722,IA,US,Scott (82),41.52778,-90.497917
+USA-IA-87-IA-All-output-535,JEFFERSON PLACE,Free Standing NF/SNF,413 Jefferson St,,Pella,50219,IA,US,Marion (63),41.4122978,-92.9114702
+USA-IA-87-IA-All-output-536,KAHL HOME FOR AGED & INFIRM,Free Standing NF/SNF,6701 Jersey Ridge Rd,,Davenport,52807,IA,US,Scott (82),41.5902899,-90.5362391
+USA-IA-87-IA-All-output-537,KANAWHA COMMUNITY HOME,Free Standing NF/SNF,130 W 6th St,,Kanawha,50447,IA,US,Hancock (41),42.9387069,-93.7937613
+USA-IA-87-IA-All-output-538,KAREN ACRES HEALTHCARE CENTER,Free Standing NF/SNF,3605 Elm Dr,,Urbandale,50322,IA,US,Polk (77),41.6279996,-93.7239636
+USA-IA-87-IA-All-output-539,KENNYBROOK VILLAGE,Free Standing NF/SNF,200 SW Brookside Dr,,Grimes,50111,IA,US,Polk (77),41.6865979,-93.8058444
+USA-IA-87-IA-All-output-540,KEOSAUQUA HEALTH CARE CENTER,Free Standing NF/SNF,819 Country Lane Rd,,Keosauqua,52565,IA,US,Van Buren (89),40.7366425,-91.968058
+USA-IA-87-IA-All-output-541,KEOTA HEALTH CARE CENTER,Free Standing NF/SNF,204 Keokuk-Washington Rd,,Keota,52248,IA,US,Keokuk (54),41.3670548,-91.9466815
+USA-IA-87-IA-All-output-542,KEYSTONE NURSING CARE CENTER,Free Standing NF/SNF,250 5th St E,,Keystone,52249,IA,US,Benton (06),42.00392,-92.1980409
+USA-IA-87-IA-All-output-543,KINGSLEY SPECIALTY CARE,Free Standing NF/SNF,Kingsley,,Kingsley,51028,IA,US,Plymouth (75),42.588324,-95.9675165
+USA-IA-87-IA-All-output-544,LAKE MILLS CARE CENTER,Free Standing NF/SNF,406 S 10th Ave E,,Lake Mills,50450,IA,US,Winnebago (95),43.4108074,-93.5284037
+USA-IA-87-IA-All-output-545,LAKESIDE LUTHERAN HOME,Free Standing NF/SNF,301 Lawler St,,Emmetsburg,50536,IA,US,Palo Alto (74),43.1171808,-94.6830763
+USA-IA-87-IA-All-output-546,LAMONI SPECIALTY CARE,Free Standing NF/SNF,215 S Oak St,,Lamoni,50140,IA,US,Decatur (27),40.622024,-93.923544
+USA-IA-87-IA-All-output-547,LANTERN PARK SPECIALTY CARE,Free Standing NF/SNF,2200 Oakdale Rd,,Coralville,52241,IA,US,Johnson (52),41.7038255,-91.5941818
+USA-IA-87-IA-All-output-548,LAPORTE CITY SPECIALTY CARE,Free Standing NF/SNF,US-218,BOX 175,La Porte City,50651,IA,US,Blackhawk (07),42.314911,-92.1919518
+USA-IA-87-IA-All-output-549,LAURENS CARE CENTER,Free Standing NF/SNF,304 E Veterans Rd,,Laurens,50554,IA,US,Pocahontas (76),42.8426434,-94.846112
+USA-IA-87-IA-All-output-550,LENOX CARE CENTER,Free Standing NF/SNF,111 E Van Buren St,,Lenox,50851,IA,US,Taylor (87),40.8854175,-94.5587487
+USA-IA-87-IA-All-output-551,LEXINGTON SQUARE,Free Standing NF/SNF,500 Messenger Rd,,Keokuk,52632,IA,US,Lee (56),40.422033,-91.394779
+USA-IA-87-IA-All-output-552,LINN HAVEN REHAB & HEALTHCARE,Free Standing NF/SNF,530 S Linn Ave,,New Hampton,50659,IA,US,Chickasaw (19),43.0488271,-92.3170714
+USA-IA-87-IA-All-output-553,LINN MANOR CARE CENTER,Free Standing NF/SNF,1140 Elim Dr,,Marion,52302,IA,US,Linn (57),42.0196986,-91.6025239
+USA-IA-87-IA-All-output-554,LITTLE FLOWER HAVEN,Free Standing NF/SNF,736 IA-37,PO BOX 288,Earling,51530,IA,US,Shelby (83),41.775495,-95.426041
+USA-IA-87-IA-All-output-555,LIVING CENTER EAST,Free Standing NF/SNF,1220 5th Ave SE,,Cedar Rapids,52403,IA,US,Linn (57),41.982272,-91.6536871
+USA-IA-87-IA-All-output-556,LIVING CENTER WEST,Free Standing NF/SNF,1050 4th Ave SE,,Cedar Rapids,52403,IA,US,Linn (57),41.9822121,-91.6560984
+USA-IA-87-IA-All-output-557,LONE TREE HEALTH CARE CENTER INC,Free Standing NF/SNF,501 E Pioneer Rd,,Lone Tree,52755,IA,US,Johnson (52),41.480887,-91.421851
+USA-IA-87-IA-All-output-558,LONGHOUSE-NORTHSHIRE LTD,Free Standing NF/SNF,711 W 11th St,,Spencer,51301,IA,US,Clay (21),43.1491664,-95.1560346
+USA-IA-87-IA-All-output-559,"LONGVIEW HOME, INC.",Free Standing NF/SNF,1010 Longview Rd,,Missouri Valley,51555,IA,US,Harrison (43),41.5669344,-95.8835145
+USA-IA-87-IA-All-output-560,LUTHER MANOR RETIREMENT HOME,Free Standing NF/SNF,3131 Hillcrest Rd,,Dubuque,52001,IA,US,Dubuque (31),42.5047562,-90.7162543
+USA-IA-87-IA-All-output-561,LUTHERAN LIVING SENIOR CAMPUS,Free Standing NF/SNF,2421 Lutheran Dr,,Muscatine,52761,IA,US,Muscatine (70),41.4186702,-91.0964924
+USA-IA-87-IA-All-output-562,LUTHERAN RETIREMENT HOME,Free Standing NF/SNF,701 9th St N,,Northwood,50459,IA,US,Worth (98),43.4518617,-93.2196114
+USA-IA-87-IA-All-output-563,LYON SPECIALTY CARE,Free Standing NF/SNF,1010 S Union St,BOX 268,Rock Rapids,51246,IA,US,Lyon (60),43.420546,-96.174883
+USA-IA-87-IA-All-output-564,MADRID HOME FOR THE AGING,Free Standing NF/SNF,613 W North St,,Madrid,50156,IA,US,Boone (08),41.8782559,-93.8274356
+USA-IA-87-IA-All-output-565,MANILLA MANOR,Free Standing NF/SNF,146 5th St,,Manilla,51454,IA,US,Crawford (24),41.895356,-95.2320972
+USA-IA-87-IA-All-output-566,MANLY SPECIALTY CARE,Free Standing NF/SNF,601 E South St,,Manly,50456,IA,US,Worth (98),43.2840678,-93.1944681
+USA-IA-87-IA-All-output-567,MANOR HOUSE CARE CENTER,Free Standing NF/SNF,1212 S Stuart St,,Sigourney,52591,IA,US,Keokuk (54),41.3233932,-92.2070168
+USA-IA-87-IA-All-output-568,MANORCARE HEALTH SERVICES OF CEDAR RAPIDS,Free Standing NF/SNF,1940 1st Ave NE,,Cedar Rapids,52402,IA,US,Linn (57),41.9939789,-91.643255
+USA-IA-87-IA-All-output-569,MANORCARE HEALTH SERVICES OF DAVENPORT,Free Standing NF/SNF,815 E Locust St,,Davenport,52803,IA,US,Scott (82),41.5378629,-90.5631365
+USA-IA-87-IA-All-output-570,MANORCARE HEALTH SERVICES OF DUBUQUE,Free Standing NF/SNF,901 W 3rd St,,Dubuque,52001,IA,US,Dubuque (31),42.4946993,-90.6740381
+USA-IA-87-IA-All-output-571,MANORCARE HEALTH SERVICES OF WATERLOO,Free Standing NF/SNF,201 W Ridgeway Ave,,Waterloo,50701,IA,US,Blackhawk (07),42.4685664,-92.3584338
+USA-IA-87-IA-All-output-572,MANORCARE HEALTH SERVICES-UTICA RIDGE,Free Standing NF/SNF,3800 Commerce Blvd,,Davenport,52807,IA,US,Scott (82),41.5688183,-90.5206695
+USA-IA-87-IA-All-output-573,MANORCARE HEALTH SERVICES-WEST DES MOINES,Free Standing NF/SNF,5010 Grand Ridge Dr,,West Des Moines,50265,IA,US,Polk (77),41.5426688,-93.7664359
+USA-IA-87-IA-All-output-574,MAPLE CREST MANOR,Free Standing NF/SNF,100 Bolger Dr,,Fayette,52142,IA,US,Fayette (33),42.841852,-91.809242
+USA-IA-87-IA-All-output-575,MAPLE HEIGHTS NURSING HOME,Free Standing NF/SNF,2 Sunrise Ave,,Mapleton,51034,IA,US,Monona (67),42.1632879,-95.7801176
+USA-IA-87-IA-All-output-576,MAPLE MANOR VILLAGE,Free Standing NF/SNF,345 Parriott St,,Aplington,50604,IA,US,Butler (12),42.5830727,-92.8740494
+USA-IA-87-IA-All-output-577,MAQUOKETA CARE CENTER,Free Standing NF/SNF,1202 German St,,Maquoketa,52060,IA,US,Jackson (49),42.0721559,-90.6812819
+USA-IA-87-IA-All-output-578,MARIAN HOME,Free Standing NF/SNF,2400 6th Ave N,,Fort Dodge,50501,IA,US,Webster (94),42.5124821,-94.1656055
+USA-IA-87-IA-All-output-579,"MARTIN HEALTH CENTER, INC.",Free Standing NF/SNF,420 E 11th St,,Cedar Falls,50613,IA,US,Blackhawk (07),42.5291153,-92.4409589
+USA-IA-87-IA-All-output-580,MAYFLOWER HOME,Free Standing NF/SNF,616 Broad St,,Grinnell,50112,IA,US,Poweshiek (79),41.7395999,-92.7232884
+USA-IA-87-IA-All-output-581,MECHANICSVILLE SPECIALTY CARE,Free Standing NF/SNF,104 E 4th St,BOX 430,Mechanicsville,52306,IA,US,Cedar (16),41.908354,-91.253316
+USA-IA-87-IA-All-output-582,MERCY LIVING CENTER-NORTH,Free Standing NF/SNF,600 14th Ave N,,Clinton,52732,IA,US,Clinton (23),41.8608715,-90.1904361
+USA-IA-87-IA-All-output-583,METH WICK HEALTH CENTER,Free Standing NF/SNF,1625 Brendelwood Dr,,Cedar Rapids,52405,IA,US,Linn (57),41.9867599,-91.694985
+USA-IA-87-IA-All-output-584,METHODIST MANOR RETIREMENT COMMUNITY,Free Standing NF/SNF,1206 W 4th St,,Storm Lake,50588,IA,US,Buena Vista (11),42.6420658,-95.2163476
+USA-IA-87-IA-All-output-585,MIDLANDS LIVING CENTER L L C,Free Standing NF/SNF,2452 N Broadway,,Council Bluffs,51503,IA,US,Pottawattamie (78),41.2871466,-95.8366043
+USA-IA-87-IA-All-output-586,MILL POND,Free Standing NF/SNF,1201 SE Mill Pond Ct,,Ankeny,50021,IA,US,Polk (77),41.7245053,-93.5782222
+USA-IA-87-IA-All-output-587,MILL VALLEY CARE CENTER,Free Standing NF/SNF,1201 Park St,,Bellevue,52031,IA,US,Jackson (49),42.257273,-90.437647
+USA-IA-87-IA-All-output-588,MONROE CARE CENTER,Free Standing NF/SNF,120 N 13th St,,Albia,52531,IA,US,Monroe (68),41.0283234,-92.7931773
+USA-IA-87-IA-All-output-589,MONTEZUMA SPECIALTY CARE,Free Standing NF/SNF,316 Meadow Ln Dr,PO BOX 790,Montezuma,50171,IA,US,Poweshiek (79),41.583009,-92.53721
+USA-IA-87-IA-All-output-590,MONTICELLO NURSING & REHAB CENTER,Free Standing NF/SNF,500 Pinehaven Dr,,Monticello,52310,IA,US,Jones (53),42.2282604,-91.1833383
+USA-IA-87-IA-All-output-591,MONTROSE HEALTH  CENTER INC,Free Standing NF/SNF,400 S 7th St,,Montrose,52639,IA,US,Lee (56),40.526179,-91.419004
+USA-IA-87-IA-All-output-592,MORNING SUN CARE CENTER,Free Standing NF/SNF,200 N Washington St,,Morning Sun,52640,IA,US,Louisa (58),41.0933012,-91.2581956
+USA-IA-87-IA-All-output-593,MORNINGSIDE HEALTHCARE COMMUNITY,Free Standing NF/SNF,600 Morningside St,,Ida Grove,51445,IA,US,Ida (47),42.3406511,-95.4638249
+USA-IA-87-IA-All-output-594,MOUNT AYR HEALTH CARE CENTER,Free Standing NF/SNF,1504 E South St,,Mt Ayr,50854,IA,US,Ringgold (80),40.7111026,-94.2284438
+USA-IA-87-IA-All-output-595,NELSON MANOR,Free Standing NF/SNF,1500 1st Ave E,,Newton,50208,IA,US,Jasper (50),41.699954,-93.033493
+USA-IA-87-IA-All-output-596,NEW HAMPTON NURSING  & REHAB CENTER,Free Standing NF/SNF,703 S 4th Ave,,New Hampton,50659,IA,US,Chickasaw (19),43.055071,-92.3045176
+USA-IA-87-IA-All-output-597,NEW LONDON SPECIALTY CARE,Free Standing NF/SNF,100 Care Cir,,New London,52645,IA,US,Henry (44),40.9173685,-91.4087494
+USA-IA-87-IA-All-output-598,NEWALDAYA LIFESCAPES,Free Standing NF/SNF,7511 University Ave,,Cedar Falls,50613,IA,US,Blackhawk (07),42.511635,-92.449517
+USA-IA-87-IA-All-output-599,NEWTON HEALTH CARE CENTER,Free Standing NF/SNF,200 S 8th Ave E,,Newton,50208,IA,US,Jasper (50),41.6932115,-93.0521894
+USA-IA-87-IA-All-output-600,NEWTON VILLAGE HEALTH CARE CENTER,Free Standing NF/SNF,114 N 5th Ave W,,Newton,50208,IA,US,Jasper (50),41.7032357,-93.0538112
+USA-IA-87-IA-All-output-601,NORA SPRINGS CARE CENTER,Free Standing NF/SNF,907 W Congress St,,Nora Springs,50458,IA,US,Floyd (34),43.1433775,-93.0173976
+USA-IA-87-IA-All-output-602,NORTH CREST LIVING CENTER,Free Standing NF/SNF,34 Northcrest Dr,,Council Bluffs,51503,IA,US,Pottawattamie (78),41.2726563,-95.8296641
+USA-IA-87-IA-All-output-603,NORTHBROOK MANOR CARE CENTER,Free Standing NF/SNF,6420 Council St NE,,Cedar Rapids,52402,IA,US,Linn (57),42.0425339,-91.6572922
+USA-IA-87-IA-All-output-604,NORTHCREST SPECIALTY CARE,Free Standing NF/SNF,2001 Heath St,,Waterloo,50703,IA,US,Blackhawk (07),42.532044,-92.34035
+USA-IA-87-IA-All-output-605,NORTHERN MAHASKA SPECIALTY CARE,Free Standing NF/SNF,2401 Crestview Dr,,Oskaloosa,52577,IA,US,Mahaska (62),41.3151389,-92.6446335
+USA-IA-87-IA-All-output-606,NORTHGATE CARE CENTER,Free Standing NF/SNF,960 4th St NW,,Waukon,52172,IA,US,Allamakee (03),43.2803209,-91.4805222
+USA-IA-87-IA-All-output-607,NORTHRIDGE VILLAGE,Free Standing NF/SNF,3300 George Washington Carver Ave,,Ames,50014,IA,US,Story (85),42.0561994,-93.6508352
+USA-IA-87-IA-All-output-608,NORWALK NURSING AND REHABILITATION CENTER,Free Standing NF/SNF,921 Sunset Dr,,Norwalk,50211,IA,US,Warren (91),41.4767823,-93.6821613
+USA-IA-87-IA-All-output-609,OAKLAND MANOR,Free Standing NF/SNF,737 N Hwy St,,Oakland,51560,IA,US,Pottawattamie (78),41.3172022,-95.3874204
+USA-IA-87-IA-All-output-610,OAKNOLL RETIREMENT RESIDENCE,Free Standing NF/SNF,1 Oaknoll Dr,,Iowa City,52246,IA,US,Johnson (52),41.6512374,-91.5555969
+USA-IA-87-IA-All-output-611,OAKVIEW HOME,Free Standing NF/SNF,511 E Center St,,Conrad,50621,IA,US,Grundy (38),42.2239713,-92.8676795
+USA-IA-87-IA-All-output-612,OAKWOOD CARE CENTER,Free Standing NF/SNF,400 US-18,,Clear Lake,50428,IA,US,Cerro Gordo (17),43.14371,-93.392118
+USA-IA-87-IA-All-output-613,OAKWOOD SPECIALTY CARE,Free Standing NF/SNF,200 16th Ave E,,Albia,52531,IA,US,Monroe (68),41.013299,-92.8028
+USA-IA-87-IA-All-output-614,ODEBOLT SPECIALTY CARE,Free Standing NF/SNF,801 S Des Moines St,,Odebolt,51458,IA,US,Sac (81),42.304215,-95.2442934
+USA-IA-87-IA-All-output-615,OELWEIN HEALTH CARE CENTER,Free Standing NF/SNF,600 7th St SE,,Oelwein,50662,IA,US,Fayette (33),42.6686513,-91.9056005
+USA-IA-87-IA-All-output-616,ON WITH LIFE,Free Standing NF/SNF,715 SW Ankeny Rd,,Ankeny,50023,IA,US,Polk (77),41.6982629,-93.6087542
+USA-IA-87-IA-All-output-617,ON WITH LIFE AT GLENWOOD,Free Standing NF/SNF,714 Lacey St,SUITE 100,Glenwood,51534,IA,US,Mills (65),41.04007,-95.7364731
+USA-IA-87-IA-All-output-618,OSAGE REHAB & HEALTH CARE CENTER,Free Standing NF/SNF,830 S 5th St,,Osage,50461,IA,US,Mitchell (66),43.2759623,-92.8140624
+USA-IA-87-IA-All-output-619,OSKALOOSA CARE CENTER,Free Standing NF/SNF,605 State Hwy 432,,Oskaloosa,52577,IA,US,Mahaska (62),41.3019195,-92.6682163
+USA-IA-87-IA-All-output-620,OSSIAN SENIOR HOSPICE,Free Standing NF/SNF,114 Fisher Ave,,Ossian,52161,IA,US,Winneshiek (96),43.1469919,-91.7681447
+USA-IA-87-IA-All-output-621,PANORA SPECIALTY CARE,Free Standing NF/SNF,805 E Main St,BOX 69,Panora,50216,IA,US,Guthrie (39),41.6929128,-94.3535787
+USA-IA-87-IA-All-output-622,PARK VIEW REHABILITATION CENTER,Free Standing NF/SNF,601 Park Ave,,Sac City,50583,IA,US,Sac (81),42.420526,-94.9749585
+USA-IA-87-IA-All-output-623,PARKRIDGE SPECIALTY CARE,Free Standing NF/SNF,5800 NE 12th Ave,,Pleasant Hill,50327,IA,US,Polk (77),41.6007781,-93.4947252
+USA-IA-87-IA-All-output-624,PARKVIEW CARE CENTER,Free Standing NF/SNF,2237 US-34,,Fairfield,52556,IA,US,Jefferson (51),41.0025321,-91.8661614
+USA-IA-87-IA-All-output-625,PARKVIEW HOME,Free Standing NF/SNF,102 N Jackson St,,Wayland,52654,IA,US,Henry (44),41.1471771,-91.6664864
+USA-IA-87-IA-All-output-626,PARKVIEW MANOR,Free Standing NF/SNF,516 13th St,,Wellman,52356,IA,US,Washington (92),41.4754019,-91.8342381
+USA-IA-87-IA-All-output-627,PARKVIEW MANOR CARE CENTER,Free Standing NF/SNF,1009 3rd St,,Reinbeck,50669,IA,US,Grundy (38),42.3244195,-92.6072547
+USA-IA-87-IA-All-output-628,PATTY ELWOOD CENTER,Free Standing NF/SNF,21668 80th St,,Cresco,52136,IA,US,Howard (45),43.3994635,-92.1459353
+USA-IA-87-IA-All-output-629,PEARL VALLEY REHABILITATION AND HEALTH CENTER OF MUSCATINE,Free Standing NF/SNF,2002 Cedar St,,Muscatine,52761,IA,US,Muscatine (70),41.435294,-91.065901
+USA-IA-87-IA-All-output-630,PEARL VALLEY REHABILITATION AND HEALTHCARE CENTER OF WASHINGTON,Free Standing NF/SNF,601 E Polk St,,Washington,52353,IA,US,Washington (92),41.2884621,-91.686665
+USA-IA-87-IA-All-output-631,"PEARL VALLEY REHABILITATION AND NURSING AT ESTERVILLE, LLC",Free Standing NF/SNF,2001 1st Ave N,,Estherville,51334,IA,US,Emmet (32),43.40297,-94.8154288
+USA-IA-87-IA-All-output-632,"PEARL VALLEY REHABILITATION AND NURSING AT GOWRIE, LLC",Free Standing NF/SNF,1808 Main St,,Gowrie,50543,IA,US,Webster (94),42.28319,-94.299704
+USA-IA-87-IA-All-output-633,"PEARL VALLEY REHABILITATION AND NURSING AT LAKE PARK, LLC",Free Standing NF/SNF,1304 S Market St,,Lake Park,51347,IA,US,Dickinson (30),43.4407405,-95.324733
+USA-IA-87-IA-All-output-634,"PEARL VALLEY REHABILITATION AND NURSING AT PERRY, LLC",Free Standing NF/SNF,2625 Iowa St,,Perry,50220,IA,US,Dallas (25),41.8342917,-94.0851606
+USA-IA-87-IA-All-output-635,"PEARL VALLEY REHABILITATION AND NURSING AT PRIMGHAR, LLC",Free Standing NF/SNF,735 N Rerick Ave,,Primghar,51245,IA,US,O'Brien (71),43.0924159,-95.6242567
+USA-IA-87-IA-All-output-636,"PEARL VALLEY REHABILITATION AND NURSING AT SUTHERLAND, LLC",Free Standing NF/SNF,506 E 4th St,,Sutherland,51058,IA,US,O'Brien (71),42.9716189,-95.4912185
+USA-IA-87-IA-All-output-637,PERRY LUTHERAN HOME,Free Standing NF/SNF,2323 Willis Ave,,Perry,50220,IA,US,Dallas (25),41.8380818,-94.0903925
+USA-IA-87-IA-All-output-638,PINNACLE SPECIALTY CARE,Free Standing NF/SNF,1223 Prairie View Road,,Cedar Falls,50613,IA,US,Blackhawk (07),42.4906116,-92.4324415
+USA-IA-87-IA-All-output-639,PIONEER VALLEY LIVING AND REHAB,Free Standing NF/SNF,400 Sergeant Square Dr,,Sergeant Bluff,51054,IA,US,Woodbury (97),42.3944381,-96.3633016
+USA-IA-87-IA-All-output-640,PLEASANT ACRES CARE CENTER,Free Standing NF/SNF,309 Railroad St,,Hull,51239,IA,US,Sioux (84),43.1873161,-96.1434554
+USA-IA-87-IA-All-output-641,PLEASANT MANOR CARE CENTER,Free Standing NF/SNF,413 N Broadway St,,Mt Pleasant,52641,IA,US,Henry (44),40.9713157,-91.5557348
+USA-IA-87-IA-All-output-642,PLEASANT VIEW CARE CENTER,Free Standing NF/SNF,200 Shannon Dr,,Whiting,51063,IA,US,Monona (67),42.1255086,-96.1592205
+USA-IA-87-IA-All-output-643,PLEASANT VIEW HOME,Free Standing NF/SNF,410 Spruce St,,Albert City,50510,IA,US,Buena Vista (11),42.773136,-94.952438
+USA-IA-87-IA-All-output-644,PLEASANTVIEW HOME,Free Standing NF/SNF,811 3rd St,,Kalona,52247,IA,US,Washington (92),41.4904403,-91.7110581
+USA-IA-87-IA-All-output-645,PLYMOUTH MANOR CARE CENTER,Free Standing NF/SNF,954 7th Ave SE,,Le Mars,51031,IA,US,Plymouth (75),42.7814508,-96.1546648
+USA-IA-87-IA-All-output-646,POCAHONTAS MANOR,Free Standing NF/SNF,700 NW 7th St,,Pocahontas,50574,IA,US,Pocahontas (76),42.7407987,-94.6788265
+USA-IA-87-IA-All-output-647,POLK CITY NURSING AND REHABILITATION,Free Standing NF/SNF,1002 W Washington Ave,,Polk City,50226,IA,US,Polk (77),41.7723898,-93.7227009
+USA-IA-87-IA-All-output-648,PRAIRIE RIDGE CARE & REHABILITATION,Free Standing NF/SNF,608 Prairie St,,Mediapolis,52637,IA,US,Des Moines (29),41.0038291,-91.1634355
+USA-IA-87-IA-All-output-649,PRAIRIE RIDGE CARE CENTER,Free Standing NF/SNF,1005 7th St NE,,Orange City,51041,IA,US,Sioux (84),43.0142079,-96.0456742
+USA-IA-87-IA-All-output-650,PRAIRIE VIEW HOME,Free Standing NF/SNF,610 Eastern St,,Sanborn,51248,IA,US,O'Brien (71),43.184527,-95.643969
+USA-IA-87-IA-All-output-651,PRAIRIE VISTA VILLAGE,Free Standing NF/SNF,2785 1st Ave S,,Altoona,50009,IA,US,Polk (77),41.6266962,-93.4634263
+USA-IA-87-IA-All-output-652,PREMIER ESTATES OF MUSCATINE,Free Standing NF/SNF,3440 Mulberry Ave,,Muscatine,52761,IA,US,Muscatine (70),41.446424,-91.084866
+USA-IA-87-IA-All-output-653,PREMIER ESTATES OF TOLEDO,Free Standing NF/SNF,403 Grandview Dr,,Toledo,52342,IA,US,Tama (86),41.9867286,-92.5876593
+USA-IA-87-IA-All-output-654,"QHC FORT DODGE VILLA, LLC",Free Standing NF/SNF,2721 10th Ave N,,Fort Dodge,50501,IA,US,Webster (94),42.5149347,-94.1599669
+USA-IA-87-IA-All-output-655,"QHC HUMBOLDT NORTH, LLC",Free Standing NF/SNF,1111 11th Ave N,,Humboldt,50548,IA,US,Humboldt (46),42.733492,-94.224564
+USA-IA-87-IA-All-output-656,"QHC HUMBOLDT SOUTH, LLC",Free Standing NF/SNF,800 13th St S,,Humboldt,50548,IA,US,Humboldt (46),42.712465,-94.22759
+USA-IA-87-IA-All-output-657,"QHC MITCHELLVILLE, LLC",Free Standing NF/SNF,114 Carter St SW,,Mitchellville,50169,IA,US,Polk (77),41.6618832,-93.3594111
+USA-IA-87-IA-All-output-658,"QHC WINTERSET NORTH, LLC",Free Standing NF/SNF,411 E Lane St,,Winterset,50273,IA,US,Madison (61),41.341088,-94.009923
+USA-IA-87-IA-All-output-659,RAMSEY VILLAGE,Free Standing NF/SNF,1611 27th St,,Des Moines,50310,IA,US,Polk (77),41.6088931,-93.652725
+USA-IA-87-IA-All-output-660,RAVENWOOD SPECIALTY CARE,Free Standing NF/SNF,2651 St Francis Dr,,Waterloo,50702,IA,US,Blackhawk (07),42.4618941,-92.3430009
+USA-IA-87-IA-All-output-661,RED OAK HEALTHCARE COMMUNITY,Free Standing NF/SNF,1600 E Summit St,,Red Oak,51566,IA,US,Montgomery (69),41.0156847,-95.2127239
+USA-IA-87-IA-All-output-662,REGENCY CARE CENTER,Free Standing NF/SNF,815 High Rd,,Norwalk,50211,IA,US,Warren (91),41.4834568,-93.678168
+USA-IA-87-IA-All-output-663,REGENCY PARK NURSING AND REHABILITATION CENTER,Free Standing NF/SNF,100 Ram Dr,,Jefferson,50129,IA,US,Greene (37),42.0032097,-94.3743461
+USA-IA-87-IA-All-output-664,REGENCY PARK NURSING AND REHABILITATION CENTER OF CARROLL,Free Standing NF/SNF,500 Valley Dr,,Carroll,51401,IA,US,Carroll (14),42.052779,-94.863832
+USA-IA-87-IA-All-output-665,REHABILITATION CENTER OF ALLISON,Free Standing NF/SNF,900 7th St,,Allison,50602,IA,US,Butler (12),42.7558366,-92.8043838
+USA-IA-87-IA-All-output-666,REHABILITATION CENTER OF BELMOND,Free Standing NF/SNF,1107 7th St NE,,Belmond,50421,IA,US,Wright (99),42.8529326,-93.6029526
+USA-IA-87-IA-All-output-667,REHABILITATION CENTER OF DES MOINES,Free Standing NF/SNF,701 Riverview St,,Des Moines,50316,IA,US,Polk (77),41.6034919,-93.6098373
+USA-IA-87-IA-All-output-668,REHABILITATION CENTER OF HAMPTON,Free Standing NF/SNF,700 2nd St SE,,Hampton,50441,IA,US,Franklin (35),42.735245,-93.204523
+USA-IA-87-IA-All-output-669,RICEVILLE FAMILY CARE AND THERAPY CENTER,Free Standing NF/SNF,915 Woodland Ave,,Riceville,50466,IA,US,Mitchell (66),43.354802,-92.5548201
+USA-IA-87-IA-All-output-670,RIDGECREST VILLAGE,Free Standing NF/SNF,4130 Northwest Blvd,,Davenport,52806,IA,US,Scott (82),41.5633707,-90.5845554
+USA-IA-87-IA-All-output-671,RIDGEWOOD SPECIALTY CARE,Free Standing NF/SNF,1977 Albia Rd,,Ottumwa,52501,IA,US,Wapello (90),41.009818,-92.455568
+USA-IA-87-IA-All-output-672,RISEN SON CHRISTIAN VILLAGE,Free Standing NF/SNF,3000 Risen Son Blvd,,Council Bluffs,51503,IA,US,Pottawattamie (78),41.2305914,-95.8011642
+USA-IA-87-IA-All-output-673,RIVER HILLS VILLAGE,Free Standing NF/SNF,20 Village Cir,,Keokuk,52632,IA,US,Lee (56),40.4319945,-91.4123779
+USA-IA-87-IA-All-output-674,"RIVERVIEW MANOR HEALTHCARE, LLC",Free Standing NF/SNF,17990 S Spencer Rd,,Bettendorf,52722,IA,US,Scott (82),41.5677499,-90.422186
+USA-IA-87-IA-All-output-675,ROCK RAPIDS HEALTH CENTRE,Free Standing NF/SNF,703 S Union St,,Rock Rapids,51246,IA,US,Lyon (60),43.4249205,-96.1763341
+USA-IA-87-IA-All-output-676,ROCKWELL COMMUNITY NURSING HOME,Free Standing NF/SNF,707 Elm St E,,Rockwell,50469,IA,US,Cerro Gordo (17),42.988107,-93.1831
+USA-IA-87-IA-All-output-677,ROLLING GREEN VILLAGE,Free Standing NF/SNF,100 6th St,,Nevada,50201,IA,US,Story (85),42.0118062,-93.4543706
+USA-IA-87-IA-All-output-678,ROSE HAVEN NURSING HOME,Free Standing NF/SNF,1500 Franklyn Ave,,Marengo,52301,IA,US,Iowa (48),41.804139,-92.071761
+USA-IA-87-IA-All-output-679,ROSE VISTA HOME,Free Standing NF/SNF,1109 Normal St,,Woodbine,51579,IA,US,Harrison (43),41.7442014,-95.7090291
+USA-IA-87-IA-All-output-680,ROTARY SENIOR LIVING,Free Standing NF/SNF,500 S Blaine Ave,,Eagle Grove,50533,IA,US,Wright (99),42.6600504,-93.8930986
+USA-IA-87-IA-All-output-681,ROWLEY MEMORIAL MASONIC HOME,Free Standing NF/SNF,3000 Willis Ave,,Perry,50220,IA,US,Dallas (25),41.8386471,-94.0760421
+USA-IA-87-IA-All-output-682,RUTHVEN COMMUNITY CARE CENTER,Free Standing NF/SNF,2701 Mitchell St,BOX D,Ruthven,51358,IA,US,Palo Alto (74),43.127774,-94.888954
+USA-IA-87-IA-All-output-683,SALEM LUTHERAN HOME,Free Standing NF/SNF,2027 College St,,Elk Horn,51531,IA,US,Shelby (83),41.5938168,-95.0595715
+USA-IA-87-IA-All-output-684,SCENIC MANOR,Free Standing NF/SNF,1409 N Fremont St,,Iowa Falls,50126,IA,US,Hardin (42),42.5290485,-93.2610749
+USA-IA-87-IA-All-output-685,SCOTTISH RITE PARK HEALTH CARE CENTER,Free Standing NF/SNF,2909 Woodland Ave,,Des Moines,50312,IA,US,Polk (77),41.5888092,-93.655601
+USA-IA-87-IA-All-output-686,SHADY OAKS CARE CENTER,Free Standing NF/SNF,1409 W Main St,,Lake City,51449,IA,US,Calhoun (13),42.264406,-94.750502
+USA-IA-87-IA-All-output-687,SHADY REST CARE CENTER,Free Standing NF/SNF,701 Johnson St NW,,Cascade,52033,IA,US,Dubuque (31),42.3023782,-91.0212267
+USA-IA-87-IA-All-output-688,SHEFFIELD CARE CENTER,Free Standing NF/SNF,100 Bennett Dr,,Sheffield,50475,IA,US,Franklin (35),42.893907,-93.206297
+USA-IA-87-IA-All-output-689,SHELL ROCK SENIOR LIVING,Free Standing NF/SNF,920 N Cherry St,,Shell Rock,50670,IA,US,Butler (12),42.7141169,-92.5704992
+USA-IA-87-IA-All-output-690,SIBLEY SPECIALTY CARE,Free Standing NF/SNF,700 9th Ave N,,Sibley,51249,IA,US,Osceola (72),43.4108979,-95.7412306
+USA-IA-87-IA-All-output-691,SIGOURNEY HEALTH CARE,Free Standing NF/SNF,900 S Stone St,,Sigourney,52591,IA,US,Keokuk (54),41.3265633,-92.2082867
+USA-IA-87-IA-All-output-692,SIMPSON MEMORIAL HOME,Free Standing NF/SNF,1000 N Miller St,,West Liberty,52776,IA,US,Muscatine (70),41.5781742,-91.2584092
+USA-IA-87-IA-All-output-693,SOLON NURSING CARE CENTER,Free Standing NF/SNF,523 E 5th St,,Solon,52333,IA,US,Johnson (52),41.8010853,-91.4899849
+USA-IA-87-IA-All-output-694,SOUTHERN HILLS SPECIALTY CARE,Free Standing NF/SNF,444 Northwest Blvd,,Ashton,51232,IA,US,Clarke (20),43.3160001,-95.783388
+USA-IA-87-IA-All-output-695,SOUTHFIELD WELLNESS COMMUNITY,Free Standing NF/SNF,2416 Des Moines St,,Webster City,50595,IA,US,Hamilton (40),42.4511057,-93.8200793
+USA-IA-87-IA-All-output-696,SOUTHRIDGE SPECIALTY CARE,Free Standing NF/SNF,309 W Merle Hibbs Blvd,,Marshalltown,50158,IA,US,Marshall (64),42.013386,-92.9183237
+USA-IA-87-IA-All-output-697,SPURGEON MANOR,Free Standing NF/SNF,1204 Linden St,,Dallas Center,50063,IA,US,Dallas (25),41.679747,-93.95891
+USA-IA-87-IA-All-output-698,ST FRANCIS MANOR,Free Standing NF/SNF,2021 4th Ave,,Grinnell,50112,IA,US,Poweshiek (79),41.7440102,-92.705431
+USA-IA-87-IA-All-output-699,ST LUKE LUTHERAN NURSING HOME,Free Standing NF/SNF,1301 St Luke Dr,,Spencer,51301,IA,US,Clay (21),43.124384,-95.126345
+USA-IA-87-IA-All-output-700,STACYVILLE COMMUNITY NURSING HOME,Free Standing NF/SNF,413 S Broad St,,Stacyville,50476,IA,US,Mitchell (66),43.4334495,-92.7822984
+USA-IA-87-IA-All-output-701,STATE CENTER SPECIALTY CARE,Free Standing NF/SNF,702 3rd St NW,,State Center,50247,IA,US,Marshall (64),42.0180005,-93.1733533
+USA-IA-87-IA-All-output-702,STONEHILL CARE CENTER,Free Standing NF/SNF,3485 Windsor Ave,,Dubuque,52001,IA,US,Dubuque (31),42.5317403,-90.6705282
+USA-IA-87-IA-All-output-703,STRATFORD SPECIALTY CARE,Free Standing NF/SNF,1200 IA-175,BOX 260,Stratford,50249,IA,US,Hamilton (40),42.2671608,-93.92216
+USA-IA-87-IA-All-output-704,STRAWBERRY POINT LUTHERAN HOME,Free Standing NF/SNF,313 Elkader St,,Strawberry Point,52076,IA,US,Clayton (22),42.6878125,-91.5342574
+USA-IA-87-IA-All-output-705,SUNNY BROOK LIVING CARE CENTER,Free Standing NF/SNF,400 Highland St,,Fairfield,52556,IA,US,Jefferson (51),41.0037717,-91.9529993
+USA-IA-87-IA-All-output-706,SUNNY HILL CARE CENTER,Free Standing NF/SNF,1708 Harding St,,Tama,52339,IA,US,Tama (86),41.9759049,-92.5816449
+USA-IA-87-IA-All-output-707,SUNNY KNOLL CARE CENTRE,Free Standing NF/SNF,135 Warner St,,Rockwell City,50579,IA,US,Calhoun (13),42.3975041,-94.6200409
+USA-IA-87-IA-All-output-708,SUNNY VIEW CARE CENTER,Free Standing NF/SNF,410 NW Ash Dr,,Ankeny,50023,IA,US,Polk (77),41.735305,-93.6111366
+USA-IA-87-IA-All-output-709,SUNNYCREST MANOR,Free Standing NF/SNF,2375 Roosevelt St,,Dubuque,52001,IA,US,Dubuque (31),42.5322872,-90.6541917
+USA-IA-87-IA-All-output-710,SUNNYCREST NURSING CENTER,Free Standing NF/SNF,401 Crisman St,,Dysart,52224,IA,US,Tama (86),42.1702418,-92.3081343
+USA-IA-87-IA-All-output-711,SUNRISE HILL CARE CENTER,Free Standing NF/SNF,909 6th St,,Traer,50675,IA,US,Tama (86),42.1887828,-92.4602914
+USA-IA-87-IA-All-output-712,SUNRISE RETIREMENT COMMUNITY,Free Standing NF/SNF,5501 Gordon Dr,,Sioux City,51106,IA,US,Woodbury (97),42.4772293,-96.3372811
+USA-IA-87-IA-All-output-713,SUNRISE TERRACE NURSING & REHABILITATION CENTER,Free Standing NF/SNF,706 W Central Ave,,Winfield,52659,IA,US,Henry (44),41.1267764,-91.4467345
+USA-IA-87-IA-All-output-714,SUNSET KNOLL CARE AND REHAB CENTER,Free Standing NF/SNF,401 W 5th St,,Aurelia,51005,IA,US,Cherokee (18),42.7160359,-95.4407851
+USA-IA-87-IA-All-output-715,TABOR MANOR CARE CENTER,Free Standing NF/SNF,209 Main Street,,Tabor,51653,IA,US,Fremont (36),40.8912966,-95.671327
+USA-IA-87-IA-All-output-716,THE ALVERNO HEALTH CARE FACILITY,Free Standing NF/SNF,849 13th Ave N,,Clinton,52732,IA,US,Clinton (23),41.8585007,-90.2046148
+USA-IA-87-IA-All-output-717,THE AMBASSADOR SIDNEY INC,Free Standing NF/SNF,115 S Main St,,Sidney,51652,IA,US,Fremont (36),40.7362951,-95.6469797
+USA-IA-87-IA-All-output-718,THE BRIDGES AT ANKENY,Free Standing NF/SNF,3510 NW Abilene Rd,,Ankeny,50023,IA,US,Polk (77),41.7562806,-93.628545
+USA-IA-87-IA-All-output-719,THE COTTAGES,Free Standing NF/SNF,1742 Main St,,Pella,50219,IA,US,Marion (63),41.428445,-92.915699
+USA-IA-87-IA-All-output-720,THE MADISON,Free Standing NF/SNF,1702 41st St,,Fort Madison,52627,IA,US,Lee (56),40.622439,-91.3648429
+USA-IA-87-IA-All-output-721,THE NEW HOMESTEAD CARE CENTER,Free Standing NF/SNF,2306 State St,,Guthrie Center,50115,IA,US,Guthrie (39),41.680092,-94.484997
+USA-IA-87-IA-All-output-722,THE VILLAGE,Free Standing NF/SNF,1203 N E St,,Indianola,50125,IA,US,Warren (91),41.373214,-93.570738
+USA-IA-87-IA-All-output-723,THE VILLAGE AT LEGACY POINTE NURSING FACILITY,Free Standing NF/SNF,1645 SE Holiday Crest Cir,,Waukee,50263,IA,US,Dallas (25),41.612992,-93.8400101
+USA-IA-87-IA-All-output-724,THE VINTON LUTHERAN HOME,Free Standing NF/SNF,1301 2nd Ave,,Vinton,52349,IA,US,Benton (06),42.158678,-92.023604
+USA-IA-87-IA-All-output-725,THOMAS REST HAVEN,Free Standing NF/SNF,217 Main St,,Coon Rapids,50058,IA,US,Carroll (14),41.871393,-94.674127
+USA-IA-87-IA-All-output-726,THORNTON MANOR CARE CENTER,Free Standing NF/SNF,1329 Main St,,Lansing,52151,IA,US,Allamakee (03),43.360156,-91.2345945
+USA-IA-87-IA-All-output-727,TIMELY MISSION NURSING HOME,Free Standing NF/SNF,109 Mission Dr,,Buffalo Center,50424,IA,US,Winnebago (95),43.3887026,-93.9530891
+USA-IA-87-IA-All-output-728,TITONKA CARE CENTER,Free Standing NF/SNF,312 1st Ave NW,,Titonka,50480,IA,US,Kossuth (55),43.2359979,-94.0450193
+USA-IA-87-IA-All-output-729,TOUCHSTONE HEALTHCARE COMMUNITY,Free Standing NF/SNF,1800 Indian Hills Dr,,Sioux City,51104,IA,US,Woodbury (97),42.533748,-96.3867566
+USA-IA-87-IA-All-output-730,TRINITY CENTER AT LUTHER PARK,Free Standing NF/SNF,1555 Hull Ave,,Des Moines,50316,IA,US,Polk (77),41.621601,-93.5955667
+USA-IA-87-IA-All-output-731,TRIPOLI NURSING & REHAB,Free Standing NF/SNF,604 3rd St SW,,Tripoli,50676,IA,US,Bremer (09),42.8039187,-92.262408
+USA-IA-87-IA-All-output-732,TRU REHAB OF GRINNELL,Free Standing NF/SNF,415 6th Ave W,,Grinnell,50112,IA,US,Poweshiek (79),41.7461578,-92.7429087
+USA-IA-87-IA-All-output-733,TWILIGHT ACRES,Free Standing NF/SNF,600 W 6th St,,Wall Lake,51466,IA,US,Sac (81),42.2761429,-95.0974066
+USA-IA-87-IA-All-output-734,UNION PARK HEALTH SERVICES,Free Standing NF/SNF,2401 E 8th St,,Des Moines,50316,IA,US,Polk (77),41.6167317,-93.6071804
+USA-IA-87-IA-All-output-735,UNITED PRESBYTERIAN HOME,Free Standing NF/SNF,1203 E Washington St,,Washington,52353,IA,US,Washington (92),41.2980211,-91.6783356
+USA-IA-87-IA-All-output-736,UNIVERSITY PARK NURSING AND REHABILITATION CENTER,Free Standing NF/SNF,233 University Ave,,Des Moines,50314,IA,US,Polk (77),41.6008029,-93.6210502
+USA-IA-87-IA-All-output-737,URBANDALE HEALTH CARE CENTER,Free Standing NF/SNF,4614 NW 84th St,,Johnston,50131,IA,US,Polk (77),41.656481,-93.7343677
+USA-IA-87-IA-All-output-738,VALLEY VIEW COMMUNITY,Free Standing NF/SNF,108 S High St,,Greene,50636,IA,US,Butler (12),42.89137,-92.8076544
+USA-IA-87-IA-All-output-739,VALLEY VIEW SPECIALTY CARE,Free Standing NF/SNF,2313 15th Ave,,Eldora,50627,IA,US,Hardin (42),42.358353,-93.113449
+USA-IA-87-IA-All-output-740,VALLEY VIEW VILLAGE,Free Standing NF/SNF,2555 Guthrie Ave,,Des Moines,50317,IA,US,Polk (77),41.6139889,-93.56977
+USA-IA-87-IA-All-output-741,VALLEY VUE CARE CENTER,Free Standing NF/SNF,108 2nd Ave,BOX 200,Armstrong,50514,IA,US,Emmet (32),43.396888,-94.4864211
+USA-IA-87-IA-All-output-742,VISTA WOODS CARE CENTER,Free Standing NF/SNF,3 Pennsylvania Pl,,Ottumwa,52501,IA,US,Wapello (90),41.0275261,-92.3854519
+USA-IA-87-IA-All-output-743,WAPELLO SPECIALTY CARE,Free Standing NF/SNF,601 US-61,,Wapello,52653,IA,US,Louisa (58),41.1716467,-91.1889038
+USA-IA-87-IA-All-output-744,WELLINGTON PLACE,Free Standing NF/SNF,2479 River Rd,,Decorah,52101,IA,US,Winneshiek (96),43.300197,-91.746498
+USA-IA-87-IA-All-output-745,WESLEY ACRES,Free Standing NF/SNF,3520 Grand Ave,,Des Moines,50312,IA,US,Polk (77),41.5833955,-93.6645761
+USA-IA-87-IA-All-output-746,WESLEY PARK CENTRE,Free Standing NF/SNF,500 1st St N,,Newton,50208,IA,US,Jasper (50),41.7033376,-93.052885
+USA-IA-87-IA-All-output-747,WEST BEND HEALTH AND REHABILITATION,Free Standing NF/SNF,203 4th St N,,West Bend,50597,IA,US,Palo Alto (74),42.9663768,-94.4486494
+USA-IA-87-IA-All-output-748,WEST BRIDGE CARE & REHABILITATION,Free Standing NF/SNF,1015 W Summit St,,Winterset,50273,IA,US,Madison (61),41.3302738,-94.0255901
+USA-IA-87-IA-All-output-749,WEST POINT CARE CENTER,Free Standing NF/SNF,607 6th St,,West Point,52656,IA,US,Lee (56),40.721872,-91.4505886
+USA-IA-87-IA-All-output-750,WEST RIDGE SPECIALTY CARE,Free Standing NF/SNF,1904 W Howard St,,Knoxville,50138,IA,US,Marion (63),41.3111767,-93.1165866
+USA-IA-87-IA-All-output-751,WESTBROOK ACRES,Free Standing NF/SNF,605 Garfield St,,Gladbrook,50635,IA,US,Tama (86),42.183298,-92.7203973
+USA-IA-87-IA-All-output-752,WESTHAVEN COMMUNITY,Free Standing NF/SNF,112 W 4th St,,Boone,50036,IA,US,Boone (08),42.0602578,-93.8932834
+USA-IA-87-IA-All-output-753,WESTMONT HEALTHCARE COMMUNITY,Free Standing NF/SNF,314 S Elm Ave,,Logan,51546,IA,US,Harrison (43),41.6404198,-95.7940103
+USA-IA-87-IA-All-output-754,WESTRIDGE QUALITY CARE & REHABILITATION,Free Standing NF/SNF,600 Manor Dr,,Clarinda,51632,IA,US,Page (73),40.7301576,-95.0452803
+USA-IA-87-IA-All-output-755,WESTVIEW ACRES CARE CENTER,Free Standing NF/SNF,203 SW Lorraine St,,Leon,50144,IA,US,Decatur (27),40.7396146,-93.7610273
+USA-IA-87-IA-All-output-756,WESTVIEW CARE CENTER,Free Standing NF/SNF,445 8th Ave SW,,Britt,50423,IA,US,Hancock (41),43.0928691,-93.8120585
+USA-IA-87-IA-All-output-757,WESTVIEW OF INDIANOLA CARE CENTER,Free Standing NF/SNF,1900 W 3rd Pl,,Indianola,50125,IA,US,Warren (91),41.3575642,-93.5865532
+USA-IA-87-IA-All-output-758,WESTWING PLACE,Free Standing NF/SNF,1118 11th St,,DeWitt,52742,IA,US,Clinton (23),41.8259131,-90.5466292
+USA-IA-87-IA-All-output-759,WESTWOOD SPECIALTY CARE,Free Standing NF/SNF,4201 Fieldcrest Dr,,Sioux City,51103,IA,US,Woodbury (97),42.5055726,-96.4620816
+USA-IA-87-IA-All-output-760,WHEATLAND MANOR,Free Standing NF/SNF,316 E Lincoln Way,,Wheatland,52777,IA,US,Clinton (23),41.8335212,-90.8319184
+USA-IA-87-IA-All-output-761,WILLOW DALE WELLNESS VILLAGE,Free Standing NF/SNF,404 1st St,,Ida Grove,51445,IA,US,Ida (47),42.3456265,-95.4705427
+USA-IA-87-IA-All-output-762,WILLOW GARDENS CARE CENTER,Free Standing NF/SNF,455 31st St,,Marion,52302,IA,US,Linn (57),42.0309916,-91.578722
+USA-IA-87-IA-All-output-763,WILTON RETIREMENT COMMUNITY,Free Standing NF/SNF,307 Ovesen Dr,,Wilton,52778,IA,US,Muscatine (70),41.5960694,-91.0139077
+USA-IA-87-IA-All-output-764,WINDMILL MANOR,Free Standing NF/SNF,2332 Liberty Dr,,Coralville,52241,IA,US,Johnson (52),41.6990474,-91.6208934
+USA-IA-87-IA-All-output-765,WINSLOW HOUSE CARE CENTER,Free Standing NF/SNF,3456 Indian Creek Rd,,Marion,52302,IA,US,Linn (57),42.0552588,-91.5893732
+USA-IA-87-IA-All-output-766,WOODLAND TERRACE,Free Standing NF/SNF,1922 5th Ave NW,,Waverly,50677,IA,US,Bremer (09),42.731204,-92.4930144
+USA-IA-87-IA-All-output-767,CHILDSERVE HABILITATION CENTER-NF,Free Standing NF,5900 Pioneer Pkwy,,Johnston,50131,IA,US,Polk (77),41.660943,-93.699798
+USA-IA-87-IA-All-output-768,GRAND MEADOWS,Free Standing NF,5300 Grand Meadow Dr,,Asbury,52002,IA,US,Dubuque (31),42.5130116,-90.7545344
+USA-IA-87-IA-All-output-769,IOWA VETERANS HOME,Free Standing NF,1301 Summit St,,Marshalltown,50158,IA,US,Marshall (64),42.0547891,-92.93333
+USA-IA-87-IA-All-output-770,MANNING REGIONAL HEALTH CARE CENTER NF,Free Standing NF,402 Main St,,Manning,51455,IA,US,Carroll (14),41.907921,-95.064912
+USA-IA-87-IA-All-output-771,REHABILITATION CENTER OF LISBON,Free Standing NF,905 W Main St,,Lisbon,52253,IA,US,Linn (57),41.9225116,-91.3945364
+USA-IA-87-IA-All-output-772,ADELINE COMMUNITY LIVING HOME,RCF/ID,1251 Adeline St,,Dubuque,52003,IA,US,Dubuque (31),42.4836699,-90.6765238
+USA-IA-87-IA-All-output-773,ALTERNATIVE LIVING-CURTIS,RCF/ID,303 N Frederick Ave,,Oelwein,50662,IA,US,Fayette (33),42.6824172,-91.9133426
+USA-IA-87-IA-All-output-774,CAMELOT SQUARE GROUP HOME,RCF/ID,1011 5th Ave N,,Denison,51442,IA,US,Crawford (24),42.0218301,-95.3590198
+USA-IA-87-IA-All-output-775,EAGLE GROVE GROUP HOME,RCF/ID,605 E Broadway St,,Eagle Grove,50533,IA,US,Wright (99),42.6643762,-93.8944493
+USA-IA-87-IA-All-output-776,EMERSON HOUSE,RCF/ID,2009 Coachman Dr,,Waterloo,50701,IA,US,Blackhawk (07),42.5045632,-92.3913748
+USA-IA-87-IA-All-output-777,FAIRWAY GROUP HOME,RCF/ID,2221 Fairway Ln,,Waterloo,50701,IA,US,Blackhawk (07),42.4807686,-92.3798486
+USA-IA-87-IA-All-output-778,GUGELER GROUP HOME,RCF/ID,2205 Northern Dr,,Burlington,52601,IA,US,Des Moines (29),40.832362,-91.1478773
+USA-IA-87-IA-All-output-779,HANDICAPPED DEVELOPMENT CENTER #7,RCF/ID,4109 White Pines Dr,,Davenport,52804,IA,US,Scott (82),41.529607,-90.6359917
+USA-IA-87-IA-All-output-780,HANDICAPPED DEVELOPMENT CENTER #8,RCF/ID,3518 Hillandale Rd,,Davenport,52806,IA,US,Scott (82),41.5570468,-90.6203127
+USA-IA-87-IA-All-output-781,HANDICAPPED DEVELOPMENT CENTER #9,RCF/ID,1815 W 59th St,,Davenport,52806,IA,US,Scott (82),41.5809435,-90.6030666
+USA-IA-87-IA-All-output-782,HARRISON HOUSE,RCF/ID,204 E Harrison St,,Jefferson,50129,IA,US,Greene (37),42.0144996,-94.3724191
+USA-IA-87-IA-All-output-783,HIGHLAND PARK GROUP HOME,RCF/ID,3417 5th Ave,,Des Moines,50313,IA,US,Polk (77),41.6265848,-93.6232138
+USA-IA-87-IA-All-output-784,HORIZONS UNLIMITED,RCF/ID,2201 21st St,,Emmetsburg,50536,IA,US,Palo Alto (74),43.101396,-94.67948
+USA-IA-87-IA-All-output-785,MASON CITY GROUP HOME,RCF/ID,695 S Illinois Ave,,Mason City,50401,IA,US,Cerro Gordo (17),43.1442043,-93.1704468
+USA-IA-87-IA-All-output-786,MEADOWS GROUP HOME,RCF/ID,420 8th Ave SW,,Hampton,50441,IA,US,Franklin (35),42.7340603,-93.2130688
+USA-IA-87-IA-All-output-787,NEW HAMPTON GROUP HOME,RCF/ID,841 W Main St,,New Hampton,50659,IA,US,Chickasaw (19),43.0606917,-92.3279922
+USA-IA-87-IA-All-output-788,NINTH STREET GROUP HOME,RCF/ID,310 9th St,,Charles City,50616,IA,US,Floyd (34),43.0551859,-92.6766424
+USA-IA-87-IA-All-output-789,NORTHSIDE COURT,RCF/ID,1111 7th St,,Hull,51239,IA,US,Sioux (84),43.1952036,-96.1319652
+USA-IA-87-IA-All-output-790,O'BRIANT HOUSE,RCF/ID,501 E Cross St,,Centerville,52544,IA,US,Appanoose (04),40.7408449,-92.8674674
+USA-IA-87-IA-All-output-791,OAK STREET GROUP HOME,RCF/ID,100 E Oak St,,Red Oak,51566,IA,US,Montgomery (69),41.0167013,-95.231463
+USA-IA-87-IA-All-output-792,OPPORTUNITY VILLAGE - RALPH SCHROEDER GROUP HOME,RCF/ID,1020 Buddy Holly Pl,,Clear Lake,50428,IA,US,Cerro Gordo (17),43.1450751,-93.3881653
+USA-IA-87-IA-All-output-793,OSAGE GROUP HOME,RCF/ID,818 N 7th St,,Osage,50461,IA,US,Mitchell (66),43.2915883,-92.8111649
+USA-IA-87-IA-All-output-794,PAIGE GROUP HOME,RCF/ID,3845 Paige Dr,,Waterloo,50702,IA,US,Blackhawk (07),42.4595534,-92.3395398
+USA-IA-87-IA-All-output-795,PALMER HOUSE,RCF/ID,1501 Palmer St,,Emmetsburg,50536,IA,US,Palo Alto (74),43.1062137,-94.6818321
+USA-IA-87-IA-All-output-796,PLEASANT HOUSE,RCF/ID,1901 Pleasant St,,Emmetsburg,50536,IA,US,Palo Alto (74),43.102692,-94.6754524
+USA-IA-87-IA-All-output-797,REDWOOD COURT,RCF/ID,1705 19th St,,Rock Valley,51247,IA,US,Sioux (84),43.2091752,-96.2934778
+USA-IA-87-IA-All-output-798,RINGGOLD COUNTY GROUP HOME,RCF/ID,111 Ringgold St,,Mt Ayr,50854,IA,US,Ringgold (80),40.713212,-94.248569
+USA-IA-87-IA-All-output-799,RISE LIMITED GROUP HOME,RCF/ID,107 Maxie Ave,,Elkader,52043,IA,US,Clayton (22),42.8603899,-91.3980455
+USA-IA-87-IA-All-output-800,SYSTEMS UNLIMITED #11,RCF/ID,1801 High St,,Iowa City,52245,IA,US,Johnson (52),41.65761,-91.5105559
+USA-IA-87-IA-All-output-801,WALTON GROUP HOME,RCF/ID,2101 Northern Dr,,Burlington,52601,IA,US,Des Moines (29),40.8310002,-91.148407
+USA-IA-87-IA-All-output-802,WEST 4TH STREET GROUP HOME,RCF/ID,3341 W 4th St,,Waterloo,50701,IA,US,Blackhawk (07),42.4706792,-92.3799405
+USA-IA-87-IA-All-output-803,EYERLY BALL RESIDENTIAL - CUMMINS HOUSE,RCF/PMI,940 Cummins Pkwy,,Des Moines,50312,IA,US,Polk (77),41.5949966,-93.7024698
+USA-IA-87-IA-All-output-804,EYERLY BALL RESIDENTIAL - FRANCIS HOUSE,RCF/PMI,5631 Francis Ave,,Des Moines,50310,IA,US,Polk (77),41.6140835,-93.6958225
+USA-IA-87-IA-All-output-805,FREMONT GROUP HOME,RCF/PMI,704 Fremont St,,Des Moines,50316,IA,US,Polk (77),41.5988111,-93.6096746
+USA-IA-87-IA-All-output-806,HILLCREST FAMILY SERVICES - RCF/PMI,RCF/PMI,1160 Seippel Rd,,Dubuque,52002,IA,US,Dubuque (31),42.4861985,-90.7784657
+USA-IA-87-IA-All-output-807,"IMAGINE THE POSSIBILITIES, INC - ANDREW JACKSON CARE",RCF/PMI,18720 250th Ave,,Bellevue,52031,IA,US,Jackson (49),42.1983425,-90.6122428
+USA-IA-87-IA-All-output-808,NORTH IOWA TRANSITION CENTER,RCF/PMI,408 1st St NW,,Mason City,50401,IA,US,Cerro Gordo (17),43.1528695,-93.207763
+USA-IA-87-IA-All-output-809,OAKLAND HOUSE,RCF/PMI,1812 Oakland Ave,,Des Moines,50314,IA,US,Polk (77),41.6105762,-93.6243258
+USA-IA-87-IA-All-output-810,PARK PLACE,RCF/PMI,1307 Sunnyside Ln,,Atlantic,50022,IA,US,Cass (15),41.3976984,-95.029815
+USA-IA-87-IA-All-output-811,VERA FRENCH PINE MEADOWS,RCF/PMI,4656 W Kimberly Rd,,Davenport,52806,IA,US,Scott (82),41.569956,-90.640184
+USA-IA-87-IA-All-output-812,BREES REST HOME,RCF,210 Washington Ave E,,Albia,52531,IA,US,Monroe (68),41.0260093,-92.805317
+USA-IA-87-IA-All-output-813,BROOKDALE SIOUX CITY,RCF,2562 Pierce St,,Sioux City,51104,IA,US,Woodbury (97),42.5166776,-96.4044269
+USA-IA-87-IA-All-output-814,CALHOUN HOUSE,RCF,3911 Calhoun Ave,,Ames,50010,IA,US,Story (85),42.0592143,-93.6243802
+USA-IA-87-IA-All-output-815,CARE UNIT A,RCF,500 Opal St,,Afton,50830,IA,US,Union (88),41.035558,-94.2014535
+USA-IA-87-IA-All-output-816,CARE UNIT B,RCF,500 Opal St,,Afton,50830,IA,US,Union (88),41.035558,-94.2014535
+USA-IA-87-IA-All-output-817,CEDAR VALLEY RANCH,RCF,2591 61st St Ln,,Vinton,52349,IA,US,Benton (06),42.1520284,-91.9915208
+USA-IA-87-IA-All-output-818,CENTER VILLAGE OF TENCO,RCF,19248 Maple Ave,,Keosauqua,52565,IA,US,Van Buren (89),40.7592031,-91.9485196
+USA-IA-87-IA-All-output-819,CHATHAM OAKS,RCF,4515 Melrose Ave,,Iowa City,52246,IA,US,Johnson (52),41.6563711,-91.6021507
+USA-IA-87-IA-All-output-820,COTTONWOOD RESIDENTIAL CARE FACILITY,RCF,910 Cottonwood Ct,SUITE 1002,Burlington,52601,IA,US,Des Moines (29),40.8218319,-91.1367469
+USA-IA-87-IA-All-output-821,COUNTRY CARE CENTER,RCF,725 US-59,,Harlan,51537,IA,US,Shelby (83),41.607936,-95.332266
+USA-IA-87-IA-All-output-822,COUNTRYSIDE HEALTH CARE CENTER,RCF,6120 Morningside Ave,,Sioux City,51106,IA,US,Woodbury (97),42.4602938,-96.3277306
+USA-IA-87-IA-All-output-823,DEERFIELD RETIREMENT COMMUNITY,RCF,13731 Hickman Rd,,Urbandale,50323,IA,US,Polk (77),41.616894,-93.808145
+USA-IA-87-IA-All-output-824,DIAMOND LIFE HEALTH CARE,RCF,4912 Barnes City Rd,BOX 820,Montezuma,50171,IA,US,Poweshiek (79),41.572468,-92.5207224
+USA-IA-87-IA-All-output-825,DULUTH HOUSE,RCF,620 Duluth Driveway,,Ames,50010,IA,US,Story (85),41.9871792,-93.6030328
+USA-IA-87-IA-All-output-826,EASTERN STAR MASONIC HOME,RCF,715 W 3rd St,,Boone,50036,IA,US,Boone (08),42.059323,-93.9019389
+USA-IA-87-IA-All-output-827,EPIC HOUSE,RCF,1210 Idaho St,,Waterloo,50703,IA,US,Blackhawk (07),42.4996314,-92.3074098
+USA-IA-87-IA-All-output-828,EVERGREEN ESTATES I,RCF,3410 12th Ave SW,,Cedar Rapids,52404,IA,US,Linn (57),41.9659305,-91.7166737
+USA-IA-87-IA-All-output-829,EVERGREEN ESTATES II,RCF,307 Edgewood Rd SW,,Cedar Rapids,52404,IA,US,Linn (57),41.966149,-91.715557
+USA-IA-87-IA-All-output-830,EVERGREEN ESTATES III,RCF,2204 Johnson Ave NW,,Cedar Rapids,52405,IA,US,Linn (57),41.97508,-91.703934
+USA-IA-87-IA-All-output-831,HAZEL HOUSE,RCF,124 S Hazel Ave,,Ames,50010,IA,US,Story (85),42.0218365,-93.6264216
+USA-IA-87-IA-All-output-832,HERITAGE RESIDENCE,RCF,2275 S Linn Ave,,New Hampton,50659,IA,US,Chickasaw (19),43.0258906,-92.318598
+USA-IA-87-IA-All-output-833,HIGLEY MANSION CARE CENTER,RCF,860 17th St SE,,Cedar Rapids,52403,IA,US,Linn (57),41.9776978,-91.6456303
+USA-IA-87-IA-All-output-834,HILLCREST FAMILY SERVICES - RCF,RCF,1160 Seippel Rd,,Dubuque,52002,IA,US,Dubuque (31),42.4861985,-90.7784657
+USA-IA-87-IA-All-output-835,IOWA VETERANS HOME,RCF,1301 Summit St,,Marshalltown,50158,IA,US,Marshall (64),42.0547891,-92.93333
+USA-IA-87-IA-All-output-836,KATHLEENS RESIDENTIAL CARE,RCF,1505 5th St,,Emmetsburg,50536,IA,US,Palo Alto (74),43.1162566,-94.6708251
+USA-IA-87-IA-All-output-837,"KNOXVILLE RESIDENTIAL, LLC",RCF,205 N Iowa St,,Knoxville,50138,IA,US,Marion (63),41.3201396,-93.105554
+USA-IA-87-IA-All-output-838,LEGACY HOUSE,RCF,207 E Salem Ave,,Indianola,50125,IA,US,Warren (91),41.3600301,-93.5590849
+USA-IA-87-IA-All-output-839,LONGHOUSE-NORTHSHIRE LTD,RCF,711 W 11th St,,Spencer,51301,IA,US,Clay (21),43.1491664,-95.1560346
+USA-IA-87-IA-All-output-840,MARION COUNTY CARE FACILITY OF TENCO,RCF,1111 Newbold St,,Knoxville,50138,IA,US,Marion (63),41.3003335,-93.1351045
+USA-IA-87-IA-All-output-841,MAYFLOWER HOME,RCF,616 Broad St,,Grinnell,50112,IA,US,Poweshiek (79),41.7395999,-92.7232884
+USA-IA-87-IA-All-output-842,MAYVIL,RCF,136 36th Ave SW,,Cedar Rapids,52404,IA,US,Linn (57),41.9431802,-91.6649245
+USA-IA-87-IA-All-output-843,MEDIAPOLIS CARE FACILITY,RCF,142 N Orchard St,,Mediapolis,52637,IA,US,Des Moines (29),41.0085541,-91.1637742
+USA-IA-87-IA-All-output-844,PARKVIEW HOME,RCF,102 N Jackson St,,Wayland,52654,IA,US,Henry (44),41.1471771,-91.6664864
+USA-IA-87-IA-All-output-845,PENN CENTER,RCF,2237 245th St,,Delhi,52223,IA,US,Delaware (28),42.4347257,-91.3568952
+USA-IA-87-IA-All-output-846,PINICON PLACE,RCF,1615 Breca Ridge Dr,,Anamosa,52205,IA,US,Jones (53),42.106549,-91.2611847
+USA-IA-87-IA-All-output-847,PLEASANT HILL RESIDENTIAL,RCF,4755 Parkridge Ave,,Pleasant Hill,50327,IA,US,Polk (77),41.5811866,-93.5210077
+USA-IA-87-IA-All-output-848,PLEASANTVIEW HOME RCF,RCF,811 3rd St,,Kalona,52247,IA,US,Washington (92),41.4904403,-91.7110581
+USA-IA-87-IA-All-output-849,PRAIRIE VIEW,RCF,18569 Lane Rd,,Fayette,52142,IA,US,Fayette (33),42.8976714,-91.8317593
+USA-IA-87-IA-All-output-850,PRIDE GROUP @ 12TH STREET,RCF,200 12th St SE,,Le Mars,51031,IA,US,Plymouth (75),42.7787339,-96.163256
+USA-IA-87-IA-All-output-851,PRIDE GROUP @ 6TH AVENUE,RCF,115 6th Ave SW,,Le Mars,51031,IA,US,Plymouth (75),42.7913367,-96.1755324
+USA-IA-87-IA-All-output-852,PRIDE GROUP @ LINCOLN STREET,RCF,1240 Lincoln St NE,,Le Mars,51031,IA,US,Plymouth (75),42.800566,-96.1476024
+USA-IA-87-IA-All-output-853,PRIDE GROUP @ PRIMGHAR,RCF,6059 390th St,,Primghar,51245,IA,US,O'Brien (71),43.0844314,-95.5933065
+USA-IA-87-IA-All-output-854,PROFFITTS RESIDENTIAL CARE FACILITY,RCF,615 W Washington St,,Centerville,52544,IA,US,Appanoose (04),40.7362036,-92.8794226
+USA-IA-87-IA-All-output-855,RAMSEY VILLAGE,RCF,1611 27th St,,Des Moines,50310,IA,US,Polk (77),41.6088931,-93.652725
+USA-IA-87-IA-All-output-856,RISEN SON CHRISTIAN VILLAGE,RCF,3000 Risen Son Blvd,,Council Bluffs,51503,IA,US,Pottawattamie (78),41.2305914,-95.8011642
+USA-IA-87-IA-All-output-857,ROCK RIDGE RESIDENTIAL CARE CENTER,RCF,401 Canton St NW,,Shellsburg,52332,IA,US,Benton (06),42.098912,-91.872787
+USA-IA-87-IA-All-output-858,ROSE HAVEN NURSING HOME,RCF,1500 Franklyn Ave,,Marengo,52301,IA,US,Iowa (48),41.804139,-92.071761
+USA-IA-87-IA-All-output-859,ROTARY SENIOR LIVING,RCF,620 SE 5th St,,Eagle Grove,50533,IA,US,Wright (99),42.6589499,-93.8944289
+USA-IA-87-IA-All-output-860,SCENIC ACRES,RCF,23105 Granite Ave,,St Olaf,52072,IA,US,Clayton (22),42.8917043,-91.3487129
+USA-IA-87-IA-All-output-861,SCOTTISH RITE PARK HEALTH CARE CENTER RCF,RCF,2909 Woodland Ave,,Des Moines,50312,IA,US,Polk (77),41.5888092,-93.655601
+USA-IA-87-IA-All-output-862,SENIOR SUITES OF URBANDALE,RCF,4700 84th St,,Urbandale,50322,IA,US,Polk (77),41.6456781,-93.7341149
+USA-IA-87-IA-All-output-863,SHIRLEES RETIREMENT HOME,RCF,1302 E 2nd Ave,,Indianola,50125,IA,US,Warren (91),41.358217,-93.5454929
+USA-IA-87-IA-All-output-864,SPURGEON MANOR,RCF,1204 Linden St,,Dallas Center,50063,IA,US,Dallas (25),41.679747,-93.95891
+USA-IA-87-IA-All-output-865,STACYVILLE COMMUNITY NURSING HOME,RCF,413 S Broad St,,Stacyville,50476,IA,US,Mitchell (66),43.4334495,-92.7822984
+USA-IA-87-IA-All-output-866,SunnyBrook Living Care Center,RCF,400 Highland St,,Fairfield,52556,IA,US,Jefferson (51),41.0037717,-91.9529993
+USA-IA-87-IA-All-output-867,TERRACE VIEW RESIDENTIAL,RCF,1020 W State St,,Clarinda,51632,IA,US,Page (73),40.7417221,-95.0510103
+USA-IA-87-IA-All-output-868,TWILIGHT ACRES,RCF,600 W 6th St,,Wall Lake,51466,IA,US,Sac (81),42.2761429,-95.0974066
+USA-IA-87-IA-All-output-869,VILLAGE NORTHWEST UNLIMITED,RCF,330 Village Cir,,Sheldon,51201,IA,US,O'Brien (71),43.1897255,-95.8360944
+USA-IA-87-IA-All-output-870,VITA HEALTH SERVICES,RCF,1725 6th Ave,,Des Moines,50314,IA,US,Polk (77),41.6099798,-93.6251842
+USA-IA-87-IA-All-output-871,WELLINGTON PLACE,RCF,2479 River Rd,,Decorah,52101,IA,US,Winneshiek (96),43.300197,-91.746498
+USA-IA-87-IA-All-output-872,WESLEY ACRES RCF,RCF,3520 Grand Ave,,Des Moines,50312,IA,US,Polk (77),41.5833955,-93.6645761
+USA-IA-87-IA-All-output-873,WEST BRIDGE CARE & REHABILITATION RCF,RCF,1015 W Summit St,,Winterset,50273,IA,US,Madison (61),41.3302738,-94.0255901
+USA-IA-87-IA-All-output-874,ARBOR SPRINGS OF WEST DES MOINES L L C,Free Standing SNF,7951 Ep True Pkwy,,West Des Moines,50266,IA,US,Dallas (25),41.5753788,-93.8164987
+USA-IA-87-IA-All-output-875,COTTAGE GROVE PLACE-THE CLUB,Free Standing SNF,2115 1st Ave SE,,Cedar Rapids,52402,IA,US,Linn (57),41.9958922,-91.6363803
+USA-IA-87-IA-All-output-876,DEERFIELD RETIREMENT COMMUNITY INC,Free Standing SNF,13731 Hickman Rd,,Urbandale,50323,IA,US,Polk (77),41.616894,-93.808145

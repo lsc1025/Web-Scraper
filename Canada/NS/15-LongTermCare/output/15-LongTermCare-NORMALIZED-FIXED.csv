@@ -1,0 +1,157 @@
+name,contact_first_name,contact_last_name,contact_name,email,contact_email,fax,mailing_address_line_1,mailing_address_line_2,mailing_city,mailing_contact_first_name,mailing_contact_last_name,mailing_contact_name,mailing_country,mailing_county,mailing_postalcode,mailing_province,provider_name,primary_phone,secondary_phone,twitter,website,source,contact_occupation,dsgne_first_name,dsgne_last_name,admin_name,co_address_line_1,co_address_line_2,co_company,co_city,co_postalcode,co_province,ombudsman_phone,typeofcare,typeofcare2,low_high_rate,low_rate,high_rate,address_line_1,address_line_2,address_directions,city,municipality,region,province,state_id,postal_code,country,latitude,longitude,neighborhood,addr_valid
+Urszula Wawrzynowicz's Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CBO,,,,14 Centre St,,,Dartmouth,,,NS,,B2Y 3K8,Canada,44.6772259,-63.5442115,,True
+Precision Health - Washill Lake Drive Apartments,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,599 Washill Lake,,,Halifax,,,NS,,B3S 0G8,Canada,44.6500242,-63.6536919,,False
+Precision Health - 21 Kincardine Street,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,21 Kincardine St,,,Halifax,,,NS,,B2X 1H7,Canada,44.6907923,-63.5361309,Tam O'Shanter Ridge,True
+Precision Health - 24 Kincardine Street,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,24 Kincardine St,,,Halifax,,,NS,,B2X 1H9,Canada,44.6914288,-63.5370806,Tam O'Shanter Ridge,True
+Precision Health - 16 Rannoch Road,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,16 Rannoch Rd,,,Dartmouth,,,NS,,B2X 1J6,Canada,44.6906579,-63.5356092,Tam O'Shanter Ridge,True
+PJD Rehab Housing Incorporated (Peter's Place Halifax),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,12 Swan Cr,,,Halifax,,,NS,,B3M 1T6,Canada,44.669059,-63.6583872,,True
+Annapolis Royal Nursing Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,9745 Highway 8,RR #2,,Annapolis Royal,,,NS,,B4S 1A0,Canada,44.7357467,-65.4995435,,True
+Celtic Court ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,16 St Anthony Dr,,,Sydney,,,NS,,B1A 2R5,Canada,46.1219424,-60.1946536,,True
+Bissett Court,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,74 Chameau Cr,,,Cole Harbour,,,NS,,B2W 0H5,Canada,44.677899,-63.4903147,,True
+Elk Court,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,91 Carter Rd,,,Brookfield,,,NS,,B0N 1C0,Canada,45.259264,-63.273847,,True
+Harbour View Haven,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,25 Blockhouse Hill Rd,,,Lunenburg,,,NS,,B0J 2C0,Canada,44.377074,-64.302473,,True
+Hillside Pines,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,77 Exhibition Dr,,,Bridgewater,,,NS,,B4V 3K6,Canada,44.3686575,-64.5211396,,True
+Mahone Nursing Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,640 Main St,,,Mahone Bay,,,NS,,B0J 2E0,Canada,44.4479108,-64.376723,,True
+North Queens Nursing Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,9565 Keji Dr,,,Caledonia,,,NS,,B0T 1B0,Canada,44.374791`,-65.031043,,True
+Queens Manor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,20 Hollands Dr,,,Liverpool,,,NS,,B0T 1K0,Canada,44.036176,-64.706791,,True
+Rosedale Home for Special Care,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,4927 Highway #10,,,New Germany,,,NS,,B0R 1E0,Canada,44.5378816,-64.7102285,,True
+Shoreham Village,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,50 Shoreham Village Cr,,,Chester,,,NS,,B0J 1J0,Canada,44.544859,-64.2322049,,True
+Bay Side Home Corporation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,96 Bayside Dr,,,Barrington,,,NS,,B0W 1E0,Canada,43.548449,-65.598174,,True
+Nakile Home for Special Care,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,35 Nakile Dr,,,Glenwood,,,NS,,B0W 1W0,Canada,43.791991,-65.8621721,,True
+Roseway Manor Inc.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,1604 Lake Rd,,,Shelburne,,,NS,,B0T 1W0,Canada,43.748765,-65.308961,,True
+Surf Lodge Community Continuing Care Centre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,73 Howe St,,,Lockeport,,,NS,,B0T 1L0,Canada,43.7015906,-65.117493,,True
+The Meadows-Tidal View Manor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,339 Pleasant St,,,Yarmouth,,,NS,,B5A 2K9,Canada,43.850509,-66.1030679,,True
+Tideview Terrace,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,74 Pleasant St,,,Conway,,,NS,,B0V 1A0,Canada,43.9782477,-71.1183736,Conway,True
+Villa Acadienne,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,8403 Highway #1,,,Meteghan,,,NS,,B0W 2J0,Canada,44.1940279,-66.1515359,,True
+Villa St. Joseph-du-Lac,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,255 Highway #1,,,Dayton,,,NS,,B5A 4A5,Canada,43.8680291,-66.1087549,,True
+Annapolis Royal Nursing Home Limited,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,9745 Highway #8,,,Annapolis Royal,,,NS,,B0S 1A0,Canada,44.7357467,-65.4995435,,True
+Evergreen Home for Special Care,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,655 Park St,,,Kentville,,,NS,,B4N 3V7,Canada,45.076292,-64.540058,,True
+Grand View Manor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,110 Commercial St,,,Berwick,,,NS,,B0P 1E0,Canada,45.036004,-64.72817,,True
+Mountain Lea Lodge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,170 Church St,,,Bridgetown,,,NS,,B0S 1C0,Canada,44.8490862,-65.2921311,,True
+Wolfville Nursing Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,601 Main St,,,Wolfville,,,NS,,B4P 1E9,Canada,45.0896404,-64.3721787,,True
+Cedarstone Enhanced Care Limited,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,378 Young St,,,Truro,,,NS,,B2N 7H2,Canada,45.3499529,-63.274656,,True
+The Mira,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,426 Young St,,,Truro,,,NS,,B2N 7B1,Canada,45.3484646,-63.2741098,,True
+Willow Lodge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,100 Blair Ave,,,Tatamagouche,,,NS,,B0K 1V0,Canada,45.710989,-63.2971407,,True
+Wynn Park Villa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,32 Windsor Way,,,Truro,,,NS,,B2N 0B4,Canada,45.378504,-63.273756,,True
+Bayview Memorial Health Centre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,3375 Highway #209,,,Advocate Harbour,,,NS,,B0M 1A0,Canada,45.3452209,-64.7947046,,True
+East Cumberland Lodge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,262 Gulf Shore Rd,,,Pugwash,,,NS,,B0K 1L0,Canada,45.856526,-63.65757,,True
+Gables Lodge Limited,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,260 Church St,,,Amherst,,,NS,,B4H 3C9,Canada,45.824933,-64.189519,,True
+High-Crest Springhill Home for Special Care Ltd.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,11 Sproul St,,,Springhill,,,NS,,B0M 1X0,Canada,45.6494538,-64.0495543,,True
+South Cumberland Community Care Centre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,50 Jenks Ave,,,Parrsboro,,,NS,,B0M 1S0,Canada,45.409087,-64.325939,,True
+Glen Haven Manor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,739 East River Rd,,,New Glasgow,,,NS,,B2H 5E9,Canada,45.574935,-62.643936,,True
+Maritime Odd Fellows Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,143 Haliburton Rd,,,Pictou,,,NS,,B0K 1H0,Canada,45.6760427,-62.7240864,,True
+Shiretown Nursing Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,280 Haliburton Rd,,,Pictou,,,NS,,B0K 1H0,Canada,45.6758214,-62.7294023,,True
+Valley View Villa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,6125 Trafalgar Rd,,,Stellarton,,,NS,,B0K 1S0,Canada,45.5397838,-62.6670698,,True
+Canso Seaside Manor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,1748 Union St,,,Canso,,,NS,,B0H 1H0,Canada,45.3330118,-60.9837037,,True
+High-Crest Sherbrooke Home for Special Care,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,53 Court St,,,Sherbrooke,,,NS,,B0J 3C0,Canada,45.1405858,-61.9807836,,True
+Milford Haven Corporation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,10558 Route #16,,,Guysborough,,,NS,,B0H 1N0,Canada,45.4020387,-61.507113,,True
+Port Hawkesbury Nursing Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,2 MacQuarrie Drive Extension,,,Port Hawkesbury,,,NS,,B9A 3A2,Canada,45.619351,-61.353777,,False
+Richmond Villa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,9361 Pepperall St,,,St. Peter's,,,NS,,B0E 3B0,Canada,45.6574747,-60.875644,,True
+RK MacDonald Nursing Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,64 Pleasant St,,,Antigonish,,,NS,,B2G 1W7,Canada,45.625164,-61.99132,,True
+St. Anne Community and Nursing Care Centre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,2313 Highway 206,,,Arichat,,,NS,,B0E 1A0,Canada,45.5108178,-61.0320016,,True
+Alderwood Rest Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,42 Jones St,,,Baddeck,,,NS,,B0E 1B0,Canada,46.1011899,-60.7479547,,True
+Foyer Pere Fiset,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,15092 Cabot Trl,,,Cheticamp,,,NS,,B0E 1H0,Canada,46.623439,-61.015741,,True
+Harbourstone Enhanced Care Limited,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,84 Kenwood Dr,,,Sydney,,,NS,,B1S 3V7,Canada,46.10704,-60.213818,,True
+Highland Manor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,175 New Haven Rd,,,Neils Harbour,,,NS,,B0C 1N0,Canada,46.8100363,-60.32095,,True
+Inverary Manor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,72 Maple St,,,Inverness,,,NS,,B0E 1N0,Canada,46.2270809,-61.3034292,,True
+Maple Hill Manor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,700 King St,,,New Waterford,,,NS,,B1H 3Z5,Canada,46.240711,-60.085433,,True
+Miner's Memorial Manor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,15 Lorne St,,,Sydney Mines,,,NS,,B1V 3B9,Canada,46.239597,-60.218296,,True
+Northside Community Guest Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,11 Queen St,,,North Sydney,,,NS,,B2A 1A2,Canada,46.194894,-60.2626191,,True
+R.C. MacGillivray Guest Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,25 Xavier Dr,,,Sydney,,,NS,,B1S 2R9,Canada,46.1235659,-60.194255,,True
+Seaview Manor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,275 South St,,,Glace Bay,,,NS,,B1A 1W6,Canada,46.1845471,-59.9360315,,True
+Taigh Na Mara Facility,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,974 Main St,,,Glace Bay,,,NS,,B1A 4Z8,Canada,46.1997088,-59.9779012,,True
+Taigh Solas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,520 Purves St,,,North Sydney,,,NS,,B2A 3M4,Canada,46.2182531,-60.2358828,,True
+The Cove Guest Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,320 Alexandra St,,,Sydney,,,NS,,B1S 2G1,Canada,46.1217929,-60.19791,,True
+Victoria Haven Nursing Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,5 Third St,,,Glace Bay,,,NS,,B1A 5V2,Canada,46.211585,-59.96484,,True
+Waterford Heights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,716 King St,,,New Waterford,,,NS,,B1H 3Z5,Canada,46.239863,-60.085793,,True
+Cape Breton Regional Health Care Complex,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,1482 George St,,,Sydney,,,NS,,B1P 1P3,Canada,46.1129263,-60.1743032,,True
+Glace Bay Health Care Facility,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,300 South St,,,Glace Bay,,,NS,,B1A 1W5,Canada,46.183211,-59.938572,,True
+Northside Hospital 4 East,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,520 Purves St,,,North Sydney,,,NS,,B2A 3M4,Canada,46.2182531,-60.2358828,,True
+Harbour View Facility,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,22 Richard St,,,Sydney Mines,,,NS,,B1V 2H7,Canada,46.2346504,-60.2223706,,True
+Arborstone Enhanced Care Limited,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,126 Purcell's Cove Rd,,,Halifax,,,NS,,B3P 1B5,Canada,44.6328755,-63.6082271,,True
+Harbourview Lodge Continuing Care Centre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,22639 Highway #7,,,Sheet Harbour,,,NS,,B0J 3B0,Canada,44.920167,-62.5335415,,True
+Dykeland Lodge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,124 Cottage St,,,Windsor,,,NS,,B0N 2T0,Canada,44.979764,-64.126985,,True
+Glasgow Hall - Parkland at the Lakes Limited,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,76 Baker Dr,,,Dartmouth,,,NS,,B2W 0C7,Canada,44.6657109,-63.5305884,,True
+Haliburton Place,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,89 Payzant Dr,,,Windsor,,,NS,,B0N 2T0,Canada,44.9864017,-64.1203652,,True
+Ivy Meadows Continuing Care Centre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,125 Knowles Cr,,,Beaverbank,,,NS,,B4G 1E7,Canada,44.9023289,-63.7109149,,True
+Maplestone Enhanced Care,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,245 Main Ave,,,Halifax,,,NS,,B3M 1B7,Canada,44.6537429,-63.6492076,Fairview,True
+Melville Gardens Nursing Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,11 Ramsgate Ln,,,Halifax,,,NS,,B3P 2S9,Canada,44.6318845,-63.6144927,,True
+Melville Lodge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,50 Shoreham Ln,,,Halifax,,,NS,,B3P 2R3,Canada,44.6295606,-63.6152512,,True
+Musquodoboit Valley Home for Special Care Assocation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,126 Higginsville Rd,,,Middle Musquodoboit,,,NS,,B0N 1X0,Canada,45.0399736,-63.1399623,,True
+Northwoodcare Incorporated,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,2615 Northwood Terrace,,,Halifax,,,NS,,B3K 3S5,Canada,44.6572865,-63.5918995,North End,False
+Oakwood Terrace,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,10 Mount Hope Ave,,,Dartmouth,,,NS,,B2Y 4K1,Canada,44.6536769,-63.5436392,,True
+Ocean View Continuing Care Centre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,1909 Caldwell Rd,,,Eastern Passage,,,NS,,B3G 1M4,Canada,44.6067238,-63.4702158,,True
+Parkstone Enhanced Care Limited,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,156 Parkland Dr,,,Halifax,,,NS,,B3S 1N9,Canada,44.6632314,-63.6714856,,True
+Saint Vincent's Nursing Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,2080 Windsor St,,,Halifax,,,NS,,B3K 5B2,Canada,44.6479162,-63.5941906,,True
+The Birches,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,7702 Highway #7,,,Musquodoboit Harbour,,,NS,,B0J 2L0,Canada,44.7836397,-63.1587243,,True
+Windsor Elms Village for Continuing Care Society,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,174 Dyke Rd,,,Falmouth,,,NS,,B0P 1L0,Canada,44.99494,-64.170906,,True
+Debert Court,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,16 Dakota Rd,,,Debert,,,NS,,B0M 1G0,Canada,45.4352988,-63.4535799,,True
+Shiretown (Blue Wing),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,278 Haliburton Rd,,,Pictou,,,NS,,B0K 1H0,Canada,45.6752934,-62.7301597,,True
+Blomidon Court,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,58 Jessicas Way,,,Greenwich,,,NS,,B4P 0B2,Canada,45.077817,-64.406069,,True
+Orchard Court Continuing Care Residence,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,565 West Main St,,,Kentville,,,NS,,B4N 1G8,Canada,45.0787713,-64.5041263,,True
+Vimy Court,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,130 Vimy Rd,,,Bible Hill,,,NS,,B2N 4J6,Canada,45.37933,-63.260652,,True
+Northumberland Hall,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,189 Willow St,,,Amherst,,,NS,,B4H 3W6,Canada,45.8297349,-64.1885542,,True
+Northwood Bedford Incorporated,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,123 Gary Martin Dr,,,Bedford,,,NS,,B4B 0G7,Canada,44.7237165,-63.7062657,,True
+Ryan Hall,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,313 Hollingsworth Dr,,,Bridgewater,,,NS,,B4V 0A3,Canada,44.3836336,-64.5055976,,True
+The Sagewood Continuing Care Centre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,345 Cobequid Rd,,,Sackville,,,NS,,B4C 4E6,Canada,44.7613429,-63.6521334,,True
+Sisters of Saint Martha,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,45 Bay St,,,Antigonish,,,NS,,B2G 2G6,Canada,45.631141,-61.980855,,True
+The Magnolia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,416 Highway #2,,,Enfield,,,NS,,B2T 1E1,Canada,44.9502437,-63.5268954,,True
+Heart of the Valley long Term Care Centre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,89 North St,,,Middleton,,,NS,,B0S 1P0,Canada,44.950507,-65.06681,,True
+Ivey's Terrace Nursing Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,11 Centennial Dr,,,Trenton,,,NS,,NS   B0,Canada,45.6233948,-62.6315941,,True
+The Admiral Long Term Care Centre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NH,,,,6 Admiral St,,,Dartmouth,,,NS,,NS   B2,Canada,44.6843223,-63.5455063,Westphal,True
+Mitchell's Rest Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,5153 Highway #14,,,Upper Nine Mile River,,,NS,,B2S 3A6,Canada,45.0813416,-63.6449282,,True
+Serenity Lodge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,39 Russell McKeen Dr,,,Enfield,,,NS,,B2T 1A7,Canada,44.950874,-63.53506,,True
+Dominion Community Guest Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,79 Commercial St,,,Dominion,,,NS,,B1G 1B3,Canada,46.2107222,-60.0224046,,True
+Dutch Brook Guest Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,2400 Highway #327,,,Dutch Brook,,,NS,,B1L 1G1,Canada,46.0547507,-60.2014657,,True
+Southview Guest Home Ltd.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,2027 Highway #28,,,Sydney,,,NS,,B1N 3H6,Canada,46.1863712,-60.1975608,,True
+Seabright Rest Home Ltd.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,11625 Peggy's Cove Rd,,,Seabright,,,NS,,B3Z 2Y1,Canada,44.6231533,-63.9261204,,True
+Sunshine Personal Care Inc.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,38A Withrod Dr,,,Halifax,,,NS,,B3N 1B1,Canada,44.6330128,-63.6235123,,True
+Carefield Manor Ltd.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,1 Dryden Ave,,,Sydney,,,NS,,B1S 1V3,Canada,46.170827,-60.167273,,True
+Centennial Villa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,258 Church St,,,Amherst,,,NS,,B4H 3C9,Canada,45.823653,-64.190817,,True
+Chignecto Manor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,24 Bayview Manor Rd,,,Advocate Harbour,,,NS,,B0M 1A0,Canada,45.3357249,-64.778214,,True
+Foyer Celeste Inc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,8064 Highway #31,,,Meteghan,,,NS,,B0W 2J0,Canada,44.2119717,-66.1431102,,True
+Au Logis d'Meteghan Ltd.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,8405 Highway #1,,,Meteghan,,,NS,,B0W 2J0,Canada,44.1940279,-66.1515359,,True
+Olson's Glo Estate Special Care,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,143 Route #304,,,Yarmouth,,,NS,,B5A 4J7,Canada,43.851919,-66.124577,,True
+Grace Haven,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,9791 Highway #1,Paradise RR# 4,,Bridgetown,,,NS,,B0S 1C0,Canada,44.8597067,-65.2399977,,True
+High Crest Place,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,222 Provost St,,,New Glasgow,,,NS,,B2H 2R3,Canada,45.5857623,-62.6454076,,True
+High-Crest Home New Glasgow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,253 Forbes St,,,New Glasgow,,,NS,,B2H 4P5,Canada,45.58563,-62.641853,,True
+Highland Crest Residential Care Facility,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,44 Hillcrest St,,,Antigonish,,,NS,,B2G 1Z3,Canada,45.6176839,-61.990472,,True
+Hillsview Acres,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,14 Middlefield Rd,,,Greenfield,,,NS,,B0T 1E0,Canada,44.209164,-64.863724,,True
+Clarmar Residential Care Facility,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,200 Main St,,,Dartmouth,,,NS,,B2X 1S3,Canada,44.6835312,-63.5327083,,True
+Karlaine Place,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,104 Pictou Rd,,,Truro,,,NS,,B2N 2S3,Canada,45.3755517,-63.2598108,,True
+Lohnes Rest Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,97 Lakeview Dr,,,Barss Corner,,,NS,,B0R 1A0,Canada,44.584283,-64.644259,,True
+Maplewood Manor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,150 Blair Ave,,,Tatamagouche,,,NS,,B0K 1V9,Canada,45.710399,-63.294136,,True
+Mary's Abide-A-While Home Ltd.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,188 Water St,,,Shelburne,,,NS,,B0T 1W0,Canada,43.7656718,-65.3246998,,True
+Melville Gardens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,11 Ramsgate Ln,,,Halifax,,,NS,,B3P 2S9,Canada,44.6318845,-63.6144927,,True
+New Visions Home for Seniors,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,4507 Highway #1,,,South Berwick,,,NS,,B0P 1E0,Canada,45.0330471,-64.7313377,,True
+Northwoodcare Incorporated,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,2615 Northwood Terrace,,,Halifax,,,NS,,B3K 3S5,Canada,44.6572865,-63.5918995,North End,False
+Pont du Marais Boarding Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,1526 Highway #335,,,Lower West Pubnico,,,NS,,B0W 2C0,Canada,43.6382644,-65.8018831,,True
+Richmond Villa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,9361 Pepperell St,,,St. Peter's,,,NS,,B0E 3B0,Canada,45.6574747,-60.875644,,True
+Saunders Rest Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,9 Freeman St,,,Bridgetown,,,NS,,B0S 1C0,Canada,44.8408973,-65.2887851,,True
+Shiretown (Blue Wing),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,280 Haliburton Rd,,,Pictou,,,NS,,B0K 1H0,Canada,45.6758214,-62.7294023,,True
+The Heritage House,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,55 High Rd,,,Port Hood,,,NS,,B0E 2W0,Canada,46.0148107,-61.5286628,,True
+The White Birches Retirement Residence,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,189 Fox Ranch Rd,,,Amherst,,,NS,,B4H 3Y3,Canada,45.841412,-64.179349,,True
+Willows Manor Limited,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,2844 Highway #2,,,Shubenacadie,,,NS,,B0N 2H0,Canada,45.0880806,-63.4068625,,True
+Tibbetts Home Wilmot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,15074 Highway #1,,,Kingston,,,NS,,B0P 1R0,Canada,44.9770361,-64.9709251,,True
+Townsview Estates,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,310 Abenaki Rd,,,Truro,,,NS,,B2N 5Z5,Canada,45.337793,-63.301364,,True
+Victoria Manor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,14 West Victoria St,,,Amherst,,,NS,,B4H 1B8,Canada,45.829729,-64.214634,,True
+Victoria Park Guest Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,350 King St,,,Windsor,,,NS,,B0N 2T0,Canada,44.9927947,-64.1332244,,True
+Wedgewood House for Seniors Limited,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,19 Leverett Ave,,,Kentville,,,NS,,B4N 2K5,Canada,45.0768646,-64.4915969,,True
+Wolfville Elms,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,701 Main St,,,Wolfville,,,NS,,B4P 2N4,Canada,45.0869072,-64.3786585,,True
+Wynn Park Villa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,32 Windsor Way,,,Truro,,,NS,,B2N 0B4,Canada,45.378504,-63.273756,,True
+Alderwood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,89 Alderwood Ln,,,Baddeck,,,NS,,B0E 1B0,Canada,46.0953269,-60.7651982,,True
+Ryan Hall,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,313 Hollingsworth Dr,,,Bridgewater,,,NS,,B4V 0A3,Canada,44.3836336,-64.5055976,,True
+Northwood Bedford Incorporated,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,123 Gary Martin Dr,,,Bedford,,,NS,,B4B 0G7,Canada,44.7237165,-63.7062657,,True
+The Sagewood Continuing Care Centre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,345 Cobequid Rd,,,Sackville,,,NS,,B4C 4E6,Canada,44.7613429,-63.6521334,,True
+The Magnolia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,416 Highway #2,,,Enfield,,,NS,,B2T 1E1,Canada,44.9502437,-63.5268954,,True
+Foyer Pere Fiset,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,15092 Cabot Trl,,,Cheticamp,,,NS,,B0E 1H0,Canada,46.623439,-61.015741,,True
+Port Hawkesbury Nursing Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,2 MacQuarrie Drive Extension,,,Port Hawkesbury,,,NS,,B9A 3A2,Canada,45.619351,-61.353777,,False
+White Hills Long Term Care Centre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,297 Pockwock Rd,,,Hammonds Plains,,,NS,,B4B 1N5,Canada,44.7439918,-63.8051871,,True
+Harbourview Lodge Continuing Care Centre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,22639 Highway #7,,,Sheet Harbour,,,NS,,B0J 3B0,Canada,44.920167,-62.5335415,,True
+My Cape Breton Home for Seniors (North Sydney),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,77 Campbell St,,,North Sydney,,,NS,,B1J 2B8,Canada,46.2045206,-60.2688604,,True
+My Cape Breton Home for Seniors (Sydney),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,137 Riverdale Dr,,,Sydney,,,NS,,B1R 0A9,Canada,46.1175467,-60.2232973,,True
+Harbourview Lodge Continuing Care,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,22639 Highway #7,PO Box 68,,Sheet Harbour,,,NS,,B0J 3B0,Canada,44.920167,-62.5335415,,True
+Miner's Memorial Manor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,15 Lorne Street Sydney Mines,,,NS,,,NS,,B1V 3B9,Canada,46.239597,-60.218296,,False
+Annapolis Royal Nursing Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,9745 Highway 8,RR #2,,Annapolis Royal,,,NS,,B4S 1A0,Canada,44.7357467,-65.4995435,,True
+Peter's Place (PJD Rehab Housing Inc),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,RR # 1,# 1,,Pleasantville,,,NS,,B0P 1G0,Canada,44.34018,-64.4428115,,True
+Maple Hill Manor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RCF,,,,700 King St,,,New Waterford,,,NS,,B1H 3Z5,Canada,46.240711,-60.085433,,True

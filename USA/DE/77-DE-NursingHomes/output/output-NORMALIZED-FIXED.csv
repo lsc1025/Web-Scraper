@@ -1,0 +1,50 @@
+name,contact_first_name,contact_last_name,contact_name,email,contact_email,fax,mailing_address_line_1,mailing_address_line_2,mailing_city,mailing_contact_first_name,mailing_contact_last_name,mailing_contact_name,mailing_country,mailing_county,mailing_postalcode,mailing_province,provider_name,primary_phone,secondary_phone,twitter,website,source,contact_occupation,dsgne_first_name,dsgne_last_name,admin_name,co_address_line_1,co_address_line_2,co_company,co_city,co_postalcode,co_province,ombudsman_phone,typeofcare,typeofcare2,low_high_rate,low_rate,high_rate,address_line_1,address_line_2,address_directions,city,municipality,region,province,state_id,postal_code,country,latitude,longitude,neighborhood,addr_valid
+Atlantic Shores Rehabilitation & Health Center,,,,,,,,,,,,,,,,,,302-934-7300,,,,,,,,,,,,,,,,,Nursing Home,,,,231 South Washington St,,,Millsboro,,,DE,,19966-1236,US,38.5869188,-75.29535729999999,,True
+Brackenville Center,,,,,,,,,,,,,,,,,,302-234-5420,,,,,,,,,,,,,,,,,Nursing Home,,,,100 Saint Claire Dr,,,Hockessin,,,DE,,19707-8906,US,39.76762199999999,-75.70316629999999,,True
+Brandywine Nursing and Rehabilitation Center,,,,,,,,,,,,,,,,,,302-998-0101,,,,,,,,,,,,,,,,,Nursing Home,,,,505 Greenbank Rd,,,Wilmington,,,DE,,19808-3164,US,39.7416279,-75.6335639,,True
+Cadbury at Lewes Nursing Home,,,,,,,,,,,,,,,,,,302-645-6400,,,,,,,,,,,,,,,,,Nursing Home,,,,17028 Cadbury Cir,,,Lewes,,,DE,,19958-7028,US,38.7557439,-75.14100859999999,,True
+Cadia Rehabilitation Broadmeadow,,,,,,,,,,,,,,,,,,302-449-3400,,,,,,,,,,,,,,,,,Nursing Home,,,,500 South Broad St,,,Middletown,,,DE,,19709-1443,US,39.4440258,-75.71789489999999,,True
+Cadia Rehabilitation Capitol,,,,,,,,,,,,,,,,,,302-734-1199,,,,,,,,,,,,,,,,,Nursing Home,,,,1225 Walker Rd,,,Dover,,,DE,,19904-6541,US,39.1686222,-75.5547507,,True
+Cadia Rehabilitation Pike Creek,,,,,,,,,,,,,,,,,,302-455-0808,,,,,,,,,,,,,,,,,Nursing Home,,,,3540 Three Little Bakers Blvd,,,Wilmington,,,DE,,19808-1754,US,39.73513899999999,-75.6982609,,True
+Cadia Rehabilitation Renaissance,,,,,,,,,,,,,,,,,,302-947-4200,,,,,,,,,,,,,,,,,Nursing Home,,,,26002 John J Williams Hwy,,,Millsboro,,,DE,,19966-4948,US,38.6308588,-75.1967409,,True
+Cadia Rehabilitation Silverside,,,,,,,,,,,,,,,,,,302-478-8889,,,,,,,,,,,,,,,,,Nursing Home,,,,3322 Silverside Rd,,,Wilmington,,,DE,,19810-3307,US,39.8075398,-75.5397263,,True
+Churchman Village,,,,,,,,,,,,,,,,,,302-998-6900,,,,,,,,,,,,,,,,,Nursing Home,,,,4949 Ogletown-Stanton Rd,,,Newark,,,DE,,19713-2908,US,39.6971116,-75.6610836,,True
+Country Rest Home,,,,,,,,,,,,,,,,,,302-349-4114,,,,,,,,,,,,,,,,,Nursing Home,,,,12046 Sunset Ln,,,Greenwood,,,DE,,19950-9408,US,38.8226905,-75.62366469999999,,True
+Courtland Manor Inc.,,,,,,,,,,,,,,,,,,302-674-0566,,,,,,,,,,,,,,,,,Nursing Home,,,,889 S Little Creek Rd,,,Dover,,,DE,,19901-4721,US,39.1578222,-75.50260279999999,,True
+Delaware Hospital for the Chronically Ill,,,,,,,,,,,,,,,,,,302-223-1000,,,,,,,,,,,,,,,,,Nursing Home,,,,100 Sunnyside Rd,,,Smyrna,,,DE,,19977-1752,US,39.2909319,-75.60076149999999,,True
+Delaware Veterans Home,,,,,,,,,,,,,,,,,,302-424-6000,,,,,,,,,,,,,,,,,Nursing Home,,,,100 Delaware Veterans Blvd,,,Milford,,,DE,,19963-5395,US,38.933003,-75.4516174,,True
+Delmar Nursing and Rehabilitation Center,,,,,,,,,,,,,,,,,,302-846-3077,,,,,,,,,,,,,,,,,Nursing Home,,,,101 E Delaware Ave,,,Delmar,,,DE,,19940-1110,US,38.4590968,-75.5758554,,True
+Exceptional Care for Children,,,,,,,,,,,,,,,,,,302-894-1001,,,,,,,,,,,,,,,,,Nursing Home,,,,11 Independence Way,,,Newark,,,DE,,19713-1159,US,39.6493987,-75.76404409999999,,True
+"Five Star Foulk Manor North LLC, Nursing Home",,,,,,,,,,,,,,,,,,302-478-4296,,,,,,,,,,,,,,,,,Nursing Home,,,,1212 Foulk Rd,,,Wilmington,,,DE,,19803-2741,US,39.7953783,-75.5253549,,True
+Forwood Manor Nursing Home,,,,,,,,,,,,,,,,,,302-529-1600,,,,,,,,,,,,,,,,,Nursing Home,,,,1912 Marsh Rd,,,Wilmington,,,DE,,19810-3954,US,39.8094194,-75.50144089999999,,True
+Foulk Manor South Nursing Home,,,,,,,,,,,,,,,,,,302-655-6249,,,,,,,,,,,,,,,,,Nursing Home,,,,407 Foulk Rd,,,Wilmington,,,DE,,19803-3809,US,39.78389809999999,-75.5400288,,True
+Gilpin Hall Nursing Home,,,,,,,,,,,,,,,,,,302-654-4486,,,,,,,,,,,,,,,,,Nursing Home,,,,1101 Gilpin Ave,,,Wilmington,,,DE,,19806-3214,US,39.7536662,-75.5553917,,True
+Governor Bacon Health Center,,,,,,,,,,,,,,,,,,302-836-2550,,,,,,,,,,,,,,,,,Nursing Home,,,,Tilton Bldg,PO Box 559,,Delaware City,,,DE,,19706-0559,US,39.57151229999999,-75.58502920000001,,False
+Harbor Health Care,,,,,,,,,,,,,,,,,,302-645-4664,,,,,,,,,,,,,,,,,Nursing Home,,,,301 Oceanview Blvd,,,Lewes,,,DE,,19958-1269,US,38.772765,-75.155132,,True
+Harrison Senior Living of Georgetown,,,,,,,,,,,,,,,,,,302-856-4574,,,,,,,,,,,,,,,,,Nursing Home,,,,110 W North St,,,Georgetown,,,DE,,19947-2137,US,38.6930129,-75.3971231,,True
+Hillside Center,,,,,,,,,,,,,,,,,,302-652-1181,,,,,,,,,,,,,,,,,Nursing Home,,,,810 S Broom St,,,Wilmington,,,DE,,19805-4245,US,39.73759500000001,-75.5698745,Hedgeville,True
+Jeanne Jugan Residence Nursing Home,,,,,,,,,,,,,,,,,,302-368-5886,,,,,,,,,,,,,,,,,Nursing Home,,,,185 Salem Church Rd,,,Newark,,,DE,,19713-2942,US,39.6641285,-75.6976878,,True
+Kentmere Rehabilitation and Healthcare Center,,,,,,,,,,,,,,,,,,302-652-3311,,,,,,,,,,,,,,,,,Nursing Home,,,,1900 Lovering Ave,,,Wilmington,,,DE,,19806-2123,US,39.761843,-75.5619365,Forty Acres,True
+Lofland Park Center,,,,,,,,,,,,,,,,,,302-628-3000,,,,,,,,,,,,,,,,,Nursing Home,,,,715 E King St,,,Seaford,,,DE,,19973-3505,US,38.64301710000001,-75.6068483,,True
+ManorCare Health Services - Pike Creek,,,,,,,,,,,,,,,,,,302-239-8583,,,,,,,,,,,,,,,,,Nursing Home,,,,5651 Limestone Rd,,,Wilmington,,,DE,,19808-1217,US,39.74866809999999,-75.7002475,,True
+ManorCare Health Services - Wilmington,,,,,,,,,,,,,,,,,,302-764-0181,,,,,,,,,,,,,,,,,Nursing Home,,,,700 Foulk Rd,,,Wilmington,,,DE,,19803-3708,US,39.7865709,-75.5345146,,True
+Milford Center,,,,,,,,,,,,,,,,,,302-422-3303,,,,,,,,,,,,,,,,,Nursing Home,,,,700 Marvel Rd,,,Milford,,,DE,,19963-1740,US,38.9059331,-75.4401749,,True
+Millcroft Nursing Home,,,,,,,,,,,,,,,,,,302-366-0160,,,,,,,,,,,,,,,,,Nursing Home,,,,255 Possum Park Rd,,,Newark,,,DE,,19711-3877,US,39.7083613,-75.7351501,,True
+New Castle Health and Rehabilitation Center,,,,,,,,,,,,,,,,,,302-328-2580,,,,,,,,,,,,,,,,,Nursing Home,,,,32 Buena Vista Dr,,,New Castle,,,DE,,19720-4660,US,39.64042229999999,-75.6308894,,True
+Newark Manor Nursing Home,,,,,,,,,,,,,,,,,,302-731-5576,,,,,,,,,,,,,,,,,Nursing Home,,,,254 W Main St,,,Newark,,,DE,,19711-3235,US,39.6856917,-75.7622667,,True
+Parkview Nursing & Rehab Center,,,,,,,,,,,,,,,,,,302-655-6135,,,,,,,,,,,,,,,,,Nursing Home,,,,2801 W 6th St,,,Wilmington,,,DE,,19805-1828,US,39.7545005,-75.5806576,,True
+Pinnacle Rehabilitation & Health Center,,,,,,,,,,,,,,,,,,302-653-5085,,,,,,,,,,,,,,,,,Nursing Home,,,,3034 S Dupont Hwy,,,Smyrna,,,DE,,19977-1898,US,39.2619547,-75.5887535,,True
+"Regal Heights Healthcare & Rehab Center, LLC",,,,,,,,,,,,,,,,,,302-998-0181,,,,,,,,,,,,,,,,,Nursing Home,,,,6525 Lancaster Pike,,,Hockessin,,,DE,,19707-9582,US,39.7667849,-75.6536589,,False
+Regency Healthcare and Rehab Center,,,,,,,,,,,,,,,,,,302-652-3861,,,,,,,,,,,,,,,,,Nursing Home,,,,801 N Broom St,,,Wilmington,,,DE,,19806-4624,US,39.749635,-75.564114,Cool Spring,True
+Seaford Center Nursing Home,,,,,,,,,,,,,,,,,,302-629-3575,,,,,,,,,,,,,,,,,Nursing Home,,,,1100 Norman Eskridge Hwy,,,Seaford,,,DE,,19973-1724,US,38.65349030000001,-75.5990374,,True
+Shipley Manor Health Care Nursing Home,,,,,,,,,,,,,,,,,,302-477-8800,,,,,,,,,,,,,,,,,Nursing Home,,,,2723 Shipley Rd,,,Wilmington,,,DE,,19810-3251,US,39.815962,-75.533781,,True
+Silver Lake Center Nursing Home,,,,,,,,,,,,,,,,,,302-734-5990,,,,,,,,,,,,,,,,,Nursing Home,,,,1080 Silver Lake Blvd,,,Dover,,,DE,,19904-2410,US,39.1790159,-75.5387855,,True
+Stockley Center ICF/ID,,,,,,,,,,,,,,,,,,302-933-3000,,,,,,,,,,,,,,,,,Nursing Home,,,,26351 Patriots Way,,,Georgetown,,,DE,,19947-2575,US,38.6229448,-75.3196535,,True
+Stonegates,,,,,,,,,,,,,,,,,,302-658-6200,,,,,,,,,,,,,,,,,Nursing Home,,,,4031 Kennett Pike,,,Greenville,,,DE,,19807-2047,US,39.7834,-75.59832500000002,,False
+The Mary Campbell Center,,,,,,,,,,,,,,,,,,302-762-6025,,,,,,,,,,,,,,,,,Nursing Home,,,,4641 Weldin Rd,,,Wilmington,,,DE,,19803-4829,US,39.78185250000001,-75.5245611,,True
+The Milton & Hattie Kutz Home,,,,,,,,,,,,,,,,,,302-764-7000,,,,,,,,,,,,,,,,,Nursing Home,,,,704 River Rd,,,Wilmington,,,DE,,19809-2746,US,39.7623913,-75.49430520000001,,True
+Westminster Village Health Center Nursing Home,,,,,,,,,,,,,,,,,,302-744-3600,,,,,,,,,,,,,,,,,Nursing Home,,,,1175 McKee Rd,,,Dover,,,DE,,19904-2268,US,39.17584,-75.551705,,True
+Weston Senior Living Center at Highfield,,,,,,,,,,,,,,,,,,302-994-4434,,,,,,,,,,,,,,,,,Nursing Home,,,,4800 Lancaster Pike,,,Wilmington,,,DE,,19807-2559,US,39.759044,-75.613165,,False
+WillowBrooke Court at Cokesbury Viillage,,,,,,,,,,,,,,,,,,302-235-6000,,,,,,,,,,,,,,,,,Nursing Home,,,,726 Loveville Rd,,,Hockessin,,,DE,,19707-1536,US,39.7737917,-75.6621685,,True
+WillowBrooke Court at Country House,,,,,,,,,,,,,,,,,,302-654-5101,,,,,,,,,,,,,,,,,Nursing Home,,,,4830 Kennett Pike,,,Wilmington,,,DE,,19807-1899,US,39.79496,-75.61219799999999,,False
+WillowBrooke Court at Manor House,,,,,,,,,,,,,,,,,,302-629-4593,,,,,,,,,,,,,,,,,Nursing Home,,,,1001 Middleford Rd,,,Seaford,,,DE,,19973-3638,US,38.64201600000001,-75.6008035,,True

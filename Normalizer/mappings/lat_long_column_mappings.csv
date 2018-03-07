@@ -1,0 +1,1 @@
+normalized_column_name,description,type,mapped_column_names,nullable,notelatitude,Geometry,float,LATITUDE; N_LAT,,longitude,Geometry,float,LONGITUDE; N_LON,,neighborhood,Location from google place API,name,None,TRUE,Will be added through the google API process

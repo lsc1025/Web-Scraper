@@ -1,0 +1,767 @@
+row_id,Facility Name,Facility Type,Address1,Address2,City,Zip,State,Country,County,Phone
+USA-IA-88-IA-All-output-1,Grundy Care Center,Nursing Facility,102 East J Avenue,,Grundy Center,50638,IA,US,Grundy,(319) 824-5436
+USA-IA-88-IA-All-output-2,Countryside Nursing and Rehabilitation Center,Nursing Facility,6120 Morningside Avenue,,Sioux City,51106,IA,US,Woodbury,(712) 276-3000
+USA-IA-88-IA-All-output-3,Mercy Living Center South,Nursing Facility,638 South Bluff Boulevard,,Clinton,52732,IA,US,Clinton,(563) 244-5555
+USA-IA-88-IA-All-output-4,Good Samaritan Society - LeMars,Nursing Facility,1140 Lincoln Street NE,,LeMars,51031,IA,US,Plymouth,(712) 546-4101
+USA-IA-88-IA-All-output-5,Brooklyn Community Estates,Nursing Facility,406 North Street,,Brooklyn,52211,IA,US,Poweshiek,(641) 522-9263
+USA-IA-88-IA-All-output-6,Crest Haven Care Centre,Nursing Facility,1000 East Howard Street,,Creston,50801,IA,US,Union,(641) 782-5012
+USA-IA-88-IA-All-output-7,Regency Park Nursing and Rehabilitation Center of Carroll,Nursing Facility,500 East Valley Drive, P.O. Box 821,Carroll,51401,IA,US,Carroll,(712) 792-9281
+USA-IA-88-IA-All-output-8,Living Center East,Nursing Facility,1220 5th Avenue SE,,Cedar Rapids,52403,IA,US,Linn,(319) 366-8701
+USA-IA-88-IA-All-output-9,Centerville Specialty Care,Nursing Facility,1208 East Cross Street,,Centerville,52544,IA,US,Appanoose,(641) 856-8651
+USA-IA-88-IA-All-output-10,Chautauqua Guest Home #3,Nursing Facility,302 9th Street,,Charles City,50616,IA,US,Floyd,(641) 228-5351
+USA-IA-88-IA-All-output-11,Chautauqua Guest Home #2,Nursing Facility,602 11th Street,,Charles City,50616,IA,US,Floyd,(641) 228-2353
+USA-IA-88-IA-All-output-12,Colonial Manor of Amana,Nursing Facility,3207 220th Trail,,Amana,52203,IA,US,Iowa,(319) 622-3131
+USA-IA-88-IA-All-output-13,Colonial Manor of Columbus Community,Nursing Facility,814 Springer Avenue,,Columbus Junction,52738-0266,IA,US,Louisa,(319) 728-2276
+USA-IA-88-IA-All-output-14,Correctionville Specialty Care,Nursing Facility,1115 E Hwy 20,PO Box H,Correctionville,51016,IA,US,Woodbury,(712) 372-4466
+USA-IA-88-IA-All-output-15,Kingsley Specialty Care,Nursing Facility,305 West 3rd Street,PO Box 407,Kingsley,51028,IA,US,Plymouth,(712) 378-2400
+USA-IA-88-IA-All-output-16,"Zearing Health Care, LLC",Nursing Facility,404 East Garfield,,Zearing,50278,IA,US,Story,(641) 487-7631
+USA-IA-88-IA-All-output-17,Genesis Senior Living Center,Nursing Facility,5608 SW 9th,,Des Moines,50315,IA,US,Polk,(515) 285-3070
+USA-IA-88-IA-All-output-18,"Community Care Center, Inc.",Nursing Facility,325 SW 7th Street,,Stuart,50250,IA,US,Adair,(515) 523-2815
+USA-IA-88-IA-All-output-19,Corydon Specialty Care,Nursing Facility,745 East South Street,,Corydon,50060,IA,US,Wayne,(641) 872-1590
+USA-IA-88-IA-All-output-20,Country View Manor Inc.,Nursing Facility,100 Cedar Lane,,Sibley,51249,IA,US,Osceola,(712) 754-2568
+USA-IA-88-IA-All-output-21,Panora Specialty Care,Nursing Facility,805 East Main,PO Box 69,Panora,50216,IA,US,Guthrie,(641) 755-2700
+USA-IA-88-IA-All-output-22,Union Park Health Services,Nursing Facility,2401 East Eighth Street,,Des Moines,50316,IA,US,Polk,(515) 262-9303
+USA-IA-88-IA-All-output-23,Dunlap Specialty Care,Nursing Facility,1403 Harrison Road,,Dunlap,51529,IA,US,Harrison,(712) 643-2121
+USA-IA-88-IA-All-output-24,Edgewood Convalescent Home,Nursing Facility,P.O. Box 39,513 Bell St.,Edgewood,52052,IA,US,Delaware,(563) 928-6461
+USA-IA-88-IA-All-output-25,Fellowship Village,Nursing Facility,300 East Jefferson,,Inwood,51240,IA,US,Lyon,(712) 753-4663
+USA-IA-88-IA-All-output-26,Elkader Care Center,Nursing Facility,116 Reimer Street SW, Box 519,Elkader,52043,IA,US,Clayton,(563) 245-1620
+USA-IA-88-IA-All-output-27,English Valley Nursing Care Center,Nursing Facility,150 West Washington, P.O. Box 430,North English,52316,IA,US,Iowa,(319) 664-3256
+USA-IA-88-IA-All-output-28,Evans Memorial Home,Nursing Facility,1010 North Elm Street,,Cresco,52136,IA,US,Howard,(563) 547-2364
+USA-IA-88-IA-All-output-29,Exira Care Center,Nursing Facility,411 South Carthage,,Exira,50076,IA,US,Audubon,(712) 268-5393
+USA-IA-88-IA-All-output-30,Faith Lutheran Home,Nursing Facility,914 Davidson Dr.,,Osage,50461,IA,US,Mitchell,(641) 732-5511
+USA-IA-88-IA-All-output-31,Fonda Specialty Care,Nursing Facility,607 Queen Street,,Fonda,50540,IA,US,Pocahontas,(712) 288-4441
+USA-IA-88-IA-All-output-32,Fort Madison Health Center,Nursing Facility,1702 41st Street,,Fort Madison,52627,IA,US,Lee,(319) 372-8021
+USA-IA-88-IA-All-output-33,Fountain West Health Center,Nursing Facility,1501 Office Park Road,,West Des Moines,50265,IA,US,Polk,(515) 223-1223
+USA-IA-88-IA-All-output-34,Friendship Home Association,Nursing Facility,714 North Division Street,,Audubon,50025,IA,US,Audubon,(712) 563-2651
+USA-IA-88-IA-All-output-35,Glen Haven Home,Nursing Facility,302 6th Street,,Glenwood,51534,IA,US,Mills,(712) 527-3101
+USA-IA-88-IA-All-output-36,Good Samaritan Society - Algona,Nursing Facility,412 West Kennedy Street,,Algona,50511,IA,US,Kossuth,(515) 295-2414
+USA-IA-88-IA-All-output-37,Good Samaritan Society - Estherville,Nursing Facility,1646 5th Avenue, North,Estherville,51334,IA,US,Emmet,(712) 362-3522
+USA-IA-88-IA-All-output-38,Good Samaritan Society - Fontanelle,Nursing Facility,326 Summerset Street, P.O. Box 38,Fontanelle,50846,IA,US,Adair,(641) 745-4191
+USA-IA-88-IA-All-output-39,Good Samaritan Society - Forest City,Nursing Facility,606 S 7th Street,,Forest City,50436,IA,US,Winnebago,(641) 585-2232
+USA-IA-88-IA-All-output-40,Good Samaritan Society - George,Nursing Facility,324 1st Avenue ,PO Box 608,George,51237,IA,US,Lyon,(712) 475-3391
+USA-IA-88-IA-All-output-41,Good Samaritan Society - Holstein,Nursing Facility,505 W 2nd Street,,Holstein,51025,IA,US,Ida,(712) 368-4304
+USA-IA-88-IA-All-output-42,Good Samaritan Society - Indianola,Nursing Facility,708 South Jefferson Way ,P.O. Box 319,Indianola,50125,IA,US,Warren,(515) 961-2596
+USA-IA-88-IA-All-output-43,Good Samaritan Society - Manson,Nursing Facility,1402 Main Street,,Manson,50563,IA,US,Calhoun,(712) 469-3908
+USA-IA-88-IA-All-output-44,Good Samaritan Society - Newell ,Nursing Facility,415 W Hwy 7,PO Box 395,Newell,50568,IA,US,Buena Vista,(712) 272-3327
+USA-IA-88-IA-All-output-45,Good Samaritan Society - Ottumwa,Nursing Facility,2035 Chester Avenue,,Ottumwa,52501,IA,US,Wapello,(641) 682-8041
+USA-IA-88-IA-All-output-46,Good Samaritan Society - Postville,Nursing Facility,400 Hardin Drive ,,Postville,52162,IA,US,Allamakee,(563) 864-7425
+USA-IA-88-IA-All-output-47,Good Samaritan Society - Red Oak,Nursing Facility,201 Alix Avenue,,Red Oak,51566,IA,US,Montgomery,(712) 623-3170
+USA-IA-88-IA-All-output-48,Good Samaritan Society - Saint Ansgar,Nursing Facility,701 East 4th Street,,Saint Ansgar,50472,IA,US,Mitchell,(641) 713-4912
+USA-IA-88-IA-All-output-49,Keosauqua Health Care Center,Nursing Facility,819 Country Lane Rd,,Keosauqua,52565,IA,US,Van Buren,(319) 293-3761
+USA-IA-88-IA-All-output-50,Good Samaritan Society - Villisca,Nursing Facility,202 Central Ave.,,Villisca,50864-1097,IA,US,Montgomery,(712) 826-9592
+USA-IA-88-IA-All-output-51,Good Samaritan Society - Waukon,Nursing Facility,21 East  Main Street,,Waukon,52172,IA,US,Allamakee,(563) 568-3447
+USA-IA-88-IA-All-output-52,Good Samaritan Society - West Union,Nursing Facility,201 Hall Street,,West Union,52175,IA,US,Fayette,(563) 422-3814
+USA-IA-88-IA-All-output-53,Good Shepherd Health Center,Nursing Facility,P.O. Box 1707,302 2nd Street,Mason City,50402-1707,IA,US,Cerro Gordo,(641) 424-1740
+USA-IA-88-IA-All-output-54,Grandview Heights,Nursing Facility,910 East Olive Street,,Marshalltown,50158,IA,US,Marshall,(641) 752-4581
+USA-IA-88-IA-All-output-55,Great River Care Center ,Nursing Facility,1400 West Main Street,,McGregor,52157,IA,US,Clayton,(563) 873-3527
+USA-IA-88-IA-All-output-56,"Accura Healthcare of Knoxville, LLC ",Nursing Facility,606 North 7th Street,,Knoxville,50138,IA,US,Marion,(641) 842-2187
+USA-IA-88-IA-All-output-57,Happy Siesta Nursing Home,Nursing Facility,423 Roosevelt Street,,Remsen,51050,IA,US,Plymouth,(712) 786-1118
+USA-IA-88-IA-All-output-58,New Hampton Nursing & Rehab Center,Nursing Facility,703 4th Ave,,New Hampton,50659,IA,US,Chickasaw,(641) 394-4153
+USA-IA-88-IA-All-output-59,Henry County Hlth Cntr/Park Place,Nursing Facility,401 South Van Buren,,Mt. Pleasant,52641,IA,US,Henry,(319) 385-6192
+USA-IA-88-IA-All-output-60,Hawkeye Care Center Bancroft,Nursing Facility,546 East Ramsey,,Bancroft,50517,IA,US,Kossuth,(515) 885-2463
+USA-IA-88-IA-All-output-61,Hawkeye Care Center of Dubuque,Nursing Facility,4885 Asbury Road,,Dubuque,52002,IA,US,Dubuque,(563) 583-6447
+USA-IA-88-IA-All-output-62,Hawkeye Care Center Spirit Lake,Nursing Facility,1912 Zenith Ave,,Spirit Lake,51360,IA,US,Dickinson,(712) 336-3300
+USA-IA-88-IA-All-output-63,Holy Spirit Retirement Home,Nursing Facility,1701 West 25th Street,,Sioux City,51103,IA,US,Woodbury,(712) 252-2726
+USA-IA-88-IA-All-output-64,Regency Park Nursing and Rehab Center - Jefferson,Nursing Facility,100 Ram Drive,,Jefferson,50129,IA,US,Greene,(515) 386-4107
+USA-IA-88-IA-All-output-65,Lexington Square,Nursing Facility,500 Messinger Road,,Keokuk,52632,IA,US,Lee,(319) 524-5321
+USA-IA-88-IA-All-output-66,Keystone Nursing Care Center,Nursing Facility,250 Fifth Street,,Keystone,52249-9521,IA,US,Benton,(319) 442-3234
+USA-IA-88-IA-All-output-67,Pearl Valley Rehabilitation and Nursing at Lake Park LLC,Nursing Facility,1304 S Market St.,,Lake Park,51347-0425,IA,US,Dickinson,(712) 832-3691
+USA-IA-88-IA-All-output-68,Lamoni Specialty Care,Nursing Facility,215 South Oak St.   Box 69,,Lamoni,50140,IA,US,Decatur,(641) 784-3388
+USA-IA-88-IA-All-output-69,Little Flower Haven,Nursing Facility,736 Hwy 37, P.O. Box 288,Earling,51530,IA,US,Shelby,(712) 747-3301
+USA-IA-88-IA-All-output-70,Pioneer Park,Nursing Facility,501 E Pioneer Road,,Lone Tree,52755,IA,US,Johnson,(319) 629-4255
+USA-IA-88-IA-All-output-71,"Longview Home, Inc.",Nursing Facility,1010 Longview Road,,Missouri Valley,51555,IA,US,Harrison,(712) 642-2264
+USA-IA-88-IA-All-output-72,Lyon Specialty Care,Nursing Facility,1010 South Union Street,,Rock Rapids,51246,IA,US,Lyon,(712) 472-3748
+USA-IA-88-IA-All-output-73,Manilla Manor,Nursing Facility,146 North 5th Street, P.O. Box 490,Manilla,51454-0490,IA,US,Crawford,(712) 654-6812
+USA-IA-88-IA-All-output-74,Manly Specialty Care,Nursing Facility,601 East South Street,,Manly,50456,IA,US,Worth,(641) 454-2223
+USA-IA-88-IA-All-output-75,Manning Regional Healthcare Center,Nursing Facility,1550 6th Street,,Manning,51455,IA,US,Carroll,(712) 655-2072
+USA-IA-88-IA-All-output-76,Maple Crest Manor,Nursing Facility,100 Bolger Drive,,Fayette,52142-9762,IA,US,Fayette,(563) 425-3336
+USA-IA-88-IA-All-output-77,Maple Heights,Nursing Facility,2 Sunrise Avenue,,Mapleton,51034,IA,US,Monona,(712) 881-1680
+USA-IA-88-IA-All-output-78,Arbor Court,Nursing Facility,701 E Mapleleaf Drive,,Mt. Pleasant,52641,IA,US,Henry,(319) 385-1400
+USA-IA-88-IA-All-output-79,Keota Health Care Center,Nursing Facility,204 North Keokuk Washington Road,,Keota,52248-9495,IA,US,Keokuk,(641) 636-3400
+USA-IA-88-IA-All-output-80,Marian Home,Nursing Facility,2400 6th Avenue N,,Fort Dodge,50501,IA,US,Webster,(515) 576-1138
+USA-IA-88-IA-All-output-81,Mechanicsville Specialty Care,Nursing Facility,PO Box 430,104 E. 4th Street,Mechanicsville,52306,IA,US,Cedar,(563) 432-7235
+USA-IA-88-IA-All-output-82,Prairie Ridge Care & Rehabilitation,Nursing Facility,608 Prairie Street,,Mediapolis,52637-0815,IA,US,Des Moines,(319) 394-3991
+USA-IA-88-IA-All-output-83,Hawkeye Care Center Milford,Nursing Facility,1600 13th Street,,Milford,51351,IA,US,Dickinson,(712) 338-4742
+USA-IA-88-IA-All-output-84,Mill Valley Care Center,Nursing Facility,1201 Park Street,,Bellevue,52031,IA,US,Jackson,(563) 872-5521
+USA-IA-88-IA-All-output-85,"Pearl Valley Rehabilitation and Nursing at Sutherland, LLC",Nursing Facility,506 E.4th St., PO Box 475,Sutherland,51058-0475,IA,US,O'Brien,(712) 446-3857
+USA-IA-88-IA-All-output-86,Mount Ayr Health Care Center,Nursing Facility,1504 East South Street,,Mt. Ayr,50854,IA,US,Ringgold,(641) 464-3204
+USA-IA-88-IA-All-output-87,Nelson Manor,Nursing Facility,1500 1st Avenue East,,Newton,50208,IA,US,Jasper,(641) 792-1443
+USA-IA-88-IA-All-output-88,Linn Haven Rehab & Healthcare ,Nursing Facility,530 So Linn Ave.,,New Hampton,50659,IA,US,Chickasaw,(641) 394-3151
+USA-IA-88-IA-All-output-89,The New Homestead Care Center - SNF,Nursing Facility,2306 State Street,,Guthrie Center,50115,IA,US,Guthrie,(515) 224-4442
+USA-IA-88-IA-All-output-90,New London Specialty Care,Nursing Facility,100 Care Center Circle Street,,New London,52645,IA,US,Henry,(319) 367-5753
+USA-IA-88-IA-All-output-91,Northern Mahaska Specialty Care,Nursing Facility,2401 Crestview Drive,,Oskaloosa,52577,IA,US,Mahaska,(641) 673-3000
+USA-IA-88-IA-All-output-92,Northbrook Manor Care Center,Nursing Facility,6420 Council Street NE,,Cedar Rapids,52402,IA,US,Linn,(319) 393-1447
+USA-IA-88-IA-All-output-93,Norwalk Nursing and Rehabilitation Center,Nursing Facility,921 Sunset Drive,,Norwalk,50211,IA,US,Warren,(515) 981-0604
+USA-IA-88-IA-All-output-94,Oakland Manor,Nursing Facility,737 N. Highway,,Oakland,51560,IA,US,Pottawattamie,(712) 482-6403
+USA-IA-88-IA-All-output-95,Oakview Inc.,Nursing Facility,511 East Center Street,,Conrad,50621-0785,IA,US,Grundy,(641) 366-2212
+USA-IA-88-IA-All-output-96,Elmwood Care Center,Nursing Facility,222 North 15th Street,,Onawa,51040,IA,US,Monona,(712) 423-2510
+USA-IA-88-IA-All-output-97,Southern Hills Specialty Care,Nursing Facility,444 N West View Drive,,Osceola,50213,IA,US,Clarke,(641) 342-6061
+USA-IA-88-IA-All-output-98,Ossian Senior Hospice,Nursing Facility,114 Fisher Avenue, P.O. Box 98,Ossian,52161,IA,US,Winneshiek,(563) 532-9440
+USA-IA-88-IA-All-output-99,Parkview Care Center,Nursing Facility,2237 Business Highway 34 ,,Fairfield,52556,IA,US,Jefferson,(641) 472-5022
+USA-IA-88-IA-All-output-100,Parkview Manor,Nursing Facility,516 13th Street,,Wellman,52356,IA,US,Washington,(319) 646-2911
+USA-IA-88-IA-All-output-101,Parkview Manor Care Center & Elms Assisted Living,Nursing Facility,1009 Third Street,,Reinbeck,50643,IA,US,Grundy,(319) 345-6811
+USA-IA-88-IA-All-output-102,"Accura Healthcare of Pleasantville, LLC",Nursing Facility,909 North State Street,,Pleasantville,50225,IA,US,Marion,(515) 848-5718
+USA-IA-88-IA-All-output-103,Pleasant View Home,Nursing Facility,410 Spruce Street,,Albert City,50510,IA,US,Buena Vista,(712) 843-2237
+USA-IA-88-IA-All-output-104,Pleasant View Care Center,Nursing Facility,200 Shannon Drive,,Whiting,51063,IA,US,Monona,(712) 458-2417
+USA-IA-88-IA-All-output-105,Plymouth Manor Care Center,Nursing Facility,954 7th Avenue SE,,Le Mars,51031,IA,US,Plymouth,(712) 546-7831
+USA-IA-88-IA-All-output-106,Polk City Nursing and Rehabilitation,Nursing Facility,1002 W Washington,,Polk City,50226,IA,US,Polk,(515) 984-6511
+USA-IA-88-IA-All-output-107,"Accura Healthcare of Pomeroy, LLC",Nursing Facility,303 East 7th Street  Box 10,,Pomeroy,50575,IA,US,Calhoun,(712) 468-2241
+USA-IA-88-IA-All-output-108,Prairie View Home Inn,Nursing Facility,610 N Eastern Street,,Sanborn,51248,IA,US,O'Brien,(712) 930-3228
+USA-IA-88-IA-All-output-109,"Pearl Valley Rehabilitation and Nursing at Primghar, LLC",Nursing Facility,735 N Rerick Avenue,,Primghar,51245,IA,US,O'Brien,(712) 957-3655
+USA-IA-88-IA-All-output-110,Rock Rapids Health Centre,Nursing Facility,703 S Union Street,,Rock Rapids,51246,IA,US,Lyon,(712) 472-2585
+USA-IA-88-IA-All-output-111,Rose Haven Nursing Home,Nursing Facility,1500 Franklyn Ave.,,Marengo,52301,IA,US,Iowa,(319) 642-5533
+USA-IA-88-IA-All-output-112,"Rose Vista Home, Inc.",Nursing Facility,1109 Normal Street, P.O. Box 6,Woodbine,51579,IA,US,Harrison,(712) 647-2010
+USA-IA-88-IA-All-output-113,Pearl Valley Rehabilitation and Nursing at Estherville LLC ,Nursing Facility,2001 First Avenue North,,Estherville,51334-0514,IA,US,Emmett,(712) 362-3594
+USA-IA-88-IA-All-output-114,Scenic Living Communities,Nursing Facility,1409 Fremont Street,,Iowa Falls,50126,IA,US,Hardin,(641) 648-4671
+USA-IA-88-IA-All-output-115,Montezuma Specialty Care,Nursing Facility,316 Meadow Lane Drive,,Montezuma,50171,IA,US,Poweshiek,(641) 623-5497
+USA-IA-88-IA-All-output-116,Monticello Nursing & Rehab Center,Nursing Facility,500 Pinehaven Drive,,Monticello,52310,IA,US,Jones,(319) 465-5415
+USA-IA-88-IA-All-output-117,Shady Oaks Care Center,Nursing Facility,1409 W Main Street,,Lake City,51449,IA,US,Calhoun,(712) 464-3106
+USA-IA-88-IA-All-output-118,Shady Rest Care Center,Nursing Facility,701 Johnson Str. NW, P.O. Box 130,Cascade,52033,IA,US,Dubuque,(563) 852-3277
+USA-IA-88-IA-All-output-119,Shell Rock Senior Living,Nursing Facility,920 North Cherry Street,,Shell Rock,50670,IA,US,Butler,(319) 885-4341
+USA-IA-88-IA-All-output-120,Sibley Specialty Care,Nursing Facility,700 9th Avenue North,,Sibley,51249,IA,US,Osceola,(712) 754-3629
+USA-IA-88-IA-All-output-121,The Ambassador Sidney,Nursing Facility,115 Main,,Sidney,51601,IA,US,Fremont,(712) 374-2693
+USA-IA-88-IA-All-output-122,Sigourney Health Care,Nursing Facility,900 S Stone Street,,Sigourney,52591,IA,US,Keokuk,(641) 622-2971
+USA-IA-88-IA-All-output-123,Hawkeye Care Center Sioux Rapids,Nursing Facility,702 Blake Street, P.O. Box 478,Sioux Rapids,50585,IA,US,Buena Vista,(712) 283-2302
+USA-IA-88-IA-All-output-124,Solon Nursing Care Center,Nursing Facility,523 E 5th Street,,Solon,52333,IA,US,Johnson,(319) 624-3492
+USA-IA-88-IA-All-output-125,"Accura Healthcare of Stanton, LLC",Nursing Facility,P.O. Box 430,213 Halland,Stanton,51573,IA,US,Montgomery,(712) 829-2727
+USA-IA-88-IA-All-output-126,State Center Specialty Care,Nursing Facility,702 3rd St NW,,State Center,50247,IA,US,Marshall,(641) 483-2812
+USA-IA-88-IA-All-output-127,Stratford Specialty Care,Nursing Facility,1200 Hwy 175 East, P.O. Box 260,Stratford,50249,IA,US,Hamilton,
+USA-IA-88-IA-All-output-128,Sunny Hill Care Center,Nursing Facility,1708 Harding Street,,Tama,52339-1028,IA,US,Tama,(641) 484-4061
+USA-IA-88-IA-All-output-129,Sunny Knoll Care Centre,Nursing Facility,135 Warner Street,,Rockwell City,50579,IA,US,Calhoun,(712) 297-8918
+USA-IA-88-IA-All-output-130,Sunny View Care Center,Nursing Facility,410 NW Ash Dr.,,Ankeny,50021,IA,US,Polk,(515) 635-0936
+USA-IA-88-IA-All-output-131,Sunrise Hill Care Center,Nursing Facility,909 6th Street,,Traer,50675,IA,US,Tama,(319) 478-2730
+USA-IA-88-IA-All-output-132,Sunrise Terrace Nursing & Rehabilitation Center,Nursing Facility,706 West Central Ave.,PO Box 30,Winfield,52659,IA,US,Henry,(319) 257-3303
+USA-IA-88-IA-All-output-133,Thomas Rest Haven,Nursing Facility,217 Main Street,,Coon Rapids,50058,IA,US,Carroll,(712) 999-2253
+USA-IA-88-IA-All-output-134,Thornton Manor Care Center,Nursing Facility,1329 Main, P.O. Box 700,Lansing,52151,IA,US,Allamakee,(563) 538-4236
+USA-IA-88-IA-All-output-135,Timely Mission Nursing Home,Nursing Facility,109 Mission Drive,,Buffalo Center,50424,IA,US,Winnebago,(641) 562-2844
+USA-IA-88-IA-All-output-136,Titonka Care Center,Nursing Facility,312 1st Avenue NW,PO Box349,Titonka,50480,IA,US,Kossuth,(515) 928-2600
+USA-IA-88-IA-All-output-137,"Twilight Acres, Inc.",Nursing Facility,600 West 6th Street,,Wall Lake,51466,IA,US,Sac,(712) 664-2488
+USA-IA-88-IA-All-output-138,Wapello Specialty Care,Nursing Facility,601 HIghway 61 S, P.O. Box 208,Wapello,52653,IA,US,Louisa,(319) 523-2001
+USA-IA-88-IA-All-output-139,West Point Care Center,Nursing Facility,607 6th Street,PO Box 398,West Point,52656-0398,IA,US,Lee,(319) 837-6117
+USA-IA-88-IA-All-output-140,Westbrook Acres,Nursing Facility,605 Garfield St.,,Gladbrook,50635,IA,US,Tama,(641) 473-2016
+USA-IA-88-IA-All-output-141,Winslow House Care Center,Nursing Facility,3456 Indian Creek Road,,Marion,52302,IA,US,Linn,(319) 377-8296
+USA-IA-88-IA-All-output-142,Granger Nursing and Rehabilitation Center - Granger,Nursing Facility,2001 Kennedy Street,,Granger,50109,IA,US,Dallas,(515) 999-2588
+USA-IA-88-IA-All-output-143,ManorCare Health Services of Dubuque,Nursing Facility,901 W 3rd Street,,Dubuque,52001,IA,US,Dubuque,(563) 556-1161
+USA-IA-88-IA-All-output-144,Montrose Health Center Inc.,Nursing Facility,400 South 7th Street,PO Box 248,Montrose,52639,IA,US,Lee,(319) 463-5438
+USA-IA-88-IA-All-output-145,Living Center West,Nursing Facility,1050 4th Avenue SE,,Cedar Rapids,52403,IA,US,Linn,(319) 366-8714
+USA-IA-88-IA-All-output-146,Longhouse - Northshire Ltd.,Nursing Facility,711 West 11th Street,,Spencer,51301,IA,US,Clay,(712) 262-2344
+USA-IA-88-IA-All-output-147,West Bend Health and Rehabilitation,Nursing Facility,203 4th Street NW,,West Bend,50597-5114,IA,US,Palo Alto,(515) 887-4071
+USA-IA-88-IA-All-output-148,Ridgewood Specialty Care,Nursing Facility,1977 Albia Road,,Ottumwa,52501,IA,US,Wapello,(641) 683-3111
+USA-IA-88-IA-All-output-149,Parkridge Specialty Care,Nursing Facility,5800 NE 12th Ave,,Pleasant Hill,50327,IA,US,Polk,(515) 265-5348
+USA-IA-88-IA-All-output-150,Altoona Nursing and Rehabilitation,Nursing Facility,200 7th Ave SW, PO Box 595,Altoona,50009,IA,US,Polk,(515) 967-4267
+USA-IA-88-IA-All-output-151,Danville Care Center,Nursing Facility,401 S Birch St.,,Danville,52623,IA,US,Des Moines,(319) 392-4259
+USA-IA-88-IA-All-output-152,Avoca Specialty Care,Nursing Facility,610 East York Road,,Avoca,51521-0728,IA,US,Pottawattamie,(712) 343-6398
+USA-IA-88-IA-All-output-153,Corning Specialty Care,Nursing Facility,1614 Northgate Drive,,Corning,50841,IA,US,Adams,(641) 322-4061
+USA-IA-88-IA-All-output-154,La Porte City Specialty Care,Nursing Facility,1100 Highway 218 N., PO Box 175,La Porte City,50651,IA,US,Black Hawk,(319) 342-2125
+USA-IA-88-IA-All-output-155,Odebolt Specialty Care,Nursing Facility,801 S Des Moines Street, PO Box 670,Odebolt,51458,IA,US,Sac,(712) 668-4867
+USA-IA-88-IA-All-output-156,Atlantic Specialty Care,Nursing Facility,1300 East 19th Street,,Atlantic,50022,IA,US,Cass,(712) 243-3952
+USA-IA-88-IA-All-output-157,Denison Care Center,Nursing Facility,1202 Ridge Road,,Denison,51442,IA,US,Crawford,(712) 263-5611
+USA-IA-88-IA-All-output-158,Lenox Care Center,Nursing Facility,111 East Van Buren,,Lenox,50851,IA,US,Taylor,(641) 333-2226
+USA-IA-88-IA-All-output-159,ManorCare Health Services of Waterloo,Nursing Facility,201 West Ridgeway Avenue,,Waterloo,50701,IA,US,Black Hawk,(319) 234-7777
+USA-IA-88-IA-All-output-160,Bettendorf Health Care Center,Nursing Facility,2730 Crow Creek Rd.,PO Box 1026,Bettendorf,52722,IA,US,Scott,(563) 332-7463
+USA-IA-88-IA-All-output-161,Riverview Manor ,Nursing Facility,17990 Spencer Rd,PO Box 503,Pleasant Valley,52767,IA,US,Scott,(563) 332-4600
+USA-IA-88-IA-All-output-162,Mercy Living Center - North,Nursing Facility,600 14th Avenue N,,Clinton,52732,IA,US,Clinton,(563) 244-3887
+USA-IA-88-IA-All-output-163,Premier Estates of Toledo,Nursing Facility,403 Grandview Drive,,Toledo,52342-0279,IA,US,Tama,(641) 484-5080
+USA-IA-88-IA-All-output-164,River Hills Village,Nursing Facility,20 Village Circle,,Keokuk,52632,IA,US,Lee,(319) 524-5772
+USA-IA-88-IA-All-output-165,Clearview Home - Clearfield,Nursing Facility,202 N Jefferson,PO Box 219,Clearfield,50840,IA,US,Taylor,(641) 336-2333
+USA-IA-88-IA-All-output-166,Clearview Home - Mt Ayr,Nursing Facility,406 West Washington Street,,Mt. Ayr,50854,IA,US,Ringgold,(641) 464-2240
+USA-IA-88-IA-All-output-167,West Bridge Care & Rehabilitation,Nursing Facility,1015 West Summitt,P.O. Box 352,Winterset,50273-2209,IA,US,Madison,(515) 462-1711
+USA-IA-88-IA-All-output-168,Hawkeye Care Center of Cresco,Nursing Facility,701 Vernon Road, SW,Cresco,52136,IA,US,Howard,(563) 547-3580
+USA-IA-88-IA-All-output-169,Heritage Specialty Care,Nursing Facility,200 Clive Drive SW,,Cedar Rapids,52404,IA,US,Linn,(319) 396-7171
+USA-IA-88-IA-All-output-170,Heritage Care Center,Nursing Facility,2320 W Washington Ave.,,Iowa Falls,50126,IA,US,Hardin,(641) 648-4250
+USA-IA-88-IA-All-output-171,Karen Acres Healthcare Center,Nursing Facility,3605 Elm Drive,,Urbandale,50322,IA,US,Polk,(515) 276-4969
+USA-IA-88-IA-All-output-172,Westwood Specialty Care,Nursing Facility,4201 N Fieldcrest Drive,,Sioux City,51103,IA,US,Woodbury,(712) 258-0135
+USA-IA-88-IA-All-output-173,Lantern Park Specialty Care,Nursing Facility, 2200 Oakdale Rd. ,,Coralville,52241,IA,US,Johnson,(319) 351-8440
+USA-IA-88-IA-All-output-174,Chariton Specialty Care,Nursing Facility,1214 North 7th Street,,Chariton,50049-1210,IA,US,Lucas,(641) 774-5921
+USA-IA-88-IA-All-output-175,Oakwood Specialty Care,Nursing Facility,200 16th Ave. E.,,Albia,52531,IA,US,Monroe,(641) 932-7105
+USA-IA-88-IA-All-output-176,West Ridge Specialty Care,Nursing Facility,1904 W. Howard Street,,Knoxville,50138,IA,US,Marion,(641) 842-3153
+USA-IA-88-IA-All-output-177,Crestview Specialty Care- West Branch,Nursing Facility,451 West Orange Street,,West Branch,52358,IA,US,Cedar,(319) 643-2551
+USA-IA-88-IA-All-output-178,Creston Specialty Care,Nursing Facility,1001 Cottonwood Road,,Creston,50801,IA,US,Union,(641) 782-8511
+USA-IA-88-IA-All-output-179,Dubuque Specialty Care,Nursing Facility,2935 Kaufmann Avenue,,Dubuque,52001,IA,US,Dubuque,(563) 556-0673
+USA-IA-88-IA-All-output-180,NorthCrest Specialty Care,Nursing Facility,2001 Heath Street,,Waterloo,50703,IA,US,Black Hawk,(319) 234-4423
+USA-IA-88-IA-All-output-181,Ravenwood Specialty Care,Nursing Facility,2651 St. Francis Drive,,Waterloo,50702,IA,US,Black Hawk,(319) 232-6808
+USA-IA-88-IA-All-output-182,Northcrest Living Center,Nursing Facility,34 Northcrest Drive,,Council Bluffs,51503-1695,IA,US,Pottawattamie,(712) 328-2333
+USA-IA-88-IA-All-output-183,Southridge Specialty Care,Nursing Facility,309 W Merle Hibbs Blvd.,,Marshalltown,50158,IA,US,Marshall,(641) 752-4553
+USA-IA-88-IA-All-output-184,Eldora Specialty Care,Nursing Facility,1510 22nd Street,,Eldora,50627,IA,US,Hardin,(641) 939-3491
+USA-IA-88-IA-All-output-185,Valley View Specialty Care,Nursing Facility,2313 15th Avenue,,Eldora,50627,IA,US,Hardin,(641) 858-5422
+USA-IA-88-IA-All-output-186,Cherokee Specialty Care,Nursing Facility,1011 North Roosevelt Ave.,,Cherokee,51012,IA,US,Cherokee,(712) 225-5189
+USA-IA-88-IA-All-output-187,Pleasant Acres Care Center,Nursing Facility,309 Railroad Street,,Hull,51239,IA,US,Sioux,(712) 439-2758
+USA-IA-88-IA-All-output-188,Grandview Health Care Center,Nursing Facility,508 2nd Street NE,,Dayton,50530,IA,US,Webster,(515) 547-2288
+USA-IA-88-IA-All-output-189,Osage Rehab & Health Care Center,Nursing Facility,830 South 5th Street,,Osage,50461,IA,US,Mitchell,(641) 732-5520
+USA-IA-88-IA-All-output-190,Hawkeye Care Center Carroll,Nursing Facility,2241 North West Street,,Carroll,51401,IA,US,Carroll,(712) 792-9284
+USA-IA-88-IA-All-output-191,Cedar Falls Health Care Center,Nursing Facility,1728 West Eighth Street,,Cedar Falls,50613,IA,US,Black Hawk,(319) 277-2437
+USA-IA-88-IA-All-output-192,Griswold Rehabilitation & Health Care Center,Nursing Facility,106 Harrison Street,,Griswold,51535,IA,US,Cass,(712) 778-2534
+USA-IA-88-IA-All-output-193,Pocahontas Manor,Nursing Facility,700 NW 7th Street,,Pocahontas,50574,IA,US,Pocahontas,(712) 335-3387
+USA-IA-88-IA-All-output-194,Wheatland Manor,Nursing Facility,316 E. Lincolnway,PO Box 369,Wheatland,52777,IA,US,Clinton,(563) 374-1295
+USA-IA-88-IA-All-output-195,Iowa City Rehab. and Health Care Center,Nursing Facility,3661 Rochester Avenue,,Iowa City,52245,IA,US,Johnson,(319) 351-7460
+USA-IA-88-IA-All-output-196,Palo Alto County Hospital NF,Nursing Facility,3201 First Street,,Emmetsburg,50536,IA,US,Palo Alto,(712) 852-5500
+USA-IA-88-IA-All-output-197,Ruthven Community Care Center,Nursing Facility,2701 Mitchell Street,Box D,Ruthven,51358,IA,US,Palo Alto,(712) 837-5411
+USA-IA-88-IA-All-output-198,Atrium Village,Nursing Facility,117 South 3rd Street, P.O. Box 220,Hills,52235,IA,US,Johnson,(319) 679-2224
+USA-IA-88-IA-All-output-199,ManorCare Health Services of Cedar Rapids,Nursing Facility,1940 1st Avenue NE,,Cedar Rapids,52402,IA,US,Linn,(319) 364-5151
+USA-IA-88-IA-All-output-200,Scottish Rite Park Health Care Center,Nursing Facility,2909 Woodland Avenue,,Des Moines,50312-3885,IA,US,Polk,(515) 274-4614
+USA-IA-88-IA-All-output-201,"Childserve Habilitation Center / Homecare, Inc.",Nursing Facility,5406 Merle Hay Road,,Johnston,50131,IA,US,Polk,(515) 727-8750
+USA-IA-88-IA-All-output-202,Sheffield Care Center,Nursing Facility,100 Bennett Drive,,Sheffield,50475,IA,US,Franklin,(641) 892-4691
+USA-IA-88-IA-All-output-203,Community Memorial Health Center,Nursing Facility,231 8th Avenue W  ,P.O. Box 188,Hartley,51346,IA,US,O'Brien,(712) 728-2428
+USA-IA-88-IA-All-output-204,Adel Acres,Nursing Facility,1919 Greene Street,,Adel,50003,IA,US,Dallas,(515) 993-4511
+USA-IA-88-IA-All-output-205,Great River Klein Center,Nursing Facility,1221 South Gear Avenue,,West Burlington,52655-1681,IA,US,Des Moines,(319) 768-4600
+USA-IA-88-IA-All-output-206,Tru Rehab of Grinnell,Nursing Facility,415 6th Ave. West,,Grinnell,50112-1802,IA,US,Poweshiek,(641) 236-6511
+USA-IA-88-IA-All-output-207,Good Samaritan Society - Davenport,Nursing Facility,700 Waverly Road,,Davenport,52804,IA,US,Scott,(563) 324-1651
+USA-IA-88-IA-All-output-208,Iowa Jewish Senior Life Center,Nursing Facility,900 Polk Blvd,,Des Moines,50312,IA,US,Polk,(515) 255-5433
+USA-IA-88-IA-All-output-209,Tabor Manor Care Center,Nursing Facility,209 Main Street,PO Box 180,Tabor,51653,IA,US,Fremont,(712) 629-2645
+USA-IA-88-IA-All-output-210,Hawkeye Care Center Marshalltown,Nursing Facility,2401 South 2nd Street,,Marshalltown,50158,IA,US,Marshall,(641) 752-1553
+USA-IA-88-IA-All-output-211,Red Oak Healthcare Community,Nursing Facility,1600 E Summit Street,,Red Oak,51566,IA,US,Montgomery,(712) 623-5156
+USA-IA-88-IA-All-output-212,Westmont Healthcare Community,Nursing Facility,314 South Elm Street,,Logan,51546,IA,US,Harrison,(952) 873-7977
+USA-IA-88-IA-All-output-213,Regency Care Center,Nursing Facility,815 High Road,,Norwalk,50211,IA,US,Warren,(515) 981-4269
+USA-IA-88-IA-All-output-214,Morningside Healthcare Community,Nursing Facility,600 Morningside Avenue,,Ida Grove,51445,IA,US,Ida,(952) 873-7977
+USA-IA-88-IA-All-output-215,Touchstone Healthcare Community,Nursing Facility,1800 Indian Hills Drive,,Sioux City,51104,IA,US,Woodbury,(712) 239-4582
+USA-IA-88-IA-All-output-216,Casa de Paz Health Care Center,Nursing Facility,2121 West 19th Street,,Sioux City,51103,IA,US,Woodbury,(712) 233-3127
+USA-IA-88-IA-All-output-217,ManorCare Health Services of Davenport,Nursing Facility,815 East Locust Street,,Davenport,52803,IA,US,Scott,(563) 324-3276
+USA-IA-88-IA-All-output-218,Genesis Medical Center - DeWitt,Nursing Facility,1118 11th Street,,DeWitt,52742,IA,US,Clinton,(563) 659-4212
+USA-IA-88-IA-All-output-219,Donnellson Health Center,Nursing Facility,901 State Street,,Donnellson,52625,IA,US,Lee,(319) 835-5621
+USA-IA-88-IA-All-output-220,Hillcrest Health Care Center,Nursing Facility,2121 Avenue L,,Hawarden,51023,IA,US,Sioux,(712) 551-1074
+USA-IA-88-IA-All-output-221,IOOF Home and Community Therapy Center,Nursing Facility,1037 19th Street SW,,Mason City,50401,IA,US,Cerro Gordo,(641) 423-0428
+USA-IA-88-IA-All-output-222,Clarence Nursing Home,Nursing Facility,402 2nd Avenue, P.O. Box 485,Clarence,52216,IA,US,Cedar,(563) 452-3262
+USA-IA-88-IA-All-output-223,Embassy Healthcare Community,Nursing Facility,206 Port Neal Road,,Sergeant Bluff,51054,IA,US,Woodbury,(952) 873-7977
+USA-IA-88-IA-All-output-224,Denver Sunset Home,Nursing Facility,235 North Mill Street, Box 383,Denver,50622,IA,US,Bremer,(319) 984-5372
+USA-IA-88-IA-All-output-225,West Ridge Care Center,Nursing Facility,3131 F Avenue NW,,Cedar Rapids,52405,IA,US,Linn,(319) 390-3367
+USA-IA-88-IA-All-output-226,Valley View,Nursing Facility,108 S High Street,,Greene,50636,IA,US,Butler,(641) 823-4531
+USA-IA-88-IA-All-output-227,"Accura Healthcare of Baxter, LLC",Nursing Facility,407 S East Avenue,,Baxter,50028,IA,US,Jasper,(641) 227-3602
+USA-IA-88-IA-All-output-228,Salem Lutheran Homes,Nursing Facility,2027 College Street,,Elk Horn,51531,IA,US,Shelby,(712) 764-4201
+USA-IA-88-IA-All-output-229,Methodist Manor Retirement Community,Nursing Facility,1206 West 4th Street,,Storm Lake,50588,IA,US,Buena Vista,(712) 732-1120
+USA-IA-88-IA-All-output-230,Pearl Valley Rehabilitation and Nursing at Gowrie LLC ,Nursing Facility,1808 Main Street,,Gowrie,50543,IA,US,Webster,(515) 352-3912
+USA-IA-88-IA-All-output-231,Careage Hills Rehabilitation and Healthcare,Nursing Facility,725 North Second Street,,Cherokee,51012,IA,US,Cherokee,(712) 225-2561
+USA-IA-88-IA-All-output-232,"Rockwell Community Nursing Home, Inc.",Nursing Facility,707 Elm Street East,,Rockwell,50469,IA,US,Cerro Gordo,(641) 822-3203
+USA-IA-88-IA-All-output-233,Bethany Home,Nursing Facility,1005 Lincoln Avenue,,Dubuque,52001-3499,IA,US,Dubuque,(563) 556-5233
+USA-IA-88-IA-All-output-234,Heartland Care Center,Nursing Facility,604 E Fenton,,Marcus,51035-0608,IA,US,Cherokee,(712) 376-2500
+USA-IA-88-IA-All-output-235,Good Neighbor Society,Nursing Facility,105 McCarren Drive,,Manchester,52057,IA,US,Delaware,(563) 927-3907
+USA-IA-88-IA-All-output-236,Westview Acres Care Center,Nursing Facility,203 SW Lorraine Street,,Leon,50144,IA,US,Decatur,(641) 446-4165
+USA-IA-88-IA-All-output-237,VIA Health Services (Des Moines),Nursing Facility,4911 SW 19th Street,,Des Moines,50315,IA,US,Polk,(515) 285-2559
+USA-IA-88-IA-All-output-238,Maquoketa Care Center,Nursing Facility,1202 German Street,,Maquoketa,52060,IA,US,Jackson,(563) 652-5195
+USA-IA-88-IA-All-output-239,Black Hawk Life Care Center,Nursing Facility,73 West 5th Street,,Lake View,51450,IA,US,Sac,(712) 657-8527
+USA-IA-88-IA-All-output-240,Burlington Care Center,Nursing Facility,2610 South 5th Street,,Burlington,52601,IA,US,Des Moines,(319) 753-2841
+USA-IA-88-IA-All-output-241,Ennoble Skilled Nursing and Rehabilitation Center,Nursing Facility,2000 Pasadena Drive,,Dubuque,52001,IA,US,Dubuque,(563) 557-1076
+USA-IA-88-IA-All-output-242,Garden View Care Center,Nursing Facility,1200 West Nishna Road,,Shenandoah,51601,IA,US,Page,(712) 246-4515
+USA-IA-88-IA-All-output-243,Goldenrod Manor,Nursing Facility,225 West Laperla Drive,,Clarinda,51632,IA,US,Page,(712) 542-5621
+USA-IA-88-IA-All-output-244,Monroe Care Center,Nursing Facility,120 North 13th Street,,Albia,52531,IA,US,Monroe,(641) 932-2125
+USA-IA-88-IA-All-output-245,Pleasant Manor Care Center,Nursing Facility,413 North Broadway Street,,Mt. Pleasant,52641,IA,US,Henry,(319) 385-8095
+USA-IA-88-IA-All-output-246,Aase Haugen Home,Nursing Facility,4 Ohio Street,,Decorah,52101,IA,US,Winneshiek,(563) 382-3603
+USA-IA-88-IA-All-output-247,Algona Manor Care Center,Nursing Facility,2221 East McGregor Street,,Algona,50511,IA,US,Kossuth,(515) 295-3505
+USA-IA-88-IA-All-output-248,Willow Gardens Care Center,Nursing Facility,455 31st Street,,Marion,52302,IA,US,Linn,(319) 377-7363
+USA-IA-88-IA-All-output-249,Elm Heights Care Center,Nursing Facility,1203 South Elm Street,,Shenandoah,51601,IA,US,Page,(712) 246-4627
+USA-IA-88-IA-All-output-250,Midlands Living Center LLC,Nursing Facility,2452 North Broadway,,Council Bluffs,51503,IA,US,Pottawattamie,(712) 323-7135
+USA-IA-88-IA-All-output-251,Eagle Point Health Care Center,Nursing Facility,801 28th Avenue N,,Clinton,52732,IA,US,Clinton,(563) 243-6600
+USA-IA-88-IA-All-output-252,Hubbard Care Center,Nursing Facility,403 S. State, P.O. Box 667,Hubbard,50122,IA,US,Hardin,(641) 864-3264
+USA-IA-88-IA-All-output-253,Patty Elwood Center (Country Winds Manor),Nursing Facility,21668 80th Street,,Cresco,52136-8412,IA,US,Howard,(563) 547-2398
+USA-IA-88-IA-All-output-254,Pearl Valley Rehabilitation and Nursing at Perry LLC,Nursing Facility,2625 Iowa Street,,Perry,50220,IA,US,Dallas,(515) 465-5349
+USA-IA-88-IA-All-output-255,"Accura Healthcare of Ogden,LLC ",Nursing Facility,625 East Oak Street,,Odgen,50212,IA,US,Boone,(515) 275-2481
+USA-IA-88-IA-All-output-256,Greenfield Rehabilitation and Health Care Center,Nursing Facility,615 SE Kent,,Greenfield,50849,IA,US,Adair,(641) 743-6131
+USA-IA-88-IA-All-output-257,Sioux Center Health ,Nursing Facility,1400 7th Avenue SE,,Sioux Center,51250,IA,US,Sioux,(712) 722-8260
+USA-IA-88-IA-All-output-258,Golden Age Care Center,Nursing Facility,1915 South 18th Street,,Centerville,52544,IA,US,Appanoose,(641) 856-2757
+USA-IA-88-IA-All-output-259,Clarion Wellness and Rehabilitation Center,Nursing Facility,110 13th Street SW,,Clarion,50525,IA,US,Wright,(515) 532-2893
+USA-IA-88-IA-All-output-260,Newton Health Care Center,Nursing Facility,200 South 8th Avenue E,,Newton,50208,IA,US,Jasper,(641) 792-7440
+USA-IA-88-IA-All-output-261,Fort Dodge Health and Rehabilitation,Nursing Facility,728 14th Avenue N,,Fort Dodge,50501,IA,US,Webster,(515) 576-7226
+USA-IA-88-IA-All-output-262,Lakeside Lutheran Home,Nursing Facility,301 North Lawler Street,,Emmetsburg,50536-1099,IA,US,Palo Alto,(712) 852-4060
+USA-IA-88-IA-All-output-263,"QHC Winterset North, LLC",Nursing Facility,411 East Lane Street,,Winterset,50273,IA,US,Madison,(515) 462-1571
+USA-IA-88-IA-All-output-264,"QHC Winterset South, LLC",Nursing Facility,715 South 2nd Avenue,,Winterset,50273,IA,US,Madison,(515) 462-4040
+USA-IA-88-IA-All-output-265,Sunnycrest Nursing Center  ,Nursing Facility,401 Crisman Street,,Dysart,52224,IA,US,Tama,(319) 476-2400
+USA-IA-88-IA-All-output-266,Crestview Acres,Nursing Facility,1485 Grand Avenue,,Marion,52302,IA,US,Linn,(319) 377-4823
+USA-IA-88-IA-All-output-267,Akron Care Center,Nursing Facility,991 Hwy 3,,Akron,51001,IA,US,Plymouth,(712) 568-2422
+USA-IA-88-IA-All-output-268,"Accura Healthcare of Newton West, LLC",Nursing Facility,2130 West 18th Street S,,Newton,50208,IA,US,Jasper,(641) 791-1127
+USA-IA-88-IA-All-output-269,Cedar Manor Nursing Home,Nursing Facility,1200 Mulberry Street,,Tipton,52772,IA,US,Cedar,(563) 886-2133
+USA-IA-88-IA-All-output-270,Country View,Nursing Facility,1410 West Dunkerton Road,,Waterloo,50703,IA,US,Black Hawk,(319) 291-2509
+USA-IA-88-IA-All-output-271,Davenport Lutheran Home,Nursing Facility,1130 W 53rd Street,,Davenport,52806,IA,US,Scott,(563) 391-5342
+USA-IA-88-IA-All-output-272,Westhaven Community,Nursing Facility,112 W 4th Street,,Boone,50036,IA,US,Boone,(515) 432-1393
+USA-IA-88-IA-All-output-273,Greene County Medical Center ,Nursing Facility,1000 West Lincolnway,,Jefferson,50129,IA,US,Greene,(515) 386-2114
+USA-IA-88-IA-All-output-274,Hegg Memorial Health Center Hsp,Nursing Facility,2116 14th Street,,Rock Valley,51247,IA,US,Sioux,(712) 476-8200
+USA-IA-88-IA-All-output-275,Linn Manor Care Center,Nursing Facility,1140 Elim Drive,,Marion,52302,IA,US,Linn,(319) 377-4611
+USA-IA-88-IA-All-output-276,Madrid Home for the Aging,Nursing Facility,613 West North Street,,Madrid,50156,IA,US,Boone,(515) 795-3007
+USA-IA-88-IA-All-output-277,Sanford Senior Care Sheldon,Nursing Facility,118 N 7th Avenue, P.O. Box 250,Sheldon,51201,IA,US,O'Brien,(712) 324-6020
+USA-IA-88-IA-All-output-278,Parkview Home,Nursing Facility,102 North Jackson,,Wayland,52654-0038,IA,US,Henry,(319) 256-3525
+USA-IA-88-IA-All-output-279,Ramsey Village,Nursing Facility,1611 27th Street,,Des Moines,50310-5400,IA,US,Polk,(515) 274-3612
+USA-IA-88-IA-All-output-280,Rowley Memorial Masonic Home,Nursing Facility,1300 28th Street,PO Box 528,Perry,50220,IA,US,Dallas,(515) 465-5316
+USA-IA-88-IA-All-output-281,Strawberry Point Lutheran Home Community,Nursing Facility,313 Elkader Street,P.O. Box 34,Strawberry Point,52076,IA,US,Clayton,(563) 933-6037
+USA-IA-88-IA-All-output-282,St. Anthony Regional Hospital,Nursing Facility,311 South Clark ,PO Box 628,Carroll,51401,IA,US,Carroll,(712) 794-5291
+USA-IA-88-IA-All-output-283,Sunset Knoll Care and Rehab Center,Nursing Facility,401 West 5th St.,PO Box 67,Aurelia,51005-0067,IA,US,Cherokee,(712) 434-2294
+USA-IA-88-IA-All-output-284,Tripoli Nursing and Rehab,Nursing Facility,604 Third Street SW,,Tripoli,50676,IA,US,Bremer,(319) 882-4269
+USA-IA-88-IA-All-output-285,Virginia Gay Nursing and Rehabilitation,Nursing Facility,502 North 9th Avenue,,Vinton,52349,IA,US,Benton,(319) 472-6280
+USA-IA-88-IA-All-output-286,Mercy Medical Center - Dubuque,Nursing Facility,250 Mercy Drive,,Dubuque,52001,IA,US,Dubuque,(563) 589-8000
+USA-IA-88-IA-All-output-287,"QHC Humboldt North, LLC",Nursing Facility,1111 11th Avenue N,,Humboldt,50548,IA,US,Humboldt,(515) 332-2623
+USA-IA-88-IA-All-output-288,Vinton Lutheran Home,Nursing Facility,1301 2nd Avenue,,Vinton,52349,IA,US,Benton,(319) 472-4751
+USA-IA-88-IA-All-output-289,On With Life,Nursing Facility,715 SW Ankeny Road,,Ankeny,50023-9798,IA,US,Polk,(515) 965-1339
+USA-IA-88-IA-All-output-290,VIA Health Services (Carlisle),Nursing Facility,680 Cole Street,,Carlisle,50047,IA,US,Warren,(515) 989-0871
+USA-IA-88-IA-All-output-291,Spurgeon Manor,Nursing Facility,1204 Linden Street,,Dallas Center,50063-1052,IA,US,Dallas,(515) 992-3735
+USA-IA-88-IA-All-output-292,Crestridge Care Center,Nursing Facility,1015 Wesley Drive,,Maquoketa,52060,IA,US,Jackson,(563) 652-4968
+USA-IA-88-IA-All-output-293,"QHC Fort Dodge Villa, LLC",Nursing Facility,2721 10th Avenue North,,Fort Dodge,50501,IA,US,Webster,(515) 576-7525
+USA-IA-88-IA-All-output-294,"QHC Humboldt South, LLC",Nursing Facility,800 13th Street S,,Humboldt,50548,IA,US,Humboldt,(515) 332-4104
+USA-IA-88-IA-All-output-295,Trinity Center at Luther Park,Nursing Facility,1555 Hull Avenue,,Des Moines,50316,IA,US,Polk,(515) 262-5639
+USA-IA-88-IA-All-output-296,"QHC Mitchellville, LLC",Nursing Facility,114 Carter Street SW,,Mitchellville,50169,IA,US,Polk,(515) 967-3726
+USA-IA-88-IA-All-output-297,Crystal Heights Care Center,Nursing Facility,1514 High Avenue West,,Oskaloosa,52577,IA,US,Mahaska,(641) 673-7032
+USA-IA-88-IA-All-output-298,Rotary Senior Living,Nursing Facility,620 SE 5th Street,,Eagle Grove,50533,IA,US,Wright,(515) 448-5124
+USA-IA-88-IA-All-output-299,Humboldt County Memorial Hospital,Nursing Facility,1000 N 15th Street,,Humboldt,50548,IA,US,Humboldt,(515) 332-4200
+USA-IA-88-IA-All-output-300,St. Luke Lutheran Nursing Home,Nursing Facility,1301 St. Luke Drive,,Spencer,51301,IA,US,Clay,(712) 262-5931
+USA-IA-88-IA-All-output-301,Mercy Hospital of the Franciscan Sisters,Nursing Facility,201 8th Avenue SE,,Oelwein,50662,IA,US,Fayette,(319) 283-6150
+USA-IA-88-IA-All-output-302,On With Life at Glenwood,Nursing Facility,714 South Lacey Street,Suite 100,Glenwood,51534,IA,US,Mills,(712) 525-1294
+USA-IA-88-IA-All-output-303,Wellington Place NF/RCF,Nursing Facility,2479 River Road,,Decorah,52101,IA,US,Winneshiek,(563) 382-9691
+USA-IA-88-IA-All-output-304,University Park Nursing and Rehabilitation Center,Nursing Facility,233 University Avenue,,Des Moines,50314,IA,US,Polk,(515) 284-1280
+USA-IA-88-IA-All-output-305,Care Initiatives ,Nursing Facility,1611 West Lakes Parkway,,West Des Moines,50266,IA,US,Polk,(515) 224-4442
+USA-IA-88-IA-All-output-306,Hiawatha Care Center,Nursing Facility,405 North 15th Avenue,,Hiawatha,52233,IA,US,Linn,(319) 378-8583
+USA-IA-88-IA-All-output-307,Mercy Medical Center - Clinton,Nursing Facility,1410 North 4th Street,,Clinton,52732,IA,US,Clinton,(563) 244-5555
+USA-IA-88-IA-All-output-308,Vista Woods Care Center,Nursing Facility,#3 Pennsylvania Place,,Ottumwa,52501,IA,US,Wapello,(641) 683-3372
+USA-IA-88-IA-All-output-309,"Accura Healthcare of Sioux City, LLC",Nursing Facility,3800 Indian Hills Drive,,Sioux City,51104,IA,US,Woodbury,(712) 239-5025
+USA-IA-88-IA-All-output-310,"Accura Healthcare of Ames, LLC",Nursing Facility,3440 Grand Avenue,,Ames,50010,IA,US,Story,(515) 232-3426
+USA-IA-88-IA-All-output-311,"Accura Healthcare of Cherokee, LLC",Nursing Facility,921 Riverview Drive,,Cherokee,51012,IA,US,Cherokee,(712) 225-5724
+USA-IA-88-IA-All-output-312,"Accura Healthcare of Newton East, LLC",Nursing Facility,1743 South 8th Avenue East,,Newton,50208,IA,US,Jasper,(641) 792-5680
+USA-IA-88-IA-All-output-313,Elm Crest Retirement Community,Nursing Facility,2104 12th Street,,Harlan,51537,IA,US,Shelby,(712) 755-5174
+USA-IA-88-IA-All-output-314,The Alverno Health Care Facility,Nursing Facility,849 13th Avenue North,,Clinton,52732,IA,US,Clinton,(563) 242-1521
+USA-IA-88-IA-All-output-315,Franklin General Hospital ,Nursing Facility,1720 Central Avenue E,,Hampton,50441,IA,US,Franklin,(641) 456-5029
+USA-IA-88-IA-All-output-316,Afton Care Center,Nursing Facility,508 West Pearl Street,,Afton,50830,IA,US,Union,(641) 347-8416
+USA-IA-88-IA-All-output-317,Windmill Manor,Nursing Facility,2332 Liberty Drive,,Coralville,52241,IA,US,Johnson,(319) 545-7390
+USA-IA-88-IA-All-output-318,Davis Center Optimae Lifeservices,Nursing Facility,22425 Overland Avenue,,Bloomfield,52537-7169,IA,US,Davis,(641) 664-3202
+USA-IA-88-IA-All-output-319,Arbor Springs of West Des Moines LLC,Nursing Facility,7951 EP True Parkway,,West Des Moines,50266,IA,US,Dallas,(515) 223-1135
+USA-IA-88-IA-All-output-320,Blair House,Nursing Facility,1212 Indian Hills Drive,,Burlington,52601,IA,US,Des Moines,(319) 752-4100
+USA-IA-88-IA-All-output-321,Bedford Specialty Care,Nursing Facility,1005 West Pearl, Box 233,Bedford,50833,IA,US,Taylor,(712) 523-2161
+USA-IA-88-IA-All-output-322,Westridge Quality Care & Rehab.,Nursing Facility,600 Manor Drive,,Clarinda,51632-0475,IA,US,Page,(712) 542-5161
+USA-IA-88-IA-All-output-323,Anamosa Care Center,Nursing Facility,1209 E. 3rd Street,,Anamosa,52205,IA,US,Jones,(319) 462-4356
+USA-IA-88-IA-All-output-324,Urbandale Health Care Center,Nursing Facility,4614 NW 84th Street,,Urbandale,50322,IA,US,Polk,(515) 270-6838
+USA-IA-88-IA-All-output-325,Premier Estates of Muscatine,Nursing Facility,3440 Mulberry Avenue,,Muscatine,52761,IA,US,Muscatine,(563) 263-2194
+USA-IA-88-IA-All-output-326,Belle Plaine Specialty Care,Nursing Facility,1505 Sunset Drive,,Belle Plaine,52208-1319,IA,US,Benton,(319) 444-2500
+USA-IA-88-IA-All-output-327,Deerfield Retirement Community Inc.,Nursing Facility,13731 Hickman Road,,Urbandale,50323,IA,US,Polk,(515) 267-0438
+USA-IA-88-IA-All-output-328,ManorCare Health Services - West Des Moines,Nursing Facility,5010 Grand Ridge Drive,,West Des Moines,50265,IA,US,Polk,(515) 222-5991
+USA-IA-88-IA-All-output-329,Village at Legacy Pointe ,Nursing Facility,1645 SE Holiday Crest Circle,,Waukee,50263,IA,US,Dallas,(515) 987-4100
+USA-IA-88-IA-All-output-330,Cedar Health,Nursing Facility,807 5th Street,,Charles City,50616,IA,US,Floyd,(641) 228-1612
+USA-IA-88-IA-All-output-331,Oskaloosa Care Center,Nursing Facility,605 Highway 432,,Oskaloosa,52577,IA,US,Mahaska,(641) 676-3414
+USA-IA-88-IA-All-output-332,ManorCare Health Services of Utica Ridge,Nursing Facility,3800 Commerce Blvd,,Davenport,52807,IA,US,Scott,(563) 344-2000
+USA-IA-88-IA-All-output-333,Rehabilitation Center of Des Moines,Nursing Facility,701 Riverview Street,,Des Moines,50316,IA,US,Polk,(515) 266-1106
+USA-IA-88-IA-All-output-334,SunnyBrook Living Care Center,Nursing Facility,400 Highland Street,,Fairfield,52556,IA,US,Jefferson,(641) 209-1600
+USA-IA-88-IA-All-output-335,Briarwood Health Care Center,Nursing Facility,605 Greenwood Drive,,Iowa City,52246,IA,US,Johnson,(319) 338-7912
+USA-IA-88-IA-All-output-336,Kennybrook Village,Nursing Facility,200 SW Brookside Dr.,,Grimes,50111,IA,US,Polk,(515) 369-3900
+USA-IA-88-IA-All-output-337,Dave's Place,Nursing Facility,3140 Plank Rd,,Keokuk,52632,IA,US,Lee,(319) 524-1800
+USA-IA-88-IA-All-output-338,"Martin Health Center, Inc.",Nursing Facility,420 E 11th St,Western Home Communities,Cedar Falls,50613,IA,US,Black Hawk,(319) 277-2141
+USA-IA-88-IA-All-output-339,Crestview Nursing & Rehab - Webster City,Nursing Facility,2401 South Des Moines St,,Webster City,50595,IA,US,Hamilton,(515) 832-2727
+USA-IA-88-IA-All-output-340,Laurens Care Center,Nursing Facility,304 E Veterans Road,,Laurens,50554,IA,US,Pocahontas,(712) 845-4915
+USA-IA-88-IA-All-output-341,Caring Acres Nursing & Rehab Center,Nursing Facility,1000 Hillcrest Dr,,Anita,50020,IA,US,Cass,(712) 762-3219
+USA-IA-88-IA-All-output-342,Prairie Vista Village,Nursing Facility,2785 First Avenue South,PO Box 335,Altoona,50009,IA,US,Polk,(515) 967-8700
+USA-IA-88-IA-All-output-343,Mercy Medical Center - North Iowa,Nursing Facility,1000 4th St SW,,Mason City,50401,IA,US,Cerro Gordo,(641) 428-6182
+USA-IA-88-IA-All-output-344,Prairie Ridge Care Center,Nursing Facility,1005 7th Street NE ,,Orange City,51041,IA,US,Sioux,(712) 707-6006
+USA-IA-88-IA-All-output-345,St. Francis Manor,Nursing Facility,2021 Fourth Avenue,,Grinnell,50112,IA,US,Poweshiek,(641) 236-7592
+USA-IA-88-IA-All-output-346,Northridge Village,Nursing Facility,3300 George W. Carver Avenue,,Ames,50010,IA,US,Story,(515) 357-8395
+USA-IA-88-IA-All-output-347,Mercy Medical - Sioux City,Nursing Facility,801 5th Street,,Sioux City,51102,IA,US,Woodbury,(712) 279-5697
+USA-IA-88-IA-All-output-348,The Bridges at Ankeny,Nursing Facility,3510 NW Abilene Road,,Ankeny,50023,IA,US,Polk,(515) 963-9815
+USA-IA-88-IA-All-output-349,Pinnacle Specialty Care,Nursing Facility,1223 Prairie View Road,,Cedar Falls,50613,IA,US,Black Hawk,(319) 268-0489
+USA-IA-88-IA-All-output-350,The Gardens of Cedar Rapids,Nursing Facility,5710 Dean Road SW,,Cedar Rapids,52404,IA,US,Linn,(319) 930-6666
+USA-IA-88-IA-All-output-351,Countryside Nursing and Rehabilitation Center,Assisted Living,6120 Morningside Avenue,,Sioux City,51106,IA,US,Woodbury,(712) 276-3000
+USA-IA-88-IA-All-output-352,Colonial Manor of Columbus Community,Assisted Living,814 Springer Avenue,,Columbus Junction,52738-0266,IA,US,Louisa,(319) 728-2276
+USA-IA-88-IA-All-output-353,Panora Specialty Care,Assisted Living,805 East Main,PO Box 69,Panora,50216,IA,US,Guthrie,(641) 755-2700
+USA-IA-88-IA-All-output-354,Exira Care Center,Assisted Living,411 South Carthage,,Exira,50076,IA,US,Audubon,(712) 268-5393
+USA-IA-88-IA-All-output-355,Good Samaritan Society - Ottumwa,Assisted Living,2035 Chester Avenue,,Ottumwa,52501,IA,US,Wapello,(641) 682-8041
+USA-IA-88-IA-All-output-356,Holy Spirit Retirement Home,Assisted Living,1701 West 25th Street,,Sioux City,51103,IA,US,Woodbury,(712) 252-2726
+USA-IA-88-IA-All-output-357,Pearl Valley Rehabilitation and Nursing at Lake Park LLC,Assisted Living,1304 S Market St.,,Lake Park,51347-0425,IA,US,Dickinson,(712) 832-3691
+USA-IA-88-IA-All-output-358,Lamoni Specialty Care,Assisted Living,215 South Oak St.   Box 69,,Lamoni,50140,IA,US,Decatur,(641) 784-3388
+USA-IA-88-IA-All-output-359,Pioneer Park,Assisted Living,501 E Pioneer Road,,Lone Tree,52755,IA,US,Johnson,(319) 629-4255
+USA-IA-88-IA-All-output-360,"Longview Home, Inc.",Assisted Living,1010 Longview Road,,Missouri Valley,51555,IA,US,Harrison,(712) 642-2264
+USA-IA-88-IA-All-output-361,Parkview Care Center,Assisted Living,2237 Business Highway 34 ,,Fairfield,52556,IA,US,Jefferson,(641) 472-5022
+USA-IA-88-IA-All-output-362,Parkview Manor Care Center & Elms Assisted Living,Assisted Living,1009 Third Street,,Reinbeck,50643,IA,US,Grundy,(319) 345-6811
+USA-IA-88-IA-All-output-363,Pleasant View Care Center,Assisted Living,200 Shannon Drive,,Whiting,51063,IA,US,Monona,(712) 458-2417
+USA-IA-88-IA-All-output-364,"Accura Healthcare of Pomeroy, LLC",Assisted Living,303 East 7th Street  Box 10,,Pomeroy,50575,IA,US,Calhoun,(712) 468-2241
+USA-IA-88-IA-All-output-365,Prairie View Home Inn,Assisted Living,610 N Eastern Street,,Sanborn,51248,IA,US,O'Brien,(712) 930-3228
+USA-IA-88-IA-All-output-366,Rose Haven Nursing Home,Assisted Living,1500 Franklyn Ave.,,Marengo,52301,IA,US,Iowa,(319) 642-5533
+USA-IA-88-IA-All-output-367,Scenic Living Communities,Assisted Living,1409 Fremont Street,,Iowa Falls,50126,IA,US,Hardin,(641) 648-4671
+USA-IA-88-IA-All-output-368,Sunny View Care Center,Assisted Living,410 NW Ash Dr.,,Ankeny,50021,IA,US,Polk,(515) 635-0936
+USA-IA-88-IA-All-output-369,"Twilight Acres, Inc.",Assisted Living,600 West 6th Street,,Wall Lake,51466,IA,US,Sac,(712) 664-2488
+USA-IA-88-IA-All-output-370,Longhouse - Northshire Ltd.,Assisted Living,711 West 11th Street,,Spencer,51301,IA,US,Clay,(712) 262-2344
+USA-IA-88-IA-All-output-371,River Hills Village,Assisted Living,20 Village Circle,,Keokuk,52632,IA,US,Lee,(319) 524-5772
+USA-IA-88-IA-All-output-372,West Bridge Care & Rehabilitation,Assisted Living,1015 West Summitt,P.O. Box 352,Winterset,50273-2209,IA,US,Madison,(515) 462-1711
+USA-IA-88-IA-All-output-373,Griswold Rehabilitation & Health Care Center,Assisted Living,106 Harrison Street,,Griswold,51535,IA,US,Cass,(712) 778-2534
+USA-IA-88-IA-All-output-374,Ruthven Community Care Center,Assisted Living,2701 Mitchell Street,Box D,Ruthven,51358,IA,US,Palo Alto,(712) 837-5411
+USA-IA-88-IA-All-output-375,Scottish Rite Park Health Care Center,Assisted Living,2909 Woodland Avenue,,Des Moines,50312-3885,IA,US,Polk,(515) 274-4614
+USA-IA-88-IA-All-output-376,Community Memorial Health Center,Assisted Living,231 8th Avenue W  ,P.O. Box 188,Hartley,51346,IA,US,O'Brien,(712) 728-2428
+USA-IA-88-IA-All-output-377,Hillcrest Health Care Center,Assisted Living,2121 Avenue L,,Hawarden,51023,IA,US,Sioux,(712) 551-1074
+USA-IA-88-IA-All-output-378,Clarence Nursing Home,Assisted Living,402 2nd Avenue, P.O. Box 485,Clarence,52216,IA,US,Cedar,(563) 452-3262
+USA-IA-88-IA-All-output-379,Evergreen Estates III,Assisted Living,2204 Johnson Avenue, NW,Cedar Rapids,52405,IA,US,Linn,(319) 363-8116
+USA-IA-88-IA-All-output-380,Heartland Care Center,Assisted Living,604 E Fenton,,Marcus,51035-0608,IA,US,Cherokee,(712) 376-2500
+USA-IA-88-IA-All-output-381,Senior Suites of Urbandale,Assisted Living,4700 84th Street,,Urbandale,50322,IA,US,Polk,(515) 270-9700
+USA-IA-88-IA-All-output-382,"Brees Rest Home, Inc.",Assisted Living,210 Washington Avenue East,PO Box 534,Albia,52531,IA,US,Monroe,(641) 932-5517
+USA-IA-88-IA-All-output-383,Davenport Lutheran Home,Assisted Living,1130 W 53rd Street,,Davenport,52806,IA,US,Scott,(563) 391-5342
+USA-IA-88-IA-All-output-384,Westhaven Community,Assisted Living,112 W 4th Street,,Boone,50036,IA,US,Boone,(515) 432-1393
+USA-IA-88-IA-All-output-385,Parkview Home,Assisted Living,102 North Jackson,,Wayland,52654-0038,IA,US,Henry,(319) 256-3525
+USA-IA-88-IA-All-output-386,Ramsey Village,Assisted Living,1611 27th Street,,Des Moines,50310-5400,IA,US,Polk,(515) 274-3612
+USA-IA-88-IA-All-output-387,Rowley Memorial Masonic Home,Assisted Living,1300 28th Street,PO Box 528,Perry,50220,IA,US,Dallas,(515) 465-5316
+USA-IA-88-IA-All-output-388,Strawberry Point Lutheran Home Community,Assisted Living,313 Elkader Street,P.O. Box 34,Strawberry Point,52076,IA,US,Clayton,(563) 933-6037
+USA-IA-88-IA-All-output-389,VIA Health Services (Carlisle),Assisted Living,680 Cole Street,,Carlisle,50047,IA,US,Warren,(515) 989-0871
+USA-IA-88-IA-All-output-390,Spurgeon Manor,Assisted Living,1204 Linden Street,,Dallas Center,50063-1052,IA,US,Dallas,(515) 992-3735
+USA-IA-88-IA-All-output-391,Trinity Center at Luther Park,Assisted Living,1555 Hull Avenue,,Des Moines,50316,IA,US,Polk,(515) 262-5639
+USA-IA-88-IA-All-output-392,Stanard Family Assisted Living Center,Assisted Living,Western Home Communities,420 E 11th Street,Cedar Falls,50613,IA,US,Black Hawk,(319) 277-2141
+USA-IA-88-IA-All-output-393,Rotary Senior Living,Assisted Living,620 SE 5th Street,,Eagle Grove,50533,IA,US,Wright,(515) 448-5124
+USA-IA-88-IA-All-output-394,Wellington Place NF/RCF,Assisted Living,2479 River Road,,Decorah,52101,IA,US,Winneshiek,(563) 382-9691
+USA-IA-88-IA-All-output-395,Park Place Estates,Assisted Living,900 Lincoln Street NE,,LeMars,51031,IA,US,Plymouth,(712) 546-6793
+USA-IA-88-IA-All-output-396,Bickford Assisted Living - West Des Moines,Assisted Living,5050 Hawthorne Drive,,West Des Moines,50265,IA,US,Polk,(515) 327-9400
+USA-IA-88-IA-All-output-397,Bickford Cottage - Fort Dodge,Assisted Living,1536 20th Avenue North,,Fort Dodge,50501,IA,US,Webster,(515) 573-3300
+USA-IA-88-IA-All-output-398,Lakeview Village,Assisted Living,3012 F Drive,,Amana,52203,IA,US,Iowa,(319) 622-6500
+USA-IA-88-IA-All-output-399,Premier Estates Rock Rapids,Assisted Living,1510 South Carroll Street,,Rock Rapids,51246,IA,US,Lyon,(712) 472-4100
+USA-IA-88-IA-All-output-400,Bickford Assisted Living - Urbandale,Assisted Living,5915 Sutton Place,,Urbandale,50322,IA,US,Polk,(515) 331-3000
+USA-IA-88-IA-All-output-401,Bickford Assisted Living - Davenport,Assisted Living,4040 E. 55th,,Davenport,52806,IA,US,Scott,(563) 322-0000
+USA-IA-88-IA-All-output-402,Bickford Assisted Living - Marion,Assisted Living,1100 Linden Drive,,Marion,52302,IA,US,Linn,(319) 373-7000
+USA-IA-88-IA-All-output-403,Bickford Assisted Living - Iowa City,Assisted Living,3500 Lower W.Branch Rd.,,Iowa City,52240,IA,US,Johnson,(319) 351-3200
+USA-IA-88-IA-All-output-404,Bickford Assisted Living - Cedar Falls,Assisted Living,5101 University,,Cedar Falls,50613,IA,US,Black Hawk,(319) 266-6800
+USA-IA-88-IA-All-output-405,Bickford Assisted Living - Muscatine,Assisted Living,2807 Cedar St.,,Muscatine,52761,IA,US,Muscatine,(563) 263-6600
+USA-IA-88-IA-All-output-406,Bickford Assisted Living - Burlington,Assisted Living,3301 Sterling Drive,,Burlington,52601,IA,US,Des Moines,(319) 754-7500
+USA-IA-88-IA-All-output-407,Bickford Assisted Living - Clinton,Assisted Living,1150 13th Avenue N.,,Clinton,52732,IA,US,Clinton,(563) 242-2400
+USA-IA-88-IA-All-output-408,Bickford Assisted Living - Marshalltown,Assisted Living,101 Newcastle Road,,Marshalltown,50158,IA,US,Marshall,(641) 753-5700
+USA-IA-88-IA-All-output-409,Bickford Cottage 1 - Sioux City,Assisted Living,4020 Indian Hills Drive,,Sioux City,51108,IA,US,Woodbury,(712) 239-2065
+USA-IA-88-IA-All-output-410,Sunrise Villa A/L,Assisted Living,308 N. 12th St.,,Bellevue,52031,IA,US,Jackson,(563) 872-5521
+USA-IA-88-IA-All-output-411,Keystone Senior Suites,Assisted Living,250 Fifth Street,,Keystone,52249-9521,IA,US,Benton,(319) 442-3234
+USA-IA-88-IA-All-output-412,The Heritage at Northern Hills ,Assisted Living,4002 Teton Trace,,Sioux City,51104,IA,US,Woodbury,(712) 239-9402
+USA-IA-88-IA-All-output-413,Waterford at Ames,Assisted Living,1325 Coconino Rd.,,Ames,50014,IA,US,Story,(515) 292-2858
+USA-IA-88-IA-All-output-414,Bickford Cottage 2 - Sioux City,Assisted Living,4022 Indian Hills Drive,,Sioux City,51108,IA,US,Woodbury,(712) 239-6851
+USA-IA-88-IA-All-output-415,Heritage Court Assisted Living,Assisted Living,1499 Office Park Road,,West Des Moines,50265,IA,US,Polk,(515) 223-1224
+USA-IA-88-IA-All-output-416,"Accura Healthcare of Cherokee, LLC",Assisted Living,921 Riverview Drive,,Cherokee,51012,IA,US,Cherokee,(712) 225-5724
+USA-IA-88-IA-All-output-417,Homestead of Centerville,Assisted Living,19999 St. Joseph's Drive,,Centerville,52544,IA,US,Appanoose,(641) 437-1999
+USA-IA-88-IA-All-output-418,Lincolnwood Assisted Living,Assisted Living,302 W. Lincoln, Box 189,Edgewood,52042,IA,US,Delaware,(563) 928-6461
+USA-IA-88-IA-All-output-419,Char-Mac Assisted Living of Lawton,Assisted Living,200 East Char-Mac Drive,,Lawton,51030,IA,US,Woodbury,(712) 944-4893
+USA-IA-88-IA-All-output-420,The Meadows - Manchester,Assisted Living,200 McCarren Drive,,Manchester,52057,IA,US,Delaware,(563) 927-6467
+USA-IA-88-IA-All-output-421,Legacy Pointe,Assisted Living,1020 South Scott Boulevard,,Iowa City,52244-1087,IA,US,Johnson,(319) 341-0911
+USA-IA-88-IA-All-output-422,SunnyBrook of Fairfield,Assisted Living,3000 W. Madison Avenue Ste 500,,Fairfield,52556,IA,US,Jefferson,(641) 469-5778
+USA-IA-88-IA-All-output-423,Pennington Square Assisted Living,Assisted Living,502 Pinehaven Drive,Monticello Nursing & Rehab,Monticello,52310,IA,US,Jones,(319) 465-2013
+USA-IA-88-IA-All-output-424,Landsmeer Ridge Retirement Community,Assisted Living,1007 7th Street, NE,Orange City,51041,IA,US,Sioux,(712) 737-8947
+USA-IA-88-IA-All-output-425,Clearview Estates Assisted Living,Assisted Living,500 West Columbus,,Mt. Ayr,50854,IA,US,Ringgold,(641) 464-0651
+USA-IA-88-IA-All-output-426,Oakland Heights,Assisted Living,904 North Scenic Drive,,Oakland,51560,IA,US,Pottawattamie,(712) 482-3566
+USA-IA-88-IA-All-output-427,Promise House Hiawatha,Assisted Living,1320 Litchfield Drive,,Hiawatha,52233,IA,US,Linn,(319) 743-9812
+USA-IA-88-IA-All-output-428,Pennsylvania Place AL Ottumwa,Assisted Living,2 Pennsylvania Place,,Ottumwa,52501,IA,US,Wapello,(641) 684-4000
+USA-IA-88-IA-All-output-429,Franken Manor,Assisted Living,527 South Main,,Sioux Center,51250,IA,US,Shelby,(712) 722-8174
+USA-IA-88-IA-All-output-430,Crown Pointe,Assisted Living,1400 7th Avenue SE,,Sioux Center,51250,IA,US,Shelby,(712) 722-8243
+USA-IA-88-IA-All-output-431,Brookdale Sioux City,Assisted Living,2562 Pierce Street,,Sioux City,51104,IA,US,Woodbury,(712) 255-1200
+USA-IA-88-IA-All-output-432,Willows of Stuart,Assisted Living,324 SW 6th Street,,Stuart,50250,IA,US,Guthrie,(515) 523-1695
+USA-IA-88-IA-All-output-433,Welcov Assisted Living at Alta,Assisted Living,705 W. 7th Street,,Alta,51002,IA,US,Buena Vista,(712) 200-2620
+USA-IA-88-IA-All-output-434,Cobble Creek Assisted Living/Spencer,Assisted Living,2116 1st Avenue East,,Spencer,51301,IA,US,Clay,(712) 262-1430
+USA-IA-88-IA-All-output-435,Maggie's House Assisted Living,Assisted Living,107 E. 2nd Street,,DeWitt,52742,IA,US,Clinton,(563) 659-1678
+USA-IA-88-IA-All-output-436,Reed Place,Assisted Living,2506 3rd Avenue North,,Denison,51442,IA,US,Crawford,(712) 263-8657
+USA-IA-88-IA-All-output-437,Rosebush Gardens Assisted Living,Assisted Living,4925 West Avenue,,Burlington,52601,IA,US,Des Moines,(319) 752-1200
+USA-IA-88-IA-All-output-438,Welcov Assisted Living of Spirit Lake,Assisted Living,1819 23rd Street,,Spirit Lake,51360,IA,US,Dickinson,(712) 336-3553
+USA-IA-88-IA-All-output-439,Apple Valley Assisted Living - Charles City,Assisted Living,801 Blunt Pkwy. #39,,Charles City,50616,IA,US,Floyd,(641) 257-3003
+USA-IA-88-IA-All-output-440,The Kensington,Assisted Living,2210 Avenue H,Suite 1A,Fort Madison,52627,IA,US,Lee,(319) 372-4233
+USA-IA-88-IA-All-output-441,Villages at Marion/Village Ridge,Assisted Living,365 Marion Blvd.,,Marion,52302,IA,US,Linn,(319) 377-9808
+USA-IA-88-IA-All-output-442,QHC Madison Square LLC,Assisted Living,209 W. Jefferson Street,,Winterset,50273,IA,US,Madison,(515) 462-5087
+USA-IA-88-IA-All-output-443,Cobble Creek Assisted Living/Sheldon,Assisted Living,980 Oak Street,,Sheldon,51201,IA,US,O'Brien,(712) 324-7404
+USA-IA-88-IA-All-output-444,Heartwood Heights,Assisted Living,409 9th Avenue,,Sibley,51249,IA,US,Osceola,(712) 754-3009
+USA-IA-88-IA-All-output-445,Country Manor Memory Care,Assisted Living,900 W. 46th Street,,Davenport,52806,IA,US,Scott,(563) 391-1111
+USA-IA-88-IA-All-output-446,Jersey Ridge,Assisted Living,5605 Jersey Ridge Rd.,,Davenport,52807,IA,US,Scott,(563) 355-2027
+USA-IA-88-IA-All-output-447,Oakhill Assisted Living,Assisted Living,1126 Oak Hill Drive,,Hawarden,51023,IA,US,Sioux,(712) 551-4284
+USA-IA-88-IA-All-output-448,Kosgrove Estate,Assisted Living,4155 US 75 Avenue,,Sioux Center,51250,IA,US,Sioux,(712) 722-4972
+USA-IA-88-IA-All-output-449,Homestead of Knoxville,Assisted Living,908 South Park Lane,,Knoxville,50138,IA,US,Marion,(641) 828-7878
+USA-IA-88-IA-All-output-450,Ballard Creek Community,Assisted Living,908 N. Hwy. 69,Madrid Homes,Huxley,50124,IA,US,Story,(515) 597-2555
+USA-IA-88-IA-All-output-451,Elm Crest Retirement Community,Assisted Living,2104 12th Street,,Harlan,51537,IA,US,Shelby,(712) 755-5174
+USA-IA-88-IA-All-output-452,Forest Plaza Assisted Living,Assisted Living,635 Highway 9 East,,Forest City,50436,IA,US,Winnebago,(641) 585-1555
+USA-IA-88-IA-All-output-453,Apple Valley Assisted Living - Hampton,Assisted Living,1724 Central Avenue East,,Hampton,50441,IA,US,Franklin,(641) 456-4692
+USA-IA-88-IA-All-output-454,QHC Villa Cottages,Assisted Living,925 Martin Luther King Drive,,Fort Dodge,50501,IA,US,Webster,(515) 576-6525
+USA-IA-88-IA-All-output-455,Aase Haugen Assisted Living,Assisted Living,4 Ohio Street,,Decorah,52101,IA,US,Winneshiek,(563) 382-3603
+USA-IA-88-IA-All-output-456,Arbor Heights at University,Assisted Living,233 University Avenue,,Des Moines,50314-3124,IA,US,Polk,(515) 284-1280
+USA-IA-88-IA-All-output-457,Cornerstone Assisted Living,Assisted Living,302 2nd Street NE,Good Shepherd Health Ctr.,Mason City,50401,IA,US,Cerro Gordo,(641) 424-1740
+USA-IA-88-IA-All-output-458,Greenfield Rehabilitation and Health Care Center Assisted Living,Assisted Living,615 SE Kent Street,Greenfield Manor,Greenfield,50849,IA,US,Adair,(641) 743-6131
+USA-IA-88-IA-All-output-459,The New Homestead Care Center - AL,Assisted Living,2306 State Street,,Guthrie Center,50115,IA,US,Guthrie,(641) 332-2204
+USA-IA-88-IA-All-output-460,Oak Estates,Assisted Living,110 Alice Street,Oakview,Conrad,50621,IA,US,Grundy,(641) 366-2212
+USA-IA-88-IA-All-output-461,Terrace Park Senior Living,Assisted Living,201 SW Lorraine,,Leon,50144,IA,US,Decatur,(641) 446-8396
+USA-IA-88-IA-All-output-462,Homestead of Mason City,Assisted Living,2501 W. State Street,,Mason City,50401,IA,US,Cerro Gordo,(641) 423-4809
+USA-IA-88-IA-All-output-463,Meadows AL/Shell Rock,Assisted Living,528 N. Kelly Street,,Shell Rock,50670-9757,IA,US,Butler,(319) 885-4341
+USA-IA-88-IA-All-output-464,Vista Prairie at Fieldcrest ,Assisted Living,2501 East 6th Street,,Sheldon,51201,IA,US,O'Brien,(712) 324-2338
+USA-IA-88-IA-All-output-465,Avoca Lodge Assisted Living Center,Assisted Living,612 East York Road,,Avoca,51522,IA,US,Pottawattamie,(712) 343-2400
+USA-IA-88-IA-All-output-466,Maple Ridge Assisted Living - Mt. Ayr,Assisted Living,1500 East South Street ,,Mt. Ayr,50854,IA,US,Ringgold,(641) 464-3204
+USA-IA-88-IA-All-output-467,Valley Lodge Assisted Living,Assisted Living,1116 East Highway 20,,Correctionville,51016,IA,US,Woodbury,(712) 372-4466
+USA-IA-88-IA-All-output-468,Vriendschap Village,Assisted Living,2604 Fifield Road,,Pella,50219,IA,US,Marion,(641) 628-8260
+USA-IA-88-IA-All-output-469,Legacy Gardens ,Assisted Living,15 Silvercrest Place,,Iowa City,52240,IA,US,Johnson,(319) 338-4404
+USA-IA-88-IA-All-output-470,Premier Estates-Onawa,Assisted Living,190 15th Street,,Onawa,51040,IA,US,Monona,(712) 423-2510
+USA-IA-88-IA-All-output-471,Sigourney Assisted Living,Assisted Living,810 S. Stone Street,,Sigourney,52591,IA,US,Keokuk,(641) 622-2971
+USA-IA-88-IA-All-output-472,Kingston Court Assisted Living,Assisted Living,118 Reimer Street S.W.,,Elkader,52042,IA,US,Clayton,(563) 245-1620
+USA-IA-88-IA-All-output-473,Maple Grove Senior Living,Assisted Living,1917 South 18th Street,,Centerville,52544,IA,US,Appanoose,(641) 856-6601
+USA-IA-88-IA-All-output-474,Bickford Assisted Living of Ames,Assisted Living,2418 Kent Avenue,,Ames,50010,IA,US,Story,(515) 233-6000
+USA-IA-88-IA-All-output-475,Estabrook Lodge Assisted Living,Assisted Living,2302 Rick Collins Way,,Eldora,50627,IA,US,Hardin,(641) 939-7711
+USA-IA-88-IA-All-output-476,Rose Vista Assisted Living,Assisted Living,1109 Normal Street,P.O. Box 6,Woodbine,51579,IA,US,Harrison,(712) 647-2361
+USA-IA-88-IA-All-output-477,Kentucky Ridge,Assisted Living,2060 Kentucky Avenue, South,Mason City,50401,IA,US,Cerro Gordo,(641) 423-5707
+USA-IA-88-IA-All-output-478,Silver Pond Assisted Living,Assisted Living,1400 6th Avenue,,Wellman,52356,IA,US,Washington,(319) 646-2911
+USA-IA-88-IA-All-output-479,Otsego Place at Methodist Manor Ret Comm,Assisted Living,520 Otsego Street,,Storm Lake,50588,IA,US,Buena Vista,(712) 213-5879
+USA-IA-88-IA-All-output-480,Evergreen Estates I,Assisted Living,3410 12th Avenue SW,,Cedar Rapids,52404,IA,US,Cedar,(319) 396-3692
+USA-IA-88-IA-All-output-481,Evergreen Estates II,Assisted Living,307 Edgewood Road SW,,Cedar Rapids,52404,IA,US,Linn,(319) 365-4116
+USA-IA-88-IA-All-output-482,Woodlands Creek,Assisted Living,12675 Woodlands Parkway,,Clive,50325,IA,US,Polk,(515) 223-9755
+USA-IA-88-IA-All-output-483,Apple Valley Assisted Living - Clear Lake,Assisted Living,405 27th Avenue South,,Clear Lake,50428,IA,US,Cerro Gordo,(641) 357-7083
+USA-IA-88-IA-All-output-484,Reflections Assisted Living,Assisted Living,516 13th Street,,Wellman,52356,IA,US,Washington,(319) 646-5812
+USA-IA-88-IA-All-output-485,Lincolnway Villa Assisted Living,Assisted Living,320 E. Lincolnway, P.O. Box 369,Wheatland,52777,IA,US,Clinton,(563) 374-1295
+USA-IA-88-IA-All-output-486,Village Terrace,Assisted Living,304 Franklin Street,,Keosauqua,52565,IA,US,Van Buren,(319) 293-3171
+USA-IA-88-IA-All-output-487,Prairie Creek Assisted Living,Assisted Living,301 4th Street SW,,West Bend,50597,IA,US,Palo Alto,(515) 887-4071
+USA-IA-88-IA-All-output-488,Emerson Point ,Assisted Living,1355 Shannon Drive,,Iowa City,52246,IA,US,Johnson,(319) 466-0200
+USA-IA-88-IA-All-output-489,Thornton Heights Assisted Living,Assisted Living,1329 Main Street,,Lansing,52151,IA,US,Allamakee,(563) 538-4335
+USA-IA-88-IA-All-output-490,Rock Ridge Assisted Living,Assisted Living,400 Canton Street NW,,Shellsburg,52332,IA,US,Benton,(319) 436-5570
+USA-IA-88-IA-All-output-491,Journey Senior Services Carroll,Assisted Living,17504 Mahogany Avenue,,Carroll,51401-9590,IA,US,Carroll,(712) 830-8184
+USA-IA-88-IA-All-output-492,Homestead of Oskaloosa,Assisted Living,2102 South Market,,Oskaloosa,52577,IA,US,Mahaska,(641) 672-1090
+USA-IA-88-IA-All-output-493,Meadows Assisted Living,Assisted Living,1302 S. Main Street,,Clarion,50525,IA,US,Wright,(515) 532-2035
+USA-IA-88-IA-All-output-494,Prime Living Apartments,Assisted Living,108 1st Avenue, NW,Le Mars,51031,IA,US,Plymouth,(712) 548-5488
+USA-IA-88-IA-All-output-495,Linnwood Estates,Assisted Living,700 North Linn Street,,Glenwood,51534,IA,US,Mills,(712) 527-1035
+USA-IA-88-IA-All-output-496,Parkview Assisted Living,Assisted Living,114 Forest Street,,Fairbank,50629,IA,US,Buchanan,(319) 635-2585
+USA-IA-88-IA-All-output-497,Murphy Place Assisted Living,Assisted Living,620 E. Monroe,,Corydon,50060,IA,US,Wayne,(641) 872-3993
+USA-IA-88-IA-All-output-498,Maple Crest AL/Maple Memory Lane,Assisted Living,98 Bolger Drive,,Fayette,52142,IA,US,Fayette,(563) 425-4160
+USA-IA-88-IA-All-output-499,Valley View Assisted Living,Assisted Living,PO Box 430,,North English,52316,IA,US,Iowa,(319) 664-3257
+USA-IA-88-IA-All-output-500,Heritage at Fox Run Assisted Living,Assisted Living,3121 MacIneery Drive,,Council Bluffs,51501,IA,US,Pottawattamie,(712) 256-2741
+USA-IA-88-IA-All-output-501,Riverside Senior Living,Assisted Living,209 Park Drive,,Charles City,50616,IA,US,Floyd,(641) 228-2800
+USA-IA-88-IA-All-output-502,Kensington Place Assisted Living,Assisted Living,504 Short Avenue,,New Hampton,50659,IA,US,Chickasaw,(641) 394-3316
+USA-IA-88-IA-All-output-503,Windsor Manor Indianola,Assisted Living,608 South 15th Street,,Indianola,50125,IA,US,Warren,(641) 891-2130
+USA-IA-88-IA-All-output-504,SunnyBrook of Mount Pleasant,Assisted Living,1406 East Linden Drive,,Mt. Pleasant,52641,IA,US,Henry,(319) 385-7227
+USA-IA-88-IA-All-output-505,Cresco Assisted Living,Assisted Living,1004 North Elm Street,,Cresco,52136,IA,US,Howard,(563) 547-2364
+USA-IA-88-IA-All-output-506,Garden View Senior Community,Assisted Living,800 Darby Drive,,Monona,52159,IA,US,Clayton,(563) 539-4528
+USA-IA-88-IA-All-output-507,Springvale Assisted Living,Assisted Living,1050 North 15th Street,,Humboldt,50548,IA,US,Humboldt,(515) 332-7660
+USA-IA-88-IA-All-output-508,Oak Park Place of Dubuque,Assisted Living,1381 Oak Park Place,,Dubuque,52002,IA,US,Dubuque,(563) 585-4900
+USA-IA-88-IA-All-output-509,MeadowView Memory Care Village,Assisted Living,3005 F Avenue NW,,Cedar Rapids,52405,IA,US,Linn,(319) 294-9669
+USA-IA-88-IA-All-output-510,Homestead Assisted Living - Chariton,Assisted Living,1110 N. 6th Street,,Chariton,50049,IA,US,Lucas,(641) 774-2303
+USA-IA-88-IA-All-output-511,Prairie Hills at Independence,Assisted Living,505 Enterprise Drive SW,,Independence,50644,IA,US,Buchanan,(319) 334-2000
+USA-IA-88-IA-All-output-512,Southcrest Manor II,Assisted Living,602 2nd Street SW,,Waukon,52172,IA,US,Allamakee,(563) 568-0043
+USA-IA-88-IA-All-output-513,Deerfield Retirement Community Inc.,Assisted Living,13731 Hickman Road,,Urbandale,50323,IA,US,Polk,(515) 267-0438
+USA-IA-88-IA-All-output-514,Windsor Manor  Grinnell,Assisted Living,229 Pearl Street,,Grinnell,50112,IA,US,Poweshiek,(641) 236-8700
+USA-IA-88-IA-All-output-515,Willows of Mt. Pleasant,Assisted Living,710 Arbor Court,,Mt. Pleasant,52641,IA,US,Henry,(319) 385-1403
+USA-IA-88-IA-All-output-516,Silvercrest Garner Farms,Assisted Living,1575 West 53rd Street,,Davenport,52806,IA,US,Scott,(563) 386-9196
+USA-IA-88-IA-All-output-517,Petersen Commons A/L (Marycrest Campus),Assisted Living,1607 W. 12th Street Office 2205,,Davenport,52804,IA,US,Scott,563 323-3888
+USA-IA-88-IA-All-output-518,Shores at Pleasant Hill,Assisted Living,1500 Edgewater Drive,,Pleasant Hill,50327,IA,US,Polk,(515) 262-4444
+USA-IA-88-IA-All-output-519,Circle Terrace Lodge ,Assisted Living,155 Circle Terrace,,Manly,50456,IA,US,Worth,641-454-2223
+USA-IA-88-IA-All-output-520,Regency Assisted Living,Assisted Living,815 High Road,,Norwalk,50211,IA,US,Warren ,(515) 981-4576
+USA-IA-88-IA-All-output-521,Summit Pointe Senior Living Community,Assisted Living,3505 English Glen Avenue,,Marion,52302,IA,US,Linn,319-373-4242
+USA-IA-88-IA-All-output-522,Char-Mac of Assisted Living Holstein,Assisted Living,1500 South Kiel Street,,Holstein,51025,IA,US,Ida,(712) 368-4893
+USA-IA-88-IA-All-output-523,Windhaven Assisted Living Center & Thalman Square,Assisted Living,5500 South Main Street,,Cedar Falls,50613,IA,US,Black Hawk,319-277-2141
+USA-IA-88-IA-All-output-524,Prairie Hills at Tipton,Assisted Living,219 South Cedar Street,,Tipton,52772,IA,US,Cedar,563-886-1584
+USA-IA-88-IA-All-output-525,Prairie Hills at Clinton,Assisted Living,1701 13th Avenue North,,Clinton,52732,IA,US,Clinton,563-243-6870
+USA-IA-88-IA-All-output-526,Prime Living Apartments - SC,Assisted Living,725 Pearl Street,,Sioux City,51101,IA,US,Woodbury,712-226-6300
+USA-IA-88-IA-All-output-527,Homestead Assisted Living and Memory Care (Creston),Assisted Living,1709 West Prairie Street,,Creston,50801,IA,US,Union,641-782-3131
+USA-IA-88-IA-All-output-528,Odebolt Assisted Living,Assisted Living,799 South Des Moines,,Odebolt,51458,IA,US,Sac,712-668-2224
+USA-IA-88-IA-All-output-529,Dunlap Assisted Living,Assisted Living,1405 Harrison Road,,Dunlap,51529,IA,US,Harrison,712-643-2121
+USA-IA-88-IA-All-output-530,Stoney Brook Village,Assisted Living,705 S. Pine,,West Union,52175,IA,US,Fayette,563-422-7145
+USA-IA-88-IA-All-output-531,Village at Legacy Pointe ,Assisted Living,1645 SE Holiday Crest Circle,,Waukee,50263,IA,US,Dallas,515-987-4100
+USA-IA-88-IA-All-output-532,Wellington Place Assisted Living,Assisted Living,2475 River Road,,Decorah,52101,IA,US,Winneshiek,563-382-2292
+USA-IA-88-IA-All-output-533,Turner Pointe Assisted Living,Assisted Living,1203 Buell Avenue,,McGregor,52157,IA,US,Clayton,563-873-3527
+USA-IA-88-IA-All-output-534,Woodland Park Assisted Living,Assisted Living,1207 East 3rd Street,,Anamosa,52205,IA,US,Jones,319-462-2668
+USA-IA-88-IA-All-output-535,Vista Prairie at Keelson Harbour,Assisted Living,2810 Aurora Avenue,,Spirit Lake,51360,IA,US,Dickinson,712-336-4501
+USA-IA-88-IA-All-output-536,Prairie Hills at Ottumwa ,Assisted Living,173 East Rochester Street,,Ottumwa,52501,IA,US,Wapello,641-684-1871
+USA-IA-88-IA-All-output-537,Faith Home Assisted Living,Assisted Living,912 Davidson Dr.,,Osage,50461,IA,US,Mitchell,641-832-2580
+USA-IA-88-IA-All-output-538,Windsor Manor Vinton,Assisted Living,1807 West 5th Street,,Vinton,52349,IA,US,Benton,319-472-2060
+USA-IA-88-IA-All-output-539,Cedars of Madrid Homes,Assisted Living,600 North Kennedy Avenue,,Madrid,50156,IA,US,Boone,515-795-4097
+USA-IA-88-IA-All-output-540,Tower Living Center,Assisted Living,103 Centre Street, Box 477,Garnavillo,52049,IA,US,Clayton,563-964-9090
+USA-IA-88-IA-All-output-541,River Bend Retirement Community,Assisted Living,813 Tyler Street NE,,Cascade,52033,IA,US,Dubuque,563-852-5001
+USA-IA-88-IA-All-output-542,Huskamp Haven,Assisted Living,300 Riverview Drive,,Algona,50511,IA,US,Kossuth,515-395-3300
+USA-IA-88-IA-All-output-543,Grand Haven Retirement Community,Assisted Living,201 East Franklin Street,,Eldridge,52748,IA,US,Scott,563-285-4900
+USA-IA-88-IA-All-output-544,Fountains Senior Living,Assisted Living,3752 Thunder Ridge Road,,Bettendorf,52722,IA,US,Scott,563-332-5775
+USA-IA-88-IA-All-output-545,Traditions of West Union,Assisted Living,609 Highway 150 N ,,West Union,52175,IA,US,Fayette,563-422-9200
+USA-IA-88-IA-All-output-546,Gardens Assisted Living,Assisted Living,1000 West Washington Street,,Jefferson,50129,IA,US,Greene,515-386-2555
+USA-IA-88-IA-All-output-547,Park View Assisted Living,Assisted Living,210 Park Street,,Coon Rapids,50058,IA,US,Carroll,712-999-0120
+USA-IA-88-IA-All-output-548,Primrose of Council Bluffs,Assisted Living,1801 E. Kanesville Blvd,,Council Bluffs,51503,IA,US,Pottawattamie,712-352-1111
+USA-IA-88-IA-All-output-549,Prairie Hills at Cedar Rapids,Assisted Living,2903 F Avenue, NW,Cedar Rapids,52405,IA,US,Linn,(319) 390-7700
+USA-IA-88-IA-All-output-550,SunnyBrook of Carroll,Assisted Living,1214 East 18th Street,,Carroll,51401,IA,US,Carroll,712-792-8995
+USA-IA-88-IA-All-output-551,Sunnybrook at Burlington,Assisted Living,5175 West Avenue,,Burlington,52601,IA,US,Lee,319-752-0260
+USA-IA-88-IA-All-output-552,SunnyBrook of Fort Madison,Assisted Living,5025 River Valley Road,,Fort Madison,52627,IA,US,Lee,319-372-8611
+USA-IA-88-IA-All-output-553,SunnyBrook of Muscatine,Assisted Living,3515 Diana Queen Drive,,Muscatine,52761,IA,US,Muscatine,563-263-5108
+USA-IA-88-IA-All-output-554,Apple Valley Assisted Living - Osage,Assisted Living,300 Lyndale Street,,Osage,50461,IA,US,Mitchell,641-357-7083
+USA-IA-88-IA-All-output-555,River Living Center,Assisted Living,831 South Highway 52,,Guttenberg,52052,IA,US,Clayton,563-252-3070
+USA-IA-88-IA-All-output-556,Windsor Manor Webster City,Assisted Living,1401 Wall Street,,Webster City,50595,IA,US,Hamilton,515-832-1188
+USA-IA-88-IA-All-output-557,Irving Point,Assisted Living,910 7th Avenue SE,,Cedar Rapids,52401,IA,US,Linn,319-294-5007
+USA-IA-88-IA-All-output-558,Bavarian Meadows Assisted Living,Assisted Living,632 L-14 Unit 130,,Remsen,51050,IA,US,Plymouth,712-786-1660
+USA-IA-88-IA-All-output-559,Gardens @ Cherokee,Assisted Living,1610 Hwy 3,,Cherokee,51012,IA,US,Cherokee,712-225-2999
+USA-IA-88-IA-All-output-560,SunnyBrook Living Care Center,Assisted Living,400 Highland Street,,Fairfield,52556,IA,US,Jefferson,641-209-1600
+USA-IA-88-IA-All-output-561,Prairie Hills at Des Moines,Assisted Living,5815 SE 27th Street,,Des Moines,50320,IA,US,Polk,515-256-9143
+USA-IA-88-IA-All-output-562,Whispering Creek,Assisted Living,2607 Nicklaus Blvd.,,Sioux City,51106,IA,US,Woodbury,712-276-1879
+USA-IA-88-IA-All-output-563,Deerfield Place,Assisted Living,505 East Gilman Street,,Sheffield,50475,IA,US,Franklin,641-892-4691 
+USA-IA-88-IA-All-output-564,Sunrise Assisted Living Suites,Assisted Living,599 Taylor Street,,Traer,50675,IA,US,Tama,(319) 478-2730
+USA-IA-88-IA-All-output-565,Solon Assisted Living Village,Assisted Living,623 E 5th Street,,Solon,52333,IA,US,Johnson,(319) 624-5353
+USA-IA-88-IA-All-output-566,Summit House Retirement Community,Assisted Living,600 1st Street NW,,Britt,50423,IA,US,Hancock,641-843-3333
+USA-IA-88-IA-All-output-567,Homestead of Osceola(West View AL),Assisted Living,334 North West View Drive,,Osceola,50213,IA,US,Clarke,(641) 342-1036
+USA-IA-88-IA-All-output-568,Vintage Hills Retirement Community of Indianola,Assisted Living,604 E Hillcrest Drive,,Indianola,50125-1759,IA,US,Warren,515-961-1924
+USA-IA-88-IA-All-output-569,Golden Horizons ,Assisted Living,800 Byron Goddersen Dr,,Ida Grove,51445,IA,US,Ida,712-364-4128
+USA-IA-88-IA-All-output-570,Kennybrook Village,Assisted Living,200 SW Brookside Dr.,,Grimes,50111,IA,US,Polk,515-369-3900
+USA-IA-88-IA-All-output-571,Aspen Heights Assisted Living,Assisted Living,1410 Aspen St,,Hull,51239,IA,US,Sioux,712-439-6715
+USA-IA-88-IA-All-output-572,Vintage Hills at Prairie Trail,Assisted Living,1275 SW State St,,Ankeny,50023,IA,US,Polk,515-963-4000
+USA-IA-88-IA-All-output-573,Hansen House,Assisted Living,404 Parkwild Dr,,Council Bluffs,51503,IA,US,Pottawattamie,712-256-4525
+USA-IA-88-IA-All-output-574,Windsor Manor Nevada,Assisted Living,1642 South G Ave,,Nevada,50201,IA,US,Story,515-382-2980
+USA-IA-88-IA-All-output-575,Windsor Manor Shenandoah,Assisted Living,601 Harrison Street,,Shenandoah,51601,IA,US,Page,712.635.4165
+USA-IA-88-IA-All-output-576,Glen Oaks Alzheimers Special Care Center,Assisted Living,8525 Urbandale Ave,,Urbandale,50322,IA,US,Polk,515-331-0970
+USA-IA-88-IA-All-output-577,Westside Assisted Living Suites,Assisted Living,110 Ely St,,Clarksville,50619,IA,US,Butler,319-278-4900
+USA-IA-88-IA-All-output-578,Homestead of Albia,Assisted Living,6592 165th Street,,Albia,52531,IA,US,Monroe,641-932-2102
+USA-IA-88-IA-All-output-579,Prairie Vista Village,Assisted Living,2785 First Avenue South,PO Box 335,Altoona,50009,IA,US,Polk,515-967-8700
+USA-IA-88-IA-All-output-580,Windsor Manor Algona,Assisted Living,512 Finn Drive,,Algona,50511,IA,US,Kossuth,(515) 395-1512
+USA-IA-88-IA-All-output-581,Winding Creek Meadows Assisted Living,Assisted Living,1044 9th Street,,Jesup,50648,IA,US,Buchanan,319.827.1052
+USA-IA-88-IA-All-output-582,Windsor Manor Algona,Assisted Living,512 Finn Drive,,Algona,50511,IA,US,Kossuth,(515) 395-1512
+USA-IA-88-IA-All-output-583,Winding Creek Meadows Assisted Living,Assisted Living,1044 9th Street,,Jesup,50648,IA,US,Buchanan,(319) 827-1052
+USA-IA-88-IA-All-output-584,Frontier Management,Assisted Living,7420 Bridgeport Road,Suite 105,Portland,97224,OR,US,,(503) 597-4902
+USA-IA-88-IA-All-output-585,Elms,Assisted Living,1007 3rd Street,,Reinbeck,50669,IA,US,Grundy,(319) 345-6812
+USA-IA-88-IA-All-output-586,Donald Lundak Assisted Living Center,Assisted Living,21668 80th Street,,Cresco,52136,IA,US,Howard,(563) 547-1194
+USA-IA-88-IA-All-output-587,Lakeside Assisted Living,Assisted Living,401 North Lawler Street,,Emmetsburg,50536,IA,US,Palo Alto,(712) 852-4060
+USA-IA-88-IA-All-output-588,Riverview Terrace Assisted Living,Assisted Living,1501 St. Luke Drive,,Spencer,51301,IA,US,Clay,(712) 262-5932
+USA-IA-88-IA-All-output-589,Northridge Village,Assisted Living,3300 George W. Carver Avenue,,Ames,50010,IA,US,Story,(515) 357-8395
+USA-IA-88-IA-All-output-590,Windsor Manor Estherville,Assisted Living,2015 3rd Avenue North,,Estherville,51334,IA,US,Emmet,(712) 362-0171
+USA-IA-88-IA-All-output-591,Cobblestone Court Assisted Living,Assisted Living,3187 140th Street,,Sumner,50674,IA,US,Bremer,(319) 231-3635
+USA-IA-88-IA-All-output-592,Char-Mac of Manning,Assisted Living,203 11th Street,,Manning,51030,IA,US,Carroll,(712) 655-4893
+USA-IA-88-IA-All-output-593,The Bridges at Ankeny,Assisted Living,3510 NW Abilene Road,,Ankeny,50023,IA,US,Polk,(515) 963-9815
+USA-IA-88-IA-All-output-594,"Vinton Lutheran AL, IL, & Home Health",Assisted Living,1301 2nd Avenue,,Vinton,52349,IA,US,Benton,(319) 472-2092
+USA-IA-88-IA-All-output-595,Country House Residence,Assisted Living,1831 East Kanesville Blvd.,,Council Bluffs,51503,IA,US,Pottawattamie,(712) 322-4100
+USA-IA-88-IA-All-output-596,The Gardens of Cedar Rapids,Assisted Living,5710 Dean Road SW,,Cedar Rapids,52404,IA,US,Linn,(319) 930-6666
+USA-IA-88-IA-All-output-597,Good Samaritan Society - Indianola,Home Health,708 South Jefferson Way ,P.O. Box 319,Indianola,50125,IA,US,Warren,(515) 961-2596
+USA-IA-88-IA-All-output-598,"Childserve Habilitation Center / Homecare, Inc.",Home Health,5406 Merle Hay Road,,Johnston,50131,IA,US,Polk,(515) 727-8750
+USA-IA-88-IA-All-output-599,Good Samaritan Society - Davenport,Home Health,700 Waverly Road,,Davenport,52804,IA,US,Scott,(563) 324-1651
+USA-IA-88-IA-All-output-600,Pella Regional Health Center - Home Health,Home Health,404 Jefferson Street,,Pella,50219,IA,US,Marion,(641) 628-3150
+USA-IA-88-IA-All-output-601,Sioux Center Health ,Home Health,1400 7th Avenue SE,,Sioux Center,51250,IA,US,Sioux,(712) 722-8260
+USA-IA-88-IA-All-output-602,Great River Home Health Care,Home Health,1306 South Washington Road,,West Burlington,52655,IA,US,Des Moines,(319) 768-3350
+USA-IA-88-IA-All-output-603,"Stay In Home Care, Inc.",Home Health,401 Main Street, PO Box 154,Royal,51357,IA,US,Clay,(712) 346-7019
+USA-IA-88-IA-All-output-604,Above & Beyond Home Health ,Home Health,417 East 31st Street  ,,Monticello,52301,IA,US,Jones,(319) 465-3059
+USA-IA-88-IA-All-output-605,Bremer County Health Department  - Home Health,Home Health,403 3rd Street SE,,Waverly,50677-3513,IA,US,Bremer,(319) 352-0082
+USA-IA-88-IA-All-output-606,Buena Vista County Public Health & Home Care,Home Health,1709 East Richland Street,PO Box 663,Storm Lake,50588,IA,US,Buena Vista,(712) 749-2548
+USA-IA-88-IA-All-output-607,Iowa Home Care LLC Corporate,Home Health,12107 Stratford Drive,,Clive,50325,IA,US,Polk,(515) 222-2285
+USA-IA-88-IA-All-output-608,Iowa Home Care LLC - West Des Moines,Home Health,2500 University ,,West Des Moines,50266,IA,US,Polk,(515) 222-9995
+USA-IA-88-IA-All-output-609,Iowa Home Care LLC - Fort Dodge,Home Health,1325 1st Avenue South,,Fort Dodge,50501-4948,IA,US,Webster,(515) 576-2273
+USA-IA-88-IA-All-output-610,Iowa Home Care LLC - Ottumwa,Home Health,1112 North Van Buren Avenue,Suite 3,Ottumwa,52501,IA,US,Wapello,(641) 226-5050
+USA-IA-88-IA-All-output-611,Circle of Friends Home Care,Home Health,1010 North 7th Street,,Chariton,50049,IA,US,Lucas,(641) 774-2339
+USA-IA-88-IA-All-output-612,Advanced Home Health Care,Home Health,1603 Morgan Street,Suite 8,Keokuk,52632,IA,US,Des Moines,(319) 753-6270
+USA-IA-88-IA-All-output-613,Universal Pediatric Services - WDM,Home Health,6750 Westown Parkway, Suite 115,West Des Moines,50266,IA,US,Dallas,(800) 333-5185
+USA-IA-88-IA-All-output-614,Carroll Area Nursing Service,Home Health,603 West 8th Street, PO Box 683,Carroll,51401,IA,US,Carroll,(712) 792-1111
+USA-IA-88-IA-All-output-615,Chickasaw County Public Health & Home Care Services,Home Health,260 East Prospect,PO Box 355,New Hampton,50659-0003,IA,US,Chickasaw,(641) 394-4053
+USA-IA-88-IA-All-output-616,Universal Pediatric Services- Carroll,Home Health,829 North Griffith Road   PO Box 1234,,Carroll,51401-2709,IA,US,Carroll,(712) 792-1921
+USA-IA-88-IA-All-output-617,Universal Pediatric Services - Newton,Home Health,115 North 3rd Avenue West ,,Newton,52205,IA,US,Jasper,(641) 792-5553
+USA-IA-88-IA-All-output-618,"Sunnybrook Home Care, Inc. ",Home Health,400 S Highland St ,#102,Fairfield,52556,IA,US,Jefferson,(641) 472-4808
+USA-IA-88-IA-All-output-619,"Home Sweet Home Care, Inc",Home Health,16 West Sixth Street,,Atlantic,50022-0384,IA,US,Cass,(712) 243-5343
+USA-IA-88-IA-All-output-620,Gentiva Health Services - Hiawatha,Home Health,1067 North Center Point Road,,Hiawatha,52233,IA,US,Linn,(319) 393-4742
+USA-IA-88-IA-All-output-621,Hamilton County Public Health Nursing Services,Home Health,820 James Street,,Webster City,50595,IA,US,Hamilton,(515) 832-9565
+USA-IA-88-IA-All-output-622,Hancock County  Health System Community Health,Home Health,545 State Street,,Garner,50438,IA,US,Hancock,(641) 923-3676
+USA-IA-88-IA-All-output-623,Greenbelt Homecare,Home Health,2411 Edgington Avenue,,Eldora,50627,IA,US,Hardin,(641) 939-8444
+USA-IA-88-IA-All-output-624,Optimae Home Health,Home Health,206 West Burlington,,Fairfield,52556,IA,US,Jefferson ,(641) 472-4464
+USA-IA-88-IA-All-output-625,Keokuk County PHNS,Home Health,101 South Main Street, Courthouse,Sigourney,52591,IA,US,Keokuk,(641) 622-3575
+USA-IA-88-IA-All-output-626,"Community Health Services, Kossuth Regional Health Center ",Home Health,1515 South Phillips Street,,Algona,50511,IA,US,Kossuth,(515) 295-4430
+USA-IA-88-IA-All-output-627,Lee County Health Department,Home Health,2218 Avenue H,,Fort Madison,52627,IA,US,Lee,(319) 372-5225
+USA-IA-88-IA-All-output-628,"Mobile Nursing Services, LTD.",Home Health,705 Avenue G,,Fort Madison,52627,IA,US,Lee,(319) 372-8023
+USA-IA-88-IA-All-output-629,Welcov Home Health of Logan,Home Health,314 South Elm Street,,Logan,51546,IA,US,Harrison,(712) 644-3529
+USA-IA-88-IA-All-output-630,Recover Health of Sioux City,Home Health,117 Pierce Street, Suite 100,Sioux City,51105,IA,US,Woodbury,(712) 233-5494
+USA-IA-88-IA-All-output-631,Wright County Health Department,Home Health,115 First Street SE,,Clarion,50525,IA,US,Wright,(515) 532-3461
+USA-IA-88-IA-All-output-632,Webster County Health Department,Home Health,723 1st. Avenue South,Ste 220,Fort Dodge,50501,IA,US,Webster,(515) 573-4107
+USA-IA-88-IA-All-output-633,Winnebago County Public Health,Home Health,216 South 4th Street,,Forest City,50436,IA,US,Winnebago,(641) 585-4763
+USA-IA-88-IA-All-output-634,"Comfort Care Medicare, Inc.",Home Health,4027 Glass Road NE,,Cedar Rapids,52402,IA,US,Linn,(319) 294-3527
+USA-IA-88-IA-All-output-635,Recover Health of Cedar Rapids,Home Health,700 1st Avenue NE, Suite 101,Cedar Rapids,52401,IA,US,Linn,(319) 373-6294
+USA-IA-88-IA-All-output-636,Cerro Gordo County Department of Public Health,Home Health,22 North Georgia Suite 300,,Mason City,50401,IA,US,Cerro Gordo ,(641) 421-9300
+USA-IA-88-IA-All-output-637,Therapy Solutions,Home Health,3315 First Avenue SE,,Cedar Rapids,52402,IA,US,Linn,(319) 861-3322
+USA-IA-88-IA-All-output-638,Louisa County Public Health,Home Health,805 Highway 61 North,,Wapello,52653,IA,US,Louisa,(319) 523-3981
+USA-IA-88-IA-All-output-639,"Skyline Center, Inc. Home Health",Home Health,2600 North Fourth Street,,Clinton,52732-3064,IA,US,Clinton,(563) 243-4065
+USA-IA-88-IA-All-output-640,Dallas County Public Health Nursing Service,Home Health,25747 N Ave, Suite C,Adel,50003-1448,IA,US,Dallas,(515) 993-3750
+USA-IA-88-IA-All-output-641,Mahaska Health Partnership Home Health & Hospice,Home Health,1225 C Avenue East,,Oskaloosa,52577,IA,US,Mahaska,(641) 672-3260
+USA-IA-88-IA-All-output-642,Decatur County Public Health and Home Care ,Home Health,207 NE Idaho Street,,Leon,50144-0000,IA,US,Decatur,(641) 446-6518
+USA-IA-88-IA-All-output-643,Welcov Home Health of Red Oak,Home Health,1600 Summit Street,,Red Oak,51566,IA,US,Montgomery,(712) 623-2500
+USA-IA-88-IA-All-output-644,Des Moines County Health Department,Home Health,522 North Street,,Burlington,52601-0000,IA,US,Des Moines ,(319) 753-8290
+USA-IA-88-IA-All-output-645,Good Samaritan Society - Home Care Spirit Lake,Home Health,1710 Lincoln Street,Suite A,Spirit Lake,51360,IA,US,Dickinson ,(712) 336-3412
+USA-IA-88-IA-All-output-646,"Quality Home Care Professionals, Inc.",Home Health,101 East Marion Street,,Knoxville,50138,IA,US,Marion,(641) 828-7889
+USA-IA-88-IA-All-output-647,Heights Home Health Inc,Home Health,114 N. 4th Street, Suite C,Mapleton,51034,IA,US,Monona,(712) 881-7144
+USA-IA-88-IA-All-output-648,Floyd County Public Health/Home Health Care,Home Health,1003 Gilbert Street,,Charles City,50616-2637,IA,US,Floyd,(641) 257-6111
+USA-IA-88-IA-All-output-649,Franklin County Public Health ,Home Health,1600 Central Avenue East ,,Hampton,50441,IA,US,Franklin,(641) 456-5820
+USA-IA-88-IA-All-output-650,Southwest Iowa Home Health Services,Home Health,301 Main Street,BO Box 357,Sidney,51652-0357,IA,US,Fremont,(712) 374-2685
+USA-IA-88-IA-All-output-651,Guthrie County Public Health Nursing Service,Home Health,2002 State Street,,Guthrie Center,50115,IA,US,Guthrie,(641) 747-3972
+USA-IA-88-IA-All-output-652,Mary Greeley Home Health Services,Home Health,1114 Duff Ave,,Ames,50010,IA,US,Story,(515) 239-6730
+USA-IA-88-IA-All-output-653,Taylor County Public Health,Home Health,405 Jefferson  Ste. 7,,Bedford,50833,IA,US,Taylor,(712) 523-3405
+USA-IA-88-IA-All-output-654,Genesis VNA ,Home Health,2535 Maplecrest Road ,,Bettendorf,52722,IA,US,Scott,(563) 421-5500
+USA-IA-88-IA-All-output-655,Orange City Home Health & Hospice,Home Health,1000 Lincoln Circle SE,,Orange City,51041,IA,US,Sioux,(712) 737-5279
+USA-IA-88-IA-All-output-656,Recover Health of Council Bluffs,Home Health,1509 West Broadway Ste 4,,Council Bluffs,51501,IA,US,Pottawattamie,(712) 325-8989
+USA-IA-88-IA-All-output-657,Grinnell Regional Home Care,Home Health,210 Fourth Ave,,Grinnell,50112,IA,US,Poweshiek,(641) 236-2059
+USA-IA-88-IA-All-output-658,Sac County PHNS,Home Health,116 South State Street,Suite A,Sac City,50583,IA,US,Sac,(712) 662-4785
+USA-IA-88-IA-All-output-659,"Family Care Solutions, LC",Home Health,3411 Devils Glen Rd,,Bettendorf,52722,IA,US,Scott,(563) 332-0520
+USA-IA-88-IA-All-output-660,Pocahontas Community Hospital Home Health  Hospice,Home Health,606 NW 7th Street,,Pocahontas,50574,IA,US,Pocahontas,(712) 335-3501
+USA-IA-88-IA-All-output-661,"Freedom Home Health Care, Inc. ",Home Health,2701 SE Convenience Blvd.,,Ankeny,50021,IA,US,Polk,(515) 207-1501
+USA-IA-88-IA-All-output-662,St. Anthony Home Health/Hospice,Home Health,318 South Maple,,Carroll,51401,IA,US,Carroll,(712) 794-5279
+USA-IA-88-IA-All-output-663,Spirit Home Healthcare,Home Health,12010 Ridgemont Drive,,Urbandale,50323,IA,US,Polk,(515) 987-9090
+USA-IA-88-IA-All-output-664,Careage Home Care,Home Health,203 East Bow Drive,,Cherokee,51012,IA,US,Cherokee,(712) 225-5120
+USA-IA-88-IA-All-output-665,Nurse Force,Home Health, 2900 Westown Parkway, Suite 200  ,West Des Moines,50266,IA,US,Polk,(515) 224-4566
+USA-IA-88-IA-All-output-666,Welcov Home Health of Sergeant Bluff,Home Health,112 Gaul Drive,,Sergeant Bluff,51054,IA,US,Woodbury,(712) 943-7644
+USA-IA-88-IA-All-output-667,Floyd Valley Community Health ,Home Health,714 Lincoln Street NE,Floyd Valley Hospital,LeMars,51031,IA,US,Plymouth,(712) 546-3335
+USA-IA-88-IA-All-output-668,Hegg Home Health Care,Home Health,1202 21st Avenue,,Rock Valley,51247,IA,US,Sioux,(712) 476-8050
+USA-IA-88-IA-All-output-669,Universal Pediatric Services - Sheldon,Home Health,702 Park Street    PO Box 158,,Sheldon,51201,IA,US,O'Brien,(712) 324-4012
+USA-IA-88-IA-All-output-670,At Home with Western Home,Home Health,5201 South Main Street,,Cedar Falls,50613,IA,US,Black Hawk,(319) 277-7779
+USA-IA-88-IA-All-output-671,Caregivers Home Health,Home Health,19999 St. Joseph's Drive,,Centerville,52544,IA,US,Appanoose,(641) 437-1117
+USA-IA-88-IA-All-output-672,Gentiva Home Health - Des Moines,Home Health,6200 Aurora,Suite 100 E,Urbandale,50322,IA,US,Polk,(515) 277-0977
+USA-IA-88-IA-All-output-673,St. Francis Manor,Home Health,2021 Fourth Avenue,,Grinnell,50112,IA,US,Poweshiek,(641) 236-7592
+USA-IA-88-IA-All-output-674,Angels in the Home,Home Health,12107 Stratford Drive,,Clive,50325,IA,US,Polk,(515) 645-9117
+USA-IA-88-IA-All-output-675,Keystone Home Health,Home Health,280 5th Street #2,,Keystone,52249,IA,US,,(319) 442-3650
+USA-IA-88-IA-All-output-676,At Home Care Company Ankeny,Home Health,1513 N Ankeny Blvd. Ste 4,,Ankeny,50023,IA,US,Polk,(515) 963-4410
+USA-IA-88-IA-All-output-677,Veterans Memorial Hospital Community and Home Care,Home Health,40 1st Street SE,,Waukon,52172,IA,US,Allamakee,(563) 568-5660
+USA-IA-88-IA-All-output-678,"CARE at Home Iowa, LLC",Home Health,907 East Washington Street,Ste 105,Mt. Pleasant,52641,IA,US,Henry,(319) 330-1755
+USA-IA-88-IA-All-output-679,Universal Pediatrics - Sioux City,Home Health,518 8th Street  Suite B,,Sioux City,51101,IA,US,Woodbury,(712) 234-3426
+USA-IA-88-IA-All-output-680,Universal Pediatrics - Dubuque,Home Health,1605 Associates Drive    Ste. 103,,Dubuque,52002,IA,US,Dubuque,(563) 557-5762
+USA-IA-88-IA-All-output-681,Home Instead Senior Care-Polk County,Home Health,414 61st Street,,Des Moines,50312,IA,US,Polk,(515) 221-0866
+USA-IA-88-IA-All-output-682,Home Instead Senior Care-Cedar Rapids,Home Health,373 Collins Rd. NE  Ste. 101,,Cedar Rapids,52402,IA,US,Linn,(319) 247-0400
+USA-IA-88-IA-All-output-683,Home Instead Senior Care-Milford,Home Health,PO Box 262,,Milford,51351,IA,US,Dickinson,(712) 338-6150
+USA-IA-88-IA-All-output-684,Home Instead Senior Care-Waukee,Home Health,215 North Warrior Lane,Ste. B,Waukee,50263,IA,US,Dallas,(515) 978-7991
+USA-IA-88-IA-All-output-685,Home Instead Senior Care-Waterloo,Home Health,1844 W Ridgeway Avenue,,Waterloo,50701,IA,US,Bremer,(319) 235-5999
+USA-IA-88-IA-All-output-686,Home Instead Senior Care-Newton,Home Health,119 W 2nd Street N,,Newton,50208,IA,US,Jasper,(641) 792-1800
+USA-IA-88-IA-All-output-687,Home Instead Senior Care-Quad Cities,Home Health,1977 Spruce Hills Drive,,Bettendorf,52722,IA,US,Scott,(563) 359-0027
+USA-IA-88-IA-All-output-688,Connect Home Care,Home Health,1217 N. 6th Avenue Ste #3,,Winterset,50273,IA,US,Madison,(515) 462-0288
+USA-IA-88-IA-All-output-689,Home Instead Senior Care-Iowa City,Home Health,1700 S. 1st Ave Eastdale Plaza Ste 25E,,Iowa City,52240,IA,US,Johnson,(319) 358-2340
+USA-IA-88-IA-All-output-690,"Vinton Lutheran AL, IL, & Home Health",Home Health,1301 2nd Avenue,,Vinton,52349,IA,US,Benton,(319) 472-2092
+USA-IA-88-IA-All-output-691,Countryside Nursing and Rehabilitation Center,Senior Apartments,6120 Morningside Avenue,,Sioux City,51106,IA,US,Woodbury,(712) 276-3000
+USA-IA-88-IA-All-output-692,Good Samaritan Society - LeMars,Senior Apartments,1140 Lincoln Street NE,,LeMars,51031,IA,US,Plymouth,(712) 546-4101
+USA-IA-88-IA-All-output-693,Fellowship Village,Senior Apartments,300 East Jefferson,,Inwood,51240,IA,US,Lyon,(712) 753-4663
+USA-IA-88-IA-All-output-694,Good Samaritan Society - Estherville,Senior Apartments,1646 5th Avenue, North,Estherville,51334,IA,US,Emmet,(712) 362-3522
+USA-IA-88-IA-All-output-695,Good Samaritan Society - George,Senior Apartments,324 1st Avenue ,PO Box 608,George,51237,IA,US,Lyon,(712) 475-3391
+USA-IA-88-IA-All-output-696,Good Samaritan Society - Indianola,Senior Apartments,708 South Jefferson Way ,P.O. Box 319,Indianola,50125,IA,US,Warren,(515) 961-2596
+USA-IA-88-IA-All-output-697,Good Samaritan Society - Ottumwa,Senior Apartments,2035 Chester Avenue,,Ottumwa,52501,IA,US,Wapello,(641) 682-8041
+USA-IA-88-IA-All-output-698,Good Samaritan Society - Postville,Senior Apartments,400 Hardin Drive ,,Postville,52162,IA,US,Allamakee,(563) 864-7425
+USA-IA-88-IA-All-output-699,Good Samaritan Society - Waukon,Senior Apartments,21 East  Main Street,,Waukon,52172,IA,US,Allamakee,(563) 568-3447
+USA-IA-88-IA-All-output-700,Good Samaritan Society - West Union,Senior Apartments,201 Hall Street,,West Union,52175,IA,US,Fayette,(563) 422-3814
+USA-IA-88-IA-All-output-701,Good Shepherd Health Center,Senior Apartments,P.O. Box 1707,302 2nd Street,Mason City,50402-1707,IA,US,Cerro Gordo,(641) 424-1740
+USA-IA-88-IA-All-output-702,Holy Spirit Retirement Home,Senior Apartments,1701 West 25th Street,,Sioux City,51103,IA,US,Woodbury,(712) 252-2726
+USA-IA-88-IA-All-output-703,Maple Heights,Senior Apartments,2 Sunrise Avenue,,Mapleton,51034,IA,US,Monona,(712) 881-1680
+USA-IA-88-IA-All-output-704,Marian Home,Senior Apartments,2400 6th Avenue N,,Fort Dodge,50501,IA,US,Webster,(515) 576-1138
+USA-IA-88-IA-All-output-705,Parkview Manor,Senior Apartments,516 13th Street,,Wellman,52356,IA,US,Washington,(319) 646-2911
+USA-IA-88-IA-All-output-706,Pleasant View Home,Senior Apartments,410 Spruce Street,,Albert City,50510,IA,US,Buena Vista,(712) 843-2237
+USA-IA-88-IA-All-output-707,Pleasant View Care Center,Senior Apartments,200 Shannon Drive,,Whiting,51063,IA,US,Monona,(712) 458-2417
+USA-IA-88-IA-All-output-708,Prairie View Home Inn,Senior Apartments,610 N Eastern Street,,Sanborn,51248,IA,US,O'Brien,(712) 930-3228
+USA-IA-88-IA-All-output-709,Scenic Living Communities,Senior Apartments,1409 Fremont Street,,Iowa Falls,50126,IA,US,Hardin,(641) 648-4671
+USA-IA-88-IA-All-output-710,Stratford Specialty Care,Senior Apartments,1200 Hwy 175 East, P.O. Box 260,Stratford,50249,IA,US,Hamilton,
+USA-IA-88-IA-All-output-711,Corning Specialty Care,Senior Apartments,1614 Northgate Drive,,Corning,50841,IA,US,Adams,(641) 322-4061
+USA-IA-88-IA-All-output-712,Premier Estates of Toledo,Senior Apartments,403 Grandview Drive,,Toledo,52342-0279,IA,US,Tama,(641) 484-5080
+USA-IA-88-IA-All-output-713,River Hills Village,Senior Apartments,20 Village Circle,,Keokuk,52632,IA,US,Lee,(319) 524-5772
+USA-IA-88-IA-All-output-714,West Bridge Care & Rehabilitation,Senior Apartments,1015 West Summitt,P.O. Box 352,Winterset,50273-2209,IA,US,Madison,(515) 462-1711
+USA-IA-88-IA-All-output-715,Creston Specialty Care,Senior Apartments,1001 Cottonwood Road,,Creston,50801,IA,US,Union,(641) 782-8511
+USA-IA-88-IA-All-output-716,Scottish Rite Park Health Care Center,Senior Apartments,2909 Woodland Avenue,,Des Moines,50312-3885,IA,US,Polk,(515) 274-4614
+USA-IA-88-IA-All-output-717,Good Samaritan Society - Davenport,Senior Apartments,700 Waverly Road,,Davenport,52804,IA,US,Scott,(563) 324-1651
+USA-IA-88-IA-All-output-718,Clarence Nursing Home,Senior Apartments,402 2nd Avenue, P.O. Box 485,Clarence,52216,IA,US,Cedar,(563) 452-3262
+USA-IA-88-IA-All-output-719,Evergreen Estates III,Senior Apartments,2204 Johnson Avenue, NW,Cedar Rapids,52405,IA,US,Linn,(319) 363-8116
+USA-IA-88-IA-All-output-720,Valley View,Senior Apartments,108 S High Street,,Greene,50636,IA,US,Butler,(641) 823-4531
+USA-IA-88-IA-All-output-721,Methodist Manor Retirement Community,Senior Apartments,1206 West 4th Street,,Storm Lake,50588,IA,US,Buena Vista,(712) 732-1120
+USA-IA-88-IA-All-output-722,Pearl Valley Rehabilitation and Nursing at Gowrie LLC ,Senior Apartments,1808 Main Street,,Gowrie,50543,IA,US,Webster,(515) 352-3912
+USA-IA-88-IA-All-output-723,Cedar Manor Nursing Home,Senior Apartments,1200 Mulberry Street,,Tipton,52772,IA,US,Cedar,(563) 886-2133
+USA-IA-88-IA-All-output-724,Davenport Lutheran Home,Senior Apartments,1130 W 53rd Street,,Davenport,52806,IA,US,Scott,(563) 391-5342
+USA-IA-88-IA-All-output-725,Westhaven Community,Senior Apartments,112 W 4th Street,,Boone,50036,IA,US,Boone,(515) 432-1393
+USA-IA-88-IA-All-output-726,Greene County Medical Center ,Senior Apartments,1000 West Lincolnway,,Jefferson,50129,IA,US,Greene,(515) 386-2114
+USA-IA-88-IA-All-output-727,Linn Manor Care Center,Senior Apartments,1140 Elim Drive,,Marion,52302,IA,US,Linn,(319) 377-4611
+USA-IA-88-IA-All-output-728,Madrid Home for the Aging,Senior Apartments,613 West North Street,,Madrid,50156,IA,US,Boone,(515) 795-3007
+USA-IA-88-IA-All-output-729,Parkview Home,Senior Apartments,102 North Jackson,,Wayland,52654-0038,IA,US,Henry,(319) 256-3525
+USA-IA-88-IA-All-output-730,Ramsey Village,Senior Apartments,1611 27th Street,,Des Moines,50310-5400,IA,US,Polk,(515) 274-3612
+USA-IA-88-IA-All-output-731,Rowley Memorial Masonic Home,Senior Apartments,1300 28th Street,PO Box 528,Perry,50220,IA,US,Dallas,(515) 465-5316
+USA-IA-88-IA-All-output-732,Strawberry Point Lutheran Home Community,Senior Apartments,313 Elkader Street,P.O. Box 34,Strawberry Point,52076,IA,US,Clayton,(563) 933-6037
+USA-IA-88-IA-All-output-733,VIA Health Services (Carlisle),Senior Apartments,680 Cole Street,,Carlisle,50047,IA,US,Warren,(515) 989-0871
+USA-IA-88-IA-All-output-734,Trinity Center at Luther Park,Senior Apartments,1555 Hull Avenue,,Des Moines,50316,IA,US,Polk,(515) 262-5639
+USA-IA-88-IA-All-output-735,Humboldt County Memorial Hospital,Senior Apartments,1000 N 15th Street,,Humboldt,50548,IA,US,Humboldt,(515) 332-4200
+USA-IA-88-IA-All-output-736,Keystone Senior Suites,Senior Apartments,250 Fifth Street,,Keystone,52249-9521,IA,US,Benton,(319) 442-3234
+USA-IA-88-IA-All-output-737,The Heritage at Northern Hills ,Senior Apartments,4002 Teton Trace,,Sioux City,51104,IA,US,Woodbury,(712) 239-9402
+USA-IA-88-IA-All-output-738,Evergreen Senior Living,Senior Apartments,925 Heritage Drive,,Osage,50461,IA,US,Mitchell,(641) 732-3300
+USA-IA-88-IA-All-output-739,Pennsylvania Place AL Ottumwa,Senior Apartments,2 Pennsylvania Place,,Ottumwa,52501,IA,US,Wapello,(641) 684-4000
+USA-IA-88-IA-All-output-740,Brookdale Sioux City,Senior Apartments,2562 Pierce Street,,Sioux City,51104,IA,US,Woodbury,(712) 255-1200
+USA-IA-88-IA-All-output-741,Villages at Marion/Village Ridge,Senior Apartments,365 Marion Blvd.,,Marion,52302,IA,US,Linn,(319) 377-9808
+USA-IA-88-IA-All-output-742,Aase Haugen Assisted Living,Senior Apartments,4 Ohio Street,,Decorah,52101,IA,US,Winneshiek,(563) 382-3603
+USA-IA-88-IA-All-output-743,Vriendschap Village,Senior Apartments,2604 Fifield Road,,Pella,50219,IA,US,Marion,(641) 628-8260
+USA-IA-88-IA-All-output-744,Murphy Place Assisted Living,Senior Apartments,620 E. Monroe,,Corydon,50060,IA,US,Wayne,(641) 872-3993
+USA-IA-88-IA-All-output-745,Westwood Knolls Senior Housing,Senior Apartments,2239 NW Street,,Carroll,51401,IA,US,Carroll,(712) 792-1064
+USA-IA-88-IA-All-output-746,Westview Estates,Senior Apartments,1013 2nd Street,,Reinbeck,50669,IA,US,Grundy,(319) 345-6761
+USA-IA-88-IA-All-output-747,Premier Estates of Muscatine,Senior Apartments,3440 Mulberry Avenue,,Muscatine,52761,IA,US,Muscatine,(563) 263-2194
+USA-IA-88-IA-All-output-748,Garden View Senior Community,Senior Apartments,800 Darby Drive,,Monona,52159,IA,US,Clayton,(563) 539-4528
+USA-IA-88-IA-All-output-749,Deerfield Retirement Community Inc.,Senior Apartments,13731 Hickman Road,,Urbandale,50323,IA,US,Polk,(515) 267-0438
+USA-IA-88-IA-All-output-750,Shores at Pleasant Hill,Senior Apartments,1500 Edgewater Drive,,Pleasant Hill,50327,IA,US,Polk,(515) 262-4444
+USA-IA-88-IA-All-output-751,Summit Pointe Senior Living Community,Senior Apartments,3505 English Glen Avenue,,Marion,52302,IA,US,Linn,(319) 373-4242
+USA-IA-88-IA-All-output-752,Village at Legacy Pointe ,Senior Apartments,1645 SE Holiday Crest Circle,,Waukee,50263,IA,US,Dallas,(515) 987-4100
+USA-IA-88-IA-All-output-753,Tower Living Center,Senior Apartments,103 Centre Street, Box 477,Garnavillo,52049,IA,US,Clayton,(563) 964-9090
+USA-IA-88-IA-All-output-754,Solon Assisted Living Village,Senior Apartments,623 E 5th Street,,Solon,52333,IA,US,Johnson,(319) 624-5353
+USA-IA-88-IA-All-output-755,Bridges Senior Lifestyle Living,Senior Apartments,214 Washington Street,,Waterloo,50701,IA,US,Black Hawk,(319) 233-1133
+USA-IA-88-IA-All-output-756,Kennybrook Village,Senior Apartments,200 SW Brookside Dr.,,Grimes,50111,IA,US,Polk,(515) 369-3900
+USA-IA-88-IA-All-output-757,"Martin Health Center, Inc.",Senior Apartments,420 E 11th St,Western Home Communities,Cedar Falls,50613,IA,US,Black Hawk,(319) 277-2141
+USA-IA-88-IA-All-output-758,Crestview Nursing & Rehab - Webster City,Senior Apartments,2401 South Des Moines St,,Webster City,50595,IA,US,Hamilton,(515) 832-2727
+USA-IA-88-IA-All-output-759,Prairie Vista Village,Senior Apartments,2785 First Avenue South,PO Box 335,Altoona,50009,IA,US,Polk,(515) 967-8700
+USA-IA-88-IA-All-output-760,St. Francis Manor,Senior Apartments,2021 Fourth Avenue,,Grinnell,50112,IA,US,Poweshiek,(641) 236-7592
+USA-IA-88-IA-All-output-761,South Ridge Heights,Senior Apartments,1209 12th Street SE,,Spencer,51301,IA,US,Clay,(712) 262-5934
+USA-IA-88-IA-All-output-762,The Highlands,Senior Apartments,1211 St. Luke Drive,,Spencer,51301,IA,US,Clay,(712) 262-5404
+USA-IA-88-IA-All-output-763,Northridge Village,Senior Apartments,3300 George W. Carver Avenue,,Ames,50010,IA,US,Story,(515) 357-8395
+USA-IA-88-IA-All-output-764,Walden Point,Senior Apartments,1200 Fourth Street,,Des Moines,50314,IA,US,Polk,(515) 288-9985
+USA-IA-88-IA-All-output-765,"Vinton Lutheran AL, IL, & Home Health",Senior Apartments,1301 2nd Avenue,,Vinton,52349,IA,US,Benton,(319) 472-2092
+USA-IA-88-IA-All-output-766,Country House Residence,Senior Apartments,1831 East Kanesville Blvd.,,Council Bluffs,51503,IA,US,Pottawattamie,(712) 322-4100

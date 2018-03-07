@@ -1,0 +1,3 @@
+normalized_column_name,description,type,mapped_column_names,nullable,note
+typeofcare,Low Rate and High Rate,type_of_care_relation,ACCOMODATION_TYPE; FACILITY_TYPE(S); FACTYPE; PROVIDER_TYPE; TYPE; TYPE_OF_RESIDENCE; TYPE_RES,TRUE,
+typeofcare2,Low Rate and High Rate,type_of_care_relation,FACILITY_TYPE,TRUE,

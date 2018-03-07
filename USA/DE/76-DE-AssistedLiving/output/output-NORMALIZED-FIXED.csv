@@ -1,0 +1,33 @@
+name,contact_first_name,contact_last_name,contact_name,email,contact_email,fax,mailing_address_line_1,mailing_address_line_2,mailing_city,mailing_contact_first_name,mailing_contact_last_name,mailing_contact_name,mailing_country,mailing_county,mailing_postalcode,mailing_province,provider_name,primary_phone,secondary_phone,twitter,website,source,contact_occupation,dsgne_first_name,dsgne_last_name,admin_name,co_address_line_1,co_address_line_2,co_company,co_city,co_postalcode,co_province,ombudsman_phone,typeofcare,typeofcare2,low_high_rate,low_rate,high_rate,address_line_1,address_line_2,address_directions,city,municipality,region,province,state_id,postal_code,country,latitude,longitude,neighborhood,addr_valid
+Arden Courts of Wilmington,,,,,,,,,,,,,,,,,,302-762-7800,,,,,,,,,,,,,,,,,Assisted Living,,,,700 1/2 Foulk Rd,,,Wilmington,,,DE,,19803-3708,US,39.7871519,-75.533408,,True
+Brandywine Senior Living at Fenwick Island,,,,,,,,,,,,,,,,,,302-436-0808,,,,,,,,,,,,,,,,,Assisted Living,,,,21111 Arrington Dr,,,Selbyville,,,DE,,19975,US,38.4704089,-75.11731859999999,,True
+Brandywine Senior Living at Seaside Pointe,,,,,,,,,,,,,,,,,,302-226-8750,,,,,,,,,,,,,,,,,Assisted Living,,,,36101 Seaside Blvd,,,Rehoboth Beach,,,DE,,19971-1189,US,38.72377829999999,-75.1192171,,True
+Brookdale Dover,,,,,,,,,,,,,,,,,,302-674-4407,,,,,,,,,,,,,,,,,Assisted Living,,,,150 Saulsbury Rd,,,Dover,,,DE,,19904-2776,US,39.1624702,-75.5451702,,True
+Brookdale Hockessin,,,,,,,,,,,,,,,,,,302-239-3200,,,,,,,,,,,,,,,,,Assisted Living,,,,6677 Lancaster Pike,,,Hockessin,,,DE,,19707-9503,US,39.7722392,-75.6660035,,False
+Brookdale White Chapel,,,,,,,,,,,,,,,,,,302-366-8100,,,,,,,,,,,,,,,,,Assisted Living,,,,200 E Village Rd,,,Newark,,,DE,,19711-3845,US,39.6764296,-75.7300506,,True
+Cadbury at Lewes  Assisted Living,,,,,,,,,,,,,,,,,,302-645-6400,,,,,,,,,,,,,,,,,Assisted Living,,,,17028 Cadbury Cir,,,Lewes,,,DE,,19958-7028,US,38.7557439,-75.14100859999999,,True
+Dover Place,,,,,,,,,,,,,,,,,,302-735-8800,,,,,,,,,,,,,,,,,Assisted Living,,,,1203 Walker Rd,,,Dover,,,DE,,19904-6541,US,39.16947869999999,-75.55317889999999,,True
+"Five Star Foulk Manor North LLC, Assisted Living",,,,,,,,,,,,,,,,,,302-478-4296,,,,,,,,,,,,,,,,,Assisted Living,,,,1212 Foulk Rd,,,Wilmington,,,DE,,19803-2741,US,39.7953783,-75.5253549,,True
+Forwood Manor Assisted Living,,,,,,,,,,,,,,,,,,302-529-1601,,,,,,,,,,,,,,,,,Assisted Living,,,,1912 Marsh Rd,,,Wilmington,,,DE,,19810-3954,US,39.8094194,-75.50144089999999,,True
+Foulk Manor South Assisted Living,,,,,,,,,,,,,,,,,,302-655-6249,,,,,,,,,,,,,,,,,Assisted Living,,,,407 Foulk Rd,,,Wilmington,,,DE,,19803-3809,US,39.78389809999999,-75.5400288,,True
+"Ingleside Assisted Living, LLC",,,,,,,,,,,,,,,,,,302-984-0950,,,,,,,,,,,,,,,,,Assisted Living,,,,1605 North Broom St,,,Wilmington,,,DE,,19806-3009,US,39.75646959999999,-75.5584676,Trolley Square,True
+"Ivy Gables LTD, LLC.",,,,,,,,,,,,,,,,,,302-475-9400,,,,,,,,,,,,,,,,,Assisted Living,,,,2210 Swiss Ln,,,Wilmington,,,DE,,19810-4241,US,39.808642,-75.48440099999999,,True
+Lodge Lane Assisted Living,,,,,,,,,,,,,,,,,,302-757-8100,,,,,,,,,,,,,,,,,Assisted Living,,,,1221 Lodge Ln,,,Wilmington,,,DE,,19809,US,39.7623539,-75.4943329,,True
+Luther Towers I,,,,,,,,,,,,,,,,,,302-654-4491,,,,,,,,,,,,,,,,,Assisted Living,,,,1201 North Harrison St,,,Wilmington,,,DE,,19806-3534,US,39.7532326,-75.5579947,Trolley Square,True
+Luther Towers II,,,,,,,,,,,,,,,,,,302-654-4491,,,,,,,,,,,,,,,,,Assisted Living,,,,1420 North Franklin St,,,Wilmington,,,DE,,19806-3187,US,39.75430539999999,-75.55720509999999,Trolley Square,True
+Milford Place,,,,,,,,,,,,,,,,,,302-422-8700,,,,,,,,,,,,,,,,,Assisted Living,,,,500 S DuPont Hwy,,,Milford,,,DE,,19963-1758,US,38.9049427,-75.4434512,,True
+Millcroft Assisted Living,,,,,,,,,,,,,,,,,,302-366-0160,,,,,,,,,,,,,,,,,Assisted Living,,,,255 Possum Park Rd,,,Newark,,,DE,,19711-3877,US,39.7083613,-75.7351501,,True
+OakBridge Terrace Assisted Living at Manor House,,,,,,,,,,,,,,,,,,302-629-4593,,,,,,,,,,,,,,,,,Assisted Living,,,,1001 Middleford Rd,,,Seaford,,,DE,,19973-3638,US,38.64201600000001,-75.6008035,,True
+OakBridge Terrace at Cokesbury Village,,,,,,,,,,,,,,,,,,302-234-4444,,,,,,,,,,,,,,,,,Assisted Living,,,,726 Loveville Rd,,,Hockessin,,,DE,,19707-1519,US,39.7737917,-75.6621685,,True
+OakBridge Terrace at Country House,,,,,,,,,,,,,,,,,,302-654-5101,,,,,,,,,,,,,,,,,Assisted Living,,,,4830 Kennett Pike,,,Wilmington,,,DE,,19807-1899,US,39.79496,-75.61219799999999,,False
+Peach Tree Acres Assisted Living,,,,,,,,,,,,,,,,,,302-684-4002,,,,,,,,,,,,,,,,,Assisted Living,,,,26900 Lewes-Georgetown Hwy,,,Harbeson,,,DE,,19951-2855,US,38.72674559999999,-75.2692831,,True
+Rockland Place,,,,,,,,,,,,,,,,,,302-777-3099,,,,,,,,,,,,,,,,,Assisted Living,,,,1519 Rockland Rd,,,Wilmington,,,DE,,19803-3611,US,39.7836533,-75.5552562,,True
+Serenity Gardens Assisted Living,,,,,,,,,,,,,,,,,,302-464-1481,,,,,,,,,,,,,,,,,Assisted Living,,,,207 Ruth Dr,,,Middletown,,,DE,,19709-9470,US,39.480826,-75.66895699999999,,True
+Shipley Manor Assisted Living,,,,,,,,,,,,,,,,,,302-479-0111,,,,,,,,,,,,,,,,,Assisted Living,,,,2723 Shipley Rd,,,Wilmington,,,DE,,19810-3251,US,39.815962,-75.533781,,True
+Somerford House,,,,,,,,,,,,,,,,,,302-266-9255,,,,,,,,,,,,,,,,,Assisted Living,,,,501 South Harmony Rd,,,Newark,,,DE,,19713-3338,US,39.6829986,-75.68145799999999,,True
+Somerford Place,,,,,,,,,,,,,,,,,,302-283-0540,,,,,,,,,,,,,,,,,Assisted Living,,,,4175 Ogletown-Stanton Rd,,,Newark,,,DE,,19713-4168,US,39.6844465,-75.6822335,,True
+State Street Assisted Living,,,,,,,,,,,,,,,,,,302-674-2144,,,,,,,,,,,,,,,,,Assisted Living,,,,21 North State St,,,Dover,,,DE,,19901,US,39.1624756,-75.5254416,,True
+Sunrise Assisted Living of Wilmington,,,,,,,,,,,,,,,,,,302-475-9163,,,,,,,,,,,,,,,,,Assisted Living,,,,2215 Shipley Rd,,,Wilmington,,,DE,,19803-2305,US,39.80338089999999,-75.53389419999999,,True
+The Lorelton,,,,,,,,,,,,,,,,,,302-573-3580,,,,,,,,,,,,,,,,,Assisted Living,,,,2200 West 4th St,,,Wilmington,,,DE,,19805-3362,US,39.7501067,-75.5761095,The Flats,True
+The Summit Assisted Living,,,,,,,,,,,,,,,,,,302-235-8743,,,,,,,,,,,,,,,,,Assisted Living,,,,5850 Limestone Rd,,,Hockessin,,,DE,,19707,US,39.7543938,-75.7043193,,True
+Westminster Village Assisted Living,,,,,,,,,,,,,,,,,,302-744-3558,,,,,,,,,,,,,,,,,Assisted Living,,,,1167 McKee Rd,,,Dover,,,DE,,19904-2268,US,39.17553210000001,-75.55257139999999,,True

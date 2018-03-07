@@ -1,0 +1,36 @@
+row_id,name,license_num,licensure_status,care_level,website,contact,phone,cell,fax,email,street_address,po_box,city,province,postal_code,provides_nursing,country,facility_type
+Canada-PEI-5-AssistedLiving-5-AssistedLiving-1,Rev. W.J. Phillips Residence,,,,,,(902) 853-3109,,,,,,Alberton,PEI,,FALSE,Canada,Assisted Living
+Canada-PEI-5-AssistedLiving-5-AssistedLiving-2,Clinton View Lodge,,,,,,(902) 886-2276,,,,,,Clinton,PEI,,TRUE,Canada,Assisted Living
+Canada-PEI-5-AssistedLiving-5-AssistedLiving-3,Kensington Community Care Home,,,,,,(902) 836-3019,,,,,,Kensington,PEI,,FALSE,Canada,Assisted Living
+Canada-PEI-5-AssistedLiving-5-AssistedLiving-4,The Mews,,,,,,(902) 836-4678,,,,,,Kensington,PEI,,FALSE,Canada,Assisted Living
+Canada-PEI-5-AssistedLiving-5-AssistedLiving-5,Miscouche Villa,,,,,,(902) 436-1946,,,,,,Miscouche,PEI,,FALSE,Canada,Assisted Living
+Canada-PEI-5-AssistedLiving-5-AssistedLiving-6,Lady Slipper Villa,,,,,,(902) 859-3544,,,,,,O'Leary,PEI,,FALSE,Canada,Assisted Living
+Canada-PEI-5-AssistedLiving-5-AssistedLiving-7,Andrews of Summerside,,,,,,(902) 436-0859,,,,,,Summerside,PEI,,FALSE,Canada,Assisted Living
+Canada-PEI-5-AssistedLiving-5-AssistedLiving-8,Andrews of Park Hill,,,,,,(902) 888-2273,,,,,,Summerside,PEI,,FALSE,Canada,Assisted Living
+Canada-PEI-5-AssistedLiving-5-AssistedLiving-9,Tignish Seniors Home Care Cooperative,,,,,,(902) 882-4663,,,,,,Tignish,PEI,,FALSE,Canada,Assisted Living
+Canada-PEI-5-AssistedLiving-5-AssistedLiving-10,La Cooperative Le Chez Nous Ltee,,,,,,(902) 854-3426,,,,,,Wellington,PEI,,FALSE,Canada,Assisted Living
+Canada-PEI-5-AssistedLiving-5-AssistedLiving-11,Dr. JohnåÊGillisåÊMemorial Lodge,,,,,,(902) 659-2337,,,,,,Wellington,PEI,,TRUE,Canada,Assisted Living
+Canada-PEI-5-AssistedLiving-5-AssistedLiving-12,Andrews of Charlottetown,,,,,,(902) 368-2790,,,,,,Wellington,PEI,,FALSE,Canada,Assisted Living
+Canada-PEI-5-AssistedLiving-5-AssistedLiving-13,Andrews of Park West,,,,,,(902) 566-2260,,,,,,Wellington,PEI,,TRUE,Canada,Assisted Living
+Canada-PEI-5-AssistedLiving-5-AssistedLiving-14,Bevan Lodge,,,,,,(902) 894-5858,,,,,,Wellington,PEI,,FALSE,Canada,Assisted Living
+Canada-PEI-5-AssistedLiving-5-AssistedLiving-15,Champion Lodge,,,,,,(902) 894-8968,,,,,,Wellington,PEI,,FALSE,Canada,Assisted Living
+Canada-PEI-5-AssistedLiving-5-AssistedLiving-16,Charlotte Residence,,,,,,(902) 894-8134,,,,,,Wellington,PEI,,FALSE,Canada,Assisted Living
+Canada-PEI-5-AssistedLiving-5-AssistedLiving-17,Corrigan Home,,,,,,(902) 894-9686,,,,,,Wellington,PEI,,FALSE,Canada,Assisted Living
+Canada-PEI-5-AssistedLiving-5-AssistedLiving-18,Geneva Villa,,,,,,(902) 628-6642,,,,,,Wellington,PEI,,FALSE,Canada,Assisted Living
+Canada-PEI-5-AssistedLiving-5-AssistedLiving-19,Grafton House,,,,,,(902) 367-2875,,,,,,Wellington,PEI,,FALSE,Canada,Assisted Living
+Canada-PEI-5-AssistedLiving-5-AssistedLiving-20,Langille House,,,,,,(902) 628-8228,,,,,,Wellington,PEI,,FALSE,Canada,Assisted Living
+Canada-PEI-5-AssistedLiving-5-AssistedLiving-21,Emerson Lodge,,,,,,(902) 892-0791,,,,,,Wellington,PEI,,FALSE,Canada,Assisted Living
+Canada-PEI-5-AssistedLiving-5-AssistedLiving-22,Old Rose Lodge,,,,,,(902) 368-8313,,,,,,Wellington,PEI,,FALSE,Canada,Assisted Living
+Canada-PEI-5-AssistedLiving-5-AssistedLiving-23,Smith Lodge,,,,,,(902) 892-4220,,,,,,Wellington,PEI,,FALSE,Canada,Assisted Living
+Canada-PEI-5-AssistedLiving-5-AssistedLiving-24,Stamper Residence,,,,,,(902) 894-3815,,,,,,Wellington,PEI,,FALSE,Canada,Assisted Living
+Canada-PEI-5-AssistedLiving-5-AssistedLiving-25,Tenderwood Lodge,,,,,,(902) 566-5174,,,,,,Wellington,PEI,,FALSE,Canada,Assisted Living
+Canada-PEI-5-AssistedLiving-5-AssistedLiving-26,The Mount Continuing Care Community,,,,,,(902) 370-8888,,,,,,Wellington,PEI,,TRUE,Canada,Assisted Living
+Canada-PEI-5-AssistedLiving-5-AssistedLiving-27,Valley House,,,,,,(902) 628-8268,,,,,,Wellington,PEI,,FALSE,Canada,Assisted Living
+Canada-PEI-5-AssistedLiving-5-AssistedLiving-28,Whisperwood Villa,,,,,,(902) 566-5556,,,,,,Wellington,PEI,,TRUE,Canada,Assisted Living
+Canada-PEI-5-AssistedLiving-5-AssistedLiving-29,South Shore Villa,,,,,,(902) 658-2228,,,,,,Wellington,PEI,,TRUE,Canada,Assisted Living
+Canada-PEI-5-AssistedLiving-5-AssistedLiving-30,Rosewood Residence,,,,,,(902) 964-2436,,,,,,Wellington,PEI,,FALSE,Canada,Assisted Living
+Canada-PEI-5-AssistedLiving-5-AssistedLiving-31,Villa Marguerite,,,,,,(902) 963-3962,,,,,,North Rustico,PEI,,FALSE,Canada,Assisted Living
+Canada-PEI-5-AssistedLiving-5-AssistedLiving-32,Andrews of Stratford,,,,,,(902) 367-4100,,,,,,Stratford,PEI,,FALSE,Canada,Assisted Living
+Canada-PEI-5-AssistedLiving-5-AssistedLiving-33,MacKinnon Pines,,,,,,(902) 838-2656,,,,,,Montague,PEI,,FALSE,Canada,Assisted Living
+Canada-PEI-5-AssistedLiving-5-AssistedLiving-34,Perrins Marina Villa,,,,,,(902) 838-4075,,,,,,Montague,PEI,,FALSE,Canada,Assisted Living
+Canada-PEI-5-AssistedLiving-5-AssistedLiving-35,Bayview Lodge,,,,,,(902) 687-3122,,,,,,Souris,PEI,,FALSE,Canada,Assisted Living

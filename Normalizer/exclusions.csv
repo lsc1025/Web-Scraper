@@ -1,0 +1,1105 @@
+column_normalizer.py: Error normalizing Normalizer/../USA/National/42-NursingHomes/output/Deficiencies_Download.csv for the reason of DUPLICATE ON ['federal_provider_number', 'provider_name', 'address_line_1', 'city', 'province', 'postal_code', 'survey_date', 'survey_type', 'deficiency_prefix', 'deficiency_tag_number', 'deficiency_description', 'scope_severity_code', 'deficiency_corrected', 'correction_date', 'inspection_cycle', 'standard_deficiency', 'complaint_deficiency'] with DUPLICATE HEADER address_line_1
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../Canada/AB/26-AB-HousingDirecotry/output/output-NORMALIZED.csv:
+terms_of_occupancy,number_of_units,eligibility_criteria,application_procedure,additional_criteria,unit_square_footage_minimum,unit_square_footage_maximum,additional_suite_information,additional_suite_features,additional_services,additional_building_information,booleans_(see_readme),facebook
+Rental/Lease,42,- Canadian Citizen or Landed Immigrant - Residency Ð has lived in Consort Area for the previous 12 months - or any 10 years of their life, or has primary family members who - have lived in Consort area for the previous 12 months. - Age Ð must be at least ,Application to the Consort Lodge requires the completion of an application form and a personal interview. Complete the application form and have your Physician complete the Medical Report.,Not Specified,176,231,Not Specified,Not Specified,Home Care available,Not Specified,[True, False, False, False, True, False, False, False, False, False, True, True, False, True, True, True, False, False, False, True, True, True, True, False, True],Not Specified
+Rental/Lease,25,Seniors only. Income & Asset verification.,An application form is required and you must meet with our Placement Officer prior to approval.,Not Specified,,800,Not Specified,Appliances (fridge & stove) supplied.,The Meals on Wheels program is available through us within the Town of Taber for only the lunchtime meal, but residents of this building can also access the meal plan through Clearview Lodge for any or all meals.,There is a large "Common area" for all residents.  
+
+On site laundry facilities are provided at no cost to the residents.,[True, False, False, True, True, True, False, True, True, True, True, False, False, True, False, False, False, False, False, True, True, True, True, False, True],Not Specified
+Rental/Lease,4,Seniors only.  Income & Asset verification.,An application form is required and you must meet with our Placement Officer prior to approval.,Not Specified,600,600,Not Specified,Appliances (fridge & stove) supplied.,Meals on Wheels program is not currently available in Grassy Lake.,There is a "Common area" for all residents which includes a sink, closet and furniture.,[True, False, False, False, True, False, False, True, True, True, False, False, False, False, False, False, False, False, False, False, False, False, True, False, True],Not Specified
+Rental/Lease,12,Seniors only. Income & Asset verification.,An application form is required and you must meet with our Placement Officer prior to approval.,Not Specified,600,600,Electricity is NOT included in rent.,Appliances (fridge & stove) supplied.,Meals on Wheels program is not currently available in Vauxhall.,There is a fairly large furnished "Common area" for all residents which includes a separate washroom for guests. The laundry facilities are supplied for residents use at no charge.,[True, False, False, False, True, False, False, True, True, True, False, False, False, False, False, False, False, False, False, True, False, False, True, False, True],Not Specified
+Rental/Lease,30,Seniors only. Income & Asset verification.,An application form is required and you must meet with our Placement Officer prior to approval.,Not Specified,600,600,Not Specified,Appliances (fridge & stove) supplied.,The Meals on Wheels program is available through us within the Town of Taber for only the lunchtime meal, but residents of this building can also access the meal plan through Clearview Lodge for any or all meals.,There is a large "Common area" for all residents. On site laundry facilities are provided at no cost to the residents.,[True, False, False, False, True, False, False, True, True, True, True, False, False, True, False, False, False, False, False, True, True, False, True, False, True],Not Specified
+Rental/Lease,30,Seniors only. Income & Asset verification.,An application form is required and you must meet with our Placement Officer prior to approval.,Not Specified,600,800,Not Specified,Appliances (fridge & stove) supplied.,The Meals on Wheels program is available through us within the Town of Taber for only the lunchtime meal, but residents of this building can also access the meal plan through Clearview Lodge for any or all meals.,There is a large "Common area" for all residents. On site laundry facilities are provided at no cost to the residents.,[True, False, False, False, True, True, False, True, True, True, True, False, False, True, False, False, False, False, False, True, True, False, True, False, True],Not Specified
+Rental/Lease,77,Seniors 65 years and over.,All applications must be accompanied by both a physician's medical report and your annual income information.,While pets are allowed, there are restrictions that must be followed due to the communal aspect of living in a Lodge.,188,306,There are no kitchen facilities in the units.  See the Lodge Manager about in-suite electrical appliances restrictions.,Extra storage is available for each resident in a locker located in our basement storage area. Lockers are approximately 8Õ x 2Õ x 2Õ and are suitable for storage of items such as golf clubs, Christmas decorations or extra clothing.,Medication Assistance is available for an additional fee.  
+
+While laundry "facilities" are supplied for free, laundry "services" are also available for an additional fee.
+
+Other services available for a fee are safety pendants, guest meals, personal care supplies, etc.,The building has a large Atrium for activities.  A smaller craft area is also available.  And there is a selection of books and magazines  located in our
+
+library/lounge for residents to enjoy, as well as a computer with internet access.   There is an assigned area for storage of and electrical plug-ins for motorized scooters
+
+belonging to Residents. Motorized scooters are
+
+not allowed inside the building.,[True, True, False, True, False, False, False, False, True, False, True, True, False, True, True, True, False, True, True, True, True, False, True, True, True],Not Specified
+Rental/Lease,6,Seniors only. ÊIncome & Asset verification.,An application form is required and you must meet with our Placement Officer prior to approval.,Not Specified,600,600,Electricity is NOT included in the rent.,Appliances (fridge & stove) supplied.  In this building we also supply the washer/dryer.,Meals on Wheels program is not currently available in Barnwell.,Each unit has its own individual entrance.,[True, False, False, False, True, False, False, True, True, True, False, False, True, False, False, False, False, False, False, False, False, False, True, False, False],Not Specified
+Not Specified,32,Senior citizens whose income is not sufficient to rent private sector accommodation and are functionally independent (with and without community-based services). Based on a point-scoring system set by the Government of Alberta. Ê Determined after completion of an ÒApplication for Accommodation,Ó a ÒMedical Information Form,Ó and a personal interview. Placement on an eligibility list is determined by need rather than date of the application,Not Specified,Not Specified,500,575,Not Specified,Not Specified,private suites, maintenance, lounge and hobby areas, Seniors self-contained apartments are operated very much like private rentals. For example, staff are not on duty 24-hours a day. However, tenants have access to staff for emergency situations, such as loss of heat or electricity, or plumbing problems, 24 hours a day, 7 days a week,Not Specified,[False, False, False, False, False, False, False, False, True, False, False, False, False, False, False, False, False, False, False, False, True, True, True, False, True],Not Specified
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../Canada/AB/27-AB-SupportiveLiving/output/output-NORMALIZED.csv:
+accommodation_type,number_of_units,funding_source,last_visit_date,last_visit_type,original_issue_date,licence_issue_date,licence_expiry_date,licence_type,asl_facility_id
+Supportive Living Accommodation - Group Home,4,Health,11-Apr-17,Inspection Visit,1-Oct-07,1-May-17,30-Apr-20,3 Year - Full,70037552
+Supportive Living Accommodation - Assisted Living Accommodation,52,Health,14-Sep-16,Inspection Visit,1-Dec-07,1-Oct-16,30-Sep-17,Full,70037667
+Supportive Living Accommodation - Assisted Living Accommodation,30,Health,12-Oct-16,Inspection Visit,1-Dec-07,11-Jan-17,31-Oct-17,Full,70040531
+Supportive Living Accommodation - Assisted Living Accommodation,52,Health,7-Sep-17,Follow-Up Visit,19-Dec-07,1-Feb-17,31-Jan-18,Full,70037727
+Supportive Living Accommodation - Assisted Living Accommodation,104,,14-Jul-17,Inspection Visit,1-Dec-07,1-Aug-17,31-Jul-20,3 Year - Full,70037730
+Supportive Living Accommodation - Assisted Living Accommodation,60,Health,26-Jul-17,Follow-Up Visit,13-Aug-09,25-May-17,30-Apr-18,Full,70038102
+Supportive Living Accommodation - Assisted Living Accommodation,165,,20-Jan-17,Inspection Visit,15-Jan-08,1-Feb-17,31-Jan-20,3 Year - Full,70038835
+Supportive Living Accommodation - Group Home,4,Health,11-Apr-17,Inspection Visit,30-Oct-07,1-May-17,30-Apr-20,3 Year - Full,70038953
+Supportive Living Accommodation - Group Home,4,Health,17-May-17,Inspection Visit,22-Nov-07,1-Jun-17,31-May-20,3 Year - Full,70039058
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../Canada/AB/28-AB-ContinuingAndLongTermCare/output/output-NORMALIZED.csv:
+accessibility,service_hours,eligibility
+Wheel chair access available.; Motorized wheelchair and scooter use shall be accessed and approved by the Rehabilitation staff on site.,,Must be a Home Care client over the age of 65. 
+Wheel chair access available.; Front entrance is wheelchair accessible.,,Must be a Home Care client over the age of 65. 
+Wheel chair access available.; All Day programs operate out of Wheelchair accessible facilities.,Clients attend once or twice weekly from 9:30 am to 2:30 p,To access the program, people must: 
+Wheel chair access available.,,To access a designated living option a referral is made through the North Zone (Continuing Care Access) CCA team. A Home Care Case Manager will contact the client to review their healthcare needs and complete an assessment to determine eligibility.
+Wheel chair access available.,,
+Wheel chair access available.,Hours of operation are only for information on service delivery at this site.Asthma Education program is only offered on as need basis at this facilit,
+Wheel chair access available.,Visiting Hours Monday - Sunday before 8:00 pm is preferr,
+Wheel chair access available.,Hours of operation for program informatio,
+Wheel chair access available.,,
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../Canada/BC/29-BC-AssistedLiving/output/output-NORMALIZED.csv:
+health_authority,publicly_subsidized_units,private-pay_units,total_assisted_living_units
+,0,9,9
+,0,55,55
+,0,5,5
+,0,14,14
+,0,17,17
+,0,35,35
+Fraser Health Authority,89,0,89
+Fraser Health Authority,20,39,59
+,0,35,35
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../Canada/BC/30-BC-AssistedLiving/output/output-NORMALIZED.csv:
+services_hours,wheelchair_accessible,parking_notes
+,Wheelchair accessible.,
+,,
+24/7,,
+24/7,,
+24/7,Wheelchair accessible,
+24/7,Wheelchair access from main entrance; single storey building.,
+24/7,,
+,,
+,,
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../Canada/BC/31-BC-SeniorsServicesSoc/output/output-NORMALIZED.csv:
+managed_by,apply_hours,apply_location,eligibility,other
+Dania Society,Every 1st and 3rd Tuesday at 11:00 a.m,Your local health authority,BC Residency; No Age Requirement,Wheelchair Accessible; Smoking Allowed
+Northern Health Authority,Regular office hours,Your local health authority,BC Residency; No Age Requirement,Wheelchair Accessible
+Providence Health Care,Regular office hours,Your local health authority,No Age Requirement; BC Residency,Wheelchair Accessible
+No Manager provided,N/A,Your local health authority,No Age Requirement; BC Residency,Wheelchair Accessible
+CPAC Ltd.,Regular office hours,Your local health authority,No Age Requirement; BC Residency,Wheelchair Accessible
+No Manager provided,Regular office hours,Your local health authority,No Age Requirement; BC Residency,Wheelchair Accessible
+Nova Pacific Care Inc,Regular office hours,Directly to building,Age Requirement: 55+,Pets Allowed; Wheelchair Accessible
+No Manager provided,Regular office hours,Your local health authority,No Age Requirement; BC Residency,Wheelchair Accessible
+No Manager provided,Regular office hours,Your local health authority,BC Residency; No Age Requirement,Wheelchair Accessible
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../Canada/BC/32-BC-AssistedLiving/output/output-NORMALIZED.csv:
+capacity
+25
+30
+30
+95
+76
+10
+12
+26
+45
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../Canada/BC/33-BC-AssistedLiving/output/output-NORMALIZED.csv:
+
+
+
+
+
+
+
+
+
+
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../Canada/MB/20-LongTermCare/output/20-LongTermCare-NORMALIZED.csv:
+license_num
+
+
+
+
+
+
+
+
+
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../Canada/MB/21-AssistedLiving/output/21-AssistedLiving-NORMALIZED.csv:
+license_num,licensure_status,care_level,number_of_floors,number_of_suites,size_of_suites,facilities,services
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../Canada/MB/22-SeniorHousing/output/22-SeniorHousing-NORMALIZED.csv:
+license_num,management_company_name,included_utilities,safety_features,resident_parking,visitor_parking,shuttle_bus,bus_stop,year_built,number_of_floors,building_features,laundry_type,flooring_type
+,Quality Management Ltd,Heat; Hydro; Water,Cameras; Enterphone System; Locked Building; Night Security; On-Site Personnel,Aboveground $43 / month; Underground $54 / month,TRUE,To grocer,On Beliveau Rd at Eric St (eastbound & westbound) route 55,1970,12,Air Conditioning; Balcony/Patio; Elevator; Exercise Facilities; Party Room; Sauna; Storage Locker/Room,Smart Card,Carpet; Hardwood; Vinyl
+,Timbercreek Asset  Management Inc,Heat; Water,Cameras; Key-Card Entry,Heated underground $85 / outside parking $65,FALSE,No,On St. Mary's routes 14, 54, 51, 76,,9,; Central Air;  dishwasher;  newly renovated,, In suite washer dryer,Hardwood; and ceramic flooring
+,A.S.H. Management,Water,Cameras; Enterphone System; Locked Building,$45 / mth  surface lot,FALSE,,On St. mary's Rd. route 14, 54, 51, 76,,4,Air Conditioning; Balcony/Patio; Elevator; Dishwasher,Smart Card,Carpet; Vinyl
+,Edison Properties,Water,Alarm System; Cameras; Enterphone System; Key-Card Entry; Locked Building; On-Site Personnel,Underground $40 / month,TRUE,To grocer two times per week,On Niakwa Rd at Chemin Seagrim (eastbound & westbound) route 16,1983,16,Air Conditioning; Balcony/Patio; Elevator; Party Room; Pool; Recycling Program; Sauna,, laundry card system,Carpet
+,Murdoch Management,Heat; Hydro; Water,Locked Building,Available,FALSE,to grocer 1x per week,On St. Anne's Rd. route 55 & 59,,4,Elevator; Party Room; Garden plots available,Coin Operated,Carpet; Vinyl
+,The Willow Centre,Cable; Heat; Hydro; Water,Cameras; Enterphone System; Locked Building; On-Site Personnel; key fob entry,Surface lot $15 / mth,FALSE,For special outings only,On Tyndall Ave route 16,1972,2,Air Conditioning; Elevator; Party Room; Recycling Program; Stand alone A/C,Included In Rent,Carpet; Tile
+,,Heat; Hydro; Water,Cameras; Emergency Pull Cord; Enterphone System; Locked Building; On-Site Personnel,Aboveground; fenced $12/month,FALSE,To grocer once per week,On Arlington St at Burrows Ave (northbound & southbound) route 71,1989,5,Balcony/Patio; Elevator; Recycling Program; Sauna; Storage Locker/Room,Included In Rent,Carpet; Vinyl
+,Chalet Louis Riel Corp.,Heat; Hydro; Water,Alarm System; Locked Building,Aboveground $20/month,FALSE,To Safeway on Tuesdays, to Sobey's on Thursdays,On St Anne‰Ûªs Rd at Sterling Ave (northbound & southbound) routes 55 & 59,1972,1,Balcony/Patio; Storage Locker/Room; Common Room,Coin Operated,Vinyl; Tile
+,W.R.E. Development Ltd.,Heat; Water,On-Site Personnel; Management on site,Aboveground $24/month,FALSE,No,On Templeton Ave at Tanner St (eastbound & westbound) route 77,1956,,; window coverings,, laundry on site,Carpet; Vinyl
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../Canada/MB/23-SeniorHousing/output/23-SeniorHousing-NORMALIZED.csv:
+license_num,licensure_status,care_level,number_of_floors,number_of_suites,size_of_suites,facilities,services
+,,,,12,1 1 bedroom Rental,Kitchen Building,Wheel chair access
+,,,,23,2 Batchelor, 1 bedroom Rental,Kitchenette; air conditioning Building,Cleaning/linen service; social programs; congregate meal services; meal delivery
+,,,,6,1 1 Bedroom Rental,Kitchen Building,
+,,,,12,1 Bachelor; 1 bedroom Rental,Kitchen Building,Congregate meal services
+,,,,6,1 1 bedroom Rental,Kitchen; cable Building,Emergency call service
+,,,,26,1 1 Bedroom; Bachelor Rental,Kitchen; cable TV; individual temperature control; smoke detectors; grab bars in bathroom Building,Congregate meal service; meal delivery
+,,,,10,1 Bachelor; 1 bedroom Rental,Kitchen; air conditioning Building,
+,,,,9,1 1 Bedroom; 2 bedroom Rental,Kitchen; cable; air conditioning Building,Emergency call service
+,,,,12,1 1 Bedroom Rental,Kitchen Building,Emergency call service
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../Canada/National/34-CAN-RetirementHomes/output/output-NORMALIZED.csv:
+
+
+
+
+
+
+
+
+
+
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../Canada/National/35-CAN-RetirementHomes/output/output-NORMALIZED.csv:
+
+
+
+
+
+
+
+
+
+
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../Canada/National/36-CAN-Verve/output/output-NORMALIZED.csv:
+
+
+
+
+
+
+
+
+
+
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../Canada/NB/10-CareBedServices/output/output-NORMALIZED.csv:
+language,available_space
+BILINGUAL,8
+BILINGUAL,18
+BILINGUAL,12
+FRENCH,13
+FRENCH,18
+ENGLISH,18
+BILINGUAL,18
+BILINGUAL,18
+ENGLISH,31
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../Canada/NB/11-NursingHomes/output/output-NORMALIZED.csv:
+language,space
+English,200
+English,118
+English,50
+French,30
+French,30
+English,50
+Bilingual,50
+English,30
+English,72
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../Canada/NB/13-NursingHomes/output/13-NursingHomes-NORMALIZED.csv:
+license_num
+
+
+
+
+
+
+
+
+
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../Canada/NB/9-SpecialCareHomes/output/output-NORMALIZED.csv:
+language,space
+BILINGUAL,19
+BILINGUAL,4
+BILINGUAL,30
+BILINGUAL,15
+BILINGUAL,8
+FRENCH,10
+FRENCH,20
+FRENCH,3
+FRENCH,10
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../Canada/NL/3-AssistedLiving/output/3-AssistedLiving-NORMALIZED.csv:
+license_num
+
+
+
+
+
+
+
+
+
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../Canada/NL/4-NursingHomes/output/4-NursingHomes-NORMALIZED.csv:
+license_num,licensure_status,care_level
+,Licensed,Level I, II and Enhanced Care
+,Licensed,Level I, II and Enhanced Care
+,Licensed,Level I and II
+,Conditional,Level I and II
+,Licensed,Level I, II and Enhanced Care
+,Conditional,Level I and II
+,Conditional,Level I
+,Licensed,Level I, II and Enhanced Care
+,Licensed,Level I and II
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../Canada/NS/15-LongTermCare/output/15-LongTermCare-NORMALIZED.csv:
+license_num,licensure_status,care_level,number_of_floors,number_of_suites,size_of_suites,facilities,services,lat,lng
+,,,,,,,,44.67731,-63.54404
+,,,,,,,,44.65006,-63.65367
+,,,,,,,,44.68841,-63.53748
+,,,,,,,,44.69146,-63.53709
+,,,,,,,,44.69089,-63.53568
+,,,,,,,,44.66910,-63.65844
+,,,,,,,,44.74223,-65.51582
+,,,,,,,,46.12247,-60.19450
+,,,,,,,,44.67918,-63.49009
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../Canada/ON/1-ON-AssistedLiving/output/output-NORMALIZED.csv:
+licence_#,first_issue_date,licensee_name,services_available,resident_capacity,automatic_sprinklers_in_all_suites?,number_of_suites_with_automatic_sprinklers,sprinkler_locations
+N0172,5/15/2013,1582611 Ontario Ltd.,[True, False, False, False, False, True, True, True, False, False, True, True, True],53,Yes,49,None
+T0409,9/22/2014,873888 Ontario Limited,[False, False, False, False, False, False, True, True, False, False, True, False, False],28,No,0,Kitchen, Dining Room, Staff Areas, Emergency Exits, Basement, Boiler Room, Mechanical/Electrical Rooms, Laundry Rooms, Offices
+T0266,5/28/2013,HCN-Revera Lessee ( Victoria Place) LP,[True, True, True, True, False, True, True, True, False, True, True, True, True],88,Yes,88,None
+N0016,5/16/2013,760496 Ontario Limited,[True, True, True, True, False, True, True, True, False, True, False, False, True],95,Yes,81,None
+T0029,11/23/2012,Lutherwood,[True, True, True, False, True, True, True, True, False, True, True, True, True],190,Yes,146,None
+T0188,5/15/2013,The Corporation of Convention Baptist Non-Profit Residences of Ontario and Quebec,[True, True, True, False, False, False, True, True, False, True, True, False, True],110,Yes,94,None
+T0004,7/11/2012,AON INC.,[True, True, True, False, True, True, True, True, False, True, True, True, True],144,Yes,134,None
+N0068,7/25/2012,Chartwell Master Care Corporation,[True, True, True, False, False, True, True, True, False, True, True, False, True],100,Yes,84,None
+T0030,11/7/2012,Caressant Care Nursing and Retirement Homes Limited,[True, False, False, False, False, False, True, True, False, False, True, True, True],93,No,0,None
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../Canada/PEI/5-AssistedLiving/output/5-AssistedLiving-NORMALIZED.csv:
+license_num,licensure_status,care_level
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../Canada/PEI/6-PEI/output/6-PEI-NORMALIZED.csv:
+license_num
+73
+42
+79
+34
+85
+28
+92
+72
+93
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../Canada/PEI/7-LongTermCare/output/7-LongTermCare-NORMALIZED.csv:
+license_num,licensure_status,care_level
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../Canada/PEI/8-PrivateNursing/output/8-PrivateNursing-NORMALIZED.csv:
+license_num,licensure_status,care_level
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../Canada/QC/17-HealthAndSocialServices/output/output-NORMALIZED.csv:
+license_number,legal_name,health_region,territory_clsc,mrc,circ._provincial_election,licensing_services,dir._general,chairman_of_the_board,complaints_and_quality_of_service_commissioner,status,law,incorpporation,mission(s),ministerial_designation,local_authority
+1245-2645,HÔPITAL MARIE-CLARAC,Montréal (06),Montréal-Nord (06422),Montréal (660),Crémazie (433),CHSGS   222 Lit(s) de santé physique; CHSGS    Consultations externes,,,Dion, Marielle,Privé,L.R.Q., chapitre S-4.2 (Loi 120),Partie 1A de la Loi des cies,CH,,Non
+1245-3676,CLINIQUE COMMUNAUTAIRE DE POINTE ST-CHARLES,Montréal (06),Pointe-Saint-Charles (06314),Montréal (660),Saint-Henri--Sainte-Anne (393),CLSC,,,Lazure, Carole,Privé,L.R.Q., chapitre S-4.2 (Loi 120),Troisième partie de la loi sur les cies,CLSC,,Non
+5177-0048,CLINIQUE COMMUNAUTAIRE DE POINTE ST-CHARLES (POINT DE SERVICE),Montréal (06),Pointe-Saint-Charles (06314),Montréal (660),Saint-Henri--Sainte-Anne (393),CLSC,,,Lazure, Carole,Privé,L.R.Q., chapitre S-4.2 (Loi 120),Troisième partie de la loi sur les cies,CLSC,,Non
+5123-1405,ATELIER DU HAUT-SAINT-FRANÇOIS,Estrie (05),Haut-Saint-François (05181),Le Haut-Saint-François (410),Mégantic (103),CRDI   13 Place(s) en atelier de travail,,,Gosselin, Jean-Luc,Public,L.R.Q., chapitre S-4.2 (Loi 120),Troisième partie de la loi sur les cies,CR,,Non
+5123-4102,ATELIER DU VAL-SAINT-FRANÇOIS,Estrie (05),Val Saint-François (05161),Le Val-Saint-François (420),Richmond (283),CRDI   15 Place(s) en centre d'activités de jour,,,Gosselin, Jean-Luc,Public,L.R.Q., chapitre S-4.2 (Loi 120),Troisième partie de la loi sur les cies,CR,,Non
+5122-1521,ATELIER ET CENTRE D'ACTIVITES DE JOUR SHERBROOKE - PROSPECT,Estrie (05),Sherbrooke (05151),Sherbrooke (430),Sherbrooke (113),CRDI   26 Place(s) en atelier de travail; CRDI   80 Place(s) en centre d'activités de jour,,,Gosselin, Jean-Luc,Public,L.R.Q., chapitre S-4.2 (Loi 120),Troisième partie de la loi sur les cies,CR,,Non
+5123-0076,ATELIER ET CENTRE D'ACTIVITÉS DE JOUR D'ASBESTOS,Estrie (05),Asbestos (05171),Les Sources (400),Richmond (283),CRDI   11 Place(s) en atelier de travail; CRDI   9 Place(s) en centre d'activités de jour,,,Gosselin, Jean-Luc,Public,L.R.Q., chapitre S-4.2 (Loi 120),Troisième partie de la loi sur les cies,CR,,Non
+5123-4144,CENTRE D'ACTIVITÉS DE JOUR DE DIXVILLE,Estrie (05),Coaticook (05141),Coaticook (440),Saint-François (111),CRDI   22 Place(s) en centre d'activités de jour,,,Gosselin, Jean-Luc,Public,L.R.Q., chapitre S-4.2 (Loi 120),Troisième partie de la loi sur les cies,CR,,Non
+5123-4110,CENTRE D'ACTIVITÉS DE JOUR DE MAGOG,Estrie (05),Memphrémagog (05131),Memphrémagog (450),Orford (123),CRDI   9 Place(s) en centre d'activités de jour,,,Gosselin, Jean-Luc,Public,L.R.Q., chapitre S-4.2 (Loi 120),Troisième partie de la loi sur les cies,CR,,Non
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../Canada/QC/18-AssistedLiving(Assoc)/output/output-NORMALIZED.csv:
+number_of_rental_units,number_of_rental_units_in_private_residence_for_seniors,year_of_opening,date_of_possession,updated_on,member_of_an_association,certification_date_of_issue,offered_services,complete_residence_information
+12,12,1996,7/1/1996,5/11/2017,Aucune,3/19/2015,Repas; Assistance personnelle; Aide domestique; Loisirs,http://wpp01.msss.gouv.qc.ca/appl/K10/public/formulaire/K10FormCons.asp?noForm=1001
+16,16,1993,6/1/2014,5/29/2017,Aucune,2/18/2014,Repas; Assistance personnelle; Aide domestique; Loisirs,http://wpp01.msss.gouv.qc.ca/appl/K10/public/formulaire/K10FormCons.asp?noForm=1002
+20,20,1994,6/29/2007,3/2/2017,Aucune,6/20/2015,Repas; Assistance personnelle; Aide domestique; Loisirs,http://wpp01.msss.gouv.qc.ca/appl/K10/public/formulaire/K10FormCons.asp?noForm=1006
+15,15,1993,1/1/1993,5/25/2017,Aucune,11/22/2013,Repas; Assistance personnelle; Aide domestique; Loisirs,http://wpp01.msss.gouv.qc.ca/appl/K10/public/formulaire/K10FormCons.asp?noForm=1007
+18,17,1980,1/1/1980,5/11/2017,Aucune,7/31/2015,Repas; Assistance personnelle; Aide domestique,http://wpp01.msss.gouv.qc.ca/appl/K10/public/formulaire/K10FormCons.asp?noForm=1008
+19,19,1996,10/8/2007,4/26/2016,Aucune,6/5/2015,Repas; Assistance personnelle; Aide domestique; Loisirs,http://wpp01.msss.gouv.qc.ca/appl/K10/public/formulaire/K10FormCons.asp?noForm=1010
+21,21,1986,1/1/1986,4/24/2017,RQRA- Regroupement québecois des résidences pour aînés,11/22/2013,Repas; Assistance personnelle; Aide domestique; Loisirs,http://wpp01.msss.gouv.qc.ca/appl/K10/public/formulaire/K10FormCons.asp?noForm=1011
+22,22,1998,6/1/2006,6/2/2017,RQRA- Regroupement québecois des résidences pour aînés,2/28/2015,Repas; Assistance personnelle; Aide domestique; Loisirs,http://wpp01.msss.gouv.qc.ca/appl/K10/public/formulaire/K10FormCons.asp?noForm=1014
+28,28,1983,12/1/2012,9/9/2016,Aucune,5/2/2015,Repas; Assistance personnelle; Aide domestique; Loisirs,http://wpp01.msss.gouv.qc.ca/appl/K10/public/formulaire/K10FormCons.asp?noForm=1015
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../Canada/SK/24-SK-PersonalCareHome/output/output-NORMALIZED.csv:
+community,licensee,total_unresolved_infractions,beds_(ac),attributes,link_to_inspection_details
+Saskatoon,Warm 'N' Cozy Care Inc,0,15,Single rooms,http://personalcarehomes.saskatchewan.ca/Inspection/Details/cc3e27ef-9ec0-4797-be2a-b41222776dd; http://personalcarehomes.saskatchewan.ca/Inspection/Details/014a153e-37cf-4b95-8d05-0a47c0b5c6c
+Saskatoon,Stonebridge Crossing Retirement Community Inc,0,130,Suites that are not included in the Memory Care Unit - Cannot admit or care for residents who are at risk of wandering. Records pertaining to residents and the personal care home operation are securely stored in Saskatchewan.  Double rooms.,http://personalcarehomes.saskatchewan.ca/Inspection/Details/a16a971a-7990-455f-923b-873163d6de2; http://personalcarehomes.saskatchewan.ca/Inspection/Details/e158f199-bda7-4a71-8d16-1db73106977; http://personalcarehomes.saskatchewan.ca/Inspection/Details/02b56b5f-9a85-4796-8950-ebc7c1ba68b
+Saskatoon,Warm 'N' Cozy Care Inc,0,15,Single rooms; Double rooms,http://personalcarehomes.saskatchewan.ca/Inspection/Details/b4baef91-b2a2-4bab-afe8-4e7a89cd87b; http://personalcarehomes.saskatchewan.ca/Inspection/Details/7c0dc799-bd74-4219-9caf-4613ba922e9
+Pilot Butte,Reynaldo & Maria Dimaano,0,10,Single rooms,http://personalcarehomes.saskatchewan.ca/Inspection/Details/e70cd1cb-05c7-45c2-8818-21de7582672
+Avonlea,Coteau Range Manor  Inc. ,0,30,Single rooms,http://personalcarehomes.saskatchewan.ca/Inspection/Details/23b9eef5-a0d3-44d4-83d7-3cdedd93b3c; http://personalcarehomes.saskatchewan.ca/Inspection/Details/a7b44ff6-2c18-44d7-ad2a-9e514c2137e
+Regina,Olive Quesnel,0,10,Single rooms,http://personalcarehomes.saskatchewan.ca/Inspection/Details/e64f40ae-5d56-4154-82cc-28574718556; http://personalcarehomes.saskatchewan.ca/Inspection/Details/b72d0a5d-e69a-466c-8579-e084fce81ea
+Regina,Mirinae Kim,0,14,Single rooms; Double rooms,http://personalcarehomes.saskatchewan.ca/Inspection/Details/32161b0d-c85e-4b2c-bf04-19868e4e9ec
+Saskatoon,Baraka Care Homes Ltd. ,0,10,Single rooms,http://personalcarehomes.saskatchewan.ca/Inspection/Details/44124af1-91e9-45b5-a903-249dff615dd
+Prince Albert,RB Care Home Inc. &  Haven Holdings Ltd.,4,45,Can only admit or care for residents who are at risk of wandering on first floor (rooms 101 to 120).  Double rooms.,http://personalcarehomes.saskatchewan.ca/Inspection/Details/a5e47037-a518-4868-8146-0a902f2c462; http://personalcarehomes.saskatchewan.ca/Inspection/Details/91522ab0-3a42-45ce-80bf-a0a16b2e976; http://personalcarehomes.saskatchewan.ca/Inspection/Details/d5b05d1e-b555-4362-beaa-deda4b1e125; http://personalcarehomes.saskatchewan.ca/Inspection/Details/8e0d45e5-eb42-4697-abdb-62f53ac79b7
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../Canada/SK/25-SK-NursingHome/output/output-NORMALIZED.csv:
+
+
+
+
+
+
+
+
+
+
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../Canada/SK/37-SunCountry/output/SunCountry-NORMALIZED.csv:
+
+
+
+
+
+
+
+
+
+
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../Canada/SK/38-SK-NursingHome/output/output-NORMALIZED.csv:
+
+
+
+
+
+
+
+
+
+
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../Canada/SK/39-NursingHomes/output/39-NursingHomes-NORMALIZED.csv:
+license_num,licensure_status,care_level,number_of_floors,number_of_suites,size_of_suites,facilities,services
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../Canada/SK/42-PNRHA.ca/output/pnrha-NORMALIZED.csv:
+
+
+
+
+
+
+
+
+
+
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../USA/AK/70-AK-AssistedLiving/output/output-NORMALIZED.csv:
+name_of_home,license_#,extension_to_date,licensed_to,licensed_from,lic_type,#_res,sprinkler
+3707 Oregon,101032,,30-Nov-17,1-Dec-15,Biennial,5,TRUE
+7th Son Assisted Living,101228,,31-May-18,17-Jun-17,Provisional,3,FALSE
+Aaron Assisted Living I,100582,,31-Aug-19,1-Sep-17,Biennial,5,FALSE
+Aaron Assisted Living II,100704,,30-Sep-17,28-Mar-17,Biennial,5,FALSE
+Aaron Assisted Living III,100733,,28-Feb-18,29-Feb-16,Biennial,5,FALSE
+ABC Assisted Living,100430,,31-May-19,2-Jun-17,Biennial,4,FALSE
+Above Care ALH, LLC,100893,,28-Feb-18,1-Mar-16,Biennial,5,FALSE
+Abra Assisted Living Home,100875,,31-Dec-18,1-Jan-16,Biennial,3,FALSE
+Abuelita ALH, LLC,100900,,31-Mar-18,1-Apr-16,Biennial,5,FALSE
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../USA/AL/66-All/output/66-AssistedLiving-NORMALIZED.csv:
+fac_id,medicare_#,medicaid_#,number_of_beds,esrd_stations,hospital_authorized_bed_capacity,class_1,class_1_beds/stations,class_2,class_2_beds/stations,class_3,class_3_beds/stations,class_4,class_4_beds/stations,class_5,class_5_beds/stations,license_type,license_status,deemed_status
+D0811,,,16,,,Group Assisted Living Facility,16,,0,,0,,0,,0,Limited Liability Company,Regular,
+D4805,,,16,,,Group Assisted Living Facility,16,,0,,0,,0,,0,Corporation,Regular,
+D4981,,,16,,,Congregate Assisted Living Facility,16,,0,,0,,0,,0,Limited Liability Company,Regular,
+D4946,,,83,,,Congregate Assisted Living Facility,83,,0,,0,,0,,0,Limited Liability Company,Regular,
+D0804,,,38,,,Congregate Assisted Living Facility,38,,0,,0,,0,,0,Limited Liability Company,Regular,
+D2603,,,16,,,Group Assisted Living Facility,16,,0,,0,,0,,0,Individual,Regular,
+D5604,,,16,,,Group Assisted Living Facility,16,,0,,0,,0,,0,Limited Liability Company,Regular,
+D3405,,,16,,,Group Assisted Living Facility,16,,0,,0,,0,,0,Healthcare Authority,Regular,
+D6702,,,17,,,Group Assisted Living Facility,17,,0,,0,,0,,0,Corporation,Regular,
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../USA/AL/66-All/output/66-AssistedLivingSpecialty-NORMALIZED.csv:
+fac_id,medicare_#,medicaid_#,number_of_beds,esrd_stations,hospital_authorized_bed_capacity,class_1,class_1_beds/stations,class_2,class_2_beds/stations,class_3,class_3_beds/stations,class_4,class_4_beds/stations,class_5,class_5_beds/stations,license_type,license_status,deemed_status
+P5115,,,16,,,Group Specialty Care Assisted Living Facility,16,,0,,0,,0,,0,Limited Liability Company,Regular,
+P5101,,,16,,,Group Specialty Care Assisted Living Facility,16,,0,,0,,0,,0,Limited Liability Company,Regular,
+P5102,,,16,,,Group Specialty Care Assisted Living Facility,16,,0,,0,,0,,0,Limited Liability Company,Regular,
+P5112,,,16,,,Group Specialty Care Assisted Living Facility,16,,0,,0,,0,,0,Limited Liability Company,Regular,
+P4910,,,24,,,Congregate Specialty Care Assisted Living Facility,24,,0,,0,,0,,0,Limited Liability Company,Regular,
+P4908,,,16,,,Group Specialty Care Assisted Living Facility,16,,0,,0,,0,,0,Corporation,Regular,
+P4903,,,20,,,Congregate Specialty Care Assisted Living Facility,20,,0,,0,,0,,0,Limited Liability Company,Regular,
+P0801,,,27,,,Congregate Specialty Care Assisted Living Facility,27,,0,,0,,0,,0,Limited Liability Company,Regular,
+P0205,,,45,,,Congregate Specialty Care Assisted Living Facility,45,,0,,0,,0,,0,Limited Liability Company,Regular,
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../USA/AL/66-All/output/66-NursingHomes-NORMALIZED.csv:
+fac_id,medicare_#,medicaid_#,number_of_beds,esrd_stations,hospital_authorized_bed_capacity,class_1,class_1_beds/stations,class_2,class_2_beds/stations,class_3,class_3_beds/stations,class_4,class_4_beds/stations,class_5,class_5_beds/stations,license_type,license_status,deemed_status
+N6201,01-5386,47-5200,88,,,Skilled Nursing Facility,88,,0,,0,,0,,0,Limited Liability Company,Regular,
+N4803,01-5163,47-5124,159,,,Skilled Nursing Facility,159,,0,,0,,0,,0,Corporation,Regular,
+N5402,01-5137,47-5461,100,,,Skilled Nursing Facility,100,,0,,0,,0,,0,Corporation,Regular,
+N4901,01-5098,47-5098,119,,,Skilled Nursing Facility,119,,0,,0,,0,,0,Limited Liability Company,Regular,
+N2805,01-5101,47-5739,50,,,Skilled Nursing Facility,50,,0,,0,,0,,0,Corporation,Regular,
+N2003,01-5416,47-5789,154,,,Skilled Nursing Facility,154,,0,,0,,0,,0,Limited Liability Company,Regular,
+N0801,01-5375,47-5716,85,,,Skilled Nursing Facility,85,,0,,0,,0,,0,Limited Liability Company,Regular,
+N4103,01-5192,47-5590,225,,,Skilled Nursing Facility,225,,0,,0,,0,,0,Partnership,Regular,
+N5401,01-5141,47-5768,85,,,Skilled Nursing Facility,85,,0,,0,,0,,0,Limited Liability Company,Regular,
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../USA/AR/51-AR-AssistedLiving/output/output-NORMALIZED.csv:
+map_indicator
+8
+12
+33
+2
+15
+25
+13
+32
+17
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../USA/AZ/53-AZ-AssistedLiving/output/output-NORMALIZED.csv:
+rundate,subtype,legalname,license,license_effective,license_expiration,capacity,mcaid_cert,n_mcode,n_lcode,n_block,srvprovdes,eval_date
+9/1/2017,INTERMEDIATE CARE FACILITY FOR INTELLECTUALLY DISABLED,ARIZONA TRAINING PROGRAM AT COOLIDGE - 30 OASIS COURT,,,,,T,,,,NOT APPLICABLE,
+9/1/2017,INTERMEDIATE CARE FACILITY FOR INTELLECTUALLY DISABLED,ARIZONA TRAINING PROGRAM OF COOLIDGE - 10 SANDSTONE COURT,,,,,T,,,,NOT APPLICABLE,
+9/1/2017,INTERMEDIATE CARE FACILITY FOR INTELLECTUALLY DISABLED,ARIZONA TRAINING PROGRAM OF COOLIDGE - 20 SANDSTONE COURT,,,,,T,,,,NOT APPLICABLE,
+9/1/2017,INTERMEDIATE CARE FACILITY FOR INTELLECTUALLY DISABLED,ARIZONA TRAINING PROGRAM OF COOLIDGE - 30 SANDSTONE COURT,,,,,T,,,,NOT APPLICABLE,
+9/1/2017,INTERMEDIATE CARE FACILITY FOR INTELLECTUALLY DISABLED,ARIZONA TRAINING PROGRAM OF COOLIDGE - 40 SANDSTONE COURT,,,,,T,,,,NOT APPLICABLE,
+9/1/2017,INTERMEDIATE CARE FACILITY FOR INTELLECTUALLY DISABLED,ARIZONA TRAINING PROGRAM OF COOLIDGE - 50 OASIS COURT,,,,,T,,,,NONE,
+9/1/2017,INTERMEDIATE CARE FACILITY FOR INTELLECTUALLY DISABLED,ARIZONA TRAINING PROGRAM OF PHOENIX - CAMPBELL,,,,,T,,,,NOT APPLICABLE,
+9/1/2017,INTERMEDIATE CARE FACILITY FOR INTELLECTUALLY DISABLED,ARIZONA TRAINING PROGRAM OF PHOENIX - EARLL,,,,,T,,,,NOT APPLICABLE,
+9/1/2017,INTERMEDIATE CARE FACILITY FOR INTELLECTUALLY DISABLED,ARIZONA TRAINING PROGRAM OF PHOENIX - PINCHOT,,,,,T,,,,NOT APPLICABLE,
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../USA/CA/54-CA-CommunityCare/output/output-NORMALIZED.csv:
+licensee,facility_administrator,regional_office,facility_capacity,facility_status,license_first_date,closed_date,last_visit_date,inspection_visits,complaint_visits,other_visits,total_visits,citation_numbers,poc_dates,all_visit_dates,inspection_visit_dates,inspect_typea,inspect_typeb,other_visit_dates,other_typea,other_typeb,complaint_type_a,complaint_type_b,total_allegations,inconclusive_allegations,substantiated_allegations,unfounded_allegations,complaint_info-_date,#sub_aleg,#_inc_aleg,#_uns_aleg,#_typea,#_typeb_...
+MASONIC HOMES CAL & ACACIA CREEK, MASONIC SEN LIV,CHARLES MAJOR,15,376,LICENSED,5/20/2010,,4/3/2015,1,0,0,1,,,04/03/2015,04/03/2015,0,0,,0,0,0,0,0,0,0,0,No Complaints
+ALDERSLY/LIFE CARE SERVICES,LLC,GILBERT CARRASCO,21,122,LICENSED,11/5/2004,,4/4/2016,2,0,0,2,,,04/04/2016, 10/25/2012,04/04/2016, 10/25/2012,0,0,,0,0,0,0,0,0,0,0,No Complaints
+AIRFORCE VILLAGE WEST INC & ESKATON PROPERTIES INC,NANCY BACA,18,770,LICENSED,12/22/1989,,8/17/2017,2,6,6,14,87465(g), 87506(a) , 87211(a)(1)(D),11/05/2013, 04/21/2017, 11/05/2013,06/13/2017, 04/17/2017, 03/22/2017, 03/22/2017, 03/22/2017, 02/16/2017, 01/18/2017, 10/12/2016, 10/12/2016, 03/22/2016, 11/05/2013, 10/29/2013, 10/29/2013, 12/10/2012,06/13/2017, 12/10/2012,0,0,04/17/2017, 02/16/2017, 01/18/2017, 03/22/2016, 11/05/2013, 10/29/2013,0,1,1,1,7,4,3,0,04/21/2017,1,3,0,0,0,1,01/25/2017,1,1,0,0,0,0,12/01/2014,1,0,0,0,1,0
+ATHERTON BAPTIST HOMES,MARY MONNIER,28,518,LICENSED,3/31/1999,,2/23/2017,1,2,1,4,,,02/23/2017, 12/20/2016, 02/16/2016, 03/25/2015,02/23/2017,0,0,03/25/2015,0,0,0,0,7,3,0,4,01/04/2017,0,3,0,0,0,0,02/22/2016,0,0,0,4,0,0
+SOLVANG LUTHERAN HOME, INC.,CHRIS PARKER,29,188,LICENSED,5/28/1993,,6/29/2017,1,0,5,6,,,06/29/2017, 01/26/2017, 11/02/2015, 09/01/2015, 06/22/2015, 06/04/2015,06/29/2017,0,0,01/26/2017, 11/02/2015, 09/01/2015, 06/22/2015, 06/04/2015,0,0,0,0,0,0,0,0,No Complaints
+BRETHREN HILLCREST HOMES,MATTHEW NEELEY,28,574,LICENSED,7/2/1976,,8/30/2017,1,4,6,11,87705(c)(3), 87705(f)(2), 87705(f)(1), 87303(e)(2), 87705(h), 87705(j), 87303(a), 87303(e)(5), 87307(a)(3)(C),09/25/2014, 09/23/2014, 09/23/2014, 09/25/2014, 09/25/2014, 09/25/2014, 01/24/2017, 10/02/2014, 10/02/2014,08/30/2017, 08/22/2017, 01/24/2017, 01/24/2017, 12/18/2015, 07/21/2015, 10/02/2014, 10/02/2014, 10/02/2014, 09/23/2014, 04/24/2014,09/23/2014,6,0,08/30/2017, 08/22/2017, 10/02/2014, 10/02/2014, 10/02/2014, 04/24/2014,0,2,0,1,4,3,1,0,05/25/2017,1,2,0,0,0,1,01/14/2016,0,1,0,0,0,0
+BRITISH HOME IN CALIFORNIA, LTD THE,MARLENE RAINEN,28,41,LICENSED,5/1/1976,,10/14/2015,1,5,0,6,87468(a)(3), 87224(f), 87468(a)(3),10/28/2015, 07/29/2013, 08/12/2015,10/14/2015, 07/29/2015, 07/22/2013, 07/22/2013, 07/22/2013, 02/14/2013,02/14/2013,0,0,,0,0,2,1,5,1,3,1,11/24/2015,2,0,0,0,1,1,11/14/2014,1,1,0,1,1,0
+S-H OPCO CAMARILLO LLC; BKD TWENTY-ONE MANAGEMENT,GONZAGA, VINCENT,31,140,LICENSED,8/29/2014,,8/29/2017,0,12,4,16,87468(a)(2), 87468(a)(1), 87355(c), 87303(a)  , 87303(a), 87468(a)(2), 87211(a)(1)(D), 87621(b),07/14/2017, 01/23/2017, 12/05/2014, 07/20/2017, 04/15/2016, 04/08/2016, 12/19/2014, 12/19/2014,08/29/2017, 07/06/2017, 07/06/2017, 06/09/2017, 01/20/2017, 01/20/2017, 01/11/2017, 04/06/2016, 04/06/2016, 04/06/2016, 12/10/2015, 04/08/2015, 01/09/2015, 01/09/2015, 12/03/2014, 08/26/2014,,0,0,08/29/2017, 01/11/2017, 12/03/2014, 08/26/2014,1,2,2,3,17,6,5,3,07/28/2017,2,0,2,0,1,1,07/25/2017,0,0,1,0,0,0,06/09/2017,1,1,0,0,1,0,04/22/2016,2,1,0,0,0,2,04/11/2016,0,0,0,1,0,0,01/08/2016,0,2,0,0,0,0,06/19/2015,0,2,0,0,0,0,03/18/2015,0,0,0,1,0,0,03/11/2015,0,0,0,1,0,0
+S-H OPCO CARLSBAD; BKD TWENTY-ONE MANAGMENT,HIGHTOWER, SASHA,08,125,LICENSED,8/29/2014,,6/15/2017,0,8,8,16,87465 a 5 , 87465 a 1 , 80072 (a) 1, 8, 87465, 87608, 87211 a 1 D , 87468, 87618  ,08/31/2015, 05/15/2015, 02/20/2015, 02/19/2015, 02/19/2015, 08/31/2015, 02/19/2115, 02/19/2015,06/15/2017, 10/20/2016, 06/14/2016, 01/27/2016, 11/24/2015, 08/27/2015, 05/15/2015, 05/15/2015, 05/06/2015, 05/06/2015, 05/06/2015, 05/06/2015, 02/20/2015, 02/20/2015, 02/18/2015, 02/18/2015,,0,0,06/15/2017, 10/20/2016, 06/14/2016, 01/27/2016, 11/24/2015, 02/20/2015, 02/20/2015, 02/18/2015,4,2,2,1,12,1,3,8,09/10/2015,2,0,0,0,1,1,08/06/2015,0,0,0,1,0,0,08/06/2015,0,0,0,3,0,0,06/08/2015,0,0,0,2,0,0,06/03/2015,0,0,0,1,0,0,06/03/2015,1,1,0,1,1,0
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../USA/CA/54-CA-CommunityCare/output/SAMPLE-NORMALIZED.csv:
+licensee,facility_administrator,regional_office,facility_capacity,facility_status,license_first_date,closed_date,last_visit_date,inspection_visits,complaint_visits,other_visits,total_visits,citation_numbers,poc_dates,all_visit_dates,inspection_visit_dates,inspect_typea,inspect_typeb,other_visit_dates,other_typea,other_typeb,complaint_type_a,complaint_type_b,total_allegations,inconclusive_allegations,substantiated_allegations,unfounded_allegations,complaint_info-_date,#sub_aleg,#_inc_aleg,#_uns_aleg,#_typea,#_typeb_...,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+MASONIC HOMES CAL & ACACIA CREEK, MASONIC SEN LIV,CHARLES MAJOR,15,376,LICENSED,5/20/2010,,4/3/2015,1,0,0,1,,,4/3/2015,4/3/2015,0,0,,0,0,0,0,0,0,0,0,No Complaints,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ALDERSLY/LIFE CARE SERVICES,LLC,GILBERT CARRASCO,21,122,LICENSED,11/5/2004,,4/4/2016,2,0,0,2,,,04/04/2016, 10/25/2012,04/04/2016, 10/25/2012,0,0,,0,0,0,0,0,0,0,0,No Complaints,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+AIRFORCE VILLAGE WEST INC & ESKATON PROPERTIES INC,NANCY BACA,18,770,LICENSED,12/22/1989,,8/17/2017,2,6,6,14,87465(g), 87506(a) , 87211(a)(1)(D),11/05/2013, 04/21/2017, 11/05/2013,06/13/2017, 04/17/2017, 03/22/2017, 03/22/2017, 03/22/2017, 02/16/2017, 01/18/2017, 10/12/2016, 10/12/2016, 03/22/2016, 11/05/2013, 10/29/2013, 10/29/2013, 12/10/2012,06/13/2017, 12/10/2012,0,0,04/17/2017, 02/16/2017, 01/18/2017, 03/22/2016, 11/05/2013, 10/29/2013,0,1,1,1,7,4,3,0,4/21/2017,1,3,0,0,0,1,1/25/2017,1,1,0,0,0,0,12/1/2014,1,0,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ATHERTON BAPTIST HOMES,MARY MONNIER,28,518,LICENSED,3/31/1999,,2/23/2017,1,2,1,4,,,02/23/2017, 12/20/2016, 02/16/2016, 03/25/2015,2/23/2017,0,0,3/25/2015,0,0,0,0,7,3,0,4,1/4/2017,0,3,0,0,0,0,2/22/2016,0,0,0,4,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SOLVANG LUTHERAN HOME, INC.,CHRIS PARKER,29,188,LICENSED,5/28/1993,,6/29/2017,1,0,5,6,,,06/29/2017, 01/26/2017, 11/02/2015, 09/01/2015, 06/22/2015, 06/04/2015,6/29/2017,0,0,01/26/2017, 11/02/2015, 09/01/2015, 06/22/2015, 06/04/2015,0,0,0,0,0,0,0,0,No Complaints,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BRETHREN HILLCREST HOMES,MATTHEW NEELEY,28,574,LICENSED,7/2/1976,,8/30/2017,1,4,6,11,87705(c)(3), 87705(f)(2), 87705(f)(1), 87303(e)(2), 87705(h), 87705(j), 87303(a), 87303(e)(5), 87307(a)(3)(C),09/25/2014, 09/23/2014, 09/23/2014, 09/25/2014, 09/25/2014, 09/25/2014, 01/24/2017, 10/02/2014, 10/02/2014,08/30/2017, 08/22/2017, 01/24/2017, 01/24/2017, 12/18/2015, 07/21/2015, 10/02/2014, 10/02/2014, 10/02/2014, 09/23/2014, 04/24/2014,9/23/2014,6,0,08/30/2017, 08/22/2017, 10/02/2014, 10/02/2014, 10/02/2014, 04/24/2014,0,2,0,1,4,3,1,0,5/25/2017,1,2,0,0,0,1,1/14/2016,0,1,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+BRITISH HOME IN CALIFORNIA, LTD THE,MARLENE RAINEN,28,41,LICENSED,5/1/1976,,10/14/2015,1,5,0,6,87468(a)(3), 87224(f), 87468(a)(3),10/28/2015, 07/29/2013, 08/12/2015,10/14/2015, 07/29/2015, 07/22/2013, 07/22/2013, 07/22/2013, 02/14/2013,2/14/2013,0,0,,0,0,2,1,5,1,3,1,11/24/2015,2,0,0,0,1,1,11/14/2014,1,1,0,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+S-H OPCO CAMARILLO LLC; BKD TWENTY-ONE MANAGEMENT,GONZAGA, VINCENT,31,140,LICENSED,8/29/2014,,8/29/2017,0,12,4,16,87468(a)(2), 87468(a)(1), 87355(c), 87303(a)  , 87303(a), 87468(a)(2), 87211(a)(1)(D), 87621(b),07/14/2017, 01/23/2017, 12/05/2014, 07/20/2017, 04/15/2016, 04/08/2016, 12/19/2014, 12/19/2014,08/29/2017, 07/06/2017, 07/06/2017, 06/09/2017, 01/20/2017, 01/20/2017, 01/11/2017, 04/06/2016, 04/06/2016, 04/06/2016, 12/10/2015, 04/08/2015, 01/09/2015, 01/09/2015, 12/03/2014, 08/26/2014,,0,0,08/29/2017, 01/11/2017, 12/03/2014, 08/26/2014,1,2,2,3,17,6,5,3,7/28/2017,2,0,2,0,1,1,7/25/2017,0,0,1,0,0,0,6/9/2017,1,1,0,0,1,0,4/22/2016,2,1,0,0,0,2,4/11/2016,0,0,0,1,0,0,1/8/2016,0,2,0,0,0,0,6/19/2015,0,2,0,0,0,0,3/18/2015,0,0,0,1,0,0,3/11/2015,0,0,0,1,0,0
+S-H OPCO CARLSBAD; BKD TWENTY-ONE MANAGMENT,HIGHTOWER, SASHA,8,125,LICENSED,8/29/2014,,6/15/2017,0,8,8,16,87465 a 5 , 87465 a 1 , 80072 (a) 1, 8, 87465, 87608, 87211 a 1 D , 87468, 87618  ,08/31/2015, 05/15/2015, 02/20/2015, 02/19/2015, 02/19/2015, 08/31/2015, 02/19/2115, 02/19/2015,06/15/2017, 10/20/2016, 06/14/2016, 01/27/2016, 11/24/2015, 08/27/2015, 05/15/2015, 05/15/2015, 05/06/2015, 05/06/2015, 05/06/2015, 05/06/2015, 02/20/2015, 02/20/2015, 02/18/2015, 02/18/2015,,0,0,06/15/2017, 10/20/2016, 06/14/2016, 01/27/2016, 11/24/2015, 02/20/2015, 02/20/2015, 02/18/2015,4,2,2,1,12,1,3,8,9/10/2015,2,0,0,0,1,1,8/6/2015,0,0,0,1,0,0,8/6/2015,0,0,0,3,0,0,6/8/2015,0,0,0,2,0,0,6/3/2015,0,0,0,1,0,0,6/3/2015,1,1,0,1,1,0,,,,,,,,,,,,,,,,,,,,,
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../USA/CO/72-AssistedLiving/output/72-AssistedLiving-NORMALIZED.csv:
+license_num,licensure_status,care_level,number_of_floors,number_of_suites,size_of_suites,facilities,services,participation,ownership_type,number_of_beds,council_type,branch_of,licensed_beds,secured_beds
+,,,,,,,,Medicaid, PROFIT-CORPORATION,,,,7,
+,,,,,,,,Private, PROFIT-CORPORATION,,,,8,
+,,,,,,,,Medicaid, PROFIT-CORPORATION,,,,8,
+,,,,,,,,Private, PROFIT-CORPORATION,,,,8,
+,,,,,,,,Medicaid, PROFIT-CORPORATION,,,,8,
+,,,,,,,,Medicaid, PROFIT-CORPORATION,,,,8,
+,,,,,,,,Medicaid, PROFIT-CORPORATION,,,,8,
+,,,,,,,,Medicaid, PROFIT-CORPORATION,,,,5,
+,,,,,,,,Medicaid, PROFIT-CORPORATION,,,,10,
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../USA/CO/74-All/output/74-All-NORMALIZED.csv:
+license_num,licensure_status,care_level,number_of_floors,number_of_suites,size_of_suites,facilities,services,participation,ownership_type,number_of_beds,council_type,branch_of,licensed_beds,secured_beds,license_type,maine_care_available,multilevel,handicap_accessible,license_level,ownership,certification_types,provider_number,gender,initial_license,certification_fee_due,licensee_name,licensee_phone,home_and_community_based_services,ceritifications,currently_occupied_as_of,currently_occupied_beds
+,,,,,,,,,LIMITED LIABILITY,,,,,,,,,,,,,,,,,,,Adult Day Program  - Medicaid Certified,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,Adult Day Program  - Medicaid Certified,,,
+,,,,,,,,,LIMITED LIABILITY,,,,,,,,,,,,,,,,,,,Adult Day Program  - Medicaid Certified,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,Adult Day Program  - Medicaid Certified,,,
+,,,,,,,,,PARTNERSHIP,,,,,,,,,,,,,,,,,,,Adult Day Program  - Medicaid Certified,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,Adult Day Program  - Medicaid Certified,,,
+,,,,,,,,,CITY-COUNTY,,,,,,,,,,,,,,,,,,,Adult Day Program  - Medicaid Certified,,,
+,,,,,,,,,PROFIT-CORPORATION,,,,,,,,,,,,,,,,,,,Adult Day Program/Brain Injury  - Medicaid Certified,,,
+,,,,,,,,,PROFIT-CORPORATION,,,,,,,,,,,,,,,,,,,Adult Day Program  - Medicaid Certified,,,
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../USA/CT/75-CT-AL/output/output-NORMALIZED.csv:
+
+
+
+
+
+
+
+
+
+
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../USA/DE/76-DE-AssistedLiving/output/output-NORMALIZED.csv:
+state_licensed_beds
+56
+125
+150
+96
+66
+132
+45
+80
+44
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../USA/DE/77-DE-NursingHomes/output/output-NORMALIZED.csv:
+state_licensed_beds,licsening_information
+181,Medicare & Medicaid Certified
+104,Medicare & Medicaid Certified
+169,Medicare & Medicaid Certified
+40,Medicare & Medicaid Certified
+120,Medicare & Medicaid Certified
+120,Medicare & Medicaid Certified
+130,Medicare & Medicaid Certified
+130,Medicare & Medicaid Certified
+128,Medicare & Medicaid Certified
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../USA/FL/60-FL-HealthFinder/output/output-NORMALIZED.csv:
+license_number,license_effective_date,license_expiration_date,street_address_line_2,license_status,licensed_beds,profit_status
+9523,08/01/2016,07/31/2018,,LICENSED,6,For-Profit
+11973,03/17/2017,03/16/2019,,LICENSED,12,For-Profit
+10183,02/12/2016,02/11/2018,,LICENSED,6,For-Profit
+4001095,12/01/2015,11/30/2017,,LICENSED,6,For-Profit
+4105096,06/23/2017,11/30/2017,,LICENSED,6,For-Profit
+12495,04/22/2016,04/21/2018,,LICENSED,5,Not-For-Profit
+12391,01/08/2017,01/07/2019,,LICENSED,5,For-Profit
+11643,06/01/2016,05/31/2018,,LICENSED,6,For-Profit
+11141,10/25/2015,10/24/2017,,LICENSED,6,For-Profit
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../USA/FL/61-FL-HealthFinder/output/output-NORMALIZED.csv:
+space
+10
+64
+38
+16
+25
+6
+19
+127
+34
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../USA/FL/62-All/output/62-AdultDayCare-NORMALIZED.csv:
+license_number,license_effective_date,license_expiration_date,street_address_line_2,license_status,licensed_beds,profit_status
+9232,03/11/2016,11/19/2017,,LICENSED,30,For-Profit
+9381,02/02/2017,02/01/2019,,LICENSED,98,For-Profit
+9337,02/01/2016,01/31/2018,,LICENSED,62,For-Profit
+9359,08/19/2016,08/18/2018,,LICENSED,84,For-Profit
+9258,09/19/2015,09/18/2017,,IN REVIEW,57,For-Profit
+9398,08/01/2017,07/31/2019,,LICENSED,155,For-Profit
+9207,07/16/2016,07/15/2018,,LICENSED,107,For-Profit
+9184,01/10/2017,08/02/2018,,LICENSED,23,For-Profit
+9157,11/08/2016,11/07/2018,,LICENSED,42,For-Profit
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../USA/FL/62-All/output/62-AdultFamilyCare-NORMALIZED.csv:
+license_number,license_effective_date,license_expiration_date,street_address_line_2,license_status,licensed_beds,profit_status
+6906866,06/15/2016,06/14/2018,,LICENSED,5,For-Profit
+6906796,07/27/2017,07/26/2019,,LICENSED,5,For-Profit
+6906902,05/02/2017,05/01/2019,,LICENSED,5,For-Profit
+6906910,06/19/2017,06/18/2019,,LICENSED,5,For-Profit
+6906821,10/27/2015,10/26/2017,,LICENSED,5,For-Profit
+6906907,06/01/2017,05/31/2019,,LICENSED,5,For-Profit
+6906777,06/02/2017,06/01/2019,,LICENSED,4,For-Profit
+6906778,06/02/2017,06/01/2019,,LICENSED,2,For-Profit
+6906881,09/13/2016,09/12/2018,,LICENSED,4,For-Profit
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../USA/FL/62-All/output/62-AssistedLiving-NORMALIZED.csv:
+license_number,license_effective_date,license_expiration_date,street_address_line_2,license_status,licensed_beds,profit_status
+9523,08/01/2016,07/31/2018,,LICENSED,6,For-Profit
+11973,03/17/2017,03/16/2019,,LICENSED,12,For-Profit
+10183,02/12/2016,02/11/2018,,LICENSED,6,For-Profit
+6633,12/04/2016,12/03/2018,,LICENSED,28,For-Profit
+12495,04/22/2016,04/21/2018,,LICENSED,5,Not-For-Profit
+12391,01/08/2017,01/07/2019,,LICENSED,5,For-Profit
+11643,06/01/2016,05/31/2018,,LICENSED,6,For-Profit
+11141,10/25/2015,10/24/2017,,LICENSED,6,For-Profit
+9959,12/18/2016,12/17/2018,,LICENSED,6,For-Profit
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../USA/FL/62-All/output/62-NursingHomes-NORMALIZED.csv:
+license_number,license_effective_date,license_expiration_date,street_address_line_2,license_status,licensed_beds,profit_status
+1201096,07/09/2016,07/08/2018,,LICENSED,100,Not-For-Profit
+1199096,07/09/2016,07/08/2018,,LICENSED,90,Not-For-Profit
+10010961,07/01/2016,06/30/2018,,LICENSED,152,Not-For-Profit
+10020961,05/01/2016,04/30/2018,,LICENSED,79,For-Profit
+11290961,07/01/2017,06/30/2019,,LICENSED,120,For-Profit
+130471014,01/01/2017,12/31/2018,,LICENSED,120,Not-For-Profit
+130471019,06/11/2016,06/10/2018,,LICENSED,120,Not-For-Profit
+1006096,06/27/2016,06/26/2018,,LICENSED,60,For-Profit
+10080961,07/01/2016,06/30/2018,,LICENSED,130,Not-For-Profit
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../USA/GA/78-GA-All/output/output-NORMALIZED.csv:
+licensed_beds
+3
+3
+6
+5
+4
+4
+4
+4
+4
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../USA/HI/80-AssistedLiving/output/80-AssistedLiving-NORMALIZED.csv:
+number_of_beds,license_number,license_expiration,establish_date,island
+212,#16-ALF,6/30/2018,7/25/2013,Oahu
+144,#6-ALF,10/31/2017,11/9/2002,Maui
+250,#1-ALF,8/31/2019,1/2/2001,Oahu
+113,#12-ALF,4/30/2018,5/24/2001,Oahu
+67,#10-ALF,5/31/2019,8/31/2011,Oahu
+104,#20-ALF,8/31/2018,9/7/2016,Oahu
+179,#21-ALF,9/30/2018,10/24/2016,Oahu
+153,#17-ALF,3/31/2019,4/17/2014,Oahu
+220,#4-ALF,4/30/2019,8/8/2002,Oahu
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../USA/IA/87-IA-All/output/output-NORMALIZED.csv:
+
+
+
+
+
+
+
+
+
+
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../USA/IA/88-IA-All/output/output-NORMALIZED.csv:
+
+
+
+
+
+
+
+
+
+
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../USA/ID/81-ID-AssistedLiving/output/output-NORMALIZED.csv:
+
+
+
+
+
+
+
+
+
+
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../USA/IL/64-AssistedLiving/output/64-AssistedLiving-NORMALIZED.csv:
+license_num,initial_license,expires,#az,#reg,#fl,total,adult_day_care_facility,
+5104747,2016-12-20T00:00:00,2017-12-20T00:00:00,,28,,28,Yes,2172286484
+5100562,2017-01-29T00:00:00,2018-01-29T00:00:00,22,39,,61,No,8472155854
+5104192,2016-05-08T00:00:00,2017-05-08T00:00:00,17,39,,56,No,7734331800
+5104622,2017-01-14T00:00:00,2019-01-14T00:00:00,,34,,34,No,6302433500
+5104101,2016-08-31T00:00:00,2017-08-31T00:00:00,38,,,38,No,2173840100
+5105066,2017-05-01T00:00:00,2018-05-01T00:00:00,,46,,46,No,3097978181
+5105090,2017-05-01T00:00:00,2018-05-01T00:00:00,41,,,41,No,3097577744
+5105041,2016-12-05T00:00:00,2017-12-05T00:00:00,,41,,41,No,8152543564
+5103590,2016-10-20T00:00:00,2017-10-20T00:00:00,20,,,20,Yes,8153325566
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../USA/IN/83-IN-AssistedLiving/output/output-NORMALIZED.csv:
+
+
+
+
+
+
+
+
+
+
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../USA/IN/84-IN-ResidentialCare/output/output-NORMALIZED.csv:
+license_number,license_exp.
+17-013880-1,10/31/2017
+17-004426-1,6/30/2018
+17-013039-1,1/31/2018
+16-013327-1,8/31/2017
+17-010937-1,3/31/2018
+17-013321-1,12/31/2017
+16-013045-1,11/30/2017
+16-013322-1,10/31/2017
+16-012706-1,11/30/2017
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../USA/IN/86-IN-ResidentialCare(NF)/output/output-NORMALIZED.csv:
+license_number,license_exp.
+16-000103-1,11/30/2017
+16-000252-1,10/31/2017
+17-000189-1,3/31/2018
+17-000471-1,4/30/2018
+16-000455-1,11/30/2017
+17-013005-1,12/31/2017
+17-001120-1,6/30/2018
+17-004268-1,4/30/2018
+16-012854-1,10/31/2017
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../USA/KS/89-KS-AssistedLiving/output/output-NORMALIZED.csv:
+
+
+
+
+
+
+
+
+
+
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../USA/KS/90-KS-All/output/output-NORMALIZED.csv:
+
+
+
+
+
+
+
+
+
+
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../USA/KS/91-KS-All/output/output-NORMALIZED.csv:
+
+
+
+
+
+
+
+
+
+
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../USA/KY/92-KY-NursingHome/output/long_term_care-NORMALIZED.csv:
+license_#,certified_beds,licensure_effective,licensure_expiration
+100295,66,3/1/2017,2/28/2018
+100055,167,2/1/2017,1/31/2018
+100763,30,1/1/2017,12/31/2017
+100766,24,1/1/2017,12/31/2017
+100728,20,8/1/2017,7/31/2018
+100275,135,7/1/2017,6/30/2018
+100309,86,7/1/2017,6/30/2018
+100353,58,6/1/2017,5/31/2018
+100319,84,1/1/2017,12/31/2017
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../USA/KY/92-KY-NursingHome/output/personal_care_home-NORMALIZED.csv:
+license_#,beds,license_expiration
+100030,22,4/30/2018
+100145,24,4/30/2018
+100932,20,6/30/2018
+100891,128,11/30/2017
+100398,68,9/30/2017
+100087,66,6/30/2018
+101175,78,5/31/2018
+100947,99,6/30/2018
+100903,113,3/31/2018
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../USA/KY/93-KY-AssistedLiving/output/output-NORMALIZED.csv:
+space
+12 Units
+16 Units
+56 Units
+12 Units
+38 Units
+100 Units
+111 Units
+16 Units
+84 Units
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../USA/LA/94-AssistedLiving/output/94-AssistedLiving-NORMALIZED.csv:
+license_num,licensure_status,care_level,number_of_floors,number_of_suites,size_of_suites,facilities,services,participation,ownership_type,number_of_beds,council_type,branch_of,licensed_beds,secured_beds,license_type,maine_care_available,multilevel,handicap_accessible,class,license_level,ownership,certification_types,provider_number,gender,initial_license,certification_fee_due,license_renewal_fee_due,licensee_name,licensee_phone,home_and_community_based_services,ceritifications,currently_occupied_as_of,currently_occupied_beds,alzeimers_special_care_unit_provided
+2203783047,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11640,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11644,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2203782086,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../USA/LA/95-ResidentialCare/output/95-ResidentialCare-NORMALIZED.csv:
+license_num,licensure_status,care_level,number_of_floors,number_of_suites,size_of_suites,facilities,services,participation,ownership_type,number_of_beds,council_type
+2203781391,,,,,,,,,,86,
+13319,,1,,,,,,,,6,
+14224,,,,,,,,,,11,
+2117,,3,,,,,,,,,
+2203782072,,3,,,,,,,,,
+2111,,3,,,,,,,,,
+2203783047,,1,,,,,,,,8,
+2203781816,,1,,,,,,,,8,
+2203781717,,,,,,,,,,,
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../USA/LA/96-All/output/96-All-NORMALIZED.csv:
+license_num,licensure_status,care_level,number_of_floors,number_of_suites,size_of_suites,facilities,services,participation,ownership_type,number_of_beds,council_type,branch_of,licensed_beds,secured_beds,license_type,maine_care_available,multilevel,handicap_accessible,class,license_level,ownership,certification_types,provider_number,gender,initial_license,certification_fee_due,license_renewal_fee_due,licensee_name,licensee_phone,home_and_community_based_services,ceritifications,currently_occupied_as_of,currently_occupied_beds
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../USA/ME/97-AssistedLiving/output/output-NORMALIZED.csv:
+license_number,profession,status,county_fips,expiration_date,authorities,department,board
+PNC2326,PNMI LEVEL III RESIDENTIAL CARE FACILITY,ACTIVE,23011,9/22/2018,,HEALTH AND HUMAN SERVICES,ASSISTED HOUSING
+RCC2313,LEVEL III RESIDENTIAL CARE FACILITY,ACTIVE,23031,2/11/2018,Waiver Home,HEALTH AND HUMAN SERVICES,ASSISTED HOUSING
+PND2186,PNMI LEVEL IV RESIDENTIAL CARE FACILITY,ACTIVE,23011,9/3/2017,,HEALTH AND HUMAN SERVICES,ASSISTED HOUSING
+RCC1592,LEVEL III RESIDENTIAL CARE FACILITY,ACTIVE,23005,2/13/2018,,HEALTH AND HUMAN SERVICES,ASSISTED HOUSING
+RCC1548,LEVEL III RESIDENTIAL CARE FACILITY,ACTIVE,23011,5/29/2019,,HEALTH AND HUMAN SERVICES,ASSISTED HOUSING
+PNC1980,PNMI LEVEL III RESIDENTIAL CARE FACILITY,ACTIVE,23001,4/2/2019,,HEALTH AND HUMAN SERVICES,ASSISTED HOUSING
+PNC1979,PNMI LEVEL III RESIDENTIAL CARE FACILITY,ACTIVE,23001,4/2/2019,,HEALTH AND HUMAN SERVICES,ASSISTED HOUSING
+RCC1523,LEVEL III RESIDENTIAL CARE FACILITY,ACTIVE,23005,5/3/2019,Intellectual Disability/Autism,HEALTH AND HUMAN SERVICES,ASSISTED HOUSING
+RCC2058,LEVEL III RESIDENTIAL CARE FACILITY,ACTIVE,23019,10/1/2018,,HEALTH AND HUMAN SERVICES,ASSISTED HOUSING
+
+SAMPLE OF ROWS EXCLUDED IN ORDER OPERATION on Normalizer/../USA/ME/99-NursingHomes/output/99-NursingHomes-NORMALIZED.csv:
+license_num,licensure_status,care_level,number_of_floors,number_of_suites,size_of_suites,facilities,services,participation,ownership_type,number_of_beds,council_type,branch_of,licensed_beds,secured_beds,license_type,maine_care_available,multilevel,handicap_accessible
+,,,,,,,,,,72,,,,,,TRUE,FALSE,FALSE
+,,,,,,,,,,60,,,,,,TRUE,FALSE,FALSE
+,,,,,,,,,,219,,,,,,TRUE,FALSE,FALSE
+,,,,,,,,,,55,,,,,,TRUE,FALSE,FALSE
+,,,,,,,,,,78,,,,,,TRUE,FALSE,FALSE
+,,,,,,,,,,111,,,,,,TRUE,FALSE,FALSE
+,,,,,,,,,,43,,,,,,TRUE,FALSE,FALSE
+,,,,,,,,,,67,,,,,,TRUE,FALSE,FALSE
+,,,,,,,,,,75,,,,,,TRUE,FALSE,FALSE
+CURRENT_FACILITY_NAME
+FACILITY_NAME
+NAME
+NAME_OF_FACILITY
+SHORT_NAME
+SORT_NAME
+CONTACT_FIRST_NAME
+CONTACT_LAST_NAME
+CONTACT
+PRIMARY_CONTACT
+SITE_CONTACT_NAME
+EMAIL
+EMAIL_ADDRESS
+FACILITY_EMAIL
+SITE_EMAIL
+FAC._CONTACT_EMAIL
+FACILITY_FAX
+FAX
+FAX_#
+FAXPHONE
+LICENSEE_CONTACT
+LICENSEE_STREET_ADDRESS
+LICENSEE_CITY
+LICENSEE_PROVINCE
+LICENSEE_POSTAL_CODE
+LICENSEE_COUNTRY
+MAILING_ADDRESS
+MAILING_ADDRESS1
+MAILING_STREET_ADDRESS
+MAILINGSTREET
+MAILING_ADDRESS_LINE_2
+MAILING_ADDRESS2
+MAILING_PO_BOX
+PO_BOX
+MAILING_CITY
+MAILINGCITY
+M_CITY
+MAILING_CONTACT_FIRST_NAME
+MAILING_CONTACT_LAST_NAME
+MAILING_NAME
+MAILING_COUNTRY
+MAILING_COUNTY
+MAILING_POSTAL_CODE
+MAILING_ZIP
+MAILINGZIP
+M_ZIP_CODE
+MAILING_PROVINCE
+MAILING_STATE
+MAILINGSTATE
+PROVIDER
+PROVIDER_NAME
+RESPITE_PROVIDER_NAME
+CONTACT_PHONE
+FACILITY_PHONE
+FACILITY_TELEPHONE_NUMBER
+PHONE
+PHONE1
+PROVIDER_PHONE_NUMBER
+SITE_PHONE
+TELEPHONE
+WEBSITE_PHONE_#
+CELL
+PHONE2
+TOLL-FREE_PHONE
+TWITTER
+LINK
+SITE_WEBSITE
+WEB
+WEB_ADDRESS
+WEBSITE
+LINK_TO_DETAILS
+SOURCE
+CONTACT_OCCUPATION
+DSGNE_FIRST_NAME
+DSGNE_LAST_NAME
+FACILITY_ADMINISTRATOR
+MAIL_CO_STREET_ADDRESS
+MAIL_CO_PO_BOX
+MAIL_CO_COMPANY
+MAIL_CO_CITY
+MAIL_CO_POSTAL_CODE
+MAIL_CO_PROVINCE
+OMBUDSMAN_PHONE
+FACILITY_TYPE(S)
+FACTYPE
+PROVIDER_TYPE
+TYPE
+TYPE_OF_RESIDENCE
+TYPE_RES
+FACILITY_TYPE
+ALZHEIMER_FACILITY
+TRUE
+ADVANCED_AGED
+ALCOHOL/DRUG_DEPENDENT
+DEVELOPMENTALLY_DISABLED
+EMOTIONALLY_DISTURBED/MENTAL_ILLNESS
+PHYSICALLY_DISABLED
+PREGNANT_WOMEN/COUNSELLING
+TERMINALLY_ILL
+TRAUMATIC_BRAIN_INJURY
+SPECIALTY_PROGRAMS
+PROVIDES_NURSING
+LOW_HIGH_RATE
+LOWRATE
+MINIMUM_RATE_$
+HIGHRATE
+MAXIMUM_RATE_$
+RENT
+RGI_RENT_RATE
+APPROX_START_RATE_PER_MONTH
+COST
+SERVICE_PACKAGE_RATE
+SUBSIDIZED_RENT
+LATITUDE
+N_LAT
+LONGITUDE
+N_LON
+None
+SHORT_DESCRIPTION
+SITE_DESCRIPTION
+COMPANY_NAME_/_NAME_OF_OPERATORS
+LEGAL_BUSINESS_NAME
+CORPORATE_NAME
+HOUSING_TYPE
+ADM_FIRST
+ADM_FIRST_NAME
+ADM_LAST
+ADM_LAST_NAME
+ADMIN/CEO
+ADMINISTRATOR
+ADMINISTRATOR_NAME
+OPERATOR
+AGENCY
+AHCA_NUMBER_(FILE_NUMBER)
+FACID
+FACILITY_ID
+FACILITY_NUMBER
+FEDERAL_PROVIDER_NUMBER
+FUNDING_METHOD
+MANAGED_BY
+MANAGEMENT_COMPANY_NAME
+OWNEDBY
+MANAGEMENT_COMPANY_PHONE
+OWNEDBY
+OWNER
+OWNER/AGENCY
+OWNER_ADDRESS1
+OWNER_ADDRESS2
+OWNER_CITY
+OWNER_FAX
+OWNER_NAME
+OWNER_PHONE
+OWNER_SINCE
+OWNER_STATE
+OWNER_TYPE
+OWNER_ZIP
+HOUSE
+ADDRESS
+ADDRESS_1
+ADDRESS_LINE_1
+ADDRESS_LINE1
+ADDRESS1
+FACILITY_ADDRESS
+LOCATION
+PHYSICAL_ADDRESS
+PROVIDER_ADDRESS
+STREET
+STREET_ADDRESS
+ADDRESS_2
+ADDRESS_LINE_2
+ADDRESS_LINE2
+ADDRESS2
+ADDRESS_DIRECTIONS
+CITY
+FAC_CITY
+FACILITY_CITY
+P_CITY
+PROVIDER_CITY
+STREET_CITY
+AREA
+COUNTY
+COUNTY_NAME
+DQA_REGION
+PROVIDER_COUNTY_NAME
+STREET_COUNTY
+DQA_REGION_CATEGORY
+REG_NAME
+REGION
+FACILITY_STATE
+PROVIDER_STATE
+PROVINCE
+STATE
+STREET_STATE
+STATE_ID
+FACILITY_ZIP
+P_ZIP_CODE
+POSTAL_CODE
+PROVIDER_ZIP_CODE
+STREET_ZIP
+ZIP
+ZIP_CODE
+ZIPCODE
+COUNTRY
+['CURRENT_FACILITY_NAME', 'FACILITY_NAME', 'NAME', 'NAME_OF_FACILITY', 'SHORT_NAME', 'SORT_NAME', 'CONTACT_FIRST_NAME', 'CONTACT_LAST_NAME', 'CONTACT', 'PRIMARY_CONTACT', 'SITE_CONTACT_NAME', 'EMAIL', 'EMAIL_ADDRESS', 'FACILITY_EMAIL', 'SITE_EMAIL', 'FAC._CONTACT_EMAIL', 'FACILITY_FAX', 'FAX', 'FAX_#', 'FAXPHONE', 'LICENSEE_CONTACT', 'LICENSEE_STREET_ADDRESS', 'LICENSEE_CITY', 'LICENSEE_PROVINCE', 'LICENSEE_POSTAL_CODE', 'LICENSEE_COUNTRY', 'MAILING_ADDRESS', 'MAILING_ADDRESS1', 'MAILING_STREET_ADDRESS', 'MAILINGSTREET', 'MAILING_ADDRESS_LINE_2', 'MAILING_ADDRESS2', 'MAILING_PO_BOX', 'PO_BOX', 'MAILING_CITY', 'MAILINGCITY', 'M_CITY', 'MAILING_CONTACT_FIRST_NAME', 'MAILING_CONTACT_LAST_NAME', 'MAILING_NAME', 'MAILING_COUNTRY', 'MAILING_COUNTY', 'MAILING_POSTAL_CODE', 'MAILING_ZIP', 'MAILINGZIP', 'M_ZIP_CODE', 'MAILING_PROVINCE', 'MAILING_STATE', 'MAILINGSTATE', 'PROVIDER', 'PROVIDER_NAME', 'RESPITE_PROVIDER_NAME', 'CONTACT_PHONE', 'FACILITY_PHONE', 'FACILITY_TELEPHONE_NUMBER', 'PHONE', 'PHONE1', 'PROVIDER_PHONE_NUMBER', 'SITE_PHONE', 'TELEPHONE', 'WEBSITE_PHONE_#', 'CELL', 'PHONE2', 'TOLL-FREE_PHONE', 'TWITTER', 'LINK', 'SITE_WEBSITE', 'WEB', 'WEB_ADDRESS', 'WEBSITE', 'LINK_TO_DETAILS', 'SOURCE', 'CONTACT_OCCUPATION', 'DSGNE_FIRST_NAME', 'DSGNE_LAST_NAME', 'FACILITY_ADMINISTRATOR', 'MAIL_CO_STREET_ADDRESS', 'MAIL_CO_PO_BOX', 'MAIL_CO_COMPANY', 'MAIL_CO_CITY', 'MAIL_CO_POSTAL_CODE', 'MAIL_CO_PROVINCE', 'OMBUDSMAN_PHONE', 'FACILITY_TYPE(S)', 'FACTYPE', 'PROVIDER_TYPE', 'TYPE', 'TYPE_OF_RESIDENCE', 'TYPE_RES', 'FACILITY_TYPE', 'ALZHEIMER_FACILITY', 'TRUE', 'ADVANCED_AGED', 'ALCOHOL/DRUG_DEPENDENT', 'DEVELOPMENTALLY_DISABLED', 'EMOTIONALLY_DISTURBED/MENTAL_ILLNESS', 'PHYSICALLY_DISABLED', 'PREGNANT_WOMEN/COUNSELLING', 'TERMINALLY_ILL', 'TRAUMATIC_BRAIN_INJURY', 'SPECIALTY_PROGRAMS', 'PROVIDES_NURSING', 'LOW_HIGH_RATE', 'LOWRATE', 'MINIMUM_RATE_$', 'HIGHRATE', 'MAXIMUM_RATE_$', 'RENT', 'RGI_RENT_RATE', 'APPROX_START_RATE_PER_MONTH', 'COST', 'SERVICE_PACKAGE_RATE', 'SUBSIDIZED_RENT', 'LATITUDE', 'N_LAT', 'LONGITUDE', 'N_LON', 'None', 'SHORT_DESCRIPTION', 'SITE_DESCRIPTION', 'COMPANY_NAME_/_NAME_OF_OPERATORS', 'LEGAL_BUSINESS_NAME', 'CORPORATE_NAME', 'HOUSING_TYPE', 'ADM_FIRST', 'ADM_FIRST_NAME', 'ADM_LAST', 'ADM_LAST_NAME', 'ADMIN/CEO', 'ADMINISTRATOR', 'ADMINISTRATOR_NAME', 'OPERATOR', 'AGENCY', 'AHCA_NUMBER_(FILE_NUMBER)', 'FACID', 'FACILITY_ID', 'FACILITY_NUMBER', 'FEDERAL_PROVIDER_NUMBER', 'FUNDING_METHOD', 'MANAGED_BY', 'MANAGEMENT_COMPANY_NAME', 'OWNEDBY', 'MANAGEMENT_COMPANY_PHONE', 'OWNEDBY', 'OWNER', 'OWNER/AGENCY', 'OWNER_ADDRESS1', 'OWNER_ADDRESS2', 'OWNER_CITY', 'OWNER_FAX', 'OWNER_NAME', 'OWNER_PHONE', 'OWNER_SINCE', 'OWNER_STATE', 'OWNER_TYPE', 'OWNER_ZIP', 'HOUSE', 'ADDRESS', 'ADDRESS_1', 'ADDRESS_LINE_1', 'ADDRESS_LINE1', 'ADDRESS1', 'FACILITY_ADDRESS', 'LOCATION', 'PHYSICAL_ADDRESS', 'PROVIDER_ADDRESS', 'STREET', 'STREET_ADDRESS', 'ADDRESS_2', 'ADDRESS_LINE_2', 'ADDRESS_LINE2', 'ADDRESS2', 'ADDRESS_DIRECTIONS', 'CITY', 'FAC_CITY', 'FACILITY_CITY', 'P_CITY', 'PROVIDER_CITY', 'STREET_CITY', 'AREA', 'COUNTY', 'COUNTY_NAME', 'DQA_REGION', 'PROVIDER_COUNTY_NAME', 'STREET_COUNTY', 'DQA_REGION_CATEGORY', 'REG_NAME', 'REGION', 'FACILITY_STATE', 'PROVIDER_STATE', 'PROVINCE', 'STATE', 'STREET_STATE', 'STATE_ID', 'FACILITY_ZIP', 'P_ZIP_CODE', 'POSTAL_CODE', 'PROVIDER_ZIP_CODE', 'STREET_ZIP', 'ZIP', 'ZIP_CODE', 'ZIPCODE', 'COUNTRY']

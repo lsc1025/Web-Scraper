@@ -1,0 +1,547 @@
+name,contact_first_name,contact_last_name,contact_name,email,contact_email,fax,mailing_address_line_1,mailing_address_line_2,mailing_city,mailing_contact_first_name,mailing_contact_last_name,mailing_contact_name,mailing_country,mailing_county,mailing_postalcode,mailing_province,provider_name,primary_phone,secondary_phone,twitter,website,source,contact_occupation,dsgne_first_name,dsgne_last_name,admin_name,co_address_line_1,co_address_line_2,co_company,co_city,co_postalcode,co_province,ombudsman_phone,typeofcare,typeofcare2,low_high_rate,low_rate,high_rate,address_line_1,address_line_2,address_directions,city,municipality,region,province,state_id,postal_code,country,latitude,longitude,neighborhood,addr_valid
+Bickford Home,,,,,,(315) 986-2968,,,,,,,,,,,,(315) 986-5552,,,,,,,,,,,,,,,,AH,,,,,56 Main St,,,Macedon,Wayne,,,,14502,USA,43.0687355,-77.3022972,,True
+Leroy Manor,,,,,,(585) 768-6293,,,,,,,,,,,,(585) 768-6291,,,,,,,,,,,,,,,,AH/ALP,,,,,8678 Lake Street Rd,,,Leroy,Genesee,,,,14482,USA,42.9928323,-77.98917240000002,,True
+Morningside at Home,,,,,,(718) 828-2697,,,,,,,,,,,,(718) 409-8266,,,,,,,,,,,,,,,,AH/ALP,,,,,1000 Pelham Pkwy S,,,Bronx,Bronx,,,,10461,USA,40.8566658,-73.859566,East Bronx,True
+The Northfield,,,,,,(585) 232-3062,,,,,,,,,,,,(585) 377-1810,,,,,,,,,,,,,,,,EHP,,,,,4560 Nine Mile Point Rd,,,Fairport,Monroe,,,,14450,USA,43.112352,-77.440309,,True
+Woodhaven Home for Adults,,,,,,(631) 473-0048,,,,,,,,,,,,(631) 473-3304,,,,,,,,,,,,,,,,AH/ALP,,,,,1350 Route 112,,,Port Jefferson Sta.,Suffolk,,,,11776,USA,40.9157364,-73.0360328,,True
+Glenwell,,,,,,(716) 608-0151,,,,,,,,,,,,(716) 608-7000,,,,,,,,,,,,,,,,AH/ALP,,,,,2248 Old Union Rd,,,Cheektowaga,Erie,,,,14227,USA,42.8718601,-78.75628019999999,,True
+Peregrine's Landing at Orchard Park,,,,,,(716) 675-1007,,,,,,,,,,,,(716) 675-1022,,,,,,,,,,,,,,,,AH,,,,,101 Sterling Dr,,,Orchard Park,Erie,,,,14127,USA,42.7900318,-78.76554829999999,,True
+Brookdale Clinton,,,,,,(315) 859-1949,,,,,,,,,,,,(315) 859-1947,,,,,,,,,,,,,,,,AH,,,,,115 Brookside Dr,,,Clinton,Oneida,,,,13323,USA,32.350716,-90.29613289999999,,True
+Sunrise of East Setauket,,,,,,(631) 941-4455,,,,,,,,,,,,(631) 941-4455,,,,,,,,,,,,,,,,AH,,,,,1 Sunrise Dr,,,East Setauket,Suffolk,,,,11733,USA,40.935064,-73.1090045,,True
+Home of the Good Shepherd Wilton,,,,,,(518) 580-0709,,,,,,,,,,,,(518) 580-0702,,,,,,,,,,,,,,,,AH,,,,,60 Waller Rd,,,Wilton,Saratoga,,,,12831,USA,43.1304706,-73.7676195,,True
+River View Gardens NY Foundation EHP #8,,,,,,(718) 361-8534,,,,,,,,,,,,(718) 361-8442,,,,,,,,,,,,,,,,EHP,,,,,4-12 49th Ave,,,Long Island City,Queens,,,,11101,USA,40.7440888,-73.9580233,Long Island City,True
+Rosewood on the Sound,,,,,,(516) 628-2839,,,,,,,,,,,,(516) 628-1350,,,,,,,,,,,,,,,,AH,,,,,59 Bayville Ave,,,Bayville,Nassau,,,,11709,USA,40.9109448,-73.57388809999999,,True
+Danforth Adult Care Center,,,,,,(518) 686-4428,,,,,,,,,,,,(518) 686-5167,,,,,,,,,,,,,,,,AH/ALP,,,,,19 Danforth St,,,Hoosick Falls,Rensselaer,,,,12090,USA,42.9100449,-73.3477,,True
+Randolph Manor,,,,,,(716) 358-4041,,,,,,,,,,,,(716) 358-4041,,,,,,,,,,,,,,,,AH,,,,,40 East Main St,,,Randolph,Cattaraugus,,,,14772,USA,40.7962364,-74.5585433,,True
+Gurwin Jewish Fay J. Lindner Residence,,,,,,(631) 715-8580,,,,,,,,,,,,(631) 715-6500,,,,,,,,,,,,,,,,AH,,,,,50 Hauppauge Rd,,,Commack,Suffolk,,,,11725,USA,40.8295001,-73.29798029999999,,True
+GreenField Terrace,,,,,,(716) 681-6894,,,,,,,,,,,,(716) 681-4434,,,,,,,,,,,,,,,,AH,,,,,5979 Broadway St,,,Lancaster,Erie,,,,14086,USA,42.89414,-78.629178,,True
+Hamilton Manor Home for Adults,,,,,,(315) 691-3043,,,,,,,,,,,,(315) 691-4051,,,,,,,,,,,,,,,,AH,,,,,8196 Green Rd,,,Hubbardsville,Madison,,,,13355,USA,42.81491800000001,-75.457077,,True
+St. Nicholas Home,,,,,,(718) 680-2035,,,,,,,,,,,,(718) 238-8141,,,,,,,,,,,,,,,,AH,,,,,437 Ovington Ave,,,Brooklyn,Kings,,,,11209,USA,40.633576,-74.02267619999999,Bay Ridge,True
+Elderwood Assisted Living at Waverly,,,,,,(607) 565-2114,,,,,,,,,,,,(607) 565-6216,,,,,,,,,,,,,,,,EHP/ALP,,,,,44 Ball St,,,Waverly,Tioga,,,,14892,USA,42.011632,-76.529957,,True
+Assisted Living at Northern Riverview,,,,,,(845) 429-6267,,,,,,,,,,,,(845) 429-4300,,,,,,,,,,,,,,,,AH/ALP,,,,,89 South Route 9W,,,Haverstraw,Rockland,,,,10927,USA,41.19557829999999,-73.97159549999999,,False
+"Eger Harbor House, Inc.",,,,,,(718) 554-8707,,,,,,,,,,,,(718) 554-8700,,,,,,,,,,,,,,,,EHP/ALP,,,,,110 Meisner Ave,,,Staten Island,Richmond,,,,10306,USA,40.58047180000001,-74.13078019999999,Lighthouse Hill,True
+Mohawk Homestead,,,,,,(315) 866-0603,,,,,,,,,,,,(315) 866-1841,,,,,,,,,,,,,,,,AH,,,,,62 East Main St,,,Mohawk,Herkimer,,,,13407,USA,43.012277,-74.99945799999999,,True
+Sunrise at Sheepshead Bay,,,,,,(718) 616-1841,,,,,,,,,,,,(718) 616-1850,,,,,,,,,,,,,,,,EHP,,,,,2211 Emmons Ave,,,Brooklyn,Kings,,,,11235,USA,40.5841679,-73.9459739,Sheepshead Bay,True
+Kings Height Rest Home,,,,,,(845) 876-3984,,,,,,,,,,,,(845) 876-6398,,,,,,,,,,,,,,,,AH,,,,,136 Corning St,PO 280,,Rhinecliff,Dutchess,,,,12574,USA,41.9201958,-73.95073099999999,Rhinecliff,True
+Restmour Home for Adults,,,,,,(315) 258-9187,,,,,,,,,,,,(315) 253-7621,,,,,,,,,,,,,,,,AH,,,,,61 Seymour St,,,Auburn,Cayuga,,,,13021,USA,42.9381248,-76.5632128,,True
+The Gardens by Morningstar,,,,,,(315) 207-2500,,,,,,,,,,,,(315) 343-0880,,,,,,,,,,,,,,,,AH/ALP,,,,,132 Ellen St,,,Oswego,Oswego,,,,13126,USA,43.443377,-76.512492,,True
+Bethany Village,,,,,,(607) 796-2566,,,,,,,,,,,,(607) 739-8711,,,,,,,,,,,,,,,,AH,,,,,3005 Watkins Rd,,,Horseheads,Chemung,,,,14845,USA,42.18530699999999,-76.8337906,,True
+The Women's Christian Association,,,,,,(716) 672-3496,,,,,,,,,,,,(716) 672-7961,,,,,,,,,,,,,,,,AH/ALP,,,,,134 Temple St,,,Fredonia,Chautauqua,,,,14063,USA,42.4438193,-79.3373135,,True
+Oceanview Manor Home for Adults,,,,,,(718) 946-9102,,,,,,,,,,,,(718) 996-1500,,,,,,,,,,,,,,,,AH/ALP,,,,,3010 West 33rd St,,,Brooklyn,Kings,,,,11224,USA,40.5727727,-73.99913099999999,Coney Island,True
+Clark Meadows at Ferris Hills,,,,,,(585) 393-0567,,,,,,,,,,,,(585) 393-4330,,,,,,,,,,,,,,,,EHP,,,,,1 Clark Meadows,,,Canandaigua,Ontario,,,,14424,USA,42.8830229,-77.2780745,,False
+The Terrace at the Glen,,,,,,(518) 832-7891,,,,,,,,,,,,(518) 832-7894,,,,,,,,,,,,,,,,EHP,,,,,71 Longview Dr,,,Queensbury,Warren,,,,12804,USA,43.3547896,-73.6444947,,True
+Elderwood Assisted Living at West Seneca,,,,,,(716) 677-0883,,,,,,,,,,,,(716) 677-4242,,,,,,,,,,,,,,,,EHP/ALP,,,,,580 Orchard Park Rd,,,West Seneca,Erie,,,,14224,USA,42.8334651,-78.77694389999999,,True
+Surf Manor Home for Adults,,,,,,(718) 996-8403,,,,,,,,,,,,(718) 996-8400,,,,,,,,,,,,,,,,AH,,,,,2316 Surf Ave,,,Brooklyn,Kings,,,,11224,USA,40.573525,-73.9901014,Coney Island,True
+"Hedgewood ALP, LLC",,,,,,(845) 831-4810,,,,,,,,,,,,(845) 831-6000,,,,,,,,,,,,,,,,AH/ALP,,,,,355 Fishkill Ave,,,Beacon,Dutchess,,,,12508,USA,41.5085092,-73.9556017,,True
+Arkell Hall,,,,,,(518) 673-5612,,,,,,,,,,,,(518) 673-5514,,,,,,,,,,,,,,,,AH,,,,,55 Montgomery St,,,Canajoharie,Montgomery,,,,13317,USA,42.9045909,-74.56857699999999,,True
+The Bristal at Massapequa,,,,,,(516) 691-7204,,,,,,,,,,,,(516) 691-0706,,,,,,,,,,,,,,,,AH,,,,,400 County Line Rd,,,Massapequa,Nassau,,,,11758,USA,40.6851146,-73.4266454,,True
+St. Mark's Terrace EHP #2,,,,,,(607) 243-5377,,,,,,,,,,,,(607) 243-5215,,,,,,,,,,,,,,,,EHP,,,,,36 Millard St,,,Dundee,Yates,,,,14837,USA,42.5257617,-76.9831215,,True
+Sue's Rest,,,,,,(607) 324-3222,,,,,,,,,,,,(607) 324-3222,,,,,,,,,,,,,,,,AH,,,,,396 Canisteo St,,,Hornell,Steuben,,,,14843,USA,42.3151848,-77.66022269999999,,True
+The Bristal at North Woodmere,,,,,,(516) 792-5402,,,,,,,,,,,,(516) 336-2600,,,,,,,,,,,,,,,,EHP,,,,,477 Hungry Harbor Rd,,,North Woodmere,Nassau,,,,11581,USA,40.64381729999999,-73.72347280000001,,True
+Lutheran Home of Central New York,,,,,,(315) 853-1977,,,,,,,,,,,,(315) 853-5515,,,,,,,,,,,,,,,,AH,,,,,108 Utica Rd,,,Clinton,Oneida,,,,13323,USA,43.0563234,-75.36429919999999,,True
+The Bristal at Lynbrook,,,,,,(516) 599-5594,,,,,,,,,,,,(516) 593-2424,,,,,,,,,,,,,,,,AH,,,,,8 Freer St,,,Lynbrook,Nassau,,,,11563,USA,40.6559915,-73.6841829,,True
+Home of the Good Shepherd Moreau,,,,,,(518) 792-1066,,,,,,,,,,,,(518) 792-1000,,,,,,,,,,,,,,,,AH,,,,,186-200 Bluebird Rd,,,Moreau,Saratoga,,,,12803,USA,43.285522,-73.614227,,True
+Sunrise of West Babylon,,,,,,(631) 422-8700,,,,,,,,,,,,(631) 422-8500,,,,,,,,,,,,,,,,AH,,,,,580 Montauk Hwy,,,West Babylon,Suffolk,,,,11704,USA,40.6868029,-73.34136389999999,,True
+Ingersoll Place,,,,,,(518) 393-9410,,,,,,,,,,,,(518) 370-4419,,,,,,,,,,,,,,,,AH,,,,,3359 Consaul Rd,,,Schenectady,Schenectady,,,,12304,USA,42.7804122,-73.8875489,,True
+The Brielle at Seaview,,,,,,(929) 256-3034,,,,,,,,,,,,(917) 281-6810,,,,,,,,,,,,,,,,AH,,,,,140 Friendship Ln,,,Staten Island,Richmond,,,,10314,USA,40.5953713,-74.1304486,,True
+Queens Adult Care Center,,,,,,(718) 899-1917,,,,,,,,,,,,(718) 639-1800,,,,,,,,,,,,,,,,AH/ALP,,,,,80-08 45th Ave,,,Elmhurst,Queens,,,,11373,USA,40.741057,-73.8843524,Flushing,True
+Brookdale Manlius,,,,,,(315) 682-1129,,,,,,,,,,,,(315) 682-9261,,,,,,,,,,,,,,,,EHP,,,,,100 Flume Rd,,,Manlius,Onondaga,,,,13104,USA,43.00013559999999,-75.9784327,,True
+Apple Gate Adult Home,,,,,,(585) 798-5662,,,,,,,,,,,,(585) 798-3420,,,,,,,,,,,,,,,,AH,,,,,400 Ohio St,,,Medina,Orleans,,,,14103,USA,43.2213383,-78.39700750000002,,True
+Garden House For Adults,,,,,,(607) 724-5763,,,,,,,,,,,,(607) 724-5763,,,,,,,,,,,,,,,,AH,,,,,91 Walnut St,,,Binghamton,Broome,,,,13905,USA,42.10130849999999,-75.9233337,,True
+Sarah Jane Sanford Home,,,,,,(518) 842-6340,,,,,,,,,,,,(518) 842-3670,,,,,,,,,,,,,,,,AH,,,,,69 Guy Park Ave,,,Amsterdam,Montgomery,,,,12010,USA,42.9416687,-74.19462020000002,,True
+Brookdale Vestal East,,,,,,(607) 722-5841,,,,,,,,,,,,(607) 722-3422,,,,,,,,,,,,,,,,AH,,,,,505 Clubhouse Rd,,,Vestal,Broome,,,,13850,USA,42.0865246,-75.95376929999999,,True
+Hilton East Assisted Living,,,,,,(585) 392-3631,,,,,,,,,,,,(585) 392-7171,,,,,,,,,,,,,,,,AH/ALP,,,,,231 East Ave,,,Hilton,Monroe,,,,14468,USA,43.2892272,-77.7856328,,True
+Elmore Home for Adults,,,,,,(631) 671-9662,,,,,,,,,,,,(631) 234-6506,,,,,,,,,,,,,,,,AH,,,,,330 Elmore St,,,Central Islip,Suffolk,,,,11722,USA,40.7842182,-73.1995611,,True
+Westchester Center for Independent and Assisted Living,,,,,,,,,,,,,,,,,,(914) 787-7400,,,,,,,,,,,,,,,,AH/ALP,,,,,75 Stratton St S,,,Yonkers,Westchester,,,,10701,USA,40.9424575,-73.877577,Getty Square,True
+Fredonia Place,,,,,,(716) 679-2259,,,,,,,,,,,,(716) 679-2250,,,,,,,,,,,,,,,,EHP,,,,,50 Howard St,,,Fredonia,Chautauqua,,,,14063,USA,42.4315461,-79.32604769999999,,True
+New Haven Manor,,,,,,(718) 471-7650,,,,,,,,,,,,(718) 471-7200,,,,,,,,,,,,,,,,AH,,,,,1526 New Haven Ave,,,Far Rockaway,Queens,,,,11691,USA,40.5995163,-73.74937969999999,Far Rockaway,True
+Westminster Manor,,,,,,(315) 258-3157,,,,,,,,,,,,(315) 252-0507,,,,,,,,,,,,,,,,AH,,,,,81 South St,,,Auburn,Cayuga,,,,13021,USA,42.92516529999999,-76.5664975,,True
+Heritage Manor of Lockport,,,,,,(716) 433-7769,,,,,,,,,,,,(716) 433-7626,,,,,,,,,,,,,,,,AH,,,,,41 Lexington Ct,,,Lockport,Niagara,,,,14094,USA,43.1621579,-78.6634066,,True
+Kenwood Manor,,,,,,(518) 475-1690,,,,,,,,,,,,(518) 439-8899,,,,,,,,,,,,,,,,AH,,,,,141 Rockefeller Rd,,,Delmar,Albany,,,,12054,USA,42.6256138,-73.8033869,,True
+Promenade at Blue Hill,,,,,,(845) 735-6855,,,,,,,,,,,,(845) 735-6846,,,,,,,,,,,,,,,,AH,,,,,582 Veterans Memorial Dr,,,Pearl River,Rockland,,,,10965,USA,41.0518756,-74.00612000000001,,True
+St. Louise Manor,,,,,,(607) 724-8300,,,,,,,,,,,,(607) 724-4000,,,,,,,,,,,,,,,,AH/ALP,,,,,861 Front St,,,Binghamton,Broome,,,,13905,USA,42.1311487,-75.9073366,,True
+"Moffat Gardens ALP, Inc",,,,,,(866) 340-5850,,,,,,,,,,,,(718) 366-3800,,,,,,,,,,,,,,,,EHP/ALP,,,,,22 Moffat St,,,Brooklyn,Kings,,,,11207,USA,40.6836156,-73.90978179999999,Bushwick,True
+Adirondack Manor D.B.A. Valehaven HFA,,,,,,(315) 342-2022,,,,,,,,,,,,(315) 342-3959,,,,,,,,,,,,,,,,AH,,,,,24 East Oneida St,,,Oswego,Oswego,,,,13126,USA,43.4564628,-76.50555039999999,,True
+The Cloisters,,,,,,(585) 786-0436,,,,,,,,,,,,(585) 786-8727,,,,,,,,,,,,,,,,AH,,,,,171 North Maple St,,,Warsaw,Wyoming,,,,14569,USA,42.7459716,-78.139766,,True
+Brookdale Niagara Assisted Living,,,,,,(716) 731-1823,,,,,,,,,,,,(716) 731-1634,,,,,,,,,,,,,,,,EHP,,,,,6741 Nash Rd,,,North Tonawanda,Niagara,,,,14120,USA,43.0973597,-78.86521719999999,,True
+Brookdale East Side,,,,,,(315) 637-1429,,,,,,,,,,,,(315) 637-5127,,,,,,,,,,,,,,,,AH,,,,,7164 East Genesee St,,,Fayetteville,Onondaga,,,,13066,USA,43.02576639999999,-76.0269854,,True
+VillageCare at 46 and Ten,,,,,,(212) 977-4848,,,,,,,,,,,,(212) 977-4600,,,,,,,,,,,,,,,,EHP/ALP,,,,,510 West 46th St,,,New York,New York,,,,10036,USA,40.7621996,-73.9942485,,True
+Camillus Ridge Terrace,,,,,,(315) 672-5607,,,,,,,,,,,,(315) 672-3790,,,,,,,,,,,,,,,,AH,,,,,2453 W Genesee Turnpike,,,Camillus,Onondaga,,,,13031,USA,43.03716609999999,-76.3385316,,False
+Brandywine Senior Living at Huntington Terrace,,,,,,(631) 531-0003,,,,,,,,,,,,(631) 531-0000,,,,,,,,,,,,,,,,EHP,,,,,70 Pinelawn Rd,,,Melville,Suffolk,,,,11747,USA,40.7803229,-73.4046723,,True
+Meadowbrook Terrace Assisted Living Facility,,,,,,(315) 519-1339,,,,,,,,,,,,(315) 519-1246,,,,,,,,,,,,,,,,AH/ALP,,,,,21957 Cole Rd,,,Carthage,Jefferson,,,,13619,USA,43.9886139,-75.64554780000002,,True
+Loudonville Assisted Living Residence,,,,,,(518) 463-4409,,,,,,,,,,,,(518) 463-4398,,,,,,,,,,,,,,,,AH,,,,,298 Albany Shaker Rd,,,Loudonville,Albany,,,,12211,USA,42.68331899999999,-73.7595777,,True
+Culinarians' Home Foundation,,,,,,(845) 255-2012,,,,,,,,,,,,(845) 255-7010,,,,,,,,,,,,,,,,AH,,,,,71 Old Tschirky Rd,,,New Paltz,Ulster,,,,12561,USA,41.8048204,-74.0654108,,True
+Atria Guilderland,,,,,,(518) 218-0164,,,,,,,,,,,,(518) 218-0506,,,,,,,,,,,,,,,,AH,,,,,300 Mill Rose Ct,,,Slingerlands,Albany,,,,12159,USA,42.6847153,-73.90405659999999,,True
+Legacy at Maiden Park,,,,,,(585) 581-0066,,,,,,,,,,,,(585) 546-7275,,,,,,,,,,,,,,,,AH,,,,,749 Maiden Ln,,,Rochester,Monroe,,,,14615,USA,43.2227109,-77.664306,,True
+Emeritus at the Landing of Brockport,,,,,,(585) 637-3145,,,,,,,,,,,,(585) 637-3140,,,,,,,,,,,,,,,,EHP,,,,,90 West Ave,,,Brockport,Monroe,,,,14420,USA,43.2227693,-77.9420732,,True
+Sachem Adult Home,,,,,,(631) 588-4578,,,,,,,,,,,,(631) 588-4554,,,,,,,,,,,,,,,,AH/ALP,,,,,1298 Coates Ave,,,Holbrook,Suffolk,,,,11741,USA,40.79773219999999,-73.0805709,,True
+New Brookhaven Town House for Adults,,,,,,(631) 286-6488,,,,,,,,,,,,(631) 286-2500,,,,,,,,,,,,,,,,AH,,,,,111 Beaverdam Rd,,,Brookhaven,Suffolk,,,,11719,USA,40.77327450000001,-72.9343942,,True
+Harbor House,,,,,,(516) 624-2949,,,,,,,,,,,,(516) 624-8400,,,,,,,,,,,,,,,,AH,,,,,150 South St,,,Oyster Bay,Nassau,,,,11771,USA,40.87090239999999,-73.53148050000001,,True
+Westwood Commons Adult Home,,,,,,(585) 293-2183,,,,,,,,,,,,(585) 293-2060,,,,,,,,,,,,,,,,AH,,,,,50 Union Square Blvd,,,North Chili,Monroe,,,,14514,USA,43.1132553,-77.8097779,,True
+Brompton Heights,,,,,,(716) 634-1416,,,,,,,,,,,,(716) 634-5734,,,,,,,,,,,,,,,,AH,,,,,275 Brompton Rd,,,Williamsville,Erie,,,,14221,USA,42.97338959999999,-78.7060253,,True
+"Camphill Ghent, Inc.",,,,,,(518) 721-1859,,,,,,,,,,,,(518) 721-8400,,,,,,,,,,,,,,,,AH/ALP,,,,,2542 Route 66,,,Chatham,Columbia,,,,12037,USA,42.34493,-73.613227,,True
+Rainier Grove at Cherry Ridge,,,,,,(585) 671-8255,,,,,,,,,,,,(585) 697-6700,,,,,,,,,,,,,,,,AH,,,,,900 Cherry Ridge Rd,,,Webster,Monroe,,,,14580,USA,43.2079511,-77.4711913,,True
+Crystal House Manor,,,,,,(845) 877-6500,,,,,,,,,,,,(845) 877-6400,,,,,,,,,,,,,,,,AH,,,,,97 Mills St,PO 576,,Dover Plains,Dutchess,,,,12522,USA,41.7421762,-73.5718578,,True
+Carnegie East House,,,,,,(212) 410-5180,,,,,,,,,,,,(212) 360-2275,,,,,,,,,,,,,,,,EHP,,,,,1844 Second Ave,,,New York,New York,,,,10128,USA,40.78368750000001,-73.94715980000001,,True
+The McClelland  Home for Adults,,,,,,(845) 831-1846,,,,,,,,,,,,(845) 831-1909,,,,,,,,,,,,,,,,AH,,,,,126 Old Castle Point Rd,Box 308,,Beacon,Dutchess,,,,12508,USA,41.53931499999999,-73.963848,,True
+Atria Delmar Place,,,,,,(518) 434-4660,,,,,,,,,,,,(518) 434-4663,,,,,,,,,,,,,,,,EHP,,,,,467 Delaware Ave,,,Delmar,Albany,,,,12054,USA,42.6199941,-73.84289629999999,,True
+Hudson Valley Senior Residence,,,,,,(845) 331-6093,,,,,,,,,,,,(845) 331-0630,,,,,,,,,,,,,,,,AH,,,,,80 Washington Ave,,,Kingston,Ulster,,,,12401,USA,41.92638549999999,-74.0160722,,True
+St. Zita's Villa,,,,,,(845) 352-5209,,,,,,,,,,,,(845) 356-2011,,,,,,,,,,,,,,,,AH,,,,,50 Saddle River Rd,,,Monsey,Rockland,,,,10952,USA,41.111216,-74.07458,,True
+Atria Penfield,,,,,,(585) 381-0788,,,,,,,,,,,,(585) 381-0282,,,,,,,,,,,,,,,,AH,,,,,2006 Five Mile Line Rd,,,Penfield,Monroe,,,,14526,USA,43.1380259,-77.4738344,,True
+The Eliot at Catskill,,,,,,(518) 943-7123,,,,,,,,,,,,(518) 943-7100,,,,,,,,,,,,,,,,AH/ALP,,,,,122 Jefferson Hts,,,Catskill,Greene,,,,12414,USA,42.2302011,-73.8736649,,True
+Helen Keller National Center,,,,,,(516) 944-7302,,,,,,,,,,,,(516) 944-8900,,,,,,,,,,,,,,,,AH,,,,,111 Middle Neck Rd,,,Sands Point,Nassau,,,,11050,USA,40.8553756,-73.6963713,,True
+Crimson Ridge Meadows,,,,,,(585) 720-9331,,,,,,,,,,,,(585) 720-9330,,,,,,,,,,,,,,,,AH,,,,,3 Treeline Dr,,,Rochester,Monroe,,,,14612,USA,43.2518999,-77.675097,,True
+Norwegian Christian Home and Health Care Center,,,,,,(718) 331-5111,,,,,,,,,,,,(718) 232-2322,,,,,,,,,,,,,,,,AH/ALP,,,,,1250-1270 67th St,,,Brooklyn,Kings,,,,11219,USA,40.6248288,-74.00369649999999,Dyker Heights,True
+Crestview Manor ALP,,,,,,(914) 769-2536,,,,,,,,,,,,(914) 769-1762,,,,,,,,,,,,,,,,AH/ALP,,,,,150 Old Saw Mill River Rd,,,Hawthorne,Westchester,,,,10532,USA,41.097846,-73.807468,,True
+The Mansion at South Union,,,,,,(518) 677-0869,,,,,,,,,,,,(518) 677-3711,,,,,,,,,,,,,,,,AH/ALP,,,,,11 South Union St,,,Cambridge,Washington,,,,12816,USA,43.026546,-73.385738,,True
+Lincoln Rest Home,,,,,,(914) 693-1146,,,,,,,,,,,,(914) 693-1146,,,,,,,,,,,,,,,,AH,,,,,12 Lincoln Ave,,,Ardsley,Westchester,,,,10502,USA,41.0095572,-73.8444251,,True
+Champlain Valley Senior Community,,,,,,(888) 963-1110,,,,,,,,,,,,(888) 963-1110,,,,,,,,,,,,,,,,AH,,,,,10 Gilliland Ln,,,Willsboro,Essex,,,,12996,USA,44.365341,-73.390329,,True
+Whittier Place,,,,,,(518) 828-1201,,,,,,,,,,,,(518) 828-0900,,,,,,,,,,,,,,,,AH/ALP,,,,,30 Whittier Way,,,Ghent,Columbia,,,,12075,USA,42.2835,-73.7034,,True
+The Amsterdam at Harborside,,,,,,(516) 472-6698,,,,,,,,,,,,(516) 472-6626,,,,,,,,,,,,,,,,EHP,,,,,300 East Overlook,,,Port Washington,Nassau,,,,11050,USA,40.8271403,-73.6641472,,False
+The Farrar Home,,,,,,(518) 483-8107,,,,,,,,,,,,(518) 483-7550,,,,,,,,,,,,,,,,AH,,,,,46 Constable St,,,Malone,Franklin,,,,12953,USA,44.8552146,-74.28753429999999,,True
+Focus Senior Living at Utica,,,,,,(315) 732-2342,,,,,,,,,,,,(315) 732-0100,,,,,,,,,,,,,,,,EHP/ALP,,,,,1445 Kemble St,,,Utica,Oneida,,,,13501,USA,43.0932453,-75.2418574,,True
+Pounder Hall EHP,,,,,,(315) 768-4751,,,,,,,,,,,,(315) 736-1759,,,,,,,,,,,,,,,,EHP,,,,,1400 Utica St,,,Oriskany,Oneida,,,,13424,USA,43.162554,-75.34104289999999,,True
+Alma Rangel Gardens NY Foundation EHP#7,,,,,,(917) 507-1560,,,,,,,,,,,,(917) 507-1108,,,,,,,,,,,,,,,,EHP,,,,,55 West 137th St,,,New York,New York,,,,10037,USA,40.8149757,-73.9383837,,True
+Rockaway Manor HFA,,,,,,(718) 327-3834,,,,,,,,,,,,(718) 327-6300,,,,,,,,,,,,,,,,AH,,,,,145 Beach 8th St,,,Far Rockaway,Queens,,,,11691,USA,40.595348,-73.743105,Far Rockaway,True
+Jeff Senior Living,,,,,,(845) 627-5405,,,,,,,,,,,,(845) 482-4375,,,,,,,,,,,,,,,,AH,,,,,4804 Route 52- East Main St,,,Jeffersonville,Sullivan,,,,12748,USA,ERROR,ERROR,ERROR,True
+The Kensington,,,,,,(914) 390-0277,,,,,,,,,,,,(914) 390-0080,,,,,,,,,,,,,,,,AH,,,,,100 Maple Ave,,,White Plains,Westchester,,,,10601,USA,41.02669179999999,-73.7673933,,True
+Sanford Home,,,,,,(718) 353-1495,,,,,,,,,,,,(718) 353-1400,,,,,,,,,,,,,,,,AH,,,,,140-40 Sanford Ave,,,Flushing,Queens,,,,11355,USA,40.7572548,-73.82549759999999,Flushing,True
+Parkview Home for Adults,,,,,,(718) 519-8378,,,,,,,,,,,,(718) 547-9300,,,,,,,,,,,,,,,,AH,,,,,3200 Bronx Blvd,,,Bronx,Bronx,,,,10467,USA,40.8717354,-73.87005909999999,,True
+Plattduetsche Home Society,,,,,,(516) 352-8656,,,,,,,,,,,,(516) 352-4252,,,,,,,,,,,,,,,,EHP,,,,,1150 Hempstead Turnpike,,,Franklin Square,Nassau,,,,11010,USA,40.7088475,-73.6827096,,False
+Old Peoples Russian Orthodox Convent,,,,,,(845) 371-3717,,,,,,,,,,,,(845) 356-0425,,,,,,,,,,,,,,,,AH,,,,,100 Smith Rd,,,Nanuet,Rockland,,,,10954,USA,41.1101536,-74.0255133,,True
+Atria Kew Gardens,,,,,,(718) 441-5140,,,,,,,,,,,,(718) 441-0300,,,,,,,,,,,,,,,,EHP,,,,,117-01 84th Ave,,,Kew Gardens,Queens,,,,11418,USA,40.7042435,-73.8345856,Jamaica,True
+"Tanglewood Manor, Inc.",,,,,,(716) 483-2832,,,,,,,,,,,,(716) 483-2876,,,,,,,,,,,,,,,,AH/ALP,,,,,560 Fairmount Ave,,,Jamestown,Chautauqua,,,,14701,USA,42.097711,-79.2721691,,True
+Atria East Northport,,,,,,(631) 757-8010,,,,,,,,,,,,(631) 757-8000,,,,,,,,,,,,,,,,AH,,,,,10 Cheshire Pl,,,East Northport,Suffolk,,,,11731,USA,40.875417,-73.3219501,,True
+Keepsake Village at Greenpoint,,,,,,(315) 453-1026,,,,,,,,,,,,(315) 451-4567,,,,,,,,,,,,,,,,AH,,,,,138 Old Liverpool Rd,,,Liverpool,Onondaga,,,,13088,USA,43.0840079,-76.1795435,,True
+Garnerville Home,,,,,,(718) 504-4296,,,,,,,,,,,,(845) 241-5284,,,,,,,,,,,,,,,,AH,,,,,216 Ramapo Rd,Route 202,,Garnerville,Rockland,,,,10923,USA,41.2004144,-73.985477,Garnerville,True
+West Seventy-Fourth Street Home,,,,,,(212) 595-0369,,,,,,,,,,,,(212) 595-8983,,,,,,,,,,,,,,,,AH,,,,,300 Amsterdam Ave,,,New York,New York,,,,10023,USA,40.7802374,-73.9809789,,True
+Metro Interfaith Housing,,,,,,(607) 723-9602,,,,,,,,,,,,(607) 772-6766,,,,,,,,,,,,,,,,EHP,,,,,21 New St,,,Binghamton,Broome,,,,13903,USA,42.090217,-75.910198,,True
+Belle Harbor Manor,,,,,,(718) 474-8540,,,,,,,,,,,,(718) 945-6600,,,,,,,,,,,,,,,,AH,,,,,209 Beach 125th St,,,Belle Harbor,Queens,,,,11694,USA,40.57758019999999,-73.8451273,Far Rockaway,True
+Brookdale Ithaca Memory Care,,,,,,(607) 256-5318,,,,,,,,,,,,(607) 256-5094,,,,,,,,,,,,,,,,AH,,,,,101 Bundy Rd,,,Ithaca,Tompkins,,,,14850,USA,42.4591723,-76.529451,,True
+The Terrace at Glen Eddy,,,,,,(518) 280-8396,,,,,,,,,,,,(518) 280-8361,,,,,,,,,,,,,,,,EHP,,,,,1 Ascot Ln,,,Niskayuna,Schenectady,,,,12309,USA,42.7766173,-73.87894419999999,,True
+Danish Home for the Aged,,,,,,(914) 862-4412,,,,,,,,,,,,(914) 271-3052,,,,,,,,,,,,,,,,AH,,,,,1065 Quaker Bridge Rd E,PO Box 334,,Croton on Hudson,Westchester,,,,10520,USA,41.2139457,-73.8594071,,True
+Manlius Home for Adults,,,,,,(315) 682-3320,,,,,,,,,,,,(315) 682-6725,,,,,,,,,,,,,,,,AH/ALP,,,,,215 East Pleasant St,,,Manlius,Onondaga,,,,13104,USA,43.003644,-75.9771643,,True
+Echo Arms Adult Home,,,,,,(631) 473-6803,,,,,,,,,,,,(631) 473-0166,,,,,,,,,,,,,,,,AH,,,,,204 Patchogue Rd,,,Port Jefferson Stat.,Suffolk,,,,11776,USA,40.93150779999999,-73.0527068,,True
+Underwood Manor,,,,,,(716) 557-2323,,,,,,,,,,,,(716) 557-2322,,,,,,,,,,,,,,,,AH/ALP,,,,,4460 Union Hill Rd, R.D # 1,,Hinsdale,Cattaraugus,,,,14743,USA,42.1878309,-78.3527888,,True
+Grande'Vie Senior Living Community,,,,,,(585) 381-1293,,,,,,,,,,,,(585) 381-0680,,,,,,,,,,,,,,,,AH,,,,,2140 Five Mile Line Rd,,,Penfield,Monroe,,,,14526,USA,43.1285347,-77.475888,,True
+Promenade at Middletown,,,,,,(845) 344-5577,,,,,,,,,,,,(845) 341-1888,,,,,,,,,,,,,,,,AH/ALP,,,,,70 Fulton St,,,Middletown,Orange,,,,10940,USA,41.4409009,-74.4207055,,True
+The Seabury at Fieldhome,,,,,,(914) 737-8822,,,,,,,,,,,,(914) 737-2255,,,,,,,,,,,,,,,,AH/ALP,,,,,2276 Catherine St,,,Cortlandt Manor,Westchester,,,,10567,USA,41.28119339999999,-73.8488521,,True
+RPH-West,,,,,,(585) 235-1315,,,,,,,,,,,,(585) 235-9100,,,,,,,,,,,,,,,,AH,,,,,48 Cottage Grove Cir,,,North Chili,Monroe,,,,14514,USA,43.1218835,-77.8098505,,True
+The Regency at Glen Cove,,,,,,(516) 674-4144,,,,,,,,,,,,(516) 674-3007,,,,,,,,,,,,,,,,AH,,,,,94 School St,,,Glen Cove,Nassau,,,,11542,USA,40.8673051,-73.6302762,,True
+Home of  the Good Shepherd at Highpointe,,,,,,(518) 581-2888,,,,,,,,,,,,(518) 581-2800,,,,,,,,,,,,,,,,AH,,,,,26 Rock Rose Way,,,Malta,Saratoga,,,,12020,USA,42.982966,-73.788347,,True
+St. Michael's Home,,,,,,(914) 476-1744,,,,,,,,,,,,(914) 476-3374,,,,,,,,,,,,,,,,AH,,,,,3 Lehman Terrace,,,Yonkers,Westchester,,,,10705,USA,40.91395010000001,-73.90148219999999,Ludlow,False
+Pinecrest Home For Adults,,,,,,(607) 566-2253,,,,,,,,,,,,(607) 566-2252,,,,,,,,,,,,,,,,AH,,,,,7 Charlesworth Ave,,,Avoca,Steuben,,,,14809,USA,42.41041699999999,-77.41801,,True
+The New Village View SP LLC,,,,,,(845) 691-2390,,,,,,,,,,,,(845) 691-8399,,,,,,,,,,,,,,,,AH/ALP,,,,,1 Grove St,,,Highland,Ulster,,,,12528,USA,42.4175094,-83.1079766,,True
+The Waterford on the Bay,,,,,,(718) 769-1006,,,,,,,,,,,,(718) 891-8400,,,,,,,,,,,,,,,,AH/ALP,,,,,2900 Bragg St,,,Brooklyn,Kings,,,,11235,USA,40.5835314,-73.93323649999999,Sheepshead Bay,True
+Sedgwick Heights,,,,,,(315) 475-1911,,,,,,,,,,,,(315) 475-4388,,,,,,,,,,,,,,,,AH/ALP,,,,,1100 James St,,,Syracuse,Onondaga,,,,13203,USA,43.0602823,-76.1303478,Northside,True
+"Home Sweet Home of Athens, Inc.",,,,,,(518) 945-2082,,,,,,,,,,,,(518) 945-1673,,,,,,,,,,,,,,,,AH/ALP,,,,,71 Second St,,,Athens,Greene,,,,12015,USA,42.2624865,-73.8139994,,True
+Morningside Manor,,,,,,(845) 896-2456,,,,,,,,,,,,(845) 896-9171,,,,,,,,,,,,,,,,AH,,,,,135 Fishkill Cooper Rd,Box 172,,Fishkill,Dutchess,,,,12524,USA,ERROR,ERROR,ERROR,True
+The Hearth at Castle Gardens,,,,,,(607) 748-1079,,,,,,,,,,,,(607) 748-5700,,,,,,,,,,,,,,,,EHP,,,,,1715 Castle Gardens Rd,,,Vestal,Broome,,,,13850,USA,42.0783339,-76.08146339999999,,True
+RPH East,,,,,,(585) 223-0140,,,,,,,,,,,,(585) 223-0160,,,,,,,,,,,,,,,,AH,,,,,20 Crossing Creek Dr,,,Fairport,Monroe,,,,14450,USA,43.0997127,-77.4700041,,True
+Troy Adult Home,,,,,,(518) 274-5985,,,,,,,,,,,,(518) 274-5959,,,,,,,,,,,,,,,,AH,,,,,132 Oakwood Ave,,,Troy,Rensselaer,,,,12180,USA,42.7464593,-73.6749201,,True
+Blocher Homes,,,,,,(716) 631-9244,,,,,,,,,,,,(716) 810-7400,,,,,,,,,,,,,,,,AH,,,,,135 Evans St,,,Williamsville,Erie,,,,14221,USA,42.9675203,-78.7383122,,True
+Heathwood Assisted Living at Penfield,,,,,,(585) 388-8632,,,,,,,,,,,,(585) 425-9663,,,,,,,,,,,,,,,,EHP/ALP,,,,,100 Elderwood Ct,,,Penfield,Monroe,,,,14526,USA,43.1364943,-77.4412016,,True
+The Inn at Millbrook,,,,,,(845) 677-8630,,,,,,,,,,,,(845) 677-8550,,,,,,,,,,,,,,,,AH,,,,,560 Flint Rd,,,Millbrook,Dutchess,,,,12545,USA,41.72883699999999,-73.65938299999999,,True
+Elderwood Assisted Living at Tonawanda,,,,,,(716) 871-0809,,,,,,,,,,,,(716) 871-1814,,,,,,,,,,,,,,,,AH,,,,,111 Ensminger Rd,,,Tonawanda,Erie,,,,14150,USA,42.9887662,-78.8880772,,True
+Wolk Manor Enriched Living Center,,,,,,(585) 442-5095,,,,,,,,,,,,(585) 442-1950,,,,,,,,,,,,,,,,EHP,,,,,4000 Summit Circle Dr,,,Rochester,Monroe,,,,14618,USA,43.10572969999999,-77.58274980000002,,True
+"Sutton Gardens, LLC",,,,,,(718) 461-7617,,,,,,,,,,,,(718) 461-1923,,,,,,,,,,,,,,,,AH,,,,,147-02 34th Ave,,,Flushing,Queens,,,,11354,USA,40.76697649999999,-73.8196725,Flushing,True
+NY Found-Sr Citizens EHP#4 Ridge Street Gardens,,,,,,(212) 598-4092,,,,,,,,,,,,(212) 598-4148,,,,,,,,,,,,,,,,EHP,,,,,80-92 Ridge St,,,New York,New York,,,,10002,USA,42.116506,-75.922938,,True
+Maryville Assisted Living,,,,,,(631) 673-4636,,,,,,,,,,,,(631) 427-7685,,,,,,,,,,,,,,,,AH,,,,,70 Greenlawn Rd,,,Huntington,Suffolk,,,,11743,USA,40.873813,-73.3931149,,True
+Legacy at Cranberry Landing,,,,,,(585) 288-3739,,,,,,,,,,,,(585) 244-3630,,,,,,,,,,,,,,,,AH,,,,,300 Cranberry Landing Dr,,,Rochester,Monroe,,,,14609,USA,43.1893007,-77.548862,East Irondequoit,True
+Sunrise of Plainview,,,,,,(516) 932-1759,,,,,,,,,,,,(516) 932-5151,,,,,,,,,,,,,,,,AH,,,,,1231 Old Country Rd,,,Plainview,Nassau,,,,11803,USA,40.7759701,-73.4603666,,True
+Gables Home for Adults,,,,,,(631) 475-3857,,,,,,,,,,,,(631) 475-3857,,,,,,,,,,,,,,,,AH,,,,,127 Rider Ave,,,Patchogue,Suffolk,,,,11772,USA,40.7607145,-73.0083233,,True
+Dawn Hill Adult Home,,,,,,(631) 261-8088,,,,,,,,,,,,(631) 261-8088,,,,,,,,,,,,,,,,AH,,,,,65 Lisa Dr,,,North Port,Suffolk,,,,11768,USA,40.89215069999999,-73.34928769999999,,True
+Willow Towers EHP,,,,,,(914) 636-1890,,,,,,,,,,,,(914) 636-6565,,,,,,,,,,,,,,,,EHP,,,,,355 Pelham Rd,,,New Rochelle,Westchester,,,,10805,USA,40.8982217,-73.77868610000002,,True
+"Manor Haven Adult Home, Inc.",,,,,,(631) 367-1240,,,,,,,,,,,,(631) 549-0226,,,,,,,,,,,,,,,,AH,,,,,222 Columbia St,,,Huntington Station,Suffolk,,,,11746,USA,40.8487714,-73.4196949,,True
+Orchard Grove Residences,,,,,,(716) 985-6690,,,,,,,,,,,,(716) 338-1600,,,,,,,,,,,,,,,,AH/ALP,,,,,2000 Southwestern Drive W E,,,Jamestown,Chautauqua,,,,14701,USA,42.08704239999999,-79.2911015,,True
+Bridges Cornell Heights - The Tudor,,,,,,(607) 257-3565,,,,,,,,,,,,(607) 257-5777,,,,,,,,,,,,,,,,AH,,,,,407 Wyckoff Ave,,,Ithaca,Tompkins,,,,14850,USA,42.4559285,-76.48412429999999,,True
+The Belvedere,,,,,,(718) 223-1801,,,,,,,,,,,,(718) 223-1800,,,,,,,,,,,,,,,,AH,,,,,5110 19th Ave,,,Brooklyn,Kings,,,,11204,USA,40.6257984,-73.9803336,Mapleton,True
+The Bristal at White Plains,,,,,,(914) 681-1801,,,,,,,,,,,,(914) 202-2656,,,,,,,,,,,,,,,,EHP,,,,,305 North St,,,White Plains,Westchester,,,,10605,USA,41.02668329999999,-73.74776949999999,,True
+"Seaview Manor, LLC",,,,,,(718) 471-1352,,,,,,,,,,,,(718) 471-1311,,,,,,,,,,,,,,,,AH/ALP,,,,,210 Beach 47th St,,,Far Rockaway,Queens,,,,11691,USA,40.593158,-73.77758299999999,Far Rockaway,True
+Mountain Valley Manor,,,,,,,,,,,,,,,,,,(845) 331-1254,,,,,,,,,,,,,,,,AH,,,,,373-421 Wilbur Ave,,,Kingston,Ulster,,,,12401,USA,41.9225497,-74.0089019,,True
+Loretto EHP #3 Nottingham,,,,,,(315) 446-5346,,,,,,,,,,,,(315) 445-9242,,,,,,,,,,,,,,,,EHP,,,,,1301 Nottingham Rd,,,Jamesville,Onondaga,,,,13078,USA,43.0117922,-76.0850932,,True
+Buckley Landing Enriched Housing Site #6,,,,,,(315) 452-5949,,,,,,,,,,,,(315) 452-1207,,,,,,,,,,,,,,,,EHP/ALP,,,,,7430 Buckley Rd,,,North Syracuse,Onondaga,,,,13212,USA,43.13176670000001,-76.163138,,True
+Meadowview at the Wartburg,,,,,,(914) 699-2512,,,,,,,,,,,,(914) 699-0800,,,,,,,,,,,,,,,,EHP,,,,,2 Wartburg Pl,,,Mount Vernon,Westchester,,,,10552,USA,40.9205741,-73.81312609999999,North Side,True
+E.R.I.E.  EHP #1 Toomey Abbott Tower,,,,,,(315) 425-0529,,,,,,,,,,,,(315) 428-8562,,,,,,,,,,,,,,,,EHP,,,,,1207 Almond St,,,Syracuse,Onondaga,,,,13210,USA,43.03873590000001,-76.14063809999999,Eastside,True
+Masonic Home,,,,,,(315) 798-4901,,,,,,,,,,,,(315) 798-4800,,,,,,,,,,,,,,,,AH,,,,,2150 Bleecker St,,,Utica,Oneida,,,,13501,USA,43.0864712,-75.18825,,True
+Samaritan Summit Village,,,,,,(315) 782-6950,,,,,,,,,,,,(315) 782-6800,,,,,,,,,,,,,,,,AH/ALP,,,,,22691 Campus Dr,,,Watertown,Jefferson,,,,13601,USA,43.94879760000001,-75.9078681,,True
+Eden Heights of Olean,,,,,,(716) 372-1681,,,,,,,,,,,,(716) 372-4466,,,,,,,,,,,,,,,,AH,,,,,161 South Twenty-Fifth St,,,Olean,Cattaraugus,,,,14760,USA,42.074434,-78.45927999999999,,True
+Morans Rest Home,,,,,,(845) 883-5304,,,,,,,,,,,,(908) 763-9402,,,,,,,,,,,,,,,,AH,,,,,1741 State Route 32,,,Modena,Ulster,,,,12548,USA,41.63828060000001,-74.1086593,,True
+The Bristal at Massapequa,,,,,,(516) 691-7204,,,,,,,,,,,,(516) 691-0706,,,,,,,,,,,,,,,,EHP,,,,,400 County Line Rd,,,Massapequa,Nassau,,,,11758,USA,40.6851146,-73.4266454,,True
+Greenfield Court,,,,,,(716) 684-8480,,,,,,,,,,,,(716) 684-8400,,,,,,,,,,,,,,,,EHP,,,,,5951 Broadway,,,Lancaster,Erie,,,,14086,USA,42.8950391,-78.6319393,,True
+The Villa at Westhampton,,,,,,(631) 240-8190,,,,,,,,,,,,(631) 240-8100,,,,,,,,,,,,,,,,AH,,,,,68 Old Country Rd,,,Westhampton,Suffolk,,,,11977,USA,40.82786,-72.676864,,True
+Atria South Setauket,,,,,,(631) 473-0384,,,,,,,,,,,,(631) 473-8000,,,,,,,,,,,,,,,,AH,,,,,4089 Nesconset Hwy,,,Centereach,Suffolk,,,,11720,USA,40.903136,-73.072902,South Setauket,True
+Valley Vista Adult Home and Assisted Living Program,,,,,,(845) 691-3787,,,,,,,,,,,,(845) 691-7400,,,,,,,,,,,,,,,,AH/ALP,,,,,141 North Rd,,,Highland,Ulster,,,,12528,USA,41.735356,-73.965863,,True
+Green Hills Estate,,,,,,(845) 947-2668,,,,,,,,,,,,(845) 429-8411,,,,,,,,,,,,,,,,AH,,,,,1 South Route 9W,,,Haverstraw,Rockland,,,,10927,USA,41.19291399999999,-73.967584,,False
+Brookdale West Side Rochester,,,,,,(585) 225-6314,,,,,,,,,,,,(585) 225-7210,,,,,,,,,,,,,,,,AH,,,,,1404 Long Pond Rd,,,Rochester,Monroe,,,,14626,USA,43.2002093,-77.69740519999999,,True
+"Bickford Country Home, LLC",,,,,,(315) 597-5179,,,,,,,,,,,,(315) 502-4076,,,,,,,,,,,,,,,,AH,,,,,630 Curran Rd,,,Shortsville,Ontario,,,,14548,USA,43.006386,-77.211068,,True
+Atria Riverdale,,,,,,(718) 432-2447,,,,,,,,,,,,(718) 432-2448,,,,,,,,,,,,,,,,EHP,,,,,3718-3726 Henry Hudson Pkwy,,,Riverdale,Bronx,,,,10463,USA,40.8882734,-73.90998139999999,West Bronx,True
+The Hearth at Greenpoint Senior Living,,,,,,(315) 457-5602,,,,,,,,,,,,(315) 453-7911,,,,,,,,,,,,,,,,EHP,,,,,150 Old Liverpool Rd,,,Liverpool,Onondaga,,,,13088,USA,43.0836164,-76.1803522,,True
+Five Star Premier Residences of Yonkers,,,,,,(914) 423-7046,,,,,,,,,,,,(914) 423-7200,,,,,,,,,,,,,,,,EHP,,,,,537 Riverdale Ave,,,Yonkers,Westchester,,,,10705,USA,40.9136411,-73.9032649,Ludlow,True
+New Gloria's Manor Home for Adults,,,,,,(718) 945-6086,,,,,,,,,,,,(718) 945-5700,,,,,,,,,,,,,,,,AH,,,,,140 Beach 119th St,,,Rockaway Park,Queens,,,,11694,USA,40.5775,-73.83854579999999,Rockaway Park,True
+The Arbors at Bohemia,,,,,,(631) 567-3116,,,,,,,,,,,,(631) 567-3113,,,,,,,,,,,,,,,,AH,,,,,1065 Smithtown Ave,,,Bohemia,Suffolk,,,,11716,USA,40.7682581,-73.10655679999999,,True
+Amber Court of Westbury,,,,,,(516) 780-7162,,,,,,,,,,,,(516) 334-3838,,,,,,,,,,,,,,,,AH,,,,,3400 Brush Hollow Rd,,,Westbury,Nassau,,,,11590,USA,40.77490739999999,-73.5599065,,True
+Home of the Good Shepherd,,,,,,(518) 584-4760,,,,,,,,,,,,(518) 584-3317,,,,,,,,,,,,,,,,AH,,,,,390 Church St,,,Saratoga Springs,Saratoga,,,,12866,USA,43.0856096,-73.819063,,True
+The New Falls,,,,,,,,,,,,,,,,,,(607) 535-7165,,,,,,,,,,,,,,,,AH/ALP,,,,,117 Schuyler St,,,Montour Falls,Schuyler,,,,14865,USA,42.3462641,-76.8497939,,True
+Hilltop Manor West,,,,,,(607) 798-9382,,,,,,,,,,,,(607) 798-7818,,,,,,,,,,,,,,,,AH/ALP,,,,,286 Deyo Hill Rd,,,Johnson City,Broome,,,,13790,USA,42.1444432,-75.9583371,,True
+North Brook Heights Home for Adults,,,,,,(315) 252-9970,,,,,,,,,,,,(315) 253-2755,,,,,,,,,,,,,,,,AH/ALP,,,,,170 Murray Street Extension,,,Auburn,Cayuga,,,,13021,USA,ERROR,ERROR,ERROR,False
+Babylon Beach House Home for Adults,,,,,,(631) 669-2571,,,,,,,,,,,,(631) 669-3323,,,,,,,,,,,,,,,,AH,,,,,23 Yacht Club Rd,,,Babylon,Suffolk,,,,11702,USA,40.6846443,-73.3162111,,True
+Atria Greece,,,,,,(585) 225-3011,,,,,,,,,,,,(585) 225-3010,,,,,,,,,,,,,,,,AH,,,,,150 Towngate Rd,,,Rochester,Monroe,,,,14626,USA,43.2054734,-77.69839069999999,,True
+"Good Shepherd- Fairview Home, Inc.",,,,,,(607) 724-0957,,,,,,,,,,,,(607) 724-2477,,,,,,,,,,,,,,,,AH/ALP,,,,,80 Fairview Ave,,,Binghamton,Broome,,,,13904,USA,42.1106996,-75.8758762,,True
+Bronxwood,,,,,,(718) 515-0150,,,,,,,,,,,,(718) 881-9100,,,,,,,,,,,,,,,,AH/ALP,,,,,799 East Gun Hill Rd,,,Bronx,Bronx,,,,10467,USA,40.87648480000001,-73.86212809999999,East Bronx,True
+The Country House in Westchester,,,,,,(914) 962-4130,,,,,,,,,,,,(914) 962-3625,,,,,,,,,,,,,,,,AH,,,,,2000 Baldwin Rd,,,Yorktown Heights,Westchester,,,,10598,USA,41.2767491,-73.7934204,,True
+"Mariners Residence, Inc.",,,,,,(718) 447-8095,,,,,,,,,,,,(718) 720-8800,,,,,,,,,,,,,,,,AH,,,,,2099 Forest Ave,,,Staten Island,Richmond,,,,10303,USA,40.6273844,-74.1590288,Mariners Harbor,True
+Brothers of Mercy Sacred Heart Home,,,,,,(716) 759-6433,,,,,,,,,,,,(716) 759-2644,,,,,,,,,,,,,,,,AH,,,,,4520 Ransom Rd,PO 117,,Clarence,Erie,,,,14031,USA,42.97011,-78.596428,,True
+Eden Heights,,,,,,(716) 992-9078,,,,,,,,,,,,(716) 992-4466,,,,,,,,,,,,,,,,AH,,,,,4071 Hardt Rd,,,Eden,Erie,,,,14057,USA,42.6654074,-78.83309899999999,,True
+Brentland Woods,,,,,,(585) 321-3289,,,,,,,,,,,,(585) 321-1490,,,,,,,,,,,,,,,,EHP,,,,,3831 East Henrietta Rd,,,Henrietta,Monroe,,,,14467,USA,43.046567,-77.6247379,,True
+Brookdale Fayetteville,,,,,,(315) 637-2004,,,,,,,,,,,,(315) 637-2000,,,,,,,,,,,,,,,,AH,,,,,5125 Highbridge St,,,Fayetteville,Onondaga,,,,13066,USA,43.0190179,-76.0120948,,True
+Valehaven Home for Adults,,,,,,(518) 643-0923,,,,,,,,,,,,(518) 643-2740,,,,,,,,,,,,,,,,AH/ALP,,,,,2989 North Main St,Box 683,,Peru,Clinton,,,,12972,USA,ERROR,ERROR,ERROR,True
+East Road Adult Home,,,,,,(315) 376-8652,,,,,,,,,,,,(315) 376-7072,,,,,,,,,,,,,,,,AH,,,,,7731 East Rd,,,Lowville,Lewis,,,,13367,USA,43.84347269999999,-75.5134932,,True
+"New Homestead Home for Adults, Inc.",,,,,,(718) 849-3997,,,,,,,,,,,,(718) 441-2000,,,,,,,,,,,,,,,,AH,,,,,82-45 Grenfell St,,,Kew Gardens,Queens,,,,11415,USA,40.70913700000001,-73.8309701,Kew Gardens,True
+Adirondack Manor Home for Adults,,,,,,(315) 245-4764,,,,,,,,,,,,(315) 245-1520,,,,,,,,,,,,,,,,AH,,,,,128 Main St,,,Camden,Oneida,,,,13316,USA,43.3389087,-75.7492546,,True
+Tappan Zee Manor,,,,,,(845) 353-1660,,,,,,,,,,,,(845) 353-6100,,,,,,,,,,,,,,,,AH,,,,,51 Mountainview Ave,,,Nyack,Rockland,,,,10960,USA,41.0960925,-73.9339823,,True
+The Arbors at Islandia East,,,,,,(631) 342-1855,,,,,,,,,,,,(631) 232-3131,,,,,,,,,,,,,,,,AH,,,,,1515A Veterans Memorial Hwy,,,Islandia,Suffolk,,,,11749,USA,40.8107482,-73.1850635,,True
+Clinton Crest Manor,,,,,,(315) 531-9088,,,,,,,,,,,,(315) 536-8800,,,,,,,,,,,,,,,,AH,,,,,411 Clinton St,,,Penn Yan,Yates,,,,14527,USA,42.667618,-77.04096299999999,,True
+Dutchess Care,,,,,,(845) 473-8189,,,,,,,,,,,,(845) 471-7930,,,,,,,,,,,,,,,,AH/ALP,,,,,186 Washington St,,,Poughkeepsie,Dutchess,,,,12601,USA,41.7144908,-73.9304315,,True
+The Plaza at Clover Lake,,,,,,(845) 878-4333,,,,,,,,,,,,(845) 878-4111,,,,,,,,,,,,,,,,AH/ALP,,,,,838 Fair St,,,Carmel,Putnam,,,,10512,USA,41.4692345,-73.6353819,,True
+Frederic Fleming Residence,,,,,,(212) 675-8619,,,,,,,,,,,,(212) 242-5277,,,,,,,,,,,,,,,,AH,,,,,443-445 West 22nd St,,,New York,New York,,,,10011,USA,40.746616,-74.003051,,True
+The Bristal at North Hills,,,,,,(516) 233-3300,,,,,,,,,,,,(516) 233-3100,,,,,,,,,,,,,,,,EHP,,,,,99 South Service Rd,,,North Hills,Nassau,,,,11040,USA,40.7693363,-73.6868423,,True
+"Carlucci Homes, Inc.",,,,,,(845) 355-7700,,,,,,,,,,,,(914) 443-6835,,,,,,,,,,,,,,,,AH,,,,,516 Mullock Rd,,,Port Jervis,Orange,,,,12771,USA,41.40251500000001,-74.566749,,True
+Ladies Home of Oswego,,,,,,(315) 343-5348,,,,,,,,,,,,(315) 343-6951,,,,,,,,,,,,,,,,AH,,,,,43 East Utica St,,,Oswego,Oswego,,,,13126,USA,43.4547762,-76.5033407,,True
+Bristol Home,,,,,,(716) 884-0850,,,,,,,,,,,,(716) 884-4371,,,,,,,,,,,,,,,,AH,,,,,1500 Main St,,,Buffalo,Erie,,,,14209,USA,42.9143444,-78.8655661,,True
+The Barton Home,,,,,,(607) 737-9808,,,,,,,,,,,,(607) 733-6151,,,,,,,,,,,,,,,,AH,,,,,301 Grove St,,,Elmira,Chemung,,,,14905,USA,42.086622,-76.82025399999999,,True
+Heritage at The Plains at Parish Homestead,,,,,,(607) 267-4971,,,,,,,,,,,,(607) 267-4013,,,,,,,,,,,,,,,,AH,,,,,163 Heritage Cir,,,Oneonta,Otsego,,,,13820,USA,42.4437963,-75.1138728,,True
+Shire Senior Living Assisted Living Program,,,,,,(585) 338-2877,,,,,,,,,,,,(585) 467-4544,,,,,,,,,,,,,,,,AH/ALP,,,,,2515 Culver Rd,,,Rochester,Monroe,,,,14609,USA,43.19260500000001,-77.562946,East Irondequoit,True
+The Landing of Poughkeepsie,,,,,,(845) 462-1329,,,,,,,,,,,,(845) 867-4331,,,,,,,,,,,,,,,,EHP,,,,,251 Boardman Rd,,,Poughkeepsie,Dutchess,,,,12603,USA,41.656789,-73.8913946,,True
+Bishop's Commons at St. Luke,,,,,,(315) 349-0797,,,,,,,,,,,,(315) 349-0799,,,,,,,,,,,,,,,,EHP,,,,,4 Burkle St,,,Oswego,Oswego,,,,13126,USA,43.4470172,-76.4948476,,True
+The Pavilion at Pine Valley,,,,,,(845) 356-2781,,,,,,,,,,,,(845) 426-5600,,,,,,,,,,,,,,,,AH/ALP,,,,,661 North Main St,,,Spring Valley,Rockland,,,,10977,USA,41.1368736,-74.0399003,,True
+Brookdale Liverpool,,,,,,(315) 457-0305,,,,,,,,,,,,(315) 451-3221,,,,,,,,,,,,,,,,AH,,,,,4055 Long Branch Rd,,,Liverpool,Onondaga,,,,13090,USA,43.125846,-76.233716,,True
+Oyster Bay Manor,,,,,,(516) 624-7764,,,,,,,,,,,,(516) 624-0600,,,,,,,,,,,,,,,,AH,,,,,150 South St,,,Oyster Bay,Nassau,,,,11771,USA,40.87090239999999,-73.53148050000001,,True
+Atria Bay Shore,,,,,,(631) 206-1300,,,,,,,,,,,,(631) 206-1200,,,,,,,,,,,,,,,,EHP,,,,,53 Ocean Ave,,,Bay Shore,Suffolk,,,,11706,USA,40.7173739,-73.24614129999999,,True
+"Briarwood Manor, Inc.",,,,,,(716) 433-8142,,,,,,,,,,,,(716) 433-1513,,,,,,,,,,,,,,,,AH/ALP,,,,,1001 Lincoln Ave,,,Lockport,Niagara,,,,14094,USA,43.15403,-78.668671,,True
+Massry Residence at Daughters of Sarah,,,,,,(518) 689-0454,,,,,,,,,,,,(518) 689-0453,,,,,,,,,,,,,,,,EHP,,,,,182 Washington Ave Extension,,,Albany,Albany,,,,12203,USA,42.7000559,-73.85361,Dunes,False
+Morgan Estates,,,,,,(585) 243-0286,,,,,,,,,,,,(585) 243-6000,,,,,,,,,,,,,,,,AH,,,,,4588 Morgan View Rd,,,Geneseo,Livingston,,,,14454,USA,42.795753,-77.778762,,True
+McHarrie Pointe,,,,,,(315) 638-2552,,,,,,,,,,,,(315) 638-2521,,,,,,,,,,,,,,,,AH,,,,,7740 Meigs Rd,,,Baldwinsville,Onondaga,,,,13027,USA,43.1437023,-76.34389360000002,,True
+Castle Senior Living at Forest Hills,,,,,,(718) 592-1808,,,,,,,,,,,,(718) 760-4600,,,,,,,,,,,,,,,,EHP/ALP,,,,,108-25 Horace Harding Expy,,,Forest Hills,Queens,,,,11368,USA,40.7385057,-73.8515786,Flushing,True
+New South Shore Manor,,,,,,(718) 241-7039,,,,,,,,,,,,(718) 241-7035,,,,,,,,,,,,,,,,AH,,,,,1041 East 83rd St,,,Brooklyn,Kings,,,,11236,USA,40.6346959,-73.9081309,Canarsie,True
+Family Srvs/Rochester EHP1 Danforth Towers East,,,,,,(585) 529-4863,,,,,,,,,,,,(585) 436-9462,,,,,,,,,,,,,,,,EHP,,,,,140 West Ave,,,Rochester,Monroe,,,,14611,USA,43.150383,-77.64166399999999,Dutchtown,True
+Elderwood Assisted Living at Wheatfield,,,,,,(716) 731-6590,,,,,,,,,,,,(716) 731-2200,,,,,,,,,,,,,,,,AH/ALP,,,,,2600 Niagara Falls Blvd,,,Niagara Falls,Niagara,,,,14304,USA,43.0917945,-78.9067934,,True
+Loretto Village Apts. Enriched Housing Site #5,,,,,,(315) 492-6076,,,,,,,,,,,,(315) 492-1329,,,,,,,,,,,,,,,,EHP/ALP,,,,,750 East Brighton Ave,,,Syracuse,Onondaga,,,,13205,USA,43.0084655,-76.1374563,Valley,True
+Ivy Lodge,,,,,,(845) 246-6095,,,,,,,,,,,,(845) 246-4646,,,,,,,,,,,,,,,,AH,,,,,108 Main St,,,Saugerties,Ulster,,,,12477,USA,42.078613,-73.94849219999999,,True
+Bergquist Adult Home,,,,,,(716) 985-4197,,,,,,,,,,,,(716) 985-4612,,,,,,,,,,,,,,,,AH,,,,,4600 Route 60,PO 350,,Gerry,Chautauqua,,,,14740,USA,42.1963962,-79.25056099999999,,True
+The Bristal at Westbury,,,,,,(516) 918-4002,,,,,,,,,,,,(516) 333-9828,,,,,,,,,,,,,,,,EHP,,,,,117 Post Ave,,,Westbury,Nassau,,,,11590,USA,40.7523908,-73.5884603,,True
+"Elant at Goshen, Inc.",,,,,,(845) 291-3737,,,,,,,,,,,,(845) 291-3700,,,,,,,,,,,,,,,,AH,,,,,46 Harriman Dr,,,Goshen,Orange,,,,10924,USA,41.38907949999999,-74.3201536,,True
+Metro Interfaith EHP,,,,,,(607) 724-9602,,,,,,,,,,,,(607) 724-3774,,,,,,,,,,,,,,,,EHP,,,,,110 Chenango Pl,,,Binghamton,Broome,,,,13901,USA,42.1017057,-75.9085276,Downtown,True
+"Canton Enriched Housing Program, Inc.  EHP #1",,,,,,(315) 386-2383,,,,,,,,,,,,(315) 386-8830,,,,,,,,,,,,,,,,EHP,,,,,37 Riverside Dr,,,Canton,St. Lawrence,,,,13617,USA,44.5974295,-75.1743681,,True
+Rochester Presbyterian Home,,,,,,(585) 235-1315,,,,,,,,,,,,(585) 235-9100,,,,,,,,,,,,,,,,AH,,,,,256 Thurston Rd,,,Rochester,Monroe,,,,14619,USA,43.13974529999999,-77.6502294,19th Ward,True
+Birchwood Rest Home,,,,,,(631) 368-3128,,,,,,,,,,,,(631) 368-5252,,,,,,,,,,,,,,,,AH,,,,,423 Clay Pitts Rd,,,East Northport,Suffolk,,,,11731,USA,40.86907470000001,-73.29989300000001,,True
+"Cedarbrook Village, Incorporated",,,,,,(315) 797-6955,,,,,,,,,,,,(315) 737-2227,,,,,,,,,,,,,,,,EHP/ALP,,,,,101 Sitrin Ln,,,New Hartford,Oneida,,,,13413,USA,43.055563,-75.2378121,,True
+Cohocton Valley Home for Adults,,,,,,,,,,,,,,,,,,(607) 566-2543,,,,,,,,,,,,,,,,AH,,,,,64 South Main St,,,Avoca,Steuben,,,,14809,USA,42.4062791,-77.4205973,,True
+The Hearth on James,,,,,,(315) 426-7583,,,,,,,,,,,,(315) 422-2173,,,,,,,,,,,,,,,,EHP,,,,,830 James St,,,Syracuse,Onondaga,,,,13203,USA,43.056518,-76.1392032,Northside,True
+Hidden Gem Home for Adults,,,,,,(631) 588-3180,,,,,,,,,,,,(631) 588-4755,,,,,,,,,,,,,,,,AH,,,,,11 Wittridge St,,,Lake Ronkonkoma,Suffolk,,,,11779,USA,40.8196657,-73.1090937,,True
+Castle Senior Living at Forest Hills,,,,,,(718) 592-1808,,,,,,,,,,,,(718) 760-4600,,,,,,,,,,,,,,,,AH,,,,,108-25 Horace Harding Expy,,,Forest Hills,Queens,,,,11368,USA,40.7385057,-73.8515786,Flushing,True
+Amber Court of Brooklyn,,,,,,(718) 649-4441,,,,,,,,,,,,(718) 649-0700,,,,,,,,,,,,,,,,AH/ALP,,,,,650 East 104th St,,,Brooklyn,Kings,,,,11236,USA,40.6490187,-73.8980155,Canarsie,True
+Sunrise of Smithtown,,,,,,(631) 724-2922,,,,,,,,,,,,(631) 724-2299,,,,,,,,,,,,,,,,AH,,,,,30 Hauppauge Route 111,,,Smithtown,Suffolk,,,,11787,USA,40.8539047,-73.1884846,,True
+Cook Adult Home,,,,,,(518) 664-1075,,,,,,,,,,,,(518) 664-8014,,,,,,,,,,,,,,,,AH,,,,,1 Prospect St,,,Mechanicville,Saratoga,,,,12118,USA,42.9009878,-73.69611619999999,,True
+Fairport Baptist Homes Adult Care Facility,,,,,,(585) 377-2620,,,,,,,,,,,,(585) 377-0350,,,,,,,,,,,,,,,,AH/ALP,,,,,4646 Nine Mile Point Rd,,,Fairport,Monroe,,,,14450,USA,43.10922860000001,-77.4408716,,True
+Pleasant Gardens Home for Adults,,,,,,(631) 472-9483,,,,,,,,,,,,(631) 472-1047,,,,,,,,,,,,,,,,AH,,,,,396 Middle Rd,,,Bayport,Suffolk,,,,11705,USA,40.73578130000001,-73.063777,,True
+Garden of Eden Assisted Living Program,,,,,,(718) 236-1985,,,,,,,,,,,,(718) 236-5757,,,,,,,,,,,,,,,,AH/ALP,,,,,1608-1620 Stillwell Ave,,,Brooklyn,Kings,,,,11223,USA,40.6068187,-73.9874802,Gravesend,True
+"Ridge Rest Home, Inc.",,,,,,(631) 744-5323,,,,,,,,,,,,(631) 744-9781,,,,,,,,,,,,,,,,AH,,,,,Whiskey Rd,PO 460,,Ridge,Suffolk,,,,11961,USA,40.91364099999999,-72.8984335,,False
+Atria Huntington,,,,,,(631) 547-0439,,,,,,,,,,,,(631) 549-3533,,,,,,,,,,,,,,,,AH,,,,,165 Beverly Rd,,,Huntington,Suffolk,,,,11746,USA,40.8294129,-73.38145030000001,,True
+Faatz-Crofut Home for the Elderly,,,,,,(315) 253-4862,,,,,,,,,,,,(315) 253-6141,,,,,,,,,,,,,,,,AH,,,,,46 Grant Ave,,,Auburn,Cayuga,,,,13021,USA,42.9381047,-76.5553664,,True
+Parkwood Heights Senior Living Community,,,,,,(315) 986-5970,,,,,,,,,,,,(315) 986-9100,,,,,,,,,,,,,,,,EHP,,,,,1340 Parkwood Dr,,,Macedon,Wayne,,,,14502,USA,43.0609413,-77.3155383,,True
+Symphony Manor at Lancaster,,,,,,(716) 683-4049,,,,,,,,,,,,(716) 683-5150,,,,,,,,,,,,,,,,AH,,,,,5539 Broadway,,,Lancaster,Erie,,,,14086,USA,42.8981033,-78.6633753,,True
+Dominican Village Enriched Housing Program 1,,,,,,(631) 842-6131,,,,,,,,,,,,(631) 842-6091,,,,,,,,,,,,,,,,EHP,,,,,565-567 Albany Ave,,,Amityville,Suffolk,,,,11701,USA,40.7065788,-73.4018713,,True
+The Village at Mill Landing,,,,,,(585) 720-3031,,,,,,,,,,,,(585) 720-3033,,,,,,,,,,,,,,,,EHP,,,,,45 Mill Rd,,,Rochester,Monroe,,,,14626,USA,51.40250270000001,0.4964768000000001,,True
+The Terrace at Newark,,,,,,(315) 331-5285,,,,,,,,,,,,(315) 331-5282,,,,,,,,,,,,,,,,AH/ALP,,,,,208 Route 88 S,,,Newark,Wayne,,,,14513,USA,43.019489,-77.091925,,True
+The Pines at Heartwood,,,,,,(518) 266-0346,,,,,,,,,,,,(518) 266-9454,,,,,,,,,,,,,,,,AH/ALP,,,,,2405 Fifteenth St,,,Troy,Rensselaer,,,,12180,USA,42.7399,-73.6749622,,True
+Genesee Adult Home,,,,,,(585) 344-4685,,,,,,,,,,,,(585) 344-0584,,,,,,,,,,,,,,,,AH,,,,,278 Bank St,,,Batavia,Genesee,,,,14020,USA,43.007827,-78.176311,,True
+Clara Welch Thanksgiving Home,,,,,,(607) 547-9306,,,,,,,,,,,,(607) 547-8844,,,,,,,,,,,,,,,,AH,,,,,48 Grove St,,,Cooperstown,Otsego,,,,13326,USA,42.6980867,-74.9343488,,True
+Countryside Adult Home,,,,,,(518) 623-5590,,,,,,,,,,,,(518) 623-3451,,,,,,,,,,,,,,,,AH,,,,,353 Schroon River Rd,,,Warrensburg,Warren,,,,12885,USA,43.511177,-73.752392,,True
+Adirondack Manor HFA D.B.A Montcalm Manor HFA,,,,,,(518) 585-6467,,,,,,,,,,,,(518) 585-6230,,,,,,,,,,,,,,,,AH/ALP,,,,,45 Montcalm St,,,Ticonderoga,Essex,,,,12883,USA,43.8486376,-73.4303298,,True
+Woodview Court,,,,,,(914) 400-1510,,,,,,,,,,,,(914) 400-1103,,,,,,,,,,,,,,,,AH,,,,,1015 Saw Mill River Rd,,,Ardsley,Westchester,,,,10502,USA,41.0220745,-73.84292959999999,,True
+Atria Crossgate,,,,,,(518) 869-0269,,,,,,,,,,,,(518) 869-0211,,,,,,,,,,,,,,,,EHP,,,,,140 Washington Avenue Extension,,,Albany,Albany,,,,12203,USA,42.694935,-73.8511651,Dunes,False
+Signature Senior Living,,,,,,(718) 859-7911,,,,,,,,,,,,(718) 859-2400,,,,,,,,,,,,,,,,AH,,,,,631 Foster Ave,,,Brooklyn,Kings,,,,11230,USA,40.630632,-73.9706312,Kensington,True
+Argyle Center for Independent Living,,,,,,(518) 638-6420,,,,,,,,,,,,(518) 638-8274,,,,,,,,,,,,,,,,AH,,,,,4573 State Route 40,,,Argyle,Washington,,,,12809,USA,43.203681,-73.486671,,True
+Elderwood Village at Williamsville,,,,,,(716) 565-2331,,,,,,,,,,,,(716) 565-9663,,,,,,,,,,,,,,,,EHP,,,,,5271 Main St,,,Williamsville,Erie,,,,14221,USA,42.9602754,-78.7565613,,True
+St. Vincent de Paul Assisted Living Program,,,,,,(917) 645-9214,,,,,,,,,,,,(917) 645-9200,,,,,,,,,,,,,,,,AH/ALP,,,,,900 Interval Ave,,,Bronx,Bronx,,,,10459,USA,40.8194731,-73.8957941,West Bronx,True
+Lockport Presbyterian Home,,,,,,(716) 434-6059,,,,,,,,,,,,(716) 434-8805,,,,,,,,,,,,,,,,AH,,,,,327 High St,,,Lockport,Niagara,,,,14094,USA,43.16341500000001,-78.6849158,,True
+The Ambassador at Scarsdale,,,,,,(914) 428-3785,,,,,,,,,,,,(646) 528-0099,,,,,,,,,,,,,,,,EHP,,,,,9 Saxon Woods Rd,,,White Plains,Westchester,,,,10605,USA,40.9885174,-73.74600509999999,,True
+Cloverhill Adult Home,,,,,,(585) 589-7832,,,,,,,,,,,,(585) 589-7832,,,,,,,,,,,,,,,,AH,,,,,355 South Main St,,,Albion,Orleans,,,,14411,USA,43.2348309,-78.1932873,,True
+Brookdale Colonie,,,,,,(518) 783-5459,,,,,,,,,,,,(518) 783-8695,,,,,,,,,,,,,,,,AH,,,,,626 Watervliet-Shaker Rd,,,Latham,Albany,,,,12110,USA,42.735082,-73.768186,,True
+Brookdale Vestal West,,,,,,(607) 771-0001,,,,,,,,,,,,(607) 771-1700,,,,,,,,,,,,,,,,AH,,,,,421 Plaza Dr,,,Vestal,Broome,,,,13850,USA,42.0897207,-75.9547109,,True
+Park Inn Home,,,,,,(718) 634-3403,,,,,,,,,,,,(718) 634-3400,,,,,,,,,,,,,,,,AH,,,,,115-02 Ocean Promenade,,,Rockaway Park,Queens,,,,11694,USA,40.578272,-73.835685,Far Rockaway,False
+"Bristol Village, Inc.",,,,,,(716) 319-9501,,,,,,,,,,,,(716) 319-9500,,,,,,,,,,,,,,,,EHP,,,,,8455 Clarence Center Rd,,,Clarence Center,Erie,,,,14032,USA,43.012032,-78.678934,,True
+The Bristal at Sayville,,,,,,(631) 563-1161,,,,,,,,,,,,(631) 563-1160,,,,,,,,,,,,,,,,AH,,,,,129 Lakeland Ave,,,Sayville,Suffolk,,,,11782,USA,40.74476129999999,-73.08769509999999,,True
+Atria Great Neck,,,,,,(516) 829-4989,,,,,,,,,,,,(516) 829-4100,,,,,,,,,,,,,,,,EHP,,,,,51 Great Neck Rd,,,Great Neck,Nassau,,,,11021,USA,40.78603129999999,-73.72851299999999,,True
+Sunnydale Home,,,,,,(914) 698-1286,,,,,,,,,,,,(914) 698-2824,,,,,,,,,,,,,,,,AH,,,,,809 Stuart Ave,,,Mamaroneck,Westchester,,,,10543,USA,40.952095,-73.7244798,,True
+Ideal Senior Living Center,,,,,,(607) 786-7496,,,,,,,,,,,,(607) 786-7300,,,,,,,,,,,,,,,,AH/ALP,,,,,600 High Ave,,,Endicott,Broome,,,,13760,USA,42.091728,-76.067978,,True
+Dosberg Manor,,,,,,(716) 639-3309,,,,,,,,,,,,(716) 639-3311,,,,,,,,,,,,,,,,AH/ALP,,,,,2680 North Forest Rd,,,Amherst,Erie,,,,14068,USA,43.0144725,-78.7848771,,True
+The Inn at Menorah Park,,,,,,(315) 446-1537,,,,,,,,,,,,(315) 446-9111,,,,,,,,,,,,,,,,AH,,,,,4101 East Genesee St,,,Syracuse,Onondaga,,,,13214,USA,43.03858290000001,-76.0758171,Eastside,True
+Crossroads,,,,,,(315) 476-3615,,,,,,,,,,,,(315) 701-3894,,,,,,,,,,,,,,,,AH,,,,,120 Gifford St,,,Syracuse,Onondaga,,,,13202,USA,43.04401289999999,-76.1549101,Westside,True
+Heathwood Assisted Living at Williamsville,,,,,,(716) 688-7266,,,,,,,,,,,,(716) 688-0111,,,,,,,,,,,,,,,,AH/ALP,,,,,815 Hopkins Rd,,,Williamsville,Erie,,,,14221,USA,43.0004643,-78.7386171,,True
+Amber Court of Westbury,,,,,,(516) 334-3866,,,,,,,,,,,,(516) 334-3838,,,,,,,,,,,,,,,,AH/ALP,,,,,3400 Brush Hollow Rd,,,Westbury,Nassau,,,,11590,USA,40.77490739999999,-73.5599065,,True
+Atria Tanglewood,,,,,,(516) 536-0599,,,,,,,,,,,,(516) 596-3400,,,,,,,,,,,,,,,,AH,,,,,125 Ocean Ave,,,Lynbrook,Nassau,,,,11563,USA,40.66329950000001,-73.6586574,,True
+Heather Heights of Pittsford,,,,,,(585) 264-1010,,,,,,,,,,,,(585) 264-1600,,,,,,,,,,,,,,,,AH,,,,,160 West Jefferson Rd,,,Pittsford,Monroe,,,,14534,USA,43.08819130000001,-77.5312213,,True
+Greenbriar Home for Adults,,,,,,(607) 749-7431,,,,,,,,,,,,(607) 749-7287,,,,,,,,,,,,,,,,AH,,,,,46 Cortland St,,,Homer,Cortland,,,,13077,USA,42.6322008,-76.183201,,True
+The Pavilion at Vestal,,,,,,(607) 748-5689,,,,,,,,,,,,(607) 754-4105,,,,,,,,,,,,,,,,AH/ALP,,,,,105 West Sheedy Rd,,,Vestal,Broome,,,,13850,USA,42.0542386,-76.0224123,,True
+Loretto EHP #1 Bernardine Apartments,,,,,,(315) 469-4048,,,,,,,,,,,,(315) 469-7786,,,,,,,,,,,,,,,,EHP/ALP,,,,,417 Churchill Ave,,,Syracuse,Onondaga,,,,13205,USA,43.008498,-76.138926,Valley,True
+"Woodside Hall, LLC",,,,,,(607) 547-0601,,,,,,,,,,,,(607) 547-0600,,,,,,,,,,,,,,,,AH,,,,,1 Main St,,,Cooperstown,Otsego,,,,13326,USA,42.6987591,-74.91624089999999,,True
+Marjorie Doyle Rockwell Center,,,,,,(518) 238-4195,,,,,,,,,,,,(518) 238-4150,,,,,,,,,,,,,,,,AH,,,,,421 West Columbia St,,,Cohoes,Albany,,,,12047,USA,42.774565,-73.725033,,True
+McPeak's Adult Home,,,,,,(631) 475-5534,,,,,,,,,,,,(631) 475-0445,,,,,,,,,,,,,,,,AH,,,,,286 North Ocean Ave,,,Patchogue,Suffolk,,,,11772,USA,40.7735461,-73.0157688,,True
+Alice Hyde Assisted Living Program,,,,,,(518) 481-8403,,,,,,,,,,,,(518) 481-8401,,,,,,,,,,,,,,,,AH/ALP,,,,,45 Sixth St,,,Malone,Franklin,,,,12953,USA,44.86198419999999,-74.2889768,,True
+Atria Lynbrook,,,,,,(516) 596-1408,,,,,,,,,,,,(516) 596-2700,,,,,,,,,,,,,,,,AH,,,,,100 Peninsula Blvd,,,Lynbrook,Nassau,,,,11563,USA,40.6557958,-73.67953469999999,,True
+Crimson Ridge Gardens,,,,,,(585) 720-9311,,,,,,,,,,,,(585) 720-9310,,,,,,,,,,,,,,,,AH,,,,,1 Treeline Dr,,,Rochester,Monroe,,,,14612,USA,43.25187239999999,-77.675068,,True
+Atria Briarcliff Manor,,,,,,(914) 944-3055,,,,,,,,,,,,(914) 923-4400,,,,,,,,,,,,,,,,AH,,,,,1025 Pleasantville Rd,,,Briarcliff Manor,Westchester,,,,10510,USA,41.1469968,-73.8265395,,True
+Missionary Sisters of St. Benedict,,,,,,(631) 266-1015,,,,,,,,,,,,(631) 368-9528,,,,,,,,,,,,,,,,AH,,,,,350 Cuba Hill Rd,,,Huntington,Suffolk,,,,11743,USA,40.8455848,-73.3372381,,True
+Brookdale Hospital Medical Center ALP,,,,,,(718) 240-6851,,,,,,,,,,,,(718) 240-6225,,,,,,,,,,,,,,,,EHP/ALP,,,,,558-578 Rockaway Pkwy,,,Brooklyn,Kings,,,,11212,USA,40.65489409999999,-73.91370719999999,East Flatbush,True
+NY Found-Sr Citizens EHP#5 Clinton Gardens,,,,,,(212) 489-9332,,,,,,,,,,,,(212) 489-9339,,,,,,,,,,,,,,,,EHP,,,,,404-412 W 54 St- Clinton Gardens,,,New York,New York,,,,10019,USA,40.766074,-73.987934,,False
+The Bristal at Lake Grove,,,,,,(631) 676-7581,,,,,,,,,,,,(631) 676-7580,,,,,,,,,,,,,,,,EHP,,,,,2995 Middle Country Rd,,,Lake Grove,Suffolk,,,,11755,USA,40.8613686,-73.1176546,,True
+Braemar Living at Wallkill,,,,,,(845) 695-5601,,,,,,,,,,,,(914) 305-2230,,,,,,,,,,,,,,,,AH/ALP,,,,,21 Riverside Dr,,,Middletown,Orange,,,,10941,USA,41.4505393,-74.34911149999999,,True
+Cobbs Hill Manor,,,,,,(585) 730-5397,,,,,,,,,,,,(585) 851-8696,,,,,,,,,,,,,,,,AH/ALP,,,,,1175 Monroe Ave,,,Rochester,Monroe,,,,14620,USA,43.1372222,-77.5800074,Upper Monroe,True
+Home Sweet Home on the Hudson,,,,,,(518) 943-5033,,,,,,,,,,,,(518) 943-5701,,,,,,,,,,,,,,,,AH/ALP,,,,,38 Prospect Ave,,,Catskill,Greene,,,,12414,USA,42.2174961,-73.8581226,,True
+"New York Armenian Home, Inc.",,,,,,(718) 461-3079,,,,,,,,,,,,(718) 461-1504,,,,,,,,,,,,,,,,AH,,,,,137-31 45th Ave,,,Flushing,Queens,,,,11355,USA,40.7515377,-73.82253290000001,Flushing,True
+Woodland Pond at New Paltz,,,,,,(845) 256-5779,,,,,,,,,,,,(845) 256-5910,,,,,,,,,,,,,,,,EHP,,,,,100 Woodland Pond Cir,,,New Paltz,Ulster,,,,12561,USA,41.7573865,-74.06320190000001,,True
+Gallagher Home,,,,,,(845) 628-3132,,,,,,,,,,,,(845) 628-7000,,,,,,,,,,,,,,,,AH,,,,,517 North Lake Blvd,,,Mahopac,Putnam,,,,10541,USA,41.3923237,-73.7333002,,True
+Bridges Cornell Heights - The Colonial,,,,,,(607) 257-3565,,,,,,,,,,,,(607) 257-5777,,,,,,,,,,,,,,,,AH,,,,,403 Wyckoff Ave,,,Ithaca,Tompkins,,,,14850,USA,42.4558304,-76.4838209,,True
+Meadowbrook Manor,,,,,,(315) 564-5033,,,,,,,,,,,,(315) 564-5555,,,,,,,,,,,,,,,,AH,,,,,31 Oswego St,,,Hannibal,Oswego,,,,13074,USA,43.328686,-76.569925,,True
+Family Srvs/Rochester EHP2 Jonathan Child Project,,,,,,(585) 529-4863,,,,,,,,,,,,(585) 436-9462,,,,,,,,,,,,,,,,EHP/ALP,,,,,399 Colvin Ave,,,Rochester,Monroe,,,,14611,USA,43.1586404,-77.6418504,Dutchtown,True
+Sunrise of Staten Island,,,,,,(718) 727-8542,,,,,,,,,,,,(718) 727-8498,,,,,,,,,,,,,,,,EHP,,,,,801 Narrows Rd,,,Staten Island,Richmond,,,,10304,USA,40.6113285,-74.0952775,Grymes Hill,True
+Alpine Manor,,,,,,(585) 346-5011,,,,,,,,,,,,(585) 346-5880,,,,,,,,,,,,,,,,AH,,,,,2714 Poplar Hill Rd,,,Lima,Livingston,,,,14485,USA,42.868284,-77.66051600000002,,True
+Mohegan Park,,,,,,(914) 528-3591,,,,,,,,,,,,(914) 528-3512,,,,,,,,,,,,,,,,AH,,,,,3441 Lexington Ave,,,Mohegan Lake,Westchester,,,,10547,USA,41.3188646,-73.85998529999999,,True
+The Terraces at Brookmeade,,,,,,(845) 871-1391,,,,,,,,,,,,(845) 876-5522,,,,,,,,,,,,,,,,EHP,,,,,54 Brookmeade Dr,,,Rhinebeck,Dutchess,,,,12572,USA,41.92857710000001,-73.89254,,True
+Brookdale East Niskayuna,,,,,,(518) 782-7382,,,,,,,,,,,,(518) 782-7381,,,,,,,,,,,,,,,,AH,,,,,2861 Troy-Schenectady Rd,,,Niskayuna,Schenectady,,,,12309,USA,42.7789193,-73.84304279999999,,True
+Promenade at Tuxedo Place,,,,,,(845) 735-6855,,,,,,,,,,,,(845) 735-6846,,,,,,,,,,,,,,,,AH,,,,,40 Hospital Rd,,,Tuxedo,Orange,,,,10987,USA,41.1900971,-74.1866278,,True
+Sunrise of Holbrook,,,,,,(631) 289-8484,,,,,,,,,,,,(631) 289-8400,,,,,,,,,,,,,,,,AH,,,,,320 Patchogne-Holbrook Rd,,,Holbrook,Suffolk,,,,11741,USA,40.7838388,-73.04316709999999,,True
+Palisade Gardens,,,,,,(914) 423-2264,,,,,,,,,,,,(914) 966-1300,,,,,,,,,,,,,,,,AH,,,,,185 Palisade Ave,,,Yonkers,Westchester,,,,10703,USA,40.9400998,-73.8934921,Getty Square,True
+Ken-Ton Presbyterian Village EHP,,,,,,(716) 874-1455,,,,,,,,,,,,(716) 874-6070,,,,,,,,,,,,,,,,EHP,,,,,3735 Delaware Ave,,,Kenmore,Erie,,,,14217,USA,42.98582469999999,-78.8723364,Paramount,True
+Emeritus at the Landing of Queensbury,,,,,,(518) 793-9863,,,,,,,,,,,,(518) 793-5556,,,,,,,,,,,,,,,,EHP,,,,,27 Woodvale Rd,,,Queensbury,Warren,,,,12804,USA,43.335031,-73.6614376,Glens Falls North,True
+The Bristal at East Meadow,,,,,,(516) 465-0165,,,,,,,,,,,,(516) 542-0800,,,,,,,,,,,,,,,,EHP,,,,,40 Merrick Ave,,,East Meadow,Nassau,,,,11554,USA,40.7213664,-73.57856819999999,,True
+Adirondack Manor HFA D.B.A Scotia Mansion,,,,,,(518) 346-3458,,,,,,,,,,,,(518) 346-6458,,,,,,,,,,,,,,,,AH/ALP,,,,,39 Wallace St,,,Scotia,Schenectady,,,,12302,USA,42.833146,-73.96060990000001,,True
+Heritage Manor of Ransomville Assisted Living Program,,,,,,(716) 791-3398,,,,,,,,,,,,(716) 791-4211,,,,,,,,,,,,,,,,AH/ALP,,,,,3509 Ransomville Rd,,,Ransomville,Niagara,,,,14131,USA,43.244399,-78.907811,,True
+The Knolls,,,,,,(914) 989-7818,,,,,,,,,,,,(914) 989-7878,,,,,,,,,,,,,,,,EHP,,,,,55 Grasslands Rd,,,Valhalla,Westchester,,,,10595,USA,41.0683635,-73.7832622,,True
+Robinson Terrace Senior Living,,,,,,(607) 652-2962,,,,,,,,,,,,(607) 652-2960,,,,,,,,,,,,,,,,AH/ALP,,,,,1 Buntline Dr,,,Stamford,Delaware,,,,12167,USA,42.4033058,-74.62005189999999,,True
+Kendal at Ithaca,,,,,,(607) 266-5353,,,,,,,,,,,,(607) 266-5300,,,,,,,,,,,,,,,,AH,,,,,2230 North Triphammer Rd,,,Ithaca,Tompkins,,,,14850,USA,42.4755498,-76.485689,,True
+Gurwin Jewish Fay J. Lindner Residence,,,,,,(631) 715-8580,,,,,,,,,,,,(631) 715-8500,,,,,,,,,,,,,,,,EHP,,,,,50 Hauppauge Rd,,,Commack,Suffolk,,,,11725,USA,40.8295001,-73.29798029999999,,True
+Highland Assisted Living at Village View,,,,,,(845) 691-2390,,,,,,,,,,,,(845) 691-8399,,,,,,,,,,,,,,,,AH/ALP,,,,,1 Grove St,,,Highland,Ulster,,,,12528,USA,42.4175094,-83.1079766,,True
+The New Golden Acres SP LLC,,,,,,(845) 356-4158,,,,,,,,,,,,(845) 356-2440,,,,,,,,,,,,,,,,AH/ALP,,,,,35 Prospect St,,,Spring Valley,Rockland,,,,10977,USA,41.120085,-74.039828,,True
+Frewsburg Rest Home,,,,,,(716) 483-2832,,,,,,,,,,,,(716) 483-2876,,,,,,,,,,,,,,,,AH/ALP,,,,,106 West Main St,,,Frewsburg,Chautauqua,,,,14738,USA,42.05299,-79.16507399999999,,True
+The Bristal at Lake Success,,,,,,(516) 600-1900,,,,,,,,,,,,(516) 600-1800,,,,,,,,,,,,,,,,AH,,,,,69 North Service Rd,,,Lake Success,Nassau,,,,11020,USA,40.77043399999999,-73.70589,,True
+Adirondack Manor HFA D.B.A Adirondack Manor HFA ALP,,,,,,(518) 761-0338,,,,,,,,,,,,(518) 761-0176,,,,,,,,,,,,,,,,AH/ALP,,,,,653 Bay Rd,,,Queensbury,Warren,,,,12804,USA,43.35356700000001,-73.658388,,True
+Island Assisted Living,,,,,,(516) 564-5353,,,,,,,,,,,,(516) 564-1100,,,,,,,,,,,,,,,,AH/ALP,,,,,800-820 Front St,,,Hempstead,Nassau,,,,11550,USA,40.7086957,-73.6017396,,True
+Braemar Living at Medford,,,,,,(631) 682-0622,,,,,,,,,,,,(631) 289-0600,,,,,,,,,,,,,,,,AH/ALP,,,,,1529 North Ocean Ave,,,Medford,Suffolk,,,,11763,USA,40.8102952,-73.01790079999999,,True
+Chenango Valley Home,,,,,,(607) 336-6625,,,,,,,,,,,,(607) 334-6598,,,,,,,,,,,,,,,,AH,,,,,24 Canasawacta St,,,Norwich,Chenango,,,,13815,USA,42.5317221,-75.5304577,,True
+Judson Meadows,,,,,,(518) 831-2405,,,,,,,,,,,,(518) 831-2400,,,,,,,,,,,,,,,,EHP/ALP,,,,,39 Swaggertown Rd,,,Glenville,Schenectady,,,,12302,USA,42.84559420000001,-73.95079989999999,,True
+Sunrise of Fleetwood,,,,,,(914) 665-1488,,,,,,,,,,,,(914) 667-5660,,,,,,,,,,,,,,,,AH,,,,,500 North Columbus Ave,,,Mount Vernon,Westchester,,,,10552,USA,40.9263435,-73.82197599999999,North Side,True
+"Evergreen Court Home for Adults SP, LLC",,,,,,(845) 352-6244,,,,,,,,,,,,(845) 356-7700,,,,,,,,,,,,,,,,AH/ALP,,,,,65 Lafayette St,,,Spring Valley,Rockland,,,,10977,USA,41.1143037,-74.04000169999999,,True
+Jeffersonville Senior Living,,,,,,(845) 627-5405,,,,,,,,,,,,(845) 482-4375,,,,,,,,,,,,,,,,AH,,,,,4806 Route 52,,,Jeffersonville,Sullivan,,,,12748,USA,41.781553,-74.92867799999999,,True
+Brandywine Assisted Living at The Savoy,,,,,,(718) 423-5050,,,,,,,,,,,,(718) 423-7900,,,,,,,,,,,,,,,,EHP,,,,,55-15 Little Neck Pkwy,,,Little Neck,Queens,,,,11362,USA,40.75017039999999,-73.7197204,Glen Oaks,True
+Five Star Premier Residences of Yonkers,,,,,,(914) 378-9062,,,,,,,,,,,,(914) 709-1234,,,,,,,,,,,,,,,,AH,,,,,537 Riverdale Ave,,,Yonkers,Westchester,,,,10705,USA,40.9136411,-73.9032649,Ludlow,True
+Samuel F. Vilas Home,,,,,,(518) 563-5406,,,,,,,,,,,,(518) 563-4960,,,,,,,,,,,,,,,,AH,,,,,61 Beekman St,,,Plattsburgh,Clinton,,,,12901,USA,44.698972,-73.46733379999999,,True
+Hazel L. Carpenter Home,,,,,,(315) 363-0839,,,,,,,,,,,,(315) 363-1470,,,,,,,,,,,,,,,,AH,,,,,533 Main St,,,Oneida,Madison,,,,13421,USA,43.0835698,-75.64431809999999,,True
+Brookdale Bassett Park,,,,,,(716) 689-2763,,,,,,,,,,,,(716) 689-2394,,,,,,,,,,,,,,,,AH,,,,,111 Saint Gregory Ct,,,Williamsville,Erie,,,,14221,USA,42.99421090000001,-78.726221,,True
+"Absolut at Orchard Brooke, LLC",,,,,,(716) 662-6752,,,,,,,,,,,,(716) 662-6753,,,,,,,,,,,,,,,,AH,,,,,6060 Armor Rd,,,Orchard Park,Erie,,,,14127,USA,42.7530483,-78.76394959999999,,True
+The Vincent Bove Center at Jefferson Ferry,,,,,,(631) 650-2620,,,,,,,,,,,,(631) 650-2600,,,,,,,,,,,,,,,,EHP,,,,,1 Jefferson Ferry Dr,,,South Setauket,Suffolk,,,,11720,USA,40.8995215,-73.07680719999999,,True
+The Arbors at Westbury,,,,,,(516) 876-0473,,,,,,,,,,,,(516) 333-6400,,,,,,,,,,,,,,,,AH,,,,,45 Jericho Turnpike,,,Jericho,Nassau,,,,11753,USA,40.7776096,-73.5637103,,False
+Sage Harbor at Baywinde,,,,,,(585) 787-2249,,,,,,,,,,,,(585) 670-7000,,,,,,,,,,,,,,,,AH,,,,,100 Kidd Castle Way,,,Webster,Monroe,,,,14580,USA,43.1935613,-77.5092603,,True
+Atria West 86,,,,,,(212) 712-0690,,,,,,,,,,,,(212) 712-0200,,,,,,,,,,,,,,,,EHP,,,,,333 West 86th St,,,New York,New York,,,,10024,USA,40.7897271,-73.9792038,,True
+Brookdale Lakewood,,,,,,(716) 665-2978,,,,,,,,,,,,(716) 665-2414,,,,,,,,,,,,,,,,EHP,,,,,220 Southwestern Dr,,,Lakewood,Chautauqua,,,,14750,USA,42.0943029,-79.298374,,True
+The Bixby Home,,,,,,(607) 532-4487,,,,,,,,,,,,(607) 532-4488,,,,,,,,,,,,,,,,AH,,,,,8342 North Main St,PO 419,,Interlaken,Seneca,,,,14847,USA,42.620083,-76.725866,,True
+Christian Fellowship House,,,,,,(516) 922-6130,,,,,,,,,,,,(516) 922-6040,,,,,,,,,,,,,,,,AH,,,,,369 Split Rock Rd,,,Syosset,Nassau,,,,11791,USA,40.8370295,-73.51693999999999,,True
+Pearl Garden Manor,,,,,,(631) 277-1081,,,,,,,,,,,,(631) 859-3228,,,,,,,,,,,,,,,,AH,,,,,36 Locust Ave,,,Islip,Suffolk,,,,11751,USA,40.730396,-73.2132634,,True
+The Terrace at The Eddy Memorial,,,,,,(518) 274-5407,,,,,,,,,,,,(518) 274-9890,,,,,,,,,,,,,,,,EHP,,,,,2256 Burdett Ave,,,Troy,Rensselaer,,,,12180,USA,42.7350814,-73.6701271,,True
+"HomeLife at Folts-Claxton, LLC.",,,,,,(315) 866-6760,,,,,,,,,,,,(315) 866-6964,,,,,,,,,,,,,,,,AH,,,,,104 North Washington St,,,Herkimer,Herkimer,,,,13350,USA,43.02712,-74.9843538,,True
+Tennyson Court,,,,,,(716) 632-1822,,,,,,,,,,,,(716) 632-9496,,,,,,,,,,,,,,,,AH,,,,,49 Tennyson Ct,,,Williamsville,Erie,,,,14221,USA,42.9724794,-78.69879619999999,,True
+The Athenaeum of Skaneateles,,,,,,(315) 685-1407,,,,,,,,,,,,(315) 685-1400,,,,,,,,,,,,,,,,AH,,,,,150 Genesee St,,,Skaneateles,Onondaga,,,,13152,USA,42.94426300000001,-76.4188508,,True
+"Hawthorne Ridge, Inc.",,,,,,(518) 477-2906,,,,,,,,,,,,(518) 833-1111,,,,,,,,,,,,,,,,AH,,,,,30 Community Way,,,East Greenbush,Rensselaer,,,,12061,USA,42.6149624,-73.696381,,True
+"DOJ Assisted Living Program, Inc.",,,,,,(347) 505-7099,,,,,,,,,,,,(718) 293-1500,,,,,,,,,,,,,,,,AH/ALP,,,,,1160 Teller Ave,,,Bronx,Bronx,,,,10456,USA,40.8315553,-73.9115114,West Bronx,True
+Brookdale Niskayuna,,,,,,(518) 381-3945,,,,,,,,,,,,(518) 346-6935,,,,,,,,,,,,,,,,EHP,,,,,1786 Union St,,,Niskayuna,Schenectady,,,,12309,USA,42.801444,-73.8974807,,True
+Rodden Home,,,,,,(631) 585-1906,,,,,,,,,,,,(631) 585-1906,,,,,,,,,,,,,,,,AH,,,,,15 Wittridge St,,,Lake Ronkonkoma,Suffolk,,,,11779,USA,40.8196817,-73.1094346,,True
+The Bristal at Holtsville,,,,,,(631) 828-3601,,,,,,,,,,,,(631) 732-2300,,,,,,,,,,,,,,,,EHP,,,,,5535 Expressway Dr N,,,Holtsville,Suffolk,,,,11742,USA,40.8242108,-73.0230906,,True
+"Bayview Rest Home, LLC",,,,,,(631) 661-3292,,,,,,,,,,,,(631) 661-3292,,,,,,,,,,,,,,,,AH,,,,,143 East Main St,,,Babylon,Suffolk,,,,11702,USA,40.69743389999999,-73.3207455,,True
+Fox Run at Orchard Park,,,,,,(716) 662-6985,,,,,,,,,,,,(716) 662-5001,,,,,,,,,,,,,,,,EHP,,,,,1 Fox Run Ln,,,Orchard Park,Erie,,,,14127,USA,42.7648087,-78.77648169999999,,True
+Home of the Good Shepherd Saratoga,,,,,,(518) 450-7525,,,,,,,,,,,,(518) 450-7360,,,,,,,,,,,,,,,,AH,,,,,394-402 Church St,,,Saratoga Springs,Saratoga,,,,12866,USA,43.0868608,-73.8209226,,True
+The Bristal at Armonk,,,,,,(914) 219-5873,,,,,,,,,,,,(914) 269-2375,,,,,,,,,,,,,,,,EHP,,,,,90 Business Park Dr,,,Armonk,Westchester,,,,10504,USA,41.122575,-73.706711,,True
+Brookdale Fairport,,,,,,(585) 425-0213,,,,,,,,,,,,(585) 425-0210,,,,,,,,,,,,,,,,AH,,,,,7 Chardonnay Dr,,,Fairport,Monroe,,,,14450,USA,43.0672011,-77.4366496,,True
+St. Mary's Manor,,,,,,,,,,,,,,,,,,(516) 250-3234,,,,,,,,,,,,,,,,EHP,,,,,60 Doughty Blvd,,,Inwood,Nassau,,,,11096,USA,40.6135302,-73.7453658,,True
+Beacon Pointe Memory Care Community,,,,,,(518) 371-5151,,,,,,,,,,,,(518) 371-2200,,,,,,,,,,,,,,,,AH,,,,,1 Emma Ln,,,Clifton Park,Saratoga,,,,12065,USA,42.8671945,-73.79613739999999,,True
+Clark Manor House,,,,,,(585) 394-3575,,,,,,,,,,,,(585) 394-0965,,,,,,,,,,,,,,,,AH,,,,,318 Fort Hill Ave,,,Canandaigua,Ontario,,,,14424,USA,42.900104,-77.27378999999999,,True
+Symphony Living at Dunkirk,,,,,,(716) 366-0545,,,,,,,,,,,,(716) 366-2066,,,,,,,,,,,,,,,,AH,,,,,319 Washington Ave,,,Dunkirk,Chautauqua,,,,14048,USA,42.48475790000001,-79.3337652,,True
+Sunrise of New City,,,,,,(845) 708-7858,,,,,,,,,,,,(845) 708-7855,,,,,,,,,,,,,,,,AH,,,,,233 North Main St,,,New City,Rockland,,,,10956,USA,41.1595568,-73.9893896,,True
+Spring Valley Rest Home,,,,,,(845) 623-5004,,,,,,,,,,,,(845) 623-5040,,,,,,,,,,,,,,,,AH,,,,,184 South Pascack Rd,,,Nanuet,Rockland,,,,10954,USA,41.0900081,-74.0339743,,True
+Olsen Rest,,,,,,(631) 588-5676,,,,,,,,,,,,(631) 588-5676,,,,,,,,,,,,,,,,AH,,,,,366 Gibbs Pond,PO 256,,Nesconset,Suffolk,,,,11767,USA,40.841507,-73.13783529999999,,False
+St. Columban's on the Lake,,,,,,(716) 934-3919,,,,,,,,,,,,(716) 934-4515,,,,,,,,,,,,,,,,AH,,,,,2546 Lake Rd,Route 5,,Silver Creek,Chautauqua,,,,14136,USA,42.535426,-79.230718,,True
+Mount Alverno Center,,,,,,(845) 986-3604,,,,,,,,,,,,(845) 986-2267,,,,,,,,,,,,,,,,AH/ALP,,,,,20 Grand St,,,Warwick,Orange,,,,10990,USA,41.26379589999999,-74.36142629999999,,True
+The Courtyards LLC,,,,,,(716) 649-3553,,,,,,,,,,,,(716) 649-9111,,,,,,,,,,,,,,,,AH,,,,,5285 South Park Ave,,,Hamburg,Erie,,,,14075,USA,42.75316300000001,-78.825738,,True
+Bida Adult Home,,,,,,(607) 843-6874,,,,,,,,,,,,(607) 843-6769,,,,,,,,,,,,,,,,AH,,,,,4 Washington Park Rd,,,Oxford,Chenango,,,,13830,USA,42.4393053,-75.5928471,,True
+Mary Agnes Manor ALP,,,,,,(716) 881-0582,,,,,,,,,,,,(716) 881-0565,,,,,,,,,,,,,,,,AH/ALP,,,,,307 Porter Ave,,,Buffalo,Erie,,,,14201,USA,42.9018841,-78.8903648,Front Park,True
+Brooklyn Adult Care Center,,,,,,(718) 235-5916,,,,,,,,,,,,(718) 235-0900,,,,,,,,,,,,,,,,AH/ALP,,,,,2830 Pitkin Ave,,,Brooklyn,Kings,,,,11208,USA,40.6757549,-73.86771139999999,,True
+Walden Place,,,,,,(607) 756-2357,,,,,,,,,,,,(607) 756-8101,,,,,,,,,,,,,,,,AH,,,,,839 Bennie Rd,,,Cortland,Cortland,,,,13045,USA,42.5654521,-76.2196544,,True
+The Fountains at RiverVue,,,,,,(914) 768-6020,,,,,,,,,,,,(914) 768-6000,,,,,,,,,,,,,,,,AH,,,,,1 River Vue Pl,,,Tuckahoe,Westchester,,,,10707,USA,40.951851,-73.8283575,,True
+Memory Garden,,,,,,(716) 483-2832,,,,,,,,,,,,(716) 483-2876,,,,,,,,,,,,,,,,AH/ALP,,,,,560 Fairmount Ave,,,Jamestown,Chautauqua,,,,14701,USA,42.097711,-79.2721691,,True
+The Landing of Brighton,,,,,,(585) 242-0744,,,,,,,,,,,,(585) 295-1852,,,,,,,,,,,,,,,,EHP,,,,,1350 Westfall Rd,,,Rochester,Monroe,,,,14618,USA,43.1167866,-77.58225379999999,,True
+Seniorfirst Assisted Living at Valley Manor,,,,,,(585) 442-6177,,,,,,,,,,,,(585) 770-1953,,,,,,,,,,,,,,,,EHP,,,,,1530 East Ave,,,Rochester,Monroe,,,,14610,USA,43.1475968,-77.5633417,East Avenue,True
+The Springvale Inn,,,,,,(914) 941-0115,,,,,,,,,,,,(914) 739-4404,,,,,,,,,,,,,,,,EHP,,,,,62 Springvale Rd,,,Croton-on-Hudson,Westchester,,,,10520,USA,41.231744,-73.9201886,,True
+Grandeville Senior Living Community,,,,,,(585) 621-8002,,,,,,,,,,,,(585) 621-6160,,,,,,,,,,,,,,,,AH,,,,,555 Maiden Ln,,,Rochester,Monroe,,,,14616,USA,43.223009,-77.65698499999999,,True
+"Valley Residential Services, Inc.",,,,,,(315) 866-0016,,,,,,,,,,,,(315) 219-5700,,,,,,,,,,,,,,,,EHP/ALP,,,,,161 Valley Dr,,,Herkimer,Herkimer,,,,13350,USA,39.5602996,-77.9885645,,True
+Eden Heights of West Seneca,,,,,,(716) 822-5107,,,,,,,,,,,,(716) 822-4466,,,,,,,,,,,,,,,,AH,,,,,3030 Clinton St,,,West Seneca,Erie,,,,14224,USA,42.86302750000001,-78.7661775,,True
+Moses Ludington Adult Care Facility,,,,,,(518) 585-2576,,,,,,,,,,,,(518) 585-3871,,,,,,,,,,,,,,,,AH,,,,,1019 Wicker St,,,Ticonderoga,Essex,,,,12883,USA,43.8494699,-73.4372999,,True
+The Meadows,,,,,,(716) 689-0002,,,,,,,,,,,,(716) 639-3311,,,,,,,,,,,,,,,,EHP,,,,,2650 North Forest Rd,,,Getzville,Erie,,,,14068,USA,43.01350860000001,-78.7852849,,True
+"Hyde Park Assisted Living Facility, Inc.",,,,,,(845) 204-9575,,,,,,,,,,,,(845) 204-9572,,,,,,,,,,,,,,,,AH/ALP,,,,,394 Violet Ave,,,Hyde Park,Dutchess,,,,12538,USA,41.73927399999999,-73.90803600000001,,True
+White Plains Guest Home for Adults,,,,,,(914) 949-0802,,,,,,,,,,,,(914) 949-8984,,,,,,,,,,,,,,,,AH,,,,,32 Ridgeview Ave,,,White Plains,Westchester,,,,10606,USA,41.02164579999999,-73.7806214,,True
+Canterbury Woods,,,,,,(716) 929-5812,,,,,,,,,,,,(716) 929-5150,,,,,,,,,,,,,,,,EHP,,,,,725 Renaissance Dr,,,Williamsville,Erie,,,,14221,USA,42.9988158,-78.7228366,,True
+Sunrise of Glen Cove,,,,,,(516) 656-0574,,,,,,,,,,,,(516) 656-0575,,,,,,,,,,,,,,,,AH,,,,,39 Forest Ave,,,Glen Cove,Nassau,,,,11542,USA,40.871702,-73.6271567,,True
+New Monsey Park Home,,,,,,(845) 356-3503,,,,,,,,,,,,(845) 356-3400,,,,,,,,,,,,,,,,AH,,,,,15 Monsey Blvd,,,Monsey,Rockland,,,,10952,USA,41.114258,-74.060487,,True
+Lott Assisted Living Residence,,,,,,(212) 534-1184,,,,,,,,,,,,(212) 534-6464,,,,,,,,,,,,,,,,EHP/ALP,,,,,1261 Fifth Ave,,,New York,New York,,,,10029,USA,40.7952962,-73.9499754,,True
+Woodcrest Commons,,,,,,(585) 321-9395,,,,,,,,,,,,(585) 334-1800,,,,,,,,,,,,,,,,AH/ALP,,,,,4455 West Henrietta Rd,,,Henrietta,Monroe,,,,14467,USA,43.0636137,-77.65022739999999,,True
+Updyke's Willow Ridge Quality Care Facility,,,,,,(607) 324-1913,,,,,,,,,,,,(607) 324-5417,,,,,,,,,,,,,,,,AH,,,,,131 Hornell St,,,Hornell,Steuben,,,,14843,USA,42.3326623,-77.6653649,,True
+Park Creek Senior Living Community,,,,,,(716) 632-3003,,,,,,,,,,,,(716) 632-3000,,,,,,,,,,,,,,,,AH,,,,,410 Mill St,,,Amherst,Erie,,,,14221,USA,44.451,-89.27929999999999,,True
+Cogswell's Rest Haven,,,,,,(607) 734-8728,,,,,,,,,,,,(607) 734-8728,,,,,,,,,,,,,,,,AH,,,,,958 Lake St,,,Elmira,Chemung,,,,14901,USA,42.1039369,-76.8044922,,True
+Brookdale Bassett Road,,,,,,(716) 688-2773,,,,,,,,,,,,(716) 688-4011,,,,,,,,,,,,,,,,AH,,,,,245 Bassett Rd,,,Williamsville,Erie,,,,14221,USA,42.99588250000001,-78.7285028,,True
+Presbyterian Residential Community,,,,,,(315) 792-9503,,,,,,,,,,,,(315) 797-7500,,,,,,,,,,,,,,,,AH/ALP,,,,,4300 Middle Settlement Rd,,,New Hartford,Oneida,,,,13413,USA,43.0736788,-75.3415906,,True
+Brentwood Adult Home,,,,,,(631) 951-9161,,,,,,,,,,,,(631) 273-7204,,,,,,,,,,,,,,,,AH,,,,,147 Second Ave,,,Brentwood,Suffolk,,,,11717,USA,40.77868029999999,-73.23256599999999,,True
+New Rochelle Home for Adults,,,,,,(914) 633-0308,,,,,,,,,,,,(914) 576-1202,,,,,,,,,,,,,,,,AH,,,,,41 Lockwood Ave,,,New Rochelle,Westchester,,,,10801,USA,40.9145673,-73.7866146,,True
+St. Francis Commons,,,,,,(315) 349-0797,,,,,,,,,,,,(315) 326-0870,,,,,,,,,,,,,,,,AH/ALP,,,,,12 Burkle St,,,Oswego,Oswego,,,,13126,USA,43.4479624,-76.4942169,,True
+Woodlawn Commons,,,,,,(518) 587-1773,,,,,,,,,,,,(518) 587-4100,,,,,,,,,,,,,,,,EHP,,,,,156 Lawrence St,,,Saratoga Springs,Saratoga,,,,12866,USA,43.08980620000001,-73.7893965,,True
+The Terrace at Woodland,,,,,,(315) 336-0338,,,,,,,,,,,,(315) 336-0307,,,,,,,,,,,,,,,,AH/ALP,,,,,8299 Turin Rd,,,Rome,Oneida,,,,13440,USA,43.2629577,-75.46392039999999,,True
+Brookdale Bellevue,,,,,,(315) 468-0663,,,,,,,,,,,,(315) 468-5108,,,,,,,,,,,,,,,,AH,,,,,4330 Onondaga Blvd,,,Syracuse,Onondaga,,,,13219,USA,43.0253164,-76.2151724,,True
+Elizabeth Brewster House,,,,,,(607) 749-5862,,,,,,,,,,,,(607) 749-3061,,,,,,,,,,,,,,,,AH,,,,,41 South Main St,,,Homer,Cortland,,,,13077,USA,42.6349899,-76.17831149999999,,True
+Oakwood Senior Living,,,,,,(716) 877-6383,,,,,,,,,,,,(716) 877-7171,,,,,,,,,,,,,,,,AH/ALP,,,,,3456 Delaware Ave,,,Kenmore,Erie,,,,14217,USA,42.9783628,-78.87258489999999,Kenmore NW,True
+Family Srvs/Rochester EHP3 Hudson-Ridge Towers,,,,,,(585) 232-3062,,,,,,,,,,,,(585) 266-5610,,,,,,,,,,,,,,,,EHP,,,,,401 Seneca Manor Dr,,,Rochester,Monroe,,,,14621,USA,43.1928791,-77.60326370000001,West Irondequoit,True
+Ahana House,,,,,,(518) 233-1168,,,,,,,,,,,,(518) 238-0471,,,,,,,,,,,,,,,,AH,,,,,31 Sixth St,,,Waterford,Saratoga,,,,12188,USA,42.7932395,-73.6807688,,True
+Pine Harbour,,,,,,(518) 561-5377,,,,,,,,,,,,(518) 561-5307,,,,,,,,,,,,,,,,EHP,,,,,15 New Hampshire St,,,Plattsburgh,Clinton,,,,12903,USA,44.6756774,-73.44424819999999,,True
+Brookdale Painted Post,,,,,,(607) 937-3130,,,,,,,,,,,,(607) 962-5096,,,,,,,,,,,,,,,,AH,,,,,120 Creekside Dr,,,Painted Post,Steuben,,,,14870,USA,42.1435655,-77.1245216,,True
+Seabury Woods,,,,,,(585) 429-4625,,,,,,,,,,,,(585) 426-4950,,,,,,,,,,,,,,,,EHP,,,,,110 Dalaker Dr,,,Rochester,Monroe,,,,14624,USA,43.139634,-77.74136200000001,,True
+New Sunnyside Adult Home,,,,,,(315) 656-1483,,,,,,,,,,,,(315) 656-7218,,,,,,,,,,,,,,,,AH,,,,,7010 Collamer Rd,,,East Syracuse,Onondaga,,,,13057,USA,43.1087985,-76.0374433,,True
+The Barton Place,,,,,,(315) 533-6903,,,,,,,,,,,,(315) 533-6902,,,,,,,,,,,,,,,,AH,,,,,401 Floyd Ave,,,Rome,Oneida,,,,13440,USA,43.2132592,-75.45095119999999,,True
+The Bristal at North Hills,,,,,,(516) 233-3300,,,,,,,,,,,,(516) 233-3100,,,,,,,,,,,,,,,,AH,,,,,99 South Service Rd,,,North Hills,Nassau,,,,11040,USA,40.7693363,-73.6868423,,True
+Middleville Rest Home,,,,,,(315) 891-3136,,,,,,,,,,,,(315) 891-3695,,,,,,,,,,,,,,,,AH,,,,,19 North Main St,PO 128,,Middleville,Herkimer,,,,13406,USA,43.1398603,-74.9701101,,True
+The New Swan Lake Adult Home LLC,,,,,,(845) 292-6298,,,,,,,,,,,,(845) 292-6298,,,,,,,,,,,,,,,,AH,,,,,Route 55 Box 247,,,Swan Lake,Sullivan,,,,12783,USA,ERROR,ERROR,ERROR,True
+Manor Hills,,,,,,(585) 593-4605,,,,,,,,,,,,(585) 593-9800,,,,,,,,,,,,,,,,AH,,,,,4192-B Bolivar Rd,,,Wellsville,Allegany,,,,14895,USA,42.1292061,-77.96623559999999,,True
+Kendal on Hudson,,,,,,(914) 332-9585,,,,,,,,,,,,(914) 922-1000,,,,,,,,,,,,,,,,EHP,,,,,1010 Kendal Way,,,Sleepy Hollow,Westchester,,,,10591,USA,41.10949,-73.86559,,True
+Chester Hill Adult Home,,,,,,(914) 665-7008,,,,,,,,,,,,(914) 699-4294,,,,,,,,,,,,,,,,AH,,,,,187 Cottage Ave,,,Mount Vernon,Westchester,,,,10550,USA,40.91763719999999,-73.83316479999999,North Side,True
+New Broadview Manor Home For Adults,,,,,,(718) 720-2415,,,,,,,,,,,,(718) 273-8900,,,,,,,,,,,,,,,,AH/ALP,,,,,70 Father Capodanno Blvd,,,Staten Island,Richmond,,,,10305,USA,40.5942207,-74.0625163,South Beach,True
+Woodbrook,,,,,,(607) 734-5636,,,,,,,,,,,,(607) 734-7741,,,,,,,,,,,,,,,,AH,,,,,1250 Maple Ave,,,Elmira,Chemung,,,,14904,USA,42.06752099999999,-76.789677,,True
+South Bay Adult Home,,,,,,(631) 878-0776,,,,,,,,,,,,(631) 878-0758,,,,,,,,,,,,,,,,AH/ALP,,,,,33 Cottontail Run Box 601,,,Center Moriches,Suffolk,,,,11934,USA,ERROR,ERROR,ERROR,True
+Sunrise of Crestwood,,,,,,(914) 395-3510,,,,,,,,,,,,(914) 395-3500,,,,,,,,,,,,,,,,AH,,,,,65 Crisfield St,,,Yonkers,Westchester,,,,10710,USA,40.9762242,-73.82851149999999,Crestwood,True
+Brookdale Ithaca Assisted Living,,,,,,(607) 256-2446,,,,,,,,,,,,(607) 256-2580,,,,,,,,,,,,,,,,EHP,,,,,103 Bundy Rd,,,Ithaca,Tompkins,,,,14850,USA,42.4597371,-76.5302599,,True
+Boulevard ALP,,,,,,(718) 969-8128,,,,,,,,,,,,(718) 969-8102,,,,,,,,,,,,,,,,EHP/ALP,,,,,71-61 159th St,,,Flushing,Queens,,,,11365,USA,40.728685,-73.809861,Flushing,True
+Willow Gardens,,,,,,(914) 235-5683,,,,,,,,,,,,(914) 336-2338,,,,,,,,,,,,,,,,AH,,,,,60 Willow Dr,,,New Rochelle,Westchester,,,,10805,USA,40.897217,-73.779456,,True
+Vassar-Warner Home,,,,,,(845) 454-6967,,,,,,,,,,,,(845) 454-3754,,,,,,,,,,,,,,,,AH/ALP,,,,,52 South Hamilton St,,,Poughkeepsie,Dutchess,,,,12601,USA,41.69912619999999,-73.9245205,,True
+"Millview of Latham, LLC",,,,,,(518) 785-2745,,,,,,,,,,,,(518) 785-7788,,,,,,,,,,,,,,,,AH,,,,,514 Old Loudon Rd,,,Cohoes,Albany,,,,12047,USA,42.78847509999999,-73.7408128,,True
+Marchand Manor,,,,,,(518) 284-2357,,,,,,,,,,,,(518) 284-2357,,,,,,,,,,,,,,,,AH/ALP,,,,,121 Main St,Route 10,,Sharon Springs,Schoharie,,,,13459,USA,42.79100990000001,-74.6206612,,True
+Amber Court of Pelham Gardens,,,,,,(718) 320-2442,,,,,,,,,,,,(718) 379-4400,,,,,,,,,,,,,,,,AH/ALP,,,,,1800 Waring Ave,,,Bronx,Bronx,,,,10469,USA,40.86034929999999,-73.8337988,East Bronx,True
+RiverSpring Assisted Living,,,,,,(718) 601-8702,,,,,,,,,,,,(718) 581-1780,,,,,,,,,,,,,,,,AH/ALP,,,,,5901 Palisades Ave,,,Bronx,Bronx,,,,10471,USA,40.91003229999999,-73.90920109999999,West Bronx,True
+Hillcrest Spring Residential,,,,,,(518) 843-3878,,,,,,,,,,,,(518) 843-3770,,,,,,,,,,,,,,,,AH/ALP,,,,,5052 Rte30 Upper Market St,POB 383,,Amsterdam,Montgomery,,,,12010,USA,ERROR,ERROR,ERROR,True
+St. Mark's Terrace EHP #1,,,,,,(315) 536-1253,,,,,,,,,,,,(315) 536-2440,,,,,,,,,,,,,,,,EHP,,,,,110 Chapel St,,,Penn Yan,Yates,,,,14527,USA,42.66263769999999,-77.0568138,,True
+Harbor View Home for Adults,,,,,,(718) 934-0680,,,,,,,,,,,,(718) 769-9700,,,,,,,,,,,,,,,,AH,,,,,3900 Shore Pkwy,,,Brooklyn,Kings,,,,11235,USA,40.58484139999999,-73.9306273,Sheepshead Bay,True
+Holbrook Adult Home,,,,,,(518) 642-3801,,,,,,,,,,,,(518) 642-3476,,,,,,,,,,,,,,,,AH,,,,,73 North St,,,Granville,Washington,,,,12832,USA,43.4139167,-73.2650044,,True
+The Willows,,,,,,(585) 798-5827,,,,,,,,,,,,(585) 798-5233,,,,,,,,,,,,,,,,AH,,,,,459 East Oak Orchard St,,,Medina,Orleans,,,,14103,USA,43.2149955,-78.3727177,,True
+Willing Helpers' Home for Women,,,,,,(518) 762-3415,,,,,,,,,,,,(518) 762-7719,,,,,,,,,,,,,,,,AH,,,,,226 West Madison Ave,PO O,,Johnstown,Fulton,,,,12095,USA,ERROR,ERROR,ERROR,True
+"Surfside Manor Home for Adults, LLC",,,,,,(718) 634-8925,,,,,,,,,,,,(718) 945-5500,,,,,,,,,,,,,,,,AH/ALP,,,,,95-02 Rockaway Beach Blvd,,,Rockaway Beach,Queens,,,,11693,USA,40.5859891,-73.8178272,Far Rockaway,True
+Long Island Living Center,,,,,,(718) 327-2223,,,,,,,,,,,,(718) 327-2700,,,,,,,,,,,,,,,,AH/ALP,,,,,431 Beach 20th St,,,Far Rockaway,Queens,,,,11691,USA,40.599231,-73.75465849999999,Far Rockaway,True
+Robynwood Home for Adults,,,,,,(607) 433-2169,,,,,,,,,,,,(607) 432-6387,,,,,,,,,,,,,,,,AH/ALP,,,,,43 Walnut St,,,Oneonta,Otsego,,,,13820,USA,42.4579247,-75.05891629999999,,True
+Adirondack Manor HFA D.B.A. Willow Park HFA,,,,,,(315) 733-8944,,,,,,,,,,,,(315) 732-2257,,,,,,,,,,,,,,,,AH/ALP,,,,,1550 Herkimer Rd,,,Utica,Oneida,,,,13502,USA,43.106558,-75.170228,,True
+St. Joseph's Home,,,,,,(845) 753-6910,,,,,,,,,,,,(845) 753-2555,,,,,,,,,,,,,,,,AH,,,,,125 Sisters Servants Ln,PO 8,,Sloatsburg,Rockland,,,,10974,USA,41.1495615,-74.2276126,,True
+"Kingsway Manor, LLC",,,,,,(518) 393-0749,,,,,,,,,,,,(518) 393-4304,,,,,,,,,,,,,,,,AH,,,,,357 Kings Rd,,,Schenectady,Schenectady,,,,12304,USA,42.775333,-73.91516399999999,,True
+The Amberleigh,,,,,,(716) 636-3687,,,,,,,,,,,,(716) 689-4195,,,,,,,,,,,,,,,,EHP,,,,,2330-40 Maple Rd,,,Amherst,Erie,,,,14221,USA,42.9908781,-78.7019078,,True
+Elderwood Assisted Living at Hamburg,,,,,,(716) 648-5607,,,,,,,,,,,,(716) 649-7676,,,,,,,,,,,,,,,,EHP/ALP,,,,,76 Buffalo St,,,Hamburg,Erie,,,,14075,USA,42.71813179999999,-78.8297255,,True
+The Osborn,,,,,,(914) 967-4555,,,,,,,,,,,,(914) 925-8200,,,,,,,,,,,,,,,,EHP,,,,,101 Theall Rd,,,Rye,Westchester,,,,10580,USA,40.9703416,-73.6994727,,True
+The Arbors at Hauppauge,,,,,,(631) 582-9450,,,,,,,,,,,,(631) 582-3334,,,,,,,,,,,,,,,,AH,,,,,1740 Express Dr S,,,Hauppauge,Suffolk,,,,11788,USA,40.80533510000001,-73.2310495,,True
+Maplewood Assisted Living,,,,,,(315) 229-1292,,,,,,,,,,,,(315) 386-4541,,,,,,,,,,,,,,,,AH/ALP,,,,,205 State Street Rd,,,Canton,St. Lawrence,,,,13617,USA,44.6145142,-75.1624168,,True
+Brightview Tarrytown,,,,,,(914) 909-5547,,,,,,,,,,,,(914) 297-8594,,,,,,,,,,,,,,,,AH,,,,,581 Old White Plains Rd,,,Tarrytown,Westchester,,,,10591,USA,41.0625873,-73.8362264,,True
+Atria Forest Hills,,,,,,(718) 261-5457,,,,,,,,,,,,(718) 261-5300,,,,,,,,,,,,,,,,EHP,,,,,112-50 72nd Ave,,,Forest Hills,Queens,,,,11375,USA,40.72202899999999,-73.836668,Flushing,True
+Sunrise of East Meadow,,,,,,(516) 542-0999,,,,,,,,,,,,(516) 542-0990,,,,,,,,,,,,,,,,AH,,,,,1555 Glenn Curtiss Blvd,,,East Meadow,Nassau,,,,11554,USA,40.7174278,-73.5756916,,True
+Maryville Home For Adults,,,,,,(607) 566-2368,,,,,,,,,,,,(607) 566-2368,,,,,,,,,,,,,,,,AH,,,,,7678 County Road 70,,,Avoca,Steuben,,,,14809,USA,42.37278,-77.5069833,,True
+Maplewood Commons,,,,,,(914) 478-0602,,,,,,,,,,,,(914) 400-1103,,,,,,,,,,,,,,,,EHP,,,,,1015 Saw Mill River Rd,,,Ardsley,Westchester,,,,10502,USA,41.0220745,-73.84292959999999,,True
+Heritage Home for Women,,,,,,(518) 370-1873,,,,,,,,,,,,(518) 374-6921,,,,,,,,,,,,,,,,AH,,,,,1519 Union St,,,Schenectady,Schenectady,,,,12309,USA,42.8077288,-73.9112292,,True
+Atria Cutter Mill,,,,,,(516) 773-8735,,,,,,,,,,,,(516) 858-3023,,,,,,,,,,,,,,,,EHP,,,,,96 Cutter Mill Rd,,,Great Neck,Nassau,,,,11021,USA,40.78387099999999,-73.73179999999999,,True
+Pineview Commons H.F.A.,,,,,,(518) 762-5583,,,,,,,,,,,,(518) 762-5488,,,,,,,,,,,,,,,,AH/ALP,,,,,201 South Melcher St,,,Johnstown,Fulton,,,,12095,USA,43.000622,-74.377376,,True
+Cumberland Gardens NY Foundation EHP #6,,,,,,(718) 623-2809,,,,,,,,,,,,(718) 623-8181,,,,,,,,,,,,,,,,EHP,,,,,425 Cumberland St,,,Brooklyn,Kings,,,,11201,USA,40.6830445,-73.9715354,Fort Greene,True
+Peregrine's Landing Senior Community,,,,,,(716) 893-3103,,,,,,,,,,,,(716) 893-3000,,,,,,,,,,,,,,,,EHP,,,,,575 Cayuga Creek Rd,,,Cheektowaga,Erie,,,,14227,USA,42.87755610000001,-78.764602,,True
+Good Shepherd Village at Endwell,,,,,,(607) 757-3101,,,,,,,,,,,,(607) 757-3100,,,,,,,,,,,,,,,,AH,,,,,14 Village Dr,,,Endwell,Broome,,,,13760,USA,42.1508735,-76.019258,,True
+Keene Valley Neighborhood House,,,,,,(518) 576-2012,,,,,,,,,,,,(518) 576-4474,,,,,,,,,,,,,,,,AH,,,,,1782 Route 73,,,Keene Valley,Essex,,,,12943,USA,44.18957199999999,-73.785245,,True
+New Windsor Country Inn,,,,,,(845) 565-7949,,,,,,,,,,,,(845) 565-8110,,,,,,,,,,,,,,,,AH,,,,,450 Temple Hill Rd,PO 4328,,New Windsor,Orange,,,,12553,USA,41.4796885,-74.0618543,,True
+Sunrise of North Lynbrook,,,,,,(516) 596-2378,,,,,,,,,,,,(516) 596-2377,,,,,,,,,,,,,,,,AH,,,,,53 Franklin Ave,,,Lynbrook,Nassau,,,,11563,USA,40.66990879999999,-73.673964,,True
+Atria Glen Cove,,,,,,(516) 671-7810,,,,,,,,,,,,(516) 671-7008,,,,,,,,,,,,,,,,EHP,,,,,146 Glen St,,,Glen Cove,Nassau,,,,11542,USA,40.8627775,-73.6247235,,True
+Glenmere at Cloverwood,,,,,,(585) 248-1101,,,,,,,,,,,,(585) 248-1200,,,,,,,,,,,,,,,,EHP,,,,,1 Wheatley Terrace,,,Pittsford,Monroe,,,,14534,USA,43.0836625,-77.54572019999999,,False
+The New Jewish Home University Avenue Assisted Living,,,,,,(347) 418-4271,,,,,,,,,,,,(347) 418-4270,,,,,,,,,,,,,,,,EHP/ALP,,,,,2553 University Ave,,,Bronx,Bronx,,,,10468,USA,40.8673676,-73.9021413,West Bronx,True
+Elm York Home for Adults,,,,,,(718) 446-7938,,,,,,,,,,,,(718) 446-7900,,,,,,,,,,,,,,,,AH/ALP,,,,,100-30 Ditmars Blvd,,,East Elmhurst,Queens,,,,11369,USA,40.769404,-73.86999,Flushing,True
+Somerset Gardens,,,,,,(516) 576-1112,,,,,,,,,,,,(516) 576-3330,,,,,,,,,,,,,,,,EHP,,,,,150 Sunnyside Blvd,,,Plainview,Nassau,,,,11803,USA,40.79501630000001,-73.47031059999999,,True
+Fawn Ridge Senior Living,,,,,,(518) 273-1542,,,,,,,,,,,,(518) 273-2040,,,,,,,,,,,,,,,,AH,,,,,2902 Upper Tibbits Ave,,,Troy,Rensselaer,,,,12180,USA,42.73084550000001,-73.664335,,True
+Atria on the Hudson,,,,,,(914) 762-3501,,,,,,,,,,,,(914) 762-1980,,,,,,,,,,,,,,,,EHP,,,,,321 North Highland Ave,,,Ossining,Westchester,,,,10562,USA,41.1787851,-73.8707532,,True
+The Arbors at Islandia West,,,,,,(631) 582-6082,,,,,,,,,,,,(631) 582-3600,,,,,,,,,,,,,,,,AH,,,,,1515 Veterans Memorial Hwy,,,Islandia,Suffolk,,,,11749,USA,40.8107482,-73.1850635,,True
+The Manor House,,,,,,(585) 344-4482,,,,,,,,,,,,(585) 344-2345,,,,,,,,,,,,,,,,EHP,,,,,427 East Main St,,,Batavia,Genesee,,,,14020,USA,42.99675000000001,-78.1734323,,True
+The Bristal at East Northport,,,,,,(631) 580-6421,,,,,,,,,,,,(631) 858-0100,,,,,,,,,,,,,,,,EHP,,,,,760 Larkfield Rd,,,East Northport,Suffolk,,,,11731,USA,40.837997,-73.3137492,,True
+The Avalon Assisted Living and Wellness Center,,,,,,(845) 463-2159,,,,,,,,,,,,(845) 463-0500,,,,,,,,,,,,,,,,AH/ALP,,,,,1629 Route 376,,,Wappingers Falls,Dutchess,,,,12590,USA,41.627692,-73.876285,,True
+Brandywine Senior Living at Huntington Terrace,,,,,,(631) 531-0003,,,,,,,,,,,,(631) 531-0000,,,,,,,,,,,,,,,,AH,,,,,70 Pinelawn Rd,,,Melville,Suffolk,,,,11747,USA,40.7803229,-73.4046723,,True
+Kalet's Adult Home,,,,,,(315) 479-1058,,,,,,,,,,,,(315) 479-7514,,,,,,,,,,,,,,,,AH,,,,,504 Delaware St,,,Syracuse,Onondaga,,,,13204,USA,43.0378047,-76.16932039999999,Westside,True
+Rudolf Steiner Fellowship Foundation,,,,,,(845) 356-8468,,,,,,,,,,,,(845) 356-8494,,,,,,,,,,,,,,,,AH,,,,,241 Hungry Hollow Rd,,,Spring Valley,Rockland,,,,10977,USA,41.08557990000001,-74.064636,,True
+"Glen Arden, Inc.",,,,,,(845) 291-7878,,,,,,,,,,,,(845) 291-7822,,,,,,,,,,,,,,,,EHP,,,,,214 Harriman Dr,,,Goshen,Orange,,,,10924,USA,41.3855661,-74.3122975,,True
+Brookdale Williamsville,,,,,,(716) 632-7512,,,,,,,,,,,,(716) 632-7123,,,,,,,,,,,,,,,,AH,,,,,6076 Main St,,,Williamsville,Erie,,,,14221,USA,42.966939,-78.72708829999999,,True
+Orchard Heights,,,,,,(716) 662-3870,,,,,,,,,,,,(716) 662-0651,,,,,,,,,,,,,,,,AH,,,,,5200 Chestnut Ridge Rd,,,Orchard Park,Erie,,,,14127,USA,42.744189,-78.7499211,,True
+Laurelwood at the Highlands,,,,,,(585) 586-4758,,,,,,,,,,,,(585) 389-1630,,,,,,,,,,,,,,,,EHP,,,,,300 Hahnemann Trl,,,Pittsford,Monroe,,,,14534,USA,43.0857615,-77.4964645,,True
+Sunrise at Mill Basin,,,,,,(718) 444-2167,,,,,,,,,,,,(718) 444-2600,,,,,,,,,,,,,,,,EHP,,,,,5905 Strickland Ave,,,Brooklyn,Kings,,,,11234,USA,40.60805930000001,-73.9161233,,True
+Chenango County Home Preston Manor,,,,,,(607) 334-8299,,,,,,,,,,,,(607) 334-9428,,,,,,,,,,,,,,,,AH,,,,,1150 County Road 4,RFD 2 Box 203,,Oxford,Chenango,,,,13830,USA,ERROR,ERROR,ERROR,True
+L'Dor,,,,,,(845) 356-0167,,,,,,,,,,,,(845) 356-4108,,,,,,,,,,,,,,,,AH,,,,,156 West Clarkstown Rd,,,New City,Rockland,,,,10956,USA,41.13553,-74.0218235,,True
+Plattduetsche Home Society,,,,,,(516) 352-8656,,,,,,,,,,,,(516) 352-4252,,,,,,,,,,,,,,,,AH,,,,,1150 Hempstead Turnpike,,,Franklin Square,Nassau,,,,11010,USA,40.7088475,-73.6827096,,False
+Brooklyn Boulevard ALP,,,,,,(718) 642-3510,,,,,,,,,,,,(718) 557-0777,,,,,,,,,,,,,,,,EHP/ALP,,,,,636 Louisiana Ave,,,Brooklyn,Kings,,,,11239,USA,40.6466806,-73.88570519999999,East New York,True
+The Glen at Maple Pointe,,,,,,(516) 764-4442,,,,,,,,,,,,(516) 764-4848,,,,,,,,,,,,,,,,AH/ALP,,,,,260 Maple Ave,,,Rockville Center,Nassau,,,,11570,USA,40.6579695,-73.6319151,,True
+RiverLedge Residence,,,,,,(315) 393-3083,,,,,,,,,,,,(315) 393-2567,,,,,,,,,,,,,,,,AH,,,,,8103 State Highway 68,,,Ogdensburg,St. Lawrence,,,,13669,USA,44.680074,-75.5176199,,True
+The Glen at Maple Pointe,,,,,,(516) 764-4442,,,,,,,,,,,,(516) 764-4848,,,,,,,,,,,,,,,,EHP/ALP,,,,,260 Maple Ave,,,Rockville Center,Nassau,,,,11570,USA,40.6579695,-73.6319151,,True
+Atria Shaker,,,,,,(518) 465-2127,,,,,,,,,,,,(518) 465-4444,,,,,,,,,,,,,,,,EHP,,,,,345 Northern Blvd,,,Albany,Albany,,,,12204,USA,42.6733029,-73.7534055,Bishop's Gate,True
+NY Found-Sr Citizens EHP#2 Brown Gardens,,,,,,(212) 410-4462,,,,,,,,,,,,(212) 369-5523,,,,,,,,,,,,,,,,EHP,,,,,225 East 93rd St,,,New York,New York,,,,10128,USA,40.7829464,-73.9494991,,True
+Green Briar Adult Home,,,,,,(845) 677-6278,,,,,,,,,,,,(548) 677-9997,,,,,,,,,,,,,,,,AH,,,,,26 Old Route 82,,,Millbrook,Dutchess,,,,12545,USA,41.7716776,-73.700163,,True
+"Madison York Assisted Living Community, LLC",,,,,,(718) 899-8126,,,,,,,,,,,,(718) 699-4100,,,,,,,,,,,,,,,,AH/ALP,,,,,112-14 Corona Ave,,,Flushing,Queens,,,,11368,USA,40.73961930000001,-73.8484203,Flushing,True
+Ashton Place,,,,,,(315) 462-5770,,,,,,,,,,,,(315) 462-3140,,,,,,,,,,,,,,,,EHP,,,,,190 Ashton Ct,,,Clifton Springs,Ontario,,,,14432,USA,42.9664715,-77.1418808,,True
+Maple Rest,,,,,,(631) 563-1610,,,,,,,,,,,,(631) 589-4840,,,,,,,,,,,,,,,,AH,,,,,61 Rollstone Ave,,,West Sayville,Suffolk,,,,11796,USA,40.7317999,-73.0981746,,True
+Hultquist Place,,,,,,,,,,,,,,,,,,(716) 665-8128,,,,,,,,,,,,,,,,AH/ALP,,,,,715 Falconer St,,,Jamestown,Chautauqua,,,,14701,USA,42.1151089,-79.2100576,,True
+Arcadia Residence,,,,,,(845) 292-7011,,,,,,,,,,,,(845) 292-7011,,,,,,,,,,,,,,,,AH,,,,,25 Carrier St,,,Liberty,Sullivan,,,,12754,USA,41.79479,-74.748944,,True
+"Fairlawn Adult Home, Inc.",,,,,,(631) 757-2959,,,,,,,,,,,,(631) 757-7666,,,,,,,,,,,,,,,,AH,,,,,301 Eighth Ave,,,East Northport,Suffolk,,,,11731,USA,40.8770171,-73.329008,,True
+The Hamlet at Park Ridge,,,,,,(585) 723-7118,,,,,,,,,,,,(585) 723-7820,,,,,,,,,,,,,,,,EHP,,,,,1471 Long Pond Rd,,,Rochester,Monroe,,,,14626,USA,43.1965546,-77.7013928,,True
+Maple House,,,,,,(914) 941-4482,,,,,,,,,,,,(914) 941-9415,,,,,,,,,,,,,,,,EHP,,,,,15 Maple Pl,,,Ossining,Westchester,,,,10562,USA,41.1602729,-73.86238639999999,,True
+Wavecrest Home for Adults,,,,,,(718) 471-0734,,,,,,,,,,,,(718) 471-5500,,,,,,,,,,,,,,,,AH,,,,,242 Beach 20th St,,,Far Rockaway,Queens,,,,11691,USA,40.5966218,-73.7538096,Far Rockaway,True
+Quail Summit,,,,,,(585) 396-1741,,,,,,,,,,,,(585) 396-1010,,,,,,,,,,,,,,,,EHP,,,,,5102 Parrish Street Ext,,,Canandaigua,Ontario,,,,14424,USA,42.8740454,-77.29760619999999,,False
+Brookdale Pittsford,,,,,,(585) 249-9940,,,,,,,,,,,,(585) 249-9990,,,,,,,,,,,,,,,,AH,,,,,159 Sully's Trl,,,Pittsford,Monroe,,,,14534,USA,43.0579761,-77.467685,,True
+Garden House,,,,,,(716) 639-3309,,,,,,,,,,,,(716) 639-3311,,,,,,,,,,,,,,,,EHP,,,,,2720 North Forest Rd,,,Getzville,Erie,,,,14068,USA,43.0154428,-78.78592379999999,,True
+Southern Tier Meadows,,,,,,(716) 679-4881,,,,,,,,,,,,(716) 679-4883,,,,,,,,,,,,,,,,AH,,,,,4883 West Main Rd,,,Fredonia,Chautauqua,,,,14063,USA,42.41901689999999,-79.378703,,True
+Chai Home,,,,,,(718) 634-3983,,,,,,,,,,,,(718) 634-6100,,,,,,,,,,,,,,,,AH,,,,,125-02 Ocean Promenade,,,Belle Harbor,Queens,,,,11694,USA,40.575244,-73.843791,Far Rockaway,False
+The 80th Street Residence,,,,,,(212) 585-3544,,,,,,,,,,,,(212) 717-8888,,,,,,,,,,,,,,,,AH,,,,,430 East 80th St,,,New York,New York,,,,10075,USA,40.77216599999999,-73.9506937,,True
+Atria Plainview,,,,,,(516) 933-0003,,,,,,,,,,,,(516) 933-0002,,,,,,,,,,,,,,,,AH,,,,,12 Washington Ave,,,Plainview,Nassau,,,,11803,USA,40.77895739999999,-73.46565489999999,,True
+Assisted Living at Jennings Hall,,,,,,(718) 387-6335,,,,,,,,,,,,(718) 782-3390,,,,,,,,,,,,,,,,EHP/ALP,,,,,260 Powers St,,,Brooklyn,Kings,,,,11211,USA,40.7125482,-73.94029479999999,East Williamsburg,True
+Westhaven Assisted Living Residence,,,,,,(518) 313-6599,,,,,,,,,,,,(518) 313-6599,,,,,,,,,,,,,,,,AH,,,,,5 Gipp Rd,,,Albany,Albany,,,,12203,USA,42.6923327,-73.8694293,,True
+New Fordham Arms Assisted Living,,,,,,(718) 654-4307,,,,,,,,,,,,(718) 655-3433,,,,,,,,,,,,,,,,AH/ALP,,,,,2915 Williamsbridge Rd,,,Bronx,Bronx,,,,10467,USA,40.8682313,-73.8622384,East Bronx,True
+Greece Long Pond Senior Housing,,,,,,(585) 227-1307,,,,,,,,,,,,(585) 227-3007,,,,,,,,,,,,,,,,EHP,,,,,1 GBC Pkwy,,,Rochester,Monroe,,,,14626,USA,43.1033357,-77.61826529999999,,True
+West Side Federation For Sr. and Supportive Housing,,,,,,(212) 860-4568,,,,,,,,,,,,(212) 348-8513,,,,,,,,,,,,,,,,AH,,,,,109 West 129th St,,,New York,New York,,,,10027,USA,40.8107528,-73.9441252,,True
+Long Beach Assisted Living,,,,,,(516) 897-0385,,,,,,,,,,,,(516) 897-0140,,,,,,,,,,,,,,,,AH/ALP,,,,,274 West Broadway,,,Long Beach,Nassau,,,,11561,USA,40.5842877,-73.6721999,,True
+Madison York Home for Adults,,,,,,(718) 899-8126,,,,,,,,,,,,(718) 446-4300,,,,,,,,,,,,,,,,AH/ALP,,,,,61-80 Woodhaven Blvd,,,Rego Park,Queens,,,,11374,USA,40.7269858,-73.871033,Rego Park,True
+"Longview, an Ithacare Community",,,,,,(607) 375-6301,,,,,,,,,,,,(607) 375-6300,,,,,,,,,,,,,,,,AH,,,,,1 Bella Vista Dr,,,Ithaca,Tompkins,,,,14850,USA,42.41532639999999,-76.5044542,,True
+Sunrise of Dix Hills,,,,,,(631) 385-1754,,,,,,,,,,,,(631) 385-1733,,,,,,,,,,,,,,,,AH,,,,,337 Deer Park Ave,,,Dix Hills,Suffolk,,,,11746,USA,40.8156375,-73.3425247,,True
+Elderwood Assisted Living at Cheektowaga,,,,,,(716) 681-8762,,,,,,,,,,,,(716) 681-8631,,,,,,,,,,,,,,,,AH/ALP,,,,,229 Bennett Rd,,,Cheektowaga,Erie,,,,14227,USA,42.8884841,-78.74646150000001,,True
+The Cambridge,,,,,,(518) 677-3460,,,,,,,,,,,,(518) 677-3460,,,,,,,,,,,,,,,,AH,,,,,4 West Main St,,,Cambridge,Washington,,,,12816,USA,43.0283099,-73.3813962,,True
+"The Shores at Peconic Landing Assisted Living Residence, Inc.",,,,,,(631) 477-0061,,,,,,,,,,,,(631) 477-3800,,,,,,,,,,,,,,,,EHP,,,,,1600 Brecknock Rd,,,Greenport,Suffolk,,,,11944,USA,41.1213584,-72.36280769999999,,True
+Kelly's Home for Adults,,,,,,(845) 252-3807,,,,,,,,,,,,(845) 252-3505,,,,,,,,,,,,,,,,AH,,,,,6319 Route 97,,,Narrowsburg,Sullivan,,,,12764,USA,41.6037822,-75.0507734,,True
+"Central Assisted Living, LLC",,,,,,(718) 471-7732,,,,,,,,,,,,(718) 471-7700,,,,,,,,,,,,,,,,AH/ALP,,,,,1509 Central Ave,,,Far Rockaway,Queens,,,,11691,USA,40.60558199999999,-73.7511375,Far Rockaway,True
+Hampshire House Adult Home,,,,,,(607) 432-5045,,,,,,,,,,,,(607) 432-6171,,,,,,,,,,,,,,,,AH,,,,,1846 County Highway 48,,,Oneonta,Otsego,,,,13820,USA,42.4375989,-75.08224229999999,,True
+Kings Adult Care Center,,,,,,(718) 266-6406,,,,,,,,,,,,(718) 266-5858,,,,,,,,,,,,,,,,AH,,,,,2255 Cropsey Ave,,,Brooklyn,Kings,,,,11214,USA,40.5961878,-73.9967898,Gravesend,True
+NY Found-Sr Citizens EHP#3,,,,,,(212) 348-7451,,,,,,,,,,,,(212) 369-5523,,,,,,,,,,,,,,,,EHP,,,,,1850 Second Ave,,,New York,New York,,,,10128,USA,40.7838856,-73.9469759,,True
+The Lake Shore Assisted Living Residence,,,,,,(631) 585-0716,,,,,,,,,,,,(631) 585-8800,,,,,,,,,,,,,,,,AH,,,,,211 Lake Shore Rd,,,Lake Ronkonkoma,Suffolk,,,,11779,USA,40.8271703,-73.1158598,,True
+Country Valley Home,,,,,,(607) 776-5730,,,,,,,,,,,,(607) 776-5730,,,,,,,,,,,,,,,,AH,,,,,5946 County Route 11,,,Bath,Steuben,,,,14810,USA,42.2897733,-77.29308220000001,,True
+Evergreen Heights,,,,,,(315) 834-8960,,,,,,,,,,,,(315) 834-6142,,,,,,,,,,,,,,,,AH,,,,,8939 Oakland St,,,Weedsport,Cayuga,,,,13166,USA,43.05042299999999,-76.57281800000001,,True
+Brookdale Niagara Memory Care,,,,,,(716) 731-1521,,,,,,,,,,,,(716) 731-1461,,,,,,,,,,,,,,,,AH,,,,,6751 Nash Rd,,,North Tonawanda,Niagara,,,,14120,USA,43.0966762,-78.8646882,,True
+The Lodge at Ives Hill,,,,,,(315) 681-6039,,,,,,,,,,,,(315) 681-4038,,,,,,,,,,,,,,,,EHP,,,,,1200 Jewell Dr,,,Watertown,Jefferson,,,,13601,USA,43.9618337,-75.935842,,True
+Claddagh Care (L.B.S.H.) EHP #1,,,,,,(315) 389-5560,,,,,,,,,,,,(315) 389-5149,,,,,,,,,,,,,,,,EHP,,,,,34 Church St,Suite 1,,Brasher Falls,St. Lawrence,,,,13613,USA,44.80243000000001,-74.773236,Brasher Falls,True
+Brookdale Kenmore,,,,,,(716) 873-4953,,,,,,,,,,,,(716) 874-3200,,,,,,,,,,,,,,,,EHP,,,,,2971 Delaware Ave,,,Kenmore,Erie,,,,14217,USA,42.9649883,-78.8698102,,True
+Harbor Terrace Adult Home and Assisted Living,,,,,,(718) 981-9116,,,,,,,,,,,,(718) 727-8100,,,,,,,,,,,,,,,,AH/ALP,,,,,110 Henderson Ave,,,Staten Island,Richmond,,,,10301,USA,40.640166,-74.095718,Randall Manor,True
+Marian Woods,,,,,,(914) 750-6100,,,,,,,,,,,,(914) 750-6000,,,,,,,,,,,,,,,,AH,,,,,152 Ridge Rd,,,Hartsdale,Westchester,,,,10530,USA,41.0206443,-73.8079786,,True
+Seneca Lake Terrace Assisted Living Center,,,,,,(315) 781-1494,,,,,,,,,,,,(315) 789-4162,,,,,,,,,,,,,,,,AH/ALP,,,,,3670 Pre-emption Road County Rd,#6,,Geneva,Ontario,,,,14456,USA,ERROR,ERROR,ERROR,True
+Terrace at Beverwyck,,,,,,(518) 482-0106,,,,,,,,,,,,(518) 459-4062,,,,,,,,,,,,,,,,EHP,,,,,41 Beverwyck Ln,,,Slingerlands,Albany,,,,12159,USA,42.65938610000001,-73.83713630000001,,True
+Promenade at Chestnut Ridge,,,,,,(845) 620-9056,,,,,,,,,,,,(845) 620-0606,,,,,,,,,,,,,,,,AH/ALP,,,,,168 Red Schoolhouse Rd,,,Chestnut Ridge,Rockland,,,,10977,USA,41.073345,-74.053366,,True
+"Canton Enriched Housing Program, Inc.  EHP #2",,,,,,(315) 386-2383,,,,,,,,,,,,(315) 386-8830,,,,,,,,,,,,,,,,EHP,,,,,35 Riverside Dr,,,Canton,St. Lawrence,,,,13617,USA,44.5970152,-75.1738549,,True
+Mount View Assisted Living,,,,,,(716) 957-0324,,,,,,,,,,,,(716) 433-0790,,,,,,,,,,,,,,,,AH/ALP,,,,,5465 Upper Mountain Rd,,,Lockport,Niagara,,,,14094,USA,43.17594200000001,-78.7397529,,True
+Park Terrace at Radisson,,,,,,(315) 638-8507,,,,,,,,,,,,(315) 638-9207,,,,,,,,,,,,,,,,AH/ALP,,,,,2981 Town Center Rd,,,Baldwinsville,Onondaga,,,,13027,USA,43.1779446,-76.2997812,,True
+Riverdale Manor Home for Adults,,,,,,(718) 601-0593,,,,,,,,,,,,(718) 549-3300,,,,,,,,,,,,,,,,AH,,,,,6355 Broadway,,,Bronx,Bronx,,,,10471,USA,40.9014558,-73.897179,West Bronx,True
+The Eliot at Erie Station ALP,,,,,,(845) 342-2091,,,,,,,,,,,,(845) 342-2077,,,,,,,,,,,,,,,,AH/ALP,,,,,10 18 John St,,,Middletown,Orange,,,,10940,USA,41.447775,-74.42023999999999,,True
+"Lakeside Manor Home for Adults, Inc.",,,,,,(718) 816-5356,,,,,,,,,,,,(718) 720-9600,,,,,,,,,,,,,,,,AH/ALP,,,,,797 Brighton Ave,,,Staten Island,Richmond,,,,10301,USA,40.6324814,-74.09686409999999,Tompkinsville,True
+Horizons,,,,,,(585) 396-7332,,,,,,,,,,,,(585) 396-3390,,,,,,,,,,,,,,,,AH/ALP,,,,,3132 State Route 21 S,,,Canandaigua,Ontario,,,,14424,USA,42.8750836,-77.30507519999999,,True
+Mermaid Manor Home for Adults,,,,,,(718) 266-2103,,,,,,,,,,,,(718) 266-2100,,,,,,,,,,,,,,,,AH/ALP,,,,,3602 Mermaid Ave,,,Brooklyn,Kings,,,,11224,USA,40.57447969999999,-74.0020728,Coney Island,True

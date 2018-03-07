@@ -1,0 +1,85 @@
+name,contact_first_name,contact_last_name,contact_name,email,contact_email,fax,mailing_address_line_1,mailing_address_line_2,mailing_city,mailing_contact_first_name,mailing_contact_last_name,mailing_contact_name,mailing_country,mailing_county,mailing_postalcode,mailing_province,provider_name,primary_phone,secondary_phone,twitter,website,source,contact_occupation,dsgne_first_name,dsgne_last_name,admin_name,co_address_line_1,co_address_line_2,co_company,co_city,co_postalcode,co_province,ombudsman_phone,typeofcare,typeofcare2,low_high_rate,low_rate,high_rate,address_line_1,address_line_2,address_directions,city,municipality,region,province,state_id,postal_code,country,latitude,longitude,neighborhood,addr_valid
+Admirals' Coast Retirement Centre,,,,,,,,,,,,,,,,,,(709) 744 7075,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Kelligrews,,,NL,,,Canada,47.4958119,-53.0221247,Kelligrews,False
+Alderwood Estates,,,,,,,,,,,,,,,,,,(709) 334 2183,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Witless Bay,,,NL,,,Canada,47.2826676,-52.8325042,,False
+"Allison,s Manor",,,,,,,,,,,,,,,,,,(709) 834 8541,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Long Pond,,,NL,,,Canada,47.5782618,-52.7320477,Pippy Park,False
+Canning's Personal Care Home,,,,,,,,,,,,,,,,,,(709) 834 4013,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Long Pond,,,NL,,,Canada,47.5782618,-52.7320477,Pippy Park,False
+Bayview Heights Manor,,,,,,,,,,,,,,,,,,(709) 834 5792,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Kelligrews,,,NL,,,Canada,47.4958119,-53.0221247,Kelligrews,False
+Cambridge Estates,,,,,,,,,,,,,,,,,,(709) 576 4663,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,St. John's,,,NL,,,Canada,47.5615096,-52.7125768,,False
+MJ PCH,,,,,,,,,,,,,,,,,,(709) 834 2349,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Manuels,,,NL,,,Canada,47.520634,-52.944857,Manuels,False
+Cradea Manor,,,,,,,,,,,,,,,,,,(709) 364 5265,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Mt. Pearl,,,NL,,,Canada,47.5206407,-52.8076818,,False
+"Fahey,s Personal Care Home",,,,,,,,,,,,,,,,,,(709) 363 2250,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Fermeuse,,,NL,,,Canada,46.9755469,-52.9599494,,False
+Karwood Retirement Retreat,,,,,,,,,,,,,,,,,,(709) 782 5300,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Paradise,,,NL,,,Canada,47.5306597,-52.8873992,,False
+Hillcrest Estate,,,,,,,,,,,,,,,,,,(709) 364 7077,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Mount Pearl,,,NL,,,Canada,47.5206407,-52.8076818,,False
+Katherine House,,,,,,,,,,,,,,,,,,(709) 754 3864,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,St. John's,,,NL,,,Canada,47.5615096,-52.7125768,,False
+Kelly's Personal Care Home,,,,,,,,,,,,,,,,,,(709) 745 5343,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Goulds,,,NL,,,Canada,47.4465263,-52.7716876,,False
+Linda's Personal Care Home,,,,,,,,,,,,,,,,,,(709) 745 1956,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Goulds,,,NL,,,Canada,47.4465263,-52.7716876,,False
+Barton's Personal Care Home,,,,,,,,,,,,,,,,,,(709) 745 4986,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Goulds,,,NL,,,Canada,47.4465263,-52.7716876,,False
+Bonaventure Retirement Home,,,,,,,,,,,,,,,,,,(709) 722 4040,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,St. John's,,,NL,,,Canada,47.5615096,-52.7125768,,False
+Meadow Creek Retirement Centre,,,,,,,,,,,,,,,,,,(709) 782 4242,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Paradise,,,NL,,,Canada,47.5306597,-52.8873992,,False
+North Pond Manor,,,,,,,,,,,,,,,,,,(709) 437 1415,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Torbay,,,NL,,,Canada,47.6580777,-52.7355238,,False
+Ocean View Guest Home,,,,,,,,,,,,,,,,,,(709) 834 2532,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Kelligrews,,,NL,,,Canada,47.4958119,-53.0221247,Kelligrews,False
+Pearl House,,,,,,,,,,,,,,,,,,(709) 368 3850,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Mount Pearl,,,NL,,,Canada,47.5206407,-52.8076818,,False
+Ruby Manor,,,,,,,,,,,,,,,,,,(709) 364 4943,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Mount Pearl,,,NL,,,Canada,47.5206407,-52.8076818,,False
+Murphy's Shade Rest Lodge Bay Robert's Retirement Centre,,,,,,,,,,,,,,,,,,(709) 786 6665,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,895  Paradise 8960/8956 Bay Roberts,,,NL,,,Canada,47.5381135,-52.8607615,,False
+Callingwood Downs,,,,,,,,,,,,,,,,,,(709) 786 1850,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Clarke's Beach,,,NL,,,Canada,47.5469092,-53.2835215,,False
+Woodford's Comfort Manor,,,,,,,,,,,,,,,,,,(709) 229 3213,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Holyrood,,,NL,,,Canada,47.3849646,-53.1246537,,False
+Beachside Manor,,,,,,,,,,,,,,,,,,(709) 227 1110,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Placentia,,,NL,,,Canada,47.242147,-53.9633078,,False
+Eason's Personal Care Home,,,,,,,,,,,,,,,,,,(709) 229 4072,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Holyrood,,,NL,,,Canada,47.3849646,-53.1246537,,False
+Gateway Residence,,,,,,,,,,,,,,,,,,(709) 227 3814,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Dunville,,,NL,,,Canada,47.268576,-53.885991,,False
+Lewis' Personal Care Home,,,,,,,,,,,,,,,,,,(709) 525 2244,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Riverhead,,,NL,,,Canada,46.9805424,-53.5099199,,False
+Luxury Estates,,,,,,,,,,,,,,,,,,(709) 596 1244,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Carbonear,,,NL,,,Canada,47.7375216,-53.2294868,,False
+Baccalieu Retirement Living,,,,,,,,,,,,,,,,,,(709) 587 2651,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Old Perlican,,,NL,,,Canada,48.0958101,-52.9930961,,False
+Shag Rock Manor,,,,,,,,,,,,,,,,,,(709) 588 2884,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Whiteway,,,NL,,,Canada,47.686461,-53.484056,,False
+Tobin's Guest Home,,,,,,,,,,,,,,,,,,(709) 229 7464,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Holyrood,,,NL,,,Canada,47.3849646,-53.1246537,,False
+Winter Holme Manor,,,,,,,,,,,,,,,,,,(709) 583 2658,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Winterton,,,NL,,,Canada,47.9542488,-53.3306932,,False
+Miraquinn Hilltop Manor,,,,,,,,,,,,,,,,,,(709) 547 2450,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Hickman's Harbour,,,NL,,,Canada,48.102308,-53.730813,,False
+Bonavista Retirement Centre,,,,,,,,,,,,,,,,,,(709) 468 5900,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Bonavista,,,NL,,,Canada,48.6533449,-53.1118249,,False
+Cozy Quarters Personal Care Home,,,,,,,,,,,,,,,,,,(709) 466 2447,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Clarenville,,,NL,,,Canada,48.168225,-53.9645533,,False
+Clarenville Retirement Home,,,,,,,,,,,,,,,,,,(709) 466 6459,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Clarenville,,,NL,,,Canada,48.168225,-53.9645533,,False
+Greenwood Rest Home,,,,,,,,,,,,,,,,,,(709) 467 5243,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Musgravetown,,,NL,,,Canada,48.3987349,-53.8941378,,False
+Hilltop Manor,,,,,,,,,,,,,,,,,,(709) 463 5000,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Arnold's Cove,,,NL,,,Canada,47.7574448,-53.9887436,,False
+Marystown Retirement Centre,,,,,,,,,,,,,,,,,,(709) 279 2554,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Marystown,,,NL,,,Canada,47.1650754,-55.1555299,,False
+Mount Margaret Manor,,,,,,,,,,,,,,,,,,(709) 873 3232,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,St. Lawrence,,,NL,,,Canada,46.925167,-55.395229,,False
+Grand Bank Retirement Centre,,,,,,,,,,,,,,,,,,(709) 832 3900,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Grand Bank,,,NL,,,Canada,47.1002403,-55.7524907,,False
+Shirley's Haven,,,,,,,,,,,,,,,,,,(709) 469 3160,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Catalina,,,NL,,,Canada,48.5168078,-53.0785339,,False
+Baie View Manor,,,,,,,,,,,,,,,,,,(709) 532 4615,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Baie Verte,,,NL,,,Canada,49.9392654,-56.1907286,,False
+"White,s Family Care Residence",,,,,,,,,,,,,,,,,,(709) 654 3171,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Brown's Arm,,,NL,,,Canada,49.25,-55.166667,,False
+"Oram,s Baywatch Manor",,,,,,,,,,,,,,,,,,(709) 533 6999,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Glovertown South,,,NL,,,Canada,48.6666669,-54.016667,Glovertown South,False
+Carmanville Terrace,,,,,,,,,,,,,,,,,,(709) 534 2244,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Carmanville,,,NL,,,Canada,49.4033159,-54.2867228,,False
+"Robinson,s Retirement Home",,,,,,,,,,,,,,,,,,(709) 258 6446,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Bishops Falls,,,NL,,,Canada,49.0138869,-55.4878009,,False
+Golden Years Estates,,,,,,,,,,,,,,,,,,(709) 489 7363,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Grand Falls,,,NL,,,Canada,48.9276687,-55.6575025,,False
+Musgrave Hillcrest Manor,,,,,,,,,,,,,,,,,,(709) 655 2777,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Harbour,,,NL,,,Canada,47.6951139,-53.2116386,,False
+Islandside Manor,,,,,,,,,,,,,,,,,,(709) 438 2121,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Leading Tickles,,,NL,,,Canada,49.5054869,-55.4525243,,False
+Killick Retirement Home,,,,,,,,,,,,,,,,,,(709) 257 2400,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Botwood,,,NL,,,Canada,49.1422983,-55.3440853,,False
+Nightingale Manor,,,,,,,,,,,,,,,,,,(709) 256 3711,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Gander,,,NL,,,Canada,48.954408,-54.6103488,,False
+Oram's Birchview Manor,,,,,,,,,,,,,,,,,,(709) 533 2600,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Glovertown,,,NL,,,Canada,48.6743657,-54.0357648,,False
+Oram's Emmanuel Manor,,,,,,,,,,,,,,,,,,(709) 674 4254,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Gambo,,,NL,,,Canada,48.7850799,-54.2133023,,False
+Otterbury Manor,,,,,,,,,,,,,,,,,,(709) 536 3383,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Wesleyville,,,NL,,,Canada,49.149432,-53.5513441,,False
+Twilight Manor,,,,,,,,,,,,,,,,,,(709) 535 6094,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Embree,,,NL,,,Canada,49.3126217,-55.0301025,,False
+Pleasantview Manor,,,,,,,,,,,,,,,,,,(709) 535 0941,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Lewisporte,,,NL,,,Canada,49.2450384,-55.0591548,,False
+Riverhead Manor,,,,,,,,,,,,,,,,,,(709) 266 2336,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Fogo,,,NL,,,Canada,49.7133438,-54.2751604,,False
+Gander Bay Retirement Home,,,,,,,,,,,,,,,,,,(709) 676 2773,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,George's Point,,,NL,,,Canada,52.5626129,4.7333133,,False
+Sunset Manor,,,,,,,,,,,,,,,,,,(709) 884 5301,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Twillingate,,,NL,,,Canada,49.6486948,-54.7622673,,False
+Grand Falls  Twin Town Manor,,,,,,,,,,,,,,,,,,(709) 489 0988,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Windsor,,,NL,,,Canada,48.9276687,-55.6575025,,False
+Hollett's Retirement Centre,,,,,,,,,,,,,,,,,,(709) 489 5812,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Grand Falls  Windsor,,,NL,,,Canada,48.9276687,-55.6575025,,False
+Springdale Retirement Centre,,,,,,,,,,,,,,,,,,(709) 673 5777,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Springdale,,,NL,,,Canada,49.49749,-56.0729969,,False
+Golden Years Estates,,,,,,,,,,,,,,,,,,(709) 651 7363,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Gander,,,NL,,,Canada,48.954408,-54.6103488,,False
+Acadian Village,,,,,,,,,,,,,,,,,,(709) 643 9669,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Stephenville,,,NL,,,Canada,48.5479718,-58.5815353,,False
+Brake's Personal Care Home,,,,,,,,,,,,,,,,,,(709) 785 5092,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Corner Brook,,,NL,,,Canada,48.9489967,-57.9502726,,False
+Crosswinds Seniors Resort,,,,,,,,,,,,,,,,,,(709) 274 3001,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Robinsons,,,NL,,,Canada,48.255579,-58.796094,,False
+Deer Lake Manor,,,,,,,,,,,,,,,,,,(709) 635 5967,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Deer Lake,,,NL,,,Canada,49.1731682,-57.4338728,,False
+Blow Me Down Retirement Centre,,,,,,,,,,,,,,,,,,(709) 681 2288,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Lark Harbour,,,NL,,,Canada,49.101954,-58.3644672,,False
+Oceanside Personal Care Home,,,,,,,,,,,,,,,,,,(709) 955 2339,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Cape Anguille,,,NL,,,Canada,47.9,-59.4,,False
+Lohnes Personal Care Home,,,,,,,,,,,,,,,,,,(709) 785 1200,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Corner Brook,,,NL,,,Canada,48.9489967,-57.9502726,,False
+Main River Retirement Home,,,,,,,,,,,,,,,,,,(709) 482 2334,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Pollard's Point,,,NL,,,Canada,49.7467479,-56.9202841,,False
+Mountain Hope Manor,,,,,,,,,,,,,,,,,,(709) 695 3458,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Port aux Basques,,,NL,,,Canada,47.5721149,-59.136429,,False
+Mountain View Estates,,,,,,,,,,,,,,,,,,(709) 637 6900,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Corner Brook,,,NL,,,Canada,48.9489967,-57.9502726,,False
+Mountain View House,,,,,,,,,,,,,,,,,,(709) 783 2019,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Meadows,,,NL,,,Canada,48.994762,-58.044052,,False
+Northern Retirement Home,,,,,,,,,,,,,,,,,,(709) 861 4242,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Port Saunders,,,NL,,,Canada,50.6489573,-57.2874789,,False
+Bayshore Estates,,,,,,,,,,,,,,,,,,(709) 783 2141,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Irishtown,,,NL,,,Canada,48.9874269,-57.956601,,False
+Silverwood Manor,,,,,,,,,,,,,,,,,,(709) 643 6550,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Kippens,,,NL,,,Canada,48.5489013,-58.6235558,,False
+Xavier House,,,,,,,,,,,,,,,,,,(709) 634 2787,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Corner Brook,,,NL,,,Canada,48.9489967,-57.9502726,,False
+Harbourview Manor,,,,,,,,,,,,,,,,,,(709) 921 6440,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Mary's Harbour,,,NL,,,Canada,52.3051896,-55.8374021,,False
+Ivy Durley Place,,,,,,,,,,,,,,,,,,(709) 456 2022,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Flower's Cove,,,NL,,,Canada,51.300041,-56.7278099,,False
+Roddickton House,,,,,,,,,,,,,,,,,,(709) 457 2166,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,Roddickton,,,NL,,,Canada,50.870492,-56.1218096,,False
+Shirley's Haven #2,,,,,,,,,,,,,,,,,,(709) 454 1070,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,St. Anthony,,,NL,,,Canada,51.3704156,-55.5958648,,False

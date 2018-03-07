@@ -1,0 +1,39 @@
+name,contact_first_name,contact_last_name,contact_name,email,contact_email,fax,mailing_address_line_1,mailing_address_line_2,mailing_city,mailing_contact_first_name,mailing_contact_last_name,mailing_contact_name,mailing_country,mailing_county,mailing_postalcode,mailing_province,provider_name,primary_phone,secondary_phone,twitter,website,source,contact_occupation,dsgne_first_name,dsgne_last_name,admin_name,co_address_line_1,co_address_line_2,co_company,co_city,co_postalcode,co_province,ombudsman_phone,typeofcare,typeofcare2,low_high_rate,low_rate,high_rate,address_line_1,address_line_2,address_directions,city,municipality,region,province,state_id,postal_code,country,latitude,longitude,neighborhood
+The Agnes Pratt Home,,,,,,,,,,,,,,,,,,(709) 752-8950,,,,,,,,,,,,,,,,,Assisted Living,,,,239 Topsail Road,,,St. Johnâ€™s,,,NL,,A1E 2B4,,47.539442,-52.735743,West End
+Glenbrook Lodge,,,,,,,,,,,,,,,,,,(709) 726-1575,,,,,,,,,,,,,,,,,Assisted Living,,,,105 Torbay Road,,,St. Johnâ€™s,,,NL,,A1A 2G9,,47.5895579,-52.7103022,East End
+Pleasantview Towers,,,,,,,,,,,,,,,,,,(709) 752-8800,,,,,,,,,,,,,,,,,Assisted Living,,,,65 Newfoundland Drive,,,St. Johnâ€™s,,,NL,,A1A 0L7,,47.5949573,-52.68925749999999,East End
+Saint Lukeâ€™s Homes,,,,,,,,,,,,,,,,,,(709) 752-8900,,,,,,,,,,,,,,,,,Assisted Living,,,,24 Road Deluxe,,,St. Johnâ€™s,,,NL,,A1E 5Z3,,ERROR,ERROR,ERROR
+St. Patrickâ€™s Mercy Home,,,,,,,,,,,,,,,,,,(709) 726-2687,,,,,,,,,,,,,,,,,Assisted Living,,,,146 Elizabeth Avenue,,,St. Johnâ€™s,,,NL,,A1B 1S5,,ERROR,ERROR,ERROR
+Caribou Memorial Veterans Pavilion,,,,,,,,,,,,,,,,,,(709) 777-6555,,,,,,,,,,,,,,,,,Assisted Living,,,,90 Forest Road,,,St. Johnâ€™s,,,NL,,A1A 0C4,,ERROR,ERROR,ERROR
+Dr. Walter Templeman Health Centre,,,,,,,,PO Box 580,,,,,,,,,,(709) 488-2821,,,,,,,,,,,,,,,,,Assisted Living,,,,,,,Wabana Bell Island,,,NL,,A0A 4H0,,47.64385499999999,-52.94724,
+Carbonear Long Term Care Facility,,,,,,,,,,,,,,,,,,(709) 945-5400,,,,,,,,,,,,,,,,,Assisted Living,,,,86 Highroad South,,,Carbonear,,,NL,,A1Y 1A4,,47.72619460000001,-53.22613479999999,
+Lions Manor Nursing Home,,,,,,,,P.O. Box 480,,,,,,,,,,(709) 227-2061,,,,,,,,,,,,,,,,,Assisted Living,,,,1 Corrigan Place,,,Placentia,,,NL,,A0B 2Y0,,47.2484768,-53.85236159999999,
+Dr. Albert Oâ€™Mahoney Memorial Manor,,,,,,,,,,,,,,,,,,(709) 466-6874,,,,,,,,,,,,,,,,,Assisted Living,,,,67 Manitoba Drive,,,Clarenville,,,NL,,A5A 1K3,,48.16405989999999,-53.9846037,
+Blue Crest Inter Faith Home,,,,,,,,P.O. Box 160,,,,,,,,,,(709) 832-1660,,,,,,,,,,,,,,,,,Assisted Living,,,,1 Seniors Place,,,Grand Bank,,,NL,,A0E 1W0,,47.09700069999999,-55.7559128,
+U.S. Memorial Community Health Centre,,,,,,,,P.O. Box 398,,,,,,,,,,(709) 873-2330,,,,,,,,,,,,,,,,,Assisted Living,,,,1 Memorial Drive,,,St. Lawrence,,,NL,,A0E 2V0,,46.9300113,-55.3991252,
+Golden Heights Manor,,,,,,,,,,,,,,,,,,(709) 468-2043,,,,,,,,,,,,,,,,,Assisted Living,,,, Campbell Street27-43,,,Bonavista,,,NL,,A0C 1B0,,48.6502484,-53.1113763,
+Bonavista Protective Community Residence,,,,,,,,,,,,,,,,,,(709) 468-2025,,,,,,,,,,,,,,,,,Assisted Living,,,, Joyâ€™s Lane10-20,,,Bonavista,,,NL,,A0C 1B0,,ERROR,ERROR,ERROR
+Clarenville Protective Community Residence,,,,,,,,,,,,,,,,,,(709) 466-4375,,,,,,,,,,,,,,,,,Assisted Living,,,,11 Shoal Harbour Drive,,,Clarenville,,,NL,,A5A 2C3,,48.1713562,-53.9875193,
+Chancellor Park (Private facility with 120 subsidized beds) 270 Portugal Cove Rd,,,,,,,,,,,,,,,,,,(709) 754-1165,,,,,,,,,,,,,,,,,Assisted Living,,,,,,,St. Johnâ€™s,,,NL,,A1B 4N6,,ERROR,ERROR,ERROR
+A.M Guy Memorial Health Centre,,,,,,,,P.O. Box 10,,,,,,,,,,(709) 672-3304/3305,,,,,,,,,,,,,,,,,Assisted Living,,,,,,,Buchans,,,NL,,A0H 1G0,,48.82507999999999,-56.8553083,
+Baie Verte Peninsula Health Centre/Copper Crescent,,,,,,,,,,,,,,,,,,(709) 532-4218,,,,,,,,,,,,,,,,,Assisted Living,,,,1 Columbus Drive,,,Baie Verte,,,NL,,A0K 1B0,,49.9254547,-56.22191249999999,
+Bonnews Lodge,,,,,,,,P.O. Box 209,,,,,,,,,,(709) 536-2405,,,,,,,,,,,,,,,,,Assisted Living,,,,,,,Badgerâ€™s Quay,,,NL,,A0G 1B0,,ERROR,ERROR,ERROR
+Lakeside Homes,,,,,,,,,,,,,,,,,,(709) 256-8850,,,,,,,,,,,,,,,,,Assisted Living,,,,95 Airport Blvd.,,,Gander,,,NL,,A1V 2L7,,48.963172,-54.615966,
+Carmelite House Senior Citizensâ€™ Home,,,,,,,,,,,,,,,,,,(709) 489-2274,,,,,,,,,,,,,,,,,Assisted Living,,,,50 Union St.,,,,,,,,,,42.4057101,-71.04483359999999,
+Connaigre Peninsula Health Centre,,,,,,,,P.O. Box 368,,,,,,,,,,(709) 885-2043,,,,,,,,,,,,,,,,,Assisted Living,,,,,,,Harbor Breton,,,NL,,A0H 1P0,,47.4774987,-55.8258748,
+Dr. Hugh Twomey Health Centre,,,,,,,,P.O. Box 250,,,,,,,,,,(709) 257-2874,,,,,,,,,,,,,,,,,Assisted Living,,,,,,,Botwood,,,NL,,A0E 1E0,,49.1422983,-55.3440853,
+Fogo Island Health Centre,,,,,,,,P.O. Box 9,,,,,,,,,,(709) 266-2221,,,,,,,,,,,,,,,,,Assisted Living,,,,,,,Fogo Island,,,NL,,A0G 2B0,,49.8470959,-54.1796651,
+Notre Dame Bay Health Centre,,,,,,,,,,,,,,,,,,(709) 884-2131,,,,,,,,,,,,,,,,,Assisted Living,,,,,,,Twillingate,,,NL,,A0G 4M0,,49.6486948,-54.7622673,
+North Haven Manor,,,,,,,,P.O. Box 880,,,,,,,,,,(709) 535-6767,,,,,,,,,,,,,,,,,Assisted Living,,,,,,,Lewisporte,,,NL,,A0G 3A0,,49.2450384,-55.05915479999999,
+Valley Vista Citizenâ€™s Complex,,,,,,,,P.O. Box 130,,,,,,,,,,(709) 673-3936,,,,,,,,,,,,,,,,,Assisted Living,,,,,,,Springdale,,,NL,,A0J 1T0,,49.49749,-56.0729969,
+Bay St. George Senior Citizens Home,,,,,,,,P.O. Box 250,,,,,,,,,,(709) 646-5800,,,,,,,,,,,,,,,,,Assisted Living,,,,,,,Stephenville Crossing,,,NL,,A0N 2C0,,48.5280004,-58.4467644,
+Corner Brook Long Term Care Home,,,,,,,,,,,,,,,,,,(709) 637-3999,,,,,,,,,,,,,,,,,Assisted Living,,,,40 University Drive,,,Corner Brook,,,NL,,A2H 5G4,,48.939015,-57.93212020000001,
+Calder Health Centre,,,,,,,,P.O. Box 190,,,,,,,,,,(709) 886-2898,,,,,,,,,,,,,,,,,Assisted Living,,,,,,,Burgeo,,,NL,,A0N 2H0,,47.61341300000001,-57.610491,
+Rufus Guinchard Health Centre,,,,,,,,P.O. Box 40,,,,,,,,,,(709) 861-3139,,,,,,,,,,,,,,,,,Assisted Living,,,,,,,Port Saunders,,,NL,,A0K 4H0,,50.6489573,-57.2874789,
+Bonne Bay Health Centre,,,,,,,,P.O. Box 70,,,,,,,,,,(709) 458-2211,,,,,,,,,,,,,,,,,Assisted Living,,,,,,,Norris Point,,,NL,,A0K 3V0,,49.5266643,-57.88294669999999,
+Dr. Charles L. LeGrow Health Centre 187-199,,,,,,,,,,,,,,,,,,(709) 695-2175,,,,,,,,,,,,,,,,,Assisted Living,,,,,,,,,,,,,,ERROR,ERROR,ERROR
+Protective Community Residences (1-4),,,,,,,,P.O. Box 250,,,,,,,,,,(709) 632-2191; (709) 632-2192; (709) 632-2193; (709) 632-2194,,,,,,,,,,,,,,,,,Assisted Living,,,,,,,Corner Brook,,,NL,,A2H 7R8,,48.9489967,-57.95027260000001,
+Long Term Care Home â€“ Happy Valley-Goose,,,,,,,,P.O. Box 766,,,,,,,,,,(709) 896-2469,,,,,,,,,,,,,,,,,Assisted Living,,,,Happy Valley-Goose,,,,,,,,,,53.3016826,-60.3260842,
+John M. Gray Health Centre,,,,,,,,P.O. Box 69,,,,,,,,,,(709) 454-0371,,,,,,,,,,,,,,,,,Assisted Living,,,,,,,St. Anthony,,,NL,,A0K 4S0,,51.37041560000001,-55.59586479999999,
+Labrador South Health Centre,,,,,,,,,,,,,,,,,,(709) 931-2450,,,,,,,,,,,,,,,,,Assisted Living,,,,,,,Forteau,,,NL,,A0K 2P0,,51.47846000000001,-56.957563,
+Labrador West Health Centre,,,,,,,,,,,,,,,,,,(709) 285-8100,,,,,,,,,,,,,,,,,Assisted Living,,,,1700 Nichols-Adam,,,Labrador City,,,NL,,A2V 0B2,,52.94934869999999,-66.9329877,

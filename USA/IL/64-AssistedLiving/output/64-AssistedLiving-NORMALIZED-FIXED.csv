@@ -1,0 +1,437 @@
+name,contact_first_name,contact_last_name,contact_name,email,contact_email,fax,mailing_address_line_1,mailing_address_line_2,mailing_city,mailing_contact_first_name,mailing_contact_last_name,mailing_contact_name,mailing_country,mailing_county,mailing_postalcode,mailing_province,provider_name,primary_phone,secondary_phone,twitter,website,source,contact_occupation,dsgne_first_name,dsgne_last_name,admin_name,co_address_line_1,co_address_line_2,co_company,co_city,co_postalcode,co_province,ombudsman_phone,typeofcare,typeofcare2,low_high_rate,low_rate,high_rate,address_line_1,address_line_2,address_directions,city,municipality,region,province,state_id,postal_code,country,latitude,longitude,neighborhood,addr_valid
+Adams Pointe Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,213 North 48th St,,,Quincy,Adams,,,,62305,,39.9323923,-91.3401531,,True
+Addolorata Villa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,553 McHenry Rd,,,Wheeling,Cook,,,,60090,,42.1472924,-87.9404315,,True
+Admiral at the Lake,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,933 W Foster Ave,,,Chicago,Cook,,,,60640,,41.9763133,-87.6538436,Uptown,True
+AL at Franciscan Village,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,11400 Theresa Dr,,,Lemont,Cook,,,,60439,,41.67751309999999,-87.9733085,,True
+Amber Glen Alzheimer's SCC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1704 East Amber Ln,,,Urbana,Champaign,,,,61802,,40.088378,-88.187294,,True
+Amber Ridge Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,900 43rd Ave,,,Moline,Rock Island,,,,61265,,41.4672543,-90.52311110000001,,True
+Amber Ridge Memory Care,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,221 11th Ave,,,Moline,Rock Island,,,,61265,,41.5016371,-90.53499769999999,,True
+American House  Cedarlake,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,14800 South Van Dyke Rd,,,Plainfield,Will,,,,60544,,41.6133572,-88.21834550000001,,True
+Anam Care Inc.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,8104 Sayer Rd,,,Rockford,Winnebago,,,,61108,,42.25480279999999,-88.95998379999999,,True
+Anam Glen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,7978 Newburg Rd,,,Rockford,Winnebago,,,,61108,,42.2541047,-88.9608535,,True
+Anchor of River to River Comm of Marion,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1501 Sandbar Dr,,,Marion,Williamson,,,,62959,,37.7347728,-88.90084139999999,,True
+"Angel Acres, Inc.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,8380 Worleys Mill Rd,,,Marion,Williamson,,,,62959,,37.7166936,-88.8647302,,True
+Apostolic Christian Skylines,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,7023 N E Skyline Dr,,,Peoria,Peoria,,,,61614,,40.77237699999999,-89.57658699999999,,True
+Arboria of Long Grove LLC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2300 IL Route 53,,,Long Grove,Lake,,,,60047,,42.1519086,-88.0299694,,True
+Arbor Rose of Arcola,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,106 East 2nd South St,,,Arcola,Douglas,,,,61910,,39.6790512,-88.30881,,True
+Arbor Rose of Charleston,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1911 18th St,,,Charleston,Coles,,,,60920,,39.47998949999999,-88.1625335,,True
+Arbor Rose of Monticello,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1009 South Irving,,,Monticello,Piatt,,,,61856,,40.0173959,-88.5755482,,False
+Arbor Rose of Robinson,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,500 S Reed St,,,Robinson,Crawford,,,,62454,,39.00154149999999,-87.74782309999999,,True
+Arbor Rose of Tolono,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,503 S Bourne St,,,Tolono,Champaign,,,,61880,,39.9786069,-88.26125800000001,,True
+"Arbors at Adams Pointe, The",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,201 North 48th St,,,Quincy,Adams,,,,62305,,39.9326261,-91.33938359999999,,True
+"Arbors at Centennial Pointe, The",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3430 Hedley Rd,,,Springfield,Sangamon,,,,62712,,39.7638356,-89.718296,,True
+Arbors at Parkway Gardens (The),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,375 Fountains Pkwy,,,Fairview Heights,St Clair,,,,62208,,38.6043573,-89.9781876,,True
+Asbury Court,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1750 Elmhurst Rd,,,Des Plaines,Cook,,,,60018,,42.02134880000001,-87.9417531,,True
+Aspen Creek of Sullivan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,411 N West St,,,Sullivan,Moultrie,,,,61951,,39.602946,-88.6232393,,True
+Aspen Creek of Troy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1924 SRA Bradley Smith Dr,,,Troy,Madison,,,,62264,,38.7249468,-89.9020319,,True
+Assisi HC Center at Clare Oaks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,829 Carillon Dr,,,Bartlett,Cook,,,,60103,,41.99297989999999,-88.19898330000001,,True
+Assisted Living at Silver Creek,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1227 Winding Oaks Ln,,,Mascoutah,St. Clair,,,,62258,,38.4908392,-89.8138322,,True
+Assisted Living at Victory Lakes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1065 Victory Dr,,,Lindenhurst,Lake,,,,60046,,42.4114588,-88.0555437,,True
+Atria Park of Glen Ellyn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,95 Carleton Ave,,,Glen Ellyn,DuPage,,,,60137,,41.8628863,-88.0533952,,True
+"Atrium, The",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2885 McFarland Rd,,,Rockford,Winnebago,,,,61107,,42.302541,-88.975865,,True
+"Autumn Accolade, Inc.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,13516 Townline Rd,,,Green Valley,Tazewell,,,,61534,,40.479876,-89.671003,,True
+Autumn Fields Adult Community,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,325 E Orange St,,,Hoopeston,Vermilion,,,,60942,,40.45840390000001,-87.6672518,,True
+Autumn Fields of Savoy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,66 East Airport Rd,,,Savoy,Champaign,,,,61874,,40.0366924,-88.2637269,,True
+Autumn Green at Midway Village,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,6700 S Keating,,,Chicago,Cook,,,,60629,,41.770764,-87.7409629,South Side,False
+Autumn Green at Wright Campus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,4239 N Oak Park Ave,,,Chicago,Cook,,,,60634,,41.9575565,-87.7966952,Dunning,True
+Autumn Leaves of Arlington Heights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1625 S Arlington Heights Rd,,,Arlington Heights,Cook,,,,60005,,42.054765,-87.981185,,True
+Autumn Leaves of Bolingbrook,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,351 Lily Cache Ln,,,Bolingbrook,DuPage,,,,60440,,41.6903024,-88.080731,,True
+Autumn Leaves of Crystal Lake,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,495 Alexandra Blvd,,,Crystal Lake,McHenry,,,,60014,,42.1991313,-88.33942619999999,,True
+Autumn Leaves of Glen Ellyn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,190 Geneva Rd,,,Glen Ellyn,DuPage,,,,60137,,41.8896551,-88.08291849999999,,True
+Autumn Leaves of Gurnee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,505 N Hunt Club Rd,,,Gurnee,Lake,,,,60031,,42.3650523,-87.9632917,,True
+Autumn Leaves of Orland Park,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,8021 151st St,,,Orland Park,Cook,,,,60462,,41.616291,-87.81462580000002,,True
+Autumn Leaves of Oswego,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,900 Douglas Rd,,,Oswego,Kendall,,,,60543,,41.7069338,-88.3153974,,True
+Autumn Leaves of South Barrington,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,215 Bartlett Rd,,,South Barrington,Cook,,,,60010,,42.0738413,-88.1792973,,True
+Autumn Leaves of St. Charles,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,10 N Peck St,,,St. Charles,Kane,,,,60174,,41.9187893,-88.3577476,,True
+Autumn Leaves of Vernon Hills,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,500 Atrium Dr,,,Vernon Hills,Lake,,,,60061,,42.23681379999999,-87.96558089999999,,True
+Avonlea Cottage #1/Quad Cities,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2021 E 1st St,,,Milan,Rock Island,,,,61264,,41.430855,-90.56761999999999,,True
+Avonlea Cottage #2/Quad Cities,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2025 E 1st St,,,Milan,Rock Island,,,,61264,,41.430898,-90.5665698,,True
+Avonlea Cottage of Dixon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,503 Countryside Ln,,,Dixon,Lee,,,,61021,,41.84015739999999,-89.46612069999999,,True
+Avonlea Cottage/Sterling,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2201 E LeFevre Rd,,,Sterling,Whiteside,,,,61081,,41.8019786,-89.671672,,True
+Axelson Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2195 Foxglove Dr,,,Northbrook,Cook,,,,60062,,42.1142348,-87.8485822,Techny,True
+Bell Tower Retirement LLC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,430 Sidney St,,,East Dubuque,JoDaviess,,,,61025,,42.49375349999999,-90.6405782,,True
+Belmont Village Buffalo Grove,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,500 McHenry Rd,,,Buffalo Grove,Lake,,,,60089,,42.1617192,-87.96402839999999,,True
+Benedale Ctr-Villa St. Benedict,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1920 Maple Ave,,,Lisle,DuPage,,,,60532,,41.784721,-88.088701,,True
+Bethel Place-AZ Establishment,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,6901 N Galena Rd,,,Peoria,Peoria,,,,61614,,40.7700136,-89.57450159999999,,True
+Bickford - Bloomington,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,14 Heartland Dr,,,Bloomington,McLean,,,,61704,,40.4814567,-88.9388735,,True
+Bickford - Bourbonnais House,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,100 Jones Dr,,,Bourbonnais,Kankakee,,,,60914,,41.1636499,-87.8908989,,True
+Bickford - Champaign Cottage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1002 S Staley Rd,,,Champaign,Champaign,,,,61822,,40.10537359999999,-88.3134262,,True
+Bickford Cottage - St. Charles,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2875 Campton Hills Rd,,,St.Charles,Kane,,,,60175,,41.9124256,-88.3507318,,True
+Bickford - Crystal Lake Cottage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,717 McHenry Ave,,,Crystal Lake,McHenry,,,,60014,,42.2209333,-88.3379569,,True
+Bickford - Macomb Cottage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1600 Maple Ave,,,Macomb,McDonough,,,,61455,,40.438052,-90.67144479999999,,True
+Bickford - Moline Cottage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3650 41st St,,,Moline,Rock Island,,,,61265,,41.4755964,-90.4755277,,True
+Bickford of Aurora,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,7 South Orchard Rd,,,Aurora,Kane,,,,60506,,41.764696,-88.3768558,,True
+Bickford of Tinley Park,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,17301 80th Ave,,,Tinley Park,Cook,,,,60477,,41.575641,-87.81027,,True
+Bickford - Oswego Cottage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3712 Grove Rd,,,Oswego,Kendall,,,,60543,,41.6683252,-88.3457301,,True
+Bickford - Peoria I House,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1920 W Willow Knolls Dr,,,Peoria,Peoria,,,,61614,,40.77539470000001,-89.6221439,,True
+Bickford - Peoria II Cottage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2000 W Willow Knolls Dr,,,Peoria,Peoria,,,,61614,,40.7752968,-89.623047,,True
+Bickford - Quincy Bickford Cottage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,4221 Maine,,,Quincy,Adams,,,,62305,,39.9314559,-91.3476232,,False
+Bickford - Rockford House,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,960 N Mulford Rd,,,Rockford,Winnebago,,,,61107,,42.2787467,-89.0007006,,True
+Bickford - Springfield House,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2451 W White Oak Dr,,,Springfield,Sangamon,,,,62704,,39.947556,-83.8626039,Forest Hills,True
+"Birches, LLC (The)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,215 55th St,,,Clarendon Hills,DuPage,,,,60514,,41.7879891,-87.9532198,,True
+Blackberry Cottage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,904-B Estates Dr,,,Jerseyville,Jersey,,,,62052,,39.093122,-90.39619160000001,,True
+Bradford Place,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1463 Benchmark Ct,,,Swansea,St Clair,,,,62226,,38.5740064,-89.9644675,,True
+"Bradford Villa, LLC-I",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1122 Koch's Ln,,,Quincy,Adams,,,,62305,,39.963879,-91.397886,,True
+"Bradford Villa, LLC-II",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1122 Koch's Ln,,,Quincy,Adams,,,,62305,,39.963879,-91.397886,,True
+"Bradford Villa, LLC-III",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1122 Koch's Ln,,,Quincy,Adams,,,,62305,,39.963879,-91.397886,,True
+Bradford Villa LLC-IV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1122 Koch's Ln,,,Quincy,Adams,,,,62305,,39.963879,-91.397886,,True
+Bridgeway Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,303 East Washington St,,,Bensenville,DuPage,,,,60106,,41.9494303,-87.93550479999999,,True
+Bridle Brook Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1505 Patton Dr,,,Mahomet,Champaign,,,,61853,,40.1854507,-88.3803731,,True
+Bright Oaks of Aurora,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1340 River St,,,Aurora,Kane,,,,60506,,41.78791,-88.3184306,,True
+Brighton Gardens of St. Charles,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,600 Dunham Rd,,,St. Charles,Kane,,,,60174,,41.9239378,-88.2838723,,True
+Brighton Gardens of Wheaton,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,831 E Butterfield Rd,,,Wheaton,DuPage,,,,60189,,41.8302506,-88.09261699999999,,True
+Brookdale Des Plaines,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,800 S River Rd,,,Des Plaines,Cook,,,,60016,,42.0386521,-87.884058,,True
+Brookdale Glen Ellyn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,60 N Nicoll Way,,,Glen Ellyn,DuPage,,,,60137,,41.8573299,-88.05511369999999,,True
+Brookdale Hawthorne Lakes AL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,10 E Hawthorne Pkwy,,,Vernon Hills,Lake,,,,60061,,42.2594817,-88.00384,,True
+Brookdale Hoffman Estates,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1515 Barrington Rd,,,Hoffman Estates,Cook,,,,60169,,42.05098539999999,-88.14327399999999,,True
+Brookdale Lake Shore Drive,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2960 N Lake Shore,,,Chicago,Cook,,,,60657,,41.9360138,-87.6374234,Lake View East,False
+Brookdale Lake View,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3121 N Sheridan Rd,,,Chicago,Cook,,,,60657,,41.9384125,-87.6386119,Lake View East,True
+Brookdale Lisle IL/AL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1700 Robin Ln,,,Lisle,DuPage,,,,60532,,41.7893885,-88.0849684,,True
+Brookdale Northbrook,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,4501 Concord Ln,,,Northbrook,Cook,,,,60062,,42.0925205,-87.8695908,,True
+Brookdale Oak Park,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1111 Ontario St,,,Oak Park,Cook,,,,60302,,41.89014179999999,-87.8034942,,True
+Brookdale Olympia Fields,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3633 Breakers Dr,,,Olympia Fields,Cook,,,,60461,,41.5258239,-87.70725490000001,,True
+Brookdale Orland Park,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,16051 S LaGrange Rd,,,Orland Park,Cook,,,,60467,,41.598173,-87.8514897,,True
+Brookdale Urbana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1706 E Amber Ln,,,Urbana,Champaign,,,,61802,,40.0883449,-88.186044,,True
+Brookdale Vernon Hills,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,145 N Milwaukee Ave,,,Vernon Hills,Lake,,,,60061,,42.2278611,-87.94060189999999,,True
+Brookstone Estates of Charleston,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,300 Lincoln Hwy,,,Charleston,Coles,,,,61920,,39.470033,-88.178653,,True
+Brookstone Estates of Olney,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1110 North East St,,,Olney,Richland,,,,62450,,38.7467089,-88.0734268,,True
+Burge House,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,720 W 7th St,,,Flora,Clay,,,,62839,,38.6740677,-88.4968974,,True
+"Caledonian House, The",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2800 S Des Plaines Ave,,,North Riverside,Cook,,,,60546,,41.840501,-87.826831,,True
+Carriage Crossing Champaign,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1701 Congressional Way,,,Champaign,Champaign,,,,61822,,40.066117,-88.27481499999999,,True
+Carriage Crossing Senior Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,909 Green Mill Rd,,,Arcola,Douglas,,,,61910,,39.677059,-88.286051,,True
+Casita Catherine AL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1510 N 10th St,,,Quincy,Adams,,,,62301,,39.94952260000001,-91.3997797,,True
+Cedarhurst of Collinsville,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1207 Vandalia Ave,,,Collinsville,Madison,,,,62234,,38.68475149999999,-89.9780613,,True
+Cedarhurst of Edwardsville,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,7108 Marine Rd,,,Edwardsville,Madison,,,,62025,,38.8091205,-89.9318797,,True
+Cedarhurst of Jacksonville,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2225 W Morton Ave,,,Jacksonville,Morgan,,,,62650,,39.7225674,-90.28262339999999,,True
+Cedarhurst of Shiloh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,429 S Main St,,,Shiloh,St. Clair,,,,62269,,38.557565,-89.90215889999999,,True
+Cedarhurst of Sparta,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,211 N Market St,,,Sparta,Randolph,,,,62286,,38.1254873,-89.7028921,,True
+Cedar Lake Assisted Living &amp; Memory Care,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,777 Church St,,,Lake Zurich,Will,,,,60047,,42.20944739999999,-88.0814647,,True
+Cedar Trails Senior Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,490 Urbana Dr,,,Freeburg,St Clair,,,,62243,,38.417254,-89.903466,,True
+"Centennial Pointe
+
+Assisted Living",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3440 Hedley Rd,,,Springfield,Sangamon,,,,62712,,39.7640163,-89.7183189,,True
+Central Baptist Village,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,4747 N Canfield Ave,,,Norridge,Cook,,,,60706,,41.9663209,-87.8255286,,True
+Century Assisted Living I,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,701 South Lewis Ln,,,Carbondale,Jackson,,,,62901,,37.71998840000001,-89.19916219999999,,True
+Century Assisted Living II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,703 Lewis Ln,,,Carbondale,Jackson,,,,62901,,37.719974,-89.19920979999999,,True
+Cherryvale Place,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1545 Temple Ln,,,Rockford,Winnebago,,,,61112,,42.2525509,-88.9724779,,True
+Chippewa House,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,306 W Mill St,,,Carbondale,Jackson,,,,62901,,37.7200389,-89.2188247,,True
+Christian Garden Villa I,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3406 W Washington St,,,Springfield,Sangamon,,,,62711,,39.8011553,-89.72040799999999,,True
+Christian Garden Villa II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3408 W Washington St,,,Springfield,Sangamon,,,,62711,,39.80115529999999,-89.7204086,,True
+Church Creek,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1250 W Central Rd,,,Arlington Heights,Cook,,,,60005,,42.0675388,-87.9974603,,True
+Clarendale of Algonquin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2001 West Algonquin RD,,,Algonquin,Mc Henry,,,,60102,,42.1750619,-88.3251219,,False
+Clarendale of Mokena,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,21536 South Wolf Rd,,,Mokena,Will,,,,60448,,41.49654450000001,-87.8888071,,True
+Colfax Manor Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,8200 S Colfax Ave,,,Chicago,Cook,,,,60617,,41.746218,-87.5616063,South Side,True
+"Colonnade Senior Living, The",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,700 Weber Rd,,,O' Fallon,St.Claire,,,,62269,,38.5845837,-89.89777409999999,,True
+Concordia Village,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,4101 West Iles,,,Springfield,Sangamon,,,,62711,,39.7726655,-89.73222369999999,,False
+Copper Creek Cottages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,203 Stahlhut Dr,,,Lincoln,Logan,,,,62656,,40.8257625,-96.6851982,,True
+Copper Creek Cottages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,920 Country Club Rd,,,Mattoon,Coles,,,,61938,,39.4776104,-88.334139,,True
+Cordia Senior Residence,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,865 N Cass Ave,,,Westmont,DuPage,,,,60559,,41.8168963,-87.9753817,,True
+"Cottages of New Lenox, The 1023",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1023 S Cedar Rd,,,New Lenox,Will,,,,60451,,41.4961062,-87.9667113,,True
+"Cottages of New Lenox, The 1025",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1025 S Cedar Rd,,,New Lenox,Will,,,,60451,,41.4964842,-87.9660761,,True
+"Cottages of New Lenox, The 1027",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1027 S Cedar Rd,,,New Lenox,Will,,,,60451,,41.4964842,-87.9660761,,True
+"Cottages of New Lenox, The 1029",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1029 S Cedar Rd,,,New Lenox,Will,,,,60451,,41.4964842,-87.9660761,,True
+"Cottages of New Lenox, The 1031",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1031 S Cedar Rd,,,New Lenox,Will,,,,60451,,41.4964842,-87.9660761,,True
+Country Comfort -Elmwood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,829 Hurff Dr,,,Elmwood,Peoria,,,,61529,,40.788018,-89.96457099999999,,True
+Country Comfort Henry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,615 Patricia Ln,,,Henry,Marshall,,,,61537,,41.12337369999999,-89.36309949999999,,True
+Country Comfort Princeton,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,802 N Mercer,,,Princeton,Bureau,,,,61356,,41.3827746,-89.4714006,,False
+Country Lane Memory Care,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,875 Riverton Rd,,,Riverton,Sangamon,,,,62561,,39.86018109999999,-89.536645,,True
+Courtyard Estates of Bradford,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,100 Courtyard Estates,,,Bradford,Stark,,,,61421,,41.17408299999999,-89.663479,,False
+Courtyard Estates of Bushnell,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1201 NCole St,,,Bushnell,McDonough,,,,61422,,40.5579626,-90.4983972,,True
+Courtyard Estates of Farmington,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1000 East Fort St,,,Farmington,Fulton,,,,61531,,40.6979171,-89.9871532,,True
+Courtyard Estates of Galva,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1000 Courtyard Estates,,,Galva,Henry,,,,61434,,41.177523,-90.04619799999999,,False
+Courtyard Estates of Kewanee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,141 Junior Ave S,,,Kewanee,Henry,,,,61443,,41.2304919,-89.9442586,,True
+Courtyard Estates of Knoxville,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,415 East Main St,,,Knoxville,Knox,,,,61448,,40.9085315,-90.27871569999999,,True
+Courtyard Estates of Monmouth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1 Courtyard Blvd,,,Monmouth,Warren,,,,61462,,40.920654,-90.66112100000001,,True
+Courtyard Village of Kewanee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,860 Sunset Dr,,,Kewanee,Henry,,,,61443,,41.23169850000001,-89.94490239999999,,True
+Crimson Pointe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,7130 Crimson Ridge Dr,,,Rockford,Winnebago,,,,61107,,42.2782667,-88.9777276,,True
+Delnor Glen Senior Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,975 North 5th Ave,,,St. Charles,Kane,,,,60174,,41.92400959999999,-88.309867,,True
+Eastland Retirement Community,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,901 Eastland Dr,,,Auburn,Sangamon,,,,62615,,39.591259,-89.72936349999999,,True
+Eberhardt Village,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,431 W Palmer,,,Arthur,Moultrie,,,,61911,,39.711679,-88.478707,,False
+"Eden Retirement Center, Inc",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,300 SStation Rd,,,Glen Carbon,Madison,,,,62034,,38.77023310000001,-89.9553013,,True
+Ems Haven of Rest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,719 S McKinley,,,Havana,Mason,,,,62644,,40.29250729999999,-90.0547794,,False
+"Estates Senior Living &amp; Spa, The",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3305 Collingwood Dr,,,Springfield,Sangamon,,,,62711,,39.8034804,-89.7173085,Collingwood,True
+Eve Assisted Living Hinsdale,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,10 N Washington,,,Hinsdale,DuPage,,,,60521,,41.80430619999999,-87.9297984,,False
+Evergreen Place AL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,801 W Gregory St,,,Normal,McLean,,,,61761,,40.5162888,-89.0029988,,True
+Evergreen Place Senior Living - Orland Park,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,10820 183rd St,,,Orland Park,Will,,,,60467,,41.557793,-87.88371599999999,,True
+Evergreen Senior Living - Chillicothe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,404 S Stillwater Dr,,,Chillicothe,Peoria,,,,61523,,40.9033341,-89.4990923,,True
+Fairview Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,605 North 4th St,,,Fairbury,Livingston,,,,61739,,40.7531663,-88.5109651,,True
+Family 1st Shared Home of Oregon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,8 Terrace View Blvd,,,Oregon,Ogle,,,,61061,,42.020292,-89.345045,,True
+"Fifth Season Res., Benton",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,401 N DuQuoin St,,,Benton,Franklin,,,,62812,,37.9999845,-88.9295892,,True
+"Fifth Season Res., Radcliffe",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,915 Radcliffe St,,,Marion,Williamson,,,,62959,,37.7377812,-88.9107449,,True
+Fountains at Crystal Lake,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,965 N Brighton Cir,,,Crystal Lake,McHenry,,,,60012,,42.267147,-88.28005840000002,,True
+Fountains at Godfrey (The),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1000 Airport Rd,,,Godfrey,Madison,,,,62035,,38.96685670000001,-90.19927679999999,,True
+Fountains of Granite City,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3450 Village Ln,,,Granite City,Madison,,,,62040,,38.7271629,-90.0963352,,True
+Fountainview Manor Memory Care,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3432 Village Ln,,,Granite City,Madison,,,,62040,,38.7265133,-90.0975934,,True
+Fox Point,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3300 Charles Miller Rd,,,McHenry,McHenry,,,,60050,,42.323091,-88.2621593,,True
+Fox Point Manor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3350 Charles Miller Rd,,,McHenry,McHenry,,,,60050,,42.3228205,-88.2635815,,True
+Fox River Apartments,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1016 Parker St,,,Olney,Richland,,,,62450,,38.73855700000001,-88.10236770000002,,True
+Franciscan Village of Lemont,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1260 Franciscan Dr,,,Lemont,Cook,,,,60439,,41.6791419,-87.97469129999999,,True
+Friendship Manor of Illinois,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1209 21st Ave,,,Rock Island,Rock Island,,,,61201,,41.4914582,-90.5797764,,True
+Friendship Village of Schaumburg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,350 W Schaumburg Rd,,,Schaumburg,Cook,,,,60194,,42.0290212,-88.08616370000001,,True
+Galena Stauss Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,200 Altenburg Dr,,,Galena,Jo Daviess,,,,61036,,42.4225418,-90.4384285,,True
+Garden Place Columbia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,480 DD Rd,,,Columbia,97,,,,62236,,38.461577,-90.23062,,True
+Garden Place Millstadt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,208 S Kossuth,,,Millstadt,67,,,,62260,,38.4593243,-90.08743799999999,,False
+Garden Place Red Bud,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,351 Lockwood,,,Red Bud,60,,,,62278,,38.2086508,-89.9844637,,False
+Garden Place Waterloo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,735 Columbia Ave,,,Waterloo,97,,,,62298,,38.3435437,-90.16110429999999,,True
+Gardens at Moweaqua (The),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,525 South Macon St,,,Moweaqua,Shelby,,,,62550,,39.61971049999999,-89.0170329,,True
+Gardens at Park Pointe (The),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1550 Dupont Ave,,,Morris,Grundy,,,,60450,,41.3670371,-88.44649009999999,,True
+Glen Saint Andrew Living Community,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,7000 N Newark Ave,,,Niles,Cook,,,,60714,,42.00924099999999,-87.8019815,,True
+"Glenwood of Effingham, The",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,14061 East 1600th St,,,Effingham,Effingham,,,,62401,,39.1478884,-88.54068679999999,,True
+"Glenwood of Mahomet, The",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1709 South Division St,,,Mahomet,Champaign,,,,61853,,40.1772289,-88.409024,,True
+Golden Age Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,5734 S Thurlow St,,,Hinsdale,Du Page,,,,60521,,41.7841847,-87.9377597,,True
+Good Samaritan Home of Quincy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2130 Harrison St,,,Quincy,Adams,,,,62301,,39.9120969,-91.3820492,,True
+Grandbrier of Prospect Heights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,708 N Elmhurst Rd,,,Prospect Heights,Cook,,,,60070,,42.1090913,-87.9373541,,True
+Grand Victorian of Rockford,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3495 McFarland Rd,,,Rockford,Winnebago,,,,61114,,42.311115,-88.97760799999999,,True
+Grand Victorian of Sycamore,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1440 Somonauk St,,,Sycamore,DeKalb,,,,60173,,41.97328,-88.6879507,,True
+Grand View Alzheimer's SCC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,6210 N University St,,,Peoria,Peoria,,,,61614,,40.7635268,-89.6113633,,True
+Grandview Estates,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,540 Pleasant St,,,Elizabeth,Jo Daviess,,,,61028,,42.31318599999999,-90.220058,,True
+Greenfields of Geneva,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,ON801 Friendship Way,,,Geneva,Kane,,,,60134,,41.88034270000001,-88.38873319999999,,False
+Green House of Clark-Lindsey Village (The),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,101 W Windsor Rd,,,Urbana,Champaign,,,,61802,,40.0824416,-88.20793239999999,,True
+Greentree at Mt. Vernon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,208 Zackery Rd,,,Mt Vernon,Jefferson,,,,62864,,38.3111851,-88.9635366,,True
+Griggsville Estates,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,201 S Oak,,,Griggsville,Pike,,,,62340,,39.70615189999999,-90.7326536,,False
+Halina's Home Care 5th Ave,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,825 N 5th Ave,,,St. Charles,Kane,,,,60174,,41.92086,-88.31014809999999,,True
+"Halina's Home Care LLC
+
+(Allen Lane)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1805 Allen Ln,,,St. Charles,Kane,,,,60174,,41.9228838,-88.29118439999999,,True
+Harbor Chase of Naperville,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1619 N Mill St,,,Naperville,Du Page,,,,60560,,41.79996020000001,-88.1547829,,True
+Harbor Chase of Plainfield,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,12446 S Van Dyke Rd,,,Plainfield,Will,,,,60585,,41.6562803,-88.21524869999999,,True
+Harry Ekstam Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,831 N Batavia Ave,,,Batavia,Kane,,,,60510,,41.86302389999999,-88.3164208,,True
+Hartwell Place,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,5520 N Paulina St,,,Chicago,Cook,,,,60640,,41.98229140000001,-87.6725907,Andersonville,True
+Harvester Place,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,150 South Frontage Rd,,,Burr Ridge,DuPage,,,,60527,,41.7537644,-87.9183469,,True
+Harvest View,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,100 Harvest View Ln,,,Herscher,Kankakee,,,,60941,,41.050739,-88.08729090000001,,True
+Hawthorne Inn of Galesburg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2245 N Seminary St,,,Galesburg,Knox,,,,61401,,40.9745817,-90.363028,,True
+Hawthorne Inn of Parkway,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3116 Williamson County Pk,,,Marion,Williamson,,,,62959,,37.7487436,-88.9699423,,False
+Hawthorne Inn of Peoria,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,6906 N Stalworth Dr,,,Peoria,Peoria,,,,61615,,40.77196980000001,-89.6753693,,True
+Hawthorne Inn of Peru,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1101 31st St,,,Peru,LaSalle,,,,61354,,41.3479892,-89.1222088,,True
+Hawthorne Inn of Pittsfield,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,625 Prospect St,,,Pittsfield,Pike,,,,62363,,39.60321579999999,-90.8147715,,True
+Hawthorne Inn of Shelbyville,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1111 W North 12th St,,,Shelbyville,Shelby,,,,62565,,39.41992400000001,-88.80445569999999,,True
+Hearthstone of Arlington Heights,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,800 W Oakton St,,,Arlington Heights,Cook,,,,60004,,42.09657139999999,-87.99269149999999,,True
+Hearthstone Village,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,840 N Seminary Ave,,,Woodstock,McHenry,,,,60098,,42.32275239999999,-88.4423059,,True
+Heartis Village of Peoria,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,8201 N IL State Route 91,,,Peoria,Peoria,,,,61615,,40.7875226,-89.67060120000001,,True
+Heritage House/Carthage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,601 Locust St,,,Carthage,Hancock,,,,62321,,40.4098656,-91.13314059999999,,True
+"Heritage Woods of Huntley, LLC",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,12450 Regency Pkwy,,,Huntley,Kane,,,,60142,,42.149683,-88.43964,,True
+Hickory Point Christian Village,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,565 W Marion Ave,,,Forsyth,Macon,,,,62535,,39.9212141,-88.9617918,,True
+Highlands at Westminster Place,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3131 Simpson St,,,Evanston,Cook,,,,60201,,42.0576733,-87.7233919,,True
+Highlands of Lake Forest Place,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1101 Pembridge Dr,,,Lake Forest,Lake,,,,60045,,42.2602452,-87.86779299999999,,True
+Highview in the Woodlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1000 Falcon Point Pl,,,Rockton,Winnebago,,,,61072,,42.440298,-89.06747899999999,,True
+Home Sweet Home of Arlington Hts.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,207 W Appletree Ln,,,Arlington Heights,Cook,,,,60004,,42.1189774,-87.9846695,,True
+Hopedale Commons,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,221 SW Railroad St,,,Hopedale,Tazewell,,,,61747,,40.4193668,-89.4141227,,True
+Hurricane Creek Affordable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,400 Lou Ann Dr,,,Herrin,Williamson,,,,62948,,37.74983449999999,-89.02614489999999,,True
+Hurricane Creek Market,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,400 Lou Ann Dr,,,Herrin,Williamson,,,,62948,,37.74983449999999,-89.02614489999999,,True
+Imboden Creek Gardens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,185 W Imboden Dr,,,Decatur,Macon,,,,62521,,39.8146478,-88.9560116,,True
+Inspirations,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1000 N 6th Ave,,,St. Charles,Kane,,,,60174,,41.92461670000001,-88.3079607,,True
+Lake Barrington Woods,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,22320 Classic Ct,,,Lake Barrington,Lake,,,,60010,,42.1880764,-88.19699469999999,,True
+Lakeview Memory Care Community,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,241 E Lake St,,,Bloomingdale,Du Page,,,,60108,,41.9574101,-88.06608729999999,,True
+Lavender Ridge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1304 N East St,,,Olney,Richland,,,,62450,,38.7427984,-88.075937,,True
+Lavender Ridge Inc. - Mt. Vernon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1400 S 34th St,,,Mt. Vernon,Jefferson,,,,62864,,38.3006638,-88.9329502,,True
+Lavender Ridge - Jacksonville,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,750 W Walnut,,,Jacksonville,Morgan,,,,62650,,39.7452403,-90.2409838,,False
+Legacy Place,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,220 Field Crossing Dr,,,Highland,Madison,,,,62249,,44.89331049999999,-72.53462499999999,North Troy,True
+Legacy Place at Breese,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,13887 Progress Dr,,,Breese,Clinton,,,,62230,,38.6246042,-89.5286809,,True
+Legacy Place MC at Waterloo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,518 Legacy Dr,,,Waterloo,Monroe,,,,62298,,38.3480986,-90.1318048,,True
+Legacy Place of Waterloo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,526 Legacy Dr,,,Waterloo,Monroe,,,,62298,,38.348604,-90.13151099999999,,True
+"Lexington Sq LC Lombard, LLC",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,555 Foxworth Blvd,,,Lombard,DuPage,,,,60148,,41.8457592,-88.0281682,,True
+Lexington Square Lifecare Elm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,400 W Butterfield Rd,,,Elmhurst,DuPage,,,,60126,,41.8622728,-87.95145959999999,,True
+Liberty Village of Geneseo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,920 S Chicago St,,,Geneseo,Henry,,,,61254,,41.4419882,-90.1438307,,True
+Liberty Village of Streator,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2322 N Eastwood Ave,,,Streator,LaSalle,,,,61364,,41.1521367,-88.8503849,,True
+LifeHouse Liberty Court Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,124 Liberty Ct,,,Dixon,Lee,,,,61021,,41.8659833,-89.50070559999999,,True
+Life's Journey SL Mattoon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,300 Lerna Rd S,,,Mattoon,Coles,,,,61938,,39.48056979999999,-88.30735519999999,,True
+Life's Journey SL Pana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,340 Illinois Route 29,,,Pana,Christian,,,,62557,,39.397065,-89.09480099999999,,True
+Life's Journey SL Paris,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,705 Kenton Ave,,,Paris,Edgar,,,,61944,,39.6112767,-87.6825898,,True
+Life's Journey SL Taylorville,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,920 McAdam Dr,,,Taylorville,Christian,,,,62568,,39.5581973,-89.2749726,,True
+Lincolnshire Place,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,710 Vellagio,,,Sycamore,DeKalb,,,,60178,,42.0156984,-88.6948486,,False
+Lincolnshire Place - Decatur,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1215 W Arbor Dr,,,Decatur,Macon,,,,62526,,39.90458279999999,-88.9763212,,True
+Lincolnshire Place Loves Park,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,6617 Broadcast Pkwy,,,Loves Park,Winnebago,,,,61111,,42.3250026,-88.9878155,,True
+Lombard Place Assisted Living &amp; MC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,300 West 22nd St,,,Lombard,DuPage,,,,60148,,41.8459252,-88.02199910000002,,True
+Luther Center,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,111 W State St,,,Rockford,Winnebago,,,,61101,,42.2710673,-89.09318019999999,Downtown,True
+Luther Oaks Inc.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,601 Lutz Rd,,,Bloomington,McLean,,,,61704,,40.4454647,-89.01120440000001,,True
+Luther Place Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,403 North 4th St,,,Danforth,Iroquois,,,,60930,,40.8235116,-87.982236,,True
+Manteno Springs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,600 N Birch St,,,Manteno,Kankakee,,,,60950,,41.2545567,-87.82729289999999,,True
+Maple Grove Memory Care Red,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,401 South Adams,,,Carthage,Hancock,,,,62321,,32.1488668,-94.3494629,,False
+Maple Grove Memory Care Silver,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,403 South Adams,,,Carthage,Hancock,,,,62321,,40.4091891,-91.13472349999999,,False
+Marian Village,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,15624 Marian Dr,,,Homer Glen,Will,,,,60491,,41.6041816,-87.9577134,,True
+Marley Oaks AL Residence,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,12631 W 187th St,,,Mokena,Will,,,,60448,,41.5489334,-87.9246423,,True
+Mary Lou's Country Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,111629 Maurer Rd,,,Buffalo,Sangamon,,,,62515,,39.8893955,-89.4348249,,True
+Mather (The),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,425 Davis St,,,Evanston,Cook,,,,60201,,42.046001,-87.6772459,,True
+Meadows at Mercy Creek A.L.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1501 Mercy Creek Dr,,,Normal,McLean,,,,61761,,40.5366082,-88.9060476,,True
+"Meadows of Franklin Grove, The",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,510 N State St,,,Franklin Grove,Lee,,,,61031,,41.84575710000001,-89.30333089999999,,True
+Mercy Circle,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3659 West 99th St,,,Chicago,Cook,,,,60655,,41.71310889999999,-87.7142688,South Side,True
+Meridian Village Association,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,27 Auerbach Pl,,,Glen Carbon,Madison,,,,62034,,38.77344170000001,-89.98813729999999,,True
+Mill Creek Alzheimer's  SCC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3319 Ginger Creek Dr,,,Springfield,Sangamon,,,,62711,,39.76950199999999,-89.71898399999999,,True
+Montgomery Place,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,5550 South Shore Dr,,,Chicago,Cook,,,,60637,,41.79371129999999,-87.5811683,South Side,True
+Morningside of Godfrey,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1373 D'Adrian Professinal Park,,,Godfrey,Madison,,,,62035,,38.9277588,-90.2083435,,False
+Morningside of Pekin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2700 S 14th St,,,Pekin,Tazewell,,,,61544,,40.5347081,-89.6305367,,True
+Morningside of Shiloh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1201 Hartman Ln,,,Shiloh,St Clair,,,,62221,,38.5659493,-89.94604299999999,,True
+Morningside of Sterling,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2705 Ave E,,,Sterling,Whiteside,,,,61081,,41.8141164,-89.7026147,,True
+Morningside of Troy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,39 Dorothy Dr,,,Troy,Madison,,,,62294,,38.730567,-89.900989,,True
+Morningside of Washington,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,100 Grand Victorian Pl,,,Washington,Tazewell,,,,61571,,40.7215436,-89.4479759,,True
+"Morning Star Village, Inc.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1160 North Mulford Rd,,,Rockford,Winnebago,,,,61107,,42.2807777,-89.0003385,,True
+Neighbors Next Door-Audrey,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,680 Audrey Ave,,,Aurora,Kane,,,,60505,,41.7910341,-88.299132,,True
+Neighbors Next Door - Gerten 700,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,700 Gerten Ave,,,Aurora,Kane,,,,60505,,41.7920137,-88.2990901,,True
+Neighbors Next Door - Gerten 701,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,701 Gerten Ave,,,Aurora,Kane,,,,60505,,41.7915537,-88.29883559999999,,True
+Neighbors Next Door Konen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,735 Konen Ave,,,Aurora,Kane,,,,60505,,41.79258249999999,-88.2983733,,True
+New Perspective-Silvis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1900 Tenth St,,,Silvis,Rock Island,,,,61282,,41.49046,-90.414599,,True
+Northbrook Inn Memory Care,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,99 Pointe Dr,,,Northbrook,Cook,,,,60062,,42.15177810000001,-87.87720279999999,,True
+Northpointe Terrace,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,5601 E Rockton Rd,,,Roscoe,Winnebago,,,,61073,,42.4567202,-89.0054579,,True
+North Shore Place,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1000 Sunset Ridge Rd,,,Northbrook,Cook,,,,60062,,42.13400130000001,-87.79071660000001,,True
+Norwood Crossing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,6016-20 N Nina Ave,,,Chicago,Cook,,,,60631,,41.9909323,-87.8001599,Norwood Park,True
+Oakley Courts,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3117 Kunkle Blvd,,,Freeport,Stephenson,,,,61032,,42.2877178,-89.6733374,,True
+Oak Park Arms,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,408 S Oak Park Ave,,,Oak Park,Cook,,,,60302,,41.881073,-87.7938166,,True
+Paradise Park  Fox Lake,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,"16,18,20,22 Lilac Ave",,,Fox Lake,Lake,,,,60020,,42.39283100000001,-88.17520999999999,,True
+Park Place Christian Community,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1150 Euclid Ave,,,Elmhurst,DuPage,,,,60126,,41.8640134,-87.9413482,,True
+Park Vista Retirement Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1451 20th Ave,,,East Moline,Rock Island,,,,61244,,41.51444180000001,-90.4317593,,True
+Parkway Gardens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,379 Fountains Pkwy,,,Fairview Heights,St Clair,,,,62208,,38.6052851,-89.9782094,,True
+Patrician Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1511 N Bigelow St,,,Peoria,Peoria,,,,61604,,40.7060536,-89.597577,,True
+Peace Village,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,10300 Village Circle Dr,,,Palos Park,Cook,,,,60464,,41.6554392,-87.8722049,,True
+Pleasant Dale Place,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,28719 Pleasant Dale,,,Girard,Macoupin,,,,62640,,39.4060268,-89.8968756,,False
+Pleasant Hill Residence,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1016 W North St,,,Girard,Macoupin,,,,62640,,39.4498399,-89.79123539999999,,True
+Pleasant View Hearthstone AL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,505 College Ave,,,Ottawa,LaSalle,,,,61350,,41.32981789999999,-88.8445787,,True
+"Plymouth Place, Inc.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,315 N LaGrange Rd,,,LaGrange Park,Cook,,,,60526,,41.8203828,-87.86792229999999,,True
+"Pointe of Silvis, The, LLC",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1902 Eleventh St,,,Silvis,Rock Island,,,,61282,,41.4900968,-90.41368419999999,,True
+Porter Place,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,17833 Harlem Ave,,,Tinley Park,Cook,,,,60477,,41.56670769999999,-87.792677,,True
+Prairie View Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,500 E McNair Rd,,,Winnebago,Winnebago,,,,61088,,42.273121,-89.23624799999999,,True
+Prairieview at the Garlands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,6000 Garlands Ln,,,Barrington,Lake,,,,60010,,42.1584312,-88.1266577,,True
+Presence Bethlehem Woods Ret Commu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1571 W Ogden Ave,,,LaGrange Park,Cook,,,,60526,,41.8211887,-87.8875219,,True
+Presence Fox Knoll,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,421 N Lake St,,,Aurora,Kane,,,,60506,,41.764707,-88.31293099999999,,True
+Presence Heritage Lodge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,995 N Entrance Ave,,,Kankakee,Kankakee,,,,60901,,41.13185389999999,-87.8700604,,True
+Presence Resurrection Retirement Community,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,7262 W Peterson Ave,,,Chicago,Cook,,,,60631,,41.99044809999999,-87.8099941,Norwood Park,True
+Primrose of Decatur,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1145 W Arbor Dr,,,Decatur,Macon,,,,62526,,39.90526,-88.9753162,,True
+Providence Place,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,100 Faith Dr,,,Highland,Madison,,,,62249,,38.7263767,-89.67705529999999,,True
+Radford Green,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,960 Audubon Way,,,Lincolnshire,Lake,,,,60069,,42.182136,-87.9230918,,True
+R &amp; R Country Care LLC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1026 Janet Dr,,,Ruma,Randolph,,,,62278,,38.1320839,-89.9963576,,True
+Randall Residence of Decatur,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1415 W Mound Rd,,,Decatur,Macon,,,,62526,,39.88976359999999,-88.9803843,,True
+Red Oak Estates,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,435 N 16th St,,,Canton,Fulton,,,,61520,,40.5612088,-90.0073877,,True
+Red Oak Memory Care,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,421 N 16th Ave,,,Canton,Fulton,,,,61520,,40.5610404,-90.007393,,True
+Reflections at Garden Place,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,710 S Main,,,Columbia,97,,,,62236,,38.4394673,-90.1917873,,False
+Reflections Memory Care - Chatham,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,401 N Park Ave,,,Chatham,Sangamon,,,,62629,,39.6777829,-89.6955928,,True
+Reflections Memory Care - Herrin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,517 Rushing Dr,,,Carterville,Williamson,,,,62918,,37.7463927,-89.03581109999999,,True
+Reflections Memory Care - Savoy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,62 E Airport Rd,,,Savoy,Champaign,,,,61874,,40.0366924,-88.2637269,,True
+Reflections Memory Care - Washington,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1280 Independence Ct,,,Washington,Tazewell,,,,61571,,40.7184487,-89.4403122,,True
+Residential Living Center Inc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,608 East Illinois Highway 15,,,Mt. Vernon,Jefferson,,,,62864,,38.3183274,-88.8983612,,True
+Resthave Home of Whiteside,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,408 Maple Ave,,,Morrison,Whiteside,,,,61270,,41.8042418,-89.9571054,,True
+River Birch Senior Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,4008 Cockrell Ln,,,Springfield,Sangamon,,,,62711,,39.7410436,-89.71925879999999,,True
+River Birch Senior Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,4016 Cockrell Ln,,,Springfield,Sangamon,,,,62711,,39.7407042,-89.7192584,,True
+River Birch Senior Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,4012 Cockrell Ln,,,Springfield,Sangamon,,,,62711,,39.7407569,-89.7194691,,True
+River Glen of St. Charles,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,975 North 5th Ave,,,St. Charles,Kane,,,,60174,,41.92400959999999,-88.309867,,True
+Riverside Senior Life Bourb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,85 E Burns Rd,,,Bourbonnais,Kankakee,,,,60914,,41.1845594,-87.8733283,,True
+Riverside Senior Life Community,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1485 Butterfield Trl,,,Kankakee,Kankakee,,,,60901,,41.1243244,-87.8861605,,True
+River to River Community of Marion South,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,815 Mississippi Dr,,,Marion,Williamson,,,,62959,,32.4050733,-88.66254699999999,,True
+River to River Community of Murphysboro East,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,5 North Shawnee Dr,,,Murphysboro,Jackson,,,,62966,,37.7676768,-89.3002037,,True
+River to River Community of Murphysboro West,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,11 N Shawnee Dr,,,Murphysboro,Jackson,,,,62966,,37.7676087,-89.30024709999999,,True
+Riverview Senior Living Community,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,500 Centennial Dr,,,East Peoria,Tazewell,,,,61611,,40.70407300000001,-89.5271053,,True
+Robin's Nest Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1819 Fargo Blvd,,,Geneva,Kane,,,,60134,,41.87976689999999,-88.3301962,,True
+Robin's Nest Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1522 Fargo Blvd,,,Geneva,Kane,,,,60134,,41.8769979,-88.3267449,,True
+Robin's Nest Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,405 South 7th St,,,St. Charles,Kane,,,,60174,,41.908448,-88.320765,,True
+Robin's Nest Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1101 Geneva Rd,,,St. Charles,Kane,,,,60174,,41.9026266,-88.3074817,,True
+Rock Run Place Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3320 Executive Dr,,,Joliet,Will,,,,60431,,41.5388989,-88.1643727,,True
+Rock Run Place Memory Care,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3315 Executive Dr,,,Joliet,Will,,,,60431,,41.5397939,-88.1639489,,True
+Rolling Hills Place,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3521 16th St,,,Zion,Lake,,,,60099,,42.466192,-87.863744,,True
+Roma Home Care Inc.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,13740 S Archer Ave,,,Lemont,Cook,,,,60439,,41.63990709999999,-88.0084991,,True
+Samaritan Place,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,6901 N Galena Rd,,,Peoria,Peoria,,,,61614,,40.7700136,-89.57450159999999,,True
+San Gabriel Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2201 Flagg Rd,,,Rochelle,Ogle,,,,61068,,41.9417761,-89.08587390000001,,True
+San Gabriel Memory Care,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2509 Frank Watson Pkwy,,,Highland,Madison,,,,62249,,38.7468495,-89.6965668,,True
+"Selfhelp Home, Inc",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,908 W Argyle,,,Chicago,Cook,,,,60640,,41.9735636,-87.653337,Uptown,False
+Senior Star at Weber Place,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,600 S Edward Dr,,,Romeoville,Will,,,,60446,,41.6015792,-88.1272128,,True
+Shepherd Premier Senior Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,6809 Barnard Mill Rd,,,Ringwood,McHenry,,,,60072,,42.40228,-88.33108399999999,,True
+Sheridan at Green Oaks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,29330 North Waukegan Rd,,,Lake Bluff,Lake,,,,60044,,42.28931359999999,-87.8859681,,True
+Sheridan at Tyler Creek (The),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,508 North McLean,,,Elgin,Kane,,,,60123,,42.045641,-88.314432,,False
+Silverado #550 Lake Zurich,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,550 America Ct,,,Lake Zurich,Lake,,,,60047,,42.18213600000001,-88.07844399999999,,True
+Silverado #555 Lake Zurich,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,555 America Ct,,,Lake Zurich,Lake,,,,60047,,42.1820531,-88.079085,,True
+Silverado #579 Lake Zurich,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,579 America Ct,,,Lake Zurich,Lake,,,,60047,,42.18208000000001,-88.0791048,,True
+Silverado #600 Lake Zurich,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,600 America Ct,,,Lake Zurich,Lake,,,,60047,,42.1820224,-88.07830969999999,,True
+Silverado Highland Park,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1651 Richfield Ave,,,Highland Park,Lake,,,,60035,,42.1747979,-87.8220872,,True
+Silverado Naperville,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1936 Brookdale Rd,,,Naperville,DuPage,,,,60563,,41.7917295,-88.2011087,,True
+Silverado Orchard Park,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,5520 Lincoln Ave,,,Morton Grove,Cook,,,,60053,,42.0352365,-87.7664434,,True
+Simple Blessings,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,203 E Monroe,,,Casey,Clark,,,,62420,,39.2945878,-87.9900052,,False
+Simple Comfort Retirement Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2412 Becker Dr,,,Peru,LaSalle,,,,61354,,41.3433423,-89.12047919999999,,True
+Smith Crossing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,10501 Emilie Ln,,,Orland Park,Will,,,,60467,,41.55614029999999,-87.87425309999999,,True
+Smith Village,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2320 W 113th Pl,,,Chicago,Cook,,,,60643,,41.6878725,-87.6799465,South Side,True
+Snyder Village Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1115 Harbers Ln,,,Metamora,Woodford,,,,61548,,40.79507149999999,-89.34922569999999,,True
+"Solana Deer Park, The",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,21840 W Lake Cook Rd,,,Deer Park,Lake,,,,60010,,42.154967,-88.05912599999999,,True
+Spring Meadows Libertyville,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,901 Florsheim Dr,,,Libertyville,Lake,,,,60048,,42.2581439,-87.941903,,True
+Spring Meadows Naperville,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,504 N River Rd,,,Naperville,DuPage,,,,60563,,41.7819821,-88.1777046,,True
+"Springs at Monarch Landing, The",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2308 N Route 59,,,Naperville,DuPage,,,,60563,,41.8109505,-88.2019184,,True
+Springs of Vernon Hills (The),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,350 South Milwaukee Ave,,,Vernon Hills,Lake,,,,60061,,42.21940699999999,-87.9383849,,True
+"Stillwater Senior Living, LLC",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1111 University Dr,,,Edwardsville,Madison,,,,62025,,38.7970205,-89.9736066,,True
+"St. James Villas Wellness, Rehab Villas",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1251 East Richton Rd,,,Crete,Will,,,,60417,,41.4581111,-87.5815516,,True
+St. Joseph Village of Chicago,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,4021 W Belmont,,,Chicago,Cook,,,,60641,,41.938465,-87.72861639999999,Avondale,False
+Stonecroft Village Ret. Community,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1700 Burlington St,,,Mendota,LaSalle,,,,61342,,41.5524013,-89.136482,,True
+Sugar Creek Alzheimer's LLC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,505 E Vernon Ave,,,Normal,McLean,,,,61761,,40.5050093,-88.97482959999999,,True
+Summit of Uptown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,10 N Summit,,,Park Ridge,Cook,,,,60068,,42.0115427,-87.8324106,,False
+Sunrise of Barrington,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,510 Northwest Hwy,,,Barrington,Lake,,,,60010,,42.1625991,-88.14656,,True
+Sunrise of Bloomingdale (SZR Bloomingdale AL LLC),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,129 E Lake St,,,Bloomingdale,DuPage,,,,60108,,41.95836,-88.0775474,,True
+"Sunrise of Buffalo Grove (SZR Buffalo Grove AL,)F",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,180 West Half Day Rd,,,Buffalo Grove,Lake,,,,60089,,42.1966934,-87.9629637,,True
+Sunrise of Crystal Lake,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,751 E Terra Cotta Ave,,,Crystal Lake,McHenry,,,,60014,,42.2479366,-88.2924996,,True
+Sunrise of Flossmoor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,19715 Governor's Hwy,,,Flossmoor,Cook,,,,60422,,41.5311011,-87.6947089,,True
+Sunrise of Fountain Square,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2210 Fountain Sq,,,Lombard,DuPage,,,,60148,,41.8452069,-87.9921547,,True
+Sunrise of Gurnee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,500 N Hunt Club Rd,,,Gurnee,Lake,,,,60031,,42.3670603,-87.9643997,,True
+Sunrise of Highland Park,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1601 Green Bay Rd,,,Highland Park,Lake,,,,60035,,42.1821227,-87.80009470000002,,True
+Sunrise of Lincoln Park,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2710 N Clark St,,,Chicago,Cook,,,,60614,,41.9315592,-87.6448131,Lincoln Park,True
+Sunrise of Naperville,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,960 E Chicago Ave,,,Naperville,DuPage,,,,60540,,41.77236360000001,-88.134222,,True
+Sunrise of Naperville North,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,535 W Ogden Ave,,,Naperville,DuPage,,,,60563,,41.7864567,-88.1566119,,True
+Sunrise of Palos Park (SZR Palos Park LLC),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,12828 S LaGrange Rd,,,Palos Park,Cook,,,,60464,,41.6567881,-87.855571,,True
+Sunrise of Park Ridge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1725 Ballard Rd,,,Park Ridge,Cook,,,,60068,,42.0429043,-87.8483753,,True
+Sunrise of Schaumburg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,790 N Plum Grove Rd,,,Schaumburg,Cook,,,,60193,,42.0424569,-88.06124899999999,,True
+Sunrise of Willowbrook,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,6300 Clarendon Hill Rd,,,Willowbrook,DuPage,,,,60527,,41.7734676,-87.9562773,,True
+Sunrise of Wilmette,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,615 Ridge Rd,,,Wilmette,Cook,,,,60091,,42.0761372,-87.7230086,,True
+Sunset Haven,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,361 N Alfred Ave,,,Elgin,Kane,,,,60123,,42.04257560000001,-88.30572970000001,,True
+Sunshine Gardens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,442 Comfort Dr,,,Marion,Williamson,,,,62959,,37.7324326,-88.9629903,,True
+Sycamore Village,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,217 Castellano Dr,,,Swansea,St. Clair,,,,62226,,38.537695,-89.97877799999999,,True
+Taylorville Estates Inc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,705 South Houston St,,,Taylorville,Christian,,,,62568,,39.543298,-89.312145,,True
+Terraces at The Clare,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,55 East Pearson St,,,Chicago,Cook,,,,60611,,41.8973087,-87.62622379999999,Near North Side,True
+Terra Vista of Oakbrook Terrace LLC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1635 s Ardmore Ave,,,Oakbrook Terrace,DuPage,,,,60181,,41.8588995,-87.9770164,,True
+"Theresa's Home Care 1, LLC",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,6455 Cunningham Ct,,,Gurnee,Lake,,,,60031,,42.3482946,-87.9627745,,True
+"Theresa's Home Care III, LLC",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,402 Bonnie Brae Ave,,,Grayslake,Lake,,,,60030,,42.3548767,-88.0354081,,True
+"Theresa's Home Care II, LLC",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,5044 Darlene Dr,,,Gurnee,Lake,,,,60031,,42.3702314,-87.9278374,,True
+Three Crowns Park,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2323 McDaniel,,,Evanston,Cook,,,,60201,,42.0599572,-87.7073901,,False
+Three Oaks Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1055 Silver Lake Rd,,,Cary,McHenry,,,,60013,,42.2203859,-88.2477658,,True
+Timber Creek Village,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,201 Stahlhut,,,Lincoln,Logan,,,,62656,,40.1523378,-89.3884101,,False
+Timber Creek Village,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1302 W Highland Ave,,,Robinson,Crawford,,,,62454,,39.0177326,-87.7524293,,True
+Timbers of Shorewood,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1100 N River Rd,,,Shorewood,Will,,,,60404,,41.54213230000001,-88.2171564,,True
+Travanse Living at Grayslake,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1865 East Belvidere Rd,,,Grayslake,Lake,,,,60030,,42.3390003,-87.99999079999999,,True
+Tremont Ridge Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,801 E Tremont St,,,Hillsboro,Montgomery,,,,62049,,39.1548209,-89.4858584,,True
+Trenton Village LLC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,980 E Broadway,,,Trenton,Clinton,,,,62293,,38.604564,-89.66893499999999,,True
+United Methodist Village N. Campus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2101 James St,,,Lawrenceville,Lawrence,,,,62439,,38.724275,-87.69551,,True
+"United Methodist Village Retirement Community, INC.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,5201 Asbury Ave,,,Godfrey,Madison,,,,62035,,38.9348222,-90.1749653,,True
+Vi at The Glen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2401 Indigo Ln,,,Glenview,Cook,,,,60026,,42.0804118,-87.814633,,True
+Victorian Inn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,12600 Renaissance Cir,,,Homer Glen,Will,,,,60491,,41.62811300000001,-87.92436119999999,,True
+Villa Catherine AL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,491 Clinton St,,,Carlyle,Clinton,,,,62231,,38.61414859999999,-89.36378289999999,,True
+Village Woods,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2681 S Route 394,,,Crete,Will,,,,60417,,41.3996545,-87.62446849999999,,True
+Villas at St. James,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,14335 Jamestown Rd,,,Breese,Clinton,,,,62230,,38.6300633,-89.5266764,,True
+Villas of Holly Brook &amp; Reflections Pekin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2720 S 14th St,,,Pekin,Tazewell,,,,61455,,40.5344364,-89.6305343,,True
+Villas of Holly Brook Chatham,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,825 East Walnut,,,Chatham,Sangamon,,,,62629,,39.67745,-89.693981,,False
+Villas of Holly Brook Effingham,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,904 West Evergreen,,,Effingham,Effingham,,,,62401,,39.1354368,-88.5520853,,False
+Villas of Holly Brook Gibson City,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1400 N Melvin St,,,Gibson City,Ford,,,,60936,,40.4801729,-88.3703108,,True
+Villas of Holly Brook Harrisburg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,220 Ron Crank Dr,,,Harrisburg,Saline,,,,62946,,40.27319109999999,-76.8867008,,True
+Villas of Holly Brook Herrin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,505 Rushing Dr,,,Carterville,Williamson,,,,62918,,37.7472821,-89.0317511,,True
+Villas of Holly Brook Marshall,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,17050 North Quality Lime Rd,,,Marshall,Clark,,,,62441,,39.3993886,-87.66705189999999,,True
+Villas of Holly Brook Monticello,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,901 Medical Center Dr,,,Monticello,Piatt,,,,61856,,40.0594769,-88.5615167,,True
+Villas of Holly Brook Morton,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1709 North Main St,,,Morton,Tazewell,,,,61550,,40.63383779999999,-89.45078199999999,,True
+Villas of Holly Brook Newton,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,101 South Gregory Dr,,,Newton,Jasper,,,,62448,,38.9901656,-88.18754299999999,,True
+Villas of Holly Brook Savoy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,68 E Airport Rd,,,Savoy,Champaign,,,,61874,,40.0400154,-88.2503811,,True
+Villas of Holly Brook Shelbyville,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2201 East Main St,,,Shelbyville,Shelby,,,,62565,,39.406934,-88.818923,,True
+Villas of Holly Brook Washington,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1285 Independence Ct,,,Washington,Tazewell,,,,61571,,40.71967019999999,-89.4395949,,True
+Villas of South Park,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,10000 South Main St,,,Chatham,Sangamon,,,,62629,,39.6461341,-89.7041297,,True
+Villa West,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,4114 West Springfield Ave,,,Champaign,Champaign,,,,61822,,40.11389399999999,-88.31346300000001,,True
+Violet Lane,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,101 N Violet Ln,,,Carbondale,Jackson,,,,62901,,37.727535,-89.2594744,,True
+Waterford Estates,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,17400 S Kedzie Ave,,,Hazel Crest,Cook,,,,60429,,41.5733067,-87.69560279999999,,True
+Weber Place Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,605 S Edward Dr,,,Romeoville,Will,,,,60446,,41.6013738,-88.126295,,True
+Weinberg Community,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1551 Lake Cook Rd,,,Deerfield,Cook,,,,60015,,42.15041129999999,-87.86767359999999,,True
+Wellshire Morton Grove,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,8415 Waukegan Rd,,,Morton Grove,Cook,,,,60053,,42.033793,-87.800111,,True
+Westbridge Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,500 Wyndemere Cir,,,Wheaton,DuPage,,,,60187,,41.86161689999999,-88.1408316,,True
+Westbrook Senior Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,110 W Schaumburg Rd,,,Streamwood,Cook,,,,60107,,42.0317489,-88.1845944,,True
+Westminster Village AL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2025 E Lincoln St,,,Bloomington,McLean,,,,61701,,40.4649326,-88.9598797,,True
+White Oaks at Spring Street,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1300 Spring St,,,South Elgin,Kane,,,,60177,,41.9971548,-88.3195131,,True
+Willowbrook of Effingham,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,100 Blohm Ave,,,Effingham,Effingham,,,,62401,,39.102197,-88.5420347,,True
+Willowbrook of Effingham #3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,104 Blohm Ave,,,Effingham,Effingham,,,,62401,,39.101859,-88.5413597,,True
+Willowbrook of Effingham East,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,102 Blohm Ave,,,Effingham,Effingham,,,,62401,,39.10218830000001,-88.5413367,,True
+Willowbrook of Savoy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,404 W Curtis,,,Savoy,Champaign,,,,61874,,40.0690537,-88.2553472,,False
+Willowbrook of Savoy #2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,406 W Curtis,,,Savoy,Champaign,,,,61874,,40.0690539,-88.2553823,,False
+Willowbrook of Savoy #3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,408 W Curtis,,,Savoy,Champaign,,,,61874,,40.0690541,-88.2554175,,False
+Willow Falls,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1681 Willow Circle Dr,,,Crest Hill,Will,,,,60403,,41.55529179999999,-88.1199865,,True
+Windsor Court - Savoy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,401 Burwash Ave,,,Savoy,Champaign,,,,61874,,40.0728158,-88.2561722,,True
+Windsor Manor Morrison,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,403 Scenic St,,,Morrison,Whiteside,,,,61270,,41.8079213,-89.95051889999999,,True
+Windsor Park Manor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,124 Windsor Park Dr,,,Carol Stream,DuPage,,,,60188,,41.9034808,-88.1326893,,True
+Winn Prairie,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1545 S Forest Rd,,,Freeport,Stephenson,,,,61032,,42.28247919999999,-89.66580069999999,,True
+Woodlands at The British Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3000 McCormick Ave,,,Brookfield,Cook,,,,60513,,41.8353611,-87.837075,,True
+"Woods Garden Villa, The",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,302 S Main St,,,Lincoln,Logan,,,,62656,,40.1480397,-89.383912,,True
+Wyndcrest Assisted Living Comm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,4817 Oak Hill Rd,,,Rochester,Sangamon,,,,62563,,39.7422809,-89.557177,,True

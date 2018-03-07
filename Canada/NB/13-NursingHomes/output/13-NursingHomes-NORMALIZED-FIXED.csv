@@ -1,0 +1,456 @@
+name,contact_first_name,contact_last_name,contact_name,email,contact_email,fax,mailing_address_line_1,mailing_address_line_2,mailing_city,mailing_contact_first_name,mailing_contact_last_name,mailing_contact_name,mailing_country,mailing_county,mailing_postalcode,mailing_province,provider_name,primary_phone,secondary_phone,twitter,website,source,contact_occupation,dsgne_first_name,dsgne_last_name,admin_name,co_address_line_1,co_address_line_2,co_company,co_city,co_postalcode,co_province,ombudsman_phone,typeofcare,typeofcare2,low_high_rate,low_rate,high_rate,address_line_1,address_line_2,address_directions,city,municipality,region,province,state_id,postal_code,country,latitude,longitude,neighborhood,addr_valid
+Drew Nursing Home,,,Linda Shannon,,,(506) 364-4921,,,,,,,,,,,,(506) 364-4900,,,http://www.drewnursinghome.ca/,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Forest Dale Home,,,Vicki Caissie,,,(506) 882-3014,,,,,,,,,,,,(506) 882-3015,,,http://www.forestdalehome.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Foyer St-Antoine,,,George Cormier,,,(506) 525-4090,,,,,,,,,,,,(506) 525-4040,,,http://www3.nbnet.nb.ca/fsa,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Jordan Lifecare Centre,,,Gary Buchanan,,,(506) 756-2081,,,,,,,,,,,,(506) 756-3355,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Kenneth E. Spencer,,,Victor Shea,,,(506) 858-9674,,,,,,,,,,,,(506) 858-7870,,,http://www.abschi.com/,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+La Villa Maria,,,Jean-Paul Mazerolle,,,(506) 876-3466,,,,,,,,,,,,(506) 876-3488,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Le Foyer St-Thomas (Memramcook),,,Paul Rossignol,,,(506) 758-9489,,,,,,,,,,,,(506) 758-2110,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Manoir St-Jean Baptiste,,,Ian Drapeau,,,(506) 743-7343,,,,,,,,,,,,(506) 743-7344,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Monarch Hall,,,Carole Morey,,,(506) 387-3167,,,,,,,,,,,,(506) 387-3168,,,http://www.shannex.com,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Rexton Lions Nursing Home,,,Nancy Cail,,,(506) 523-7703,,,,,,,,,,,,(506) 523-7720,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+The Salvation Army Lakeview Manor,,,Kym Elder,,,(506) 387-7200,,,,,,,,,,,,(506) 387-2012,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Villa du Repos,,,Ronald LeBlanc,,,(506) 859-1619,,,,,,,,,,,,(506) 857-3560,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Villa Providence Shediac,,,Ronald LeBlanc,,,(506) 532-5909,,,,,,,,,,,,(506) 532-4484,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Westford Nursing Home,,,Judy White,,,(506) 538-7293,,,,,,,,,,,,(506) 538-1302,,,http://www.westfordnursinghome.com,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Campobello Lodge,,,Sherry Johnston,,,(506) 752-7105,,,,,,,,,,,,(506) 752-7101,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Carleton Kirk Lodge,,,Tim Stevens,,,(506) 643-7038,,,,,,,,,,,,(506) 643-7040,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Church of St. John & St. Stephen,,,Shelley Fulton,,,(506) 643-6126,,,,,,,,,,,,(506) 643-6001,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Dr. V.A. Snow Centre,,,Terry O'Neill,,,(506) 832-7674,,,,,,,,,,,,(506) 832-6210,,,http://www.snownursing.com,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Embassy Hall,,,John Campbell,,,(506) 848-3171,,,,,,,,,,,,(506) 848-3170,,,http://www.shannex.com,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Fundy Nursing Home,,,Debbie Harris,,,(506) 456-3057,,,,,,,,,,,,(506) 456-4218,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Grand Manan Nursing Home,,,Joanne Ingalls,,,(506) 662-7117,,,,,,,,,,,,(506) 662-7111,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Kennebec Manor,,,Judy Lane,,,(506) 658-9376,,,,,,,,,,,,(506) 632-9628,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Kings Way Care Center,,,Judy Lane,,,(506) 847-1134,,,,,,,,,,,,(506) 847-1131,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Kiwanis Nursing Home,,,Kerri Marr,,,(506) 432-3104,,,,,,,,,,,,(506) 432-3118,,,http://www.kiwanisnursinghome.com,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Lincourt Manor,,,Stacy Butler,,,(506) 466-7853,,,,,,,,,,,,(506) 466-7855,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Loch Lomond Villa,,,Cindy Donovan,,,(506) 643-7179,,,,,,,,,,,,(506) 643-7175,,,http://www.lochlomondvilla.com,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Passamaquoddy Lodge,,,Lezlie LeBlanc,,,(506) 529-5258,,,,,,,,,,,,(506) 529-5240,,,http://www.passamaquoddylodge.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Rocmaura,,,Sheana Mohra,,,(506) 643-7053,,,,,,,,,,,,(506) 643-7050,,,http://www.rocmaura.com,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Turnbull Nursing Home,,,Patti Alcorn,,,(506) 648-9786,,,,,,,,,,,,(506) 643-7200,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Carleton Manor,,,Angela Acott-Smith,,,(506) 325-4618,,,,,,,,,,,,(506) 325-4373,,,http://www.carletonmanor.com,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Central Carleton Nursing Home,,,Kristi Schriver,,,(506) 375-3035,,,,,,,,,,,,(506) 375-3033,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Central N.B. Nursing Home,,,Manley Black,,,(506) 369-2331,,,,,,,,,,,,(506) 369-7262,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Mill Cove Nursing Home,,,Dan Gilman,,,(506) 488-3037,,,,,,,,,,,,(506) 488-3033,,,http://www.millcovenh.com,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Nashwaak Villa,,,Daphne Noonan,,,(506) 367-7745,,,,,,,,,,,,(506) 367-7734,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Orchard View,,,Steve Little,,,(506) 488-3551,,,,,,,,,,,,(506) 488-3544,,,http://www.orchardviewcare.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Pine Grove,,,Cheryl Wiggins,,,(506) 444-3407,,,,,,,,,,,,(506) 444-3400,,,http://www.pinegrovenh.com,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+River View Manor,,,Guildo Cyr,,,(506) 278-5962,,,,,,,,,,,,(506) 278-6030,,,http://www.riverviewmanor.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Thomas Hall,,,Pam Bowen,,,(506) 447-6441,,,,,,,,,,,,(506) 447-6440,,,http://www.shannex.com,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Tobique Valley Manor,,,Charlotte Bellefleur,,,(506) 356-6041,,,,,,,,,,,,(506) 356-6040,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Victoria Glen Manor,,,Donna Miller-Wallace,,,(506) 273-4975,,,,,,,,,,,,(506) 273-4885,,,http://www.vgm.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+W.G. Bishop Nursing Home,,,Charlene Cobbett,,,(506) 327-7812,,,,,,,,,,,,(506) 327-7853,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Wauklehegan Manor,,,Mike Harvey,,,(506) 784-6344,,,,,,,,,,,,(506) 784-6303,,,http://waukleheganmanor.weebly.com,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+White Rapids Manor,,,Kathy Jenkins,,,(506) 368-6512,,,,,,,,,,,,(506) 368-6508,,,http://www.whiterapidsmanor.nb.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+York Care Centre,,,Kevin Harter,,,(506) 444-3544,,,,,,,,,,,,(506) 444-3880,,,http://www.yorkmanor.nb.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Foyer Notre-Dame de St-LÃ©onard,,,Violette Thibodeau,,,(506) 423-3152,,,,,,,,,,,,(506) 423-3100,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Foyer Ste-Elizabeth,,,Monique Gendron,,,(506) 258-3010,,,,,,,,,,,,(506) 258-3020,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+RÃ©sidence Mgr. Melanson,,,AndrÃ© Savoie,,,(506) 235-6075,,,,,,,,,,,,(506) 235-6030,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+RÃ©sidences Jodin,,,David Couturier,,,(506) 501-3015,,,,,,,,,,,,(506) 501-3014  ,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Villa des Chutes,,,AmÃ©lie Cayouette,,,(506) 473-7849,,,,,,,,,,,,(506) 473-7726,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Campbellton Nursing Home,,,Ken Murray,,,(506) 789-7360,,,,,,,,,,,,(506) 789-7350,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Dalhousie Nursing Home,,,Diane LÃ©ger,,,(506) 684-7832,,,,,,,,,,,,(506) 684-7800,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Foyer Notre-Dame de Lourdes,,,LÃ©o-Paul Sonier,,,(506) 549-5052,,,,,,,,,,,,(506) 549-5085,,,http://www.fndl.org,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Manoir Edith B. Pinet,,,Bruno Holmes,,,(506) 764-2451,,,,,,,,,,,,(506) 764-2444,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+RÃ©sidences Inkerman,,,Michel HachÃ©,,,.,,,,,,,,,,,,(506) 336-3909,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+RÃ©sidences Lucien Saindon,,,GaÃ«tan HachÃ©,,,(506) 344-3240,,,,,,,,,,,,(506) 344-3232,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+RÃ©sidences Mgr. Chiasson,,,Anne-Marie Richardson Chiasson,,,(506) 336-3099,,,,,,,,,,,,(506) 336-3266,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Villa BeausÃ©jour,,,Roger Landry,,,(506) 726-2745,,,,,,,,,,,,(506) 726-2744,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Villa Chaleur Inc.,,,Victor Shea,,,(506) 545-6424,,,,,,,,,,,,(506) 549-5582,,,http://www.abschi.com,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Villa Sormany,,,Wayne McWilliams,,,(506) 542-2733,,,,,,,,,,,,(506) 542-2731,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Villa St-Joseph,,,Serge Robichaud,,,(506) 394-4826,,,,,,,,,,,,(506) 394-4800,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Foyer Assomption,,,Anne Babineau,,,(506) 775-2053,,,,,,,,,,,,(506) 775-2040,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Le Complexe Rendez-Vous Inc.,,,Ronald LeBlanc,,,(506) 776-0608,,,,,,,,,,,,(506) 776-0640,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Miramichi Senior Citizens Home,,,Jean Doyle,,,(506) 778-6860,,,,,,,,,,,,(506) 778-6810,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Mount St. Joseph,,,Debbie Walls,,,(506) 778-0193,,,,,,,,,,,,(506) 778-6550,,,http://www.mountsj.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Tabusintac Nursing Home,,,Joanne Sonier,,,(506) 779-8149,,,,,,,,,,,,(506) 779-4100,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,moncton,,,NB,,,,,,,FALSE
+Drew Nursing Home,,,Linda Shannon,,,(506) 364-4921,,,,,,,,,,,,(506) 364-4900,,,http://www.drewnursinghome.ca/,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Forest Dale Home,,,Vicki Caissie,,,(506) 882-3014,,,,,,,,,,,,(506) 882-3015,,,http://www.forestdalehome.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Foyer St-Antoine,,,George Cormier,,,(506) 525-4090,,,,,,,,,,,,(506) 525-4040,,,http://www3.nbnet.nb.ca/fsa,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Jordan Lifecare Centre,,,Gary Buchanan,,,(506) 756-2081,,,,,,,,,,,,(506) 756-3355,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Kenneth E. Spencer,,,Victor Shea,,,(506) 858-9674,,,,,,,,,,,,(506) 858-7870,,,http://www.abschi.com/,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+La Villa Maria,,,Jean-Paul Mazerolle,,,(506) 876-3466,,,,,,,,,,,,(506) 876-3488,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Le Foyer St-Thomas (Memramcook),,,Paul Rossignol,,,(506) 758-9489,,,,,,,,,,,,(506) 758-2110,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Manoir St-Jean Baptiste,,,Ian Drapeau,,,(506) 743-7343,,,,,,,,,,,,(506) 743-7344,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Monarch Hall,,,Carole Morey,,,(506) 387-3167,,,,,,,,,,,,(506) 387-3168,,,http://www.shannex.com,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Rexton Lions Nursing Home,,,Nancy Cail,,,(506) 523-7703,,,,,,,,,,,,(506) 523-7720,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+The Salvation Army Lakeview Manor,,,Kym Elder,,,(506) 387-7200,,,,,,,,,,,,(506) 387-2012,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Villa du Repos,,,Ronald LeBlanc,,,(506) 859-1619,,,,,,,,,,,,(506) 857-3560,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Villa Providence Shediac,,,Ronald LeBlanc,,,(506) 532-5909,,,,,,,,,,,,(506) 532-4484,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Westford Nursing Home,,,Judy White,,,(506) 538-7293,,,,,,,,,,,,(506) 538-1302,,,http://www.westfordnursinghome.com,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Campobello Lodge,,,Sherry Johnston,,,(506) 752-7105,,,,,,,,,,,,(506) 752-7101,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Carleton Kirk Lodge,,,Tim Stevens,,,(506) 643-7038,,,,,,,,,,,,(506) 643-7040,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Church of St. John & St. Stephen,,,Shelley Fulton,,,(506) 643-6126,,,,,,,,,,,,(506) 643-6001,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Dr. V.A. Snow Centre,,,Terry O'Neill,,,(506) 832-7674,,,,,,,,,,,,(506) 832-6210,,,http://www.snownursing.com,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Embassy Hall,,,John Campbell,,,(506) 848-3171,,,,,,,,,,,,(506) 848-3170,,,http://www.shannex.com,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Fundy Nursing Home,,,Debbie Harris,,,(506) 456-3057,,,,,,,,,,,,(506) 456-4218,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Grand Manan Nursing Home,,,Joanne Ingalls,,,(506) 662-7117,,,,,,,,,,,,(506) 662-7111,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Kennebec Manor,,,Judy Lane,,,(506) 658-9376,,,,,,,,,,,,(506) 632-9628,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Kings Way Care Center,,,Judy Lane,,,(506) 847-1134,,,,,,,,,,,,(506) 847-1131,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Kiwanis Nursing Home,,,Kerri Marr,,,(506) 432-3104,,,,,,,,,,,,(506) 432-3118,,,http://www.kiwanisnursinghome.com,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Lincourt Manor,,,Stacy Butler,,,(506) 466-7853,,,,,,,,,,,,(506) 466-7855,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Loch Lomond Villa,,,Cindy Donovan,,,(506) 643-7179,,,,,,,,,,,,(506) 643-7175,,,http://www.lochlomondvilla.com,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Passamaquoddy Lodge,,,Lezlie LeBlanc,,,(506) 529-5258,,,,,,,,,,,,(506) 529-5240,,,http://www.passamaquoddylodge.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Rocmaura,,,Sheana Mohra,,,(506) 643-7053,,,,,,,,,,,,(506) 643-7050,,,http://www.rocmaura.com,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Turnbull Nursing Home,,,Patti Alcorn,,,(506) 648-9786,,,,,,,,,,,,(506) 643-7200,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Carleton Manor,,,Angela Acott-Smith,,,(506) 325-4618,,,,,,,,,,,,(506) 325-4373,,,http://www.carletonmanor.com,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Central Carleton Nursing Home,,,Kristi Schriver,,,(506) 375-3035,,,,,,,,,,,,(506) 375-3033,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Central N.B. Nursing Home,,,Manley Black,,,(506) 369-2331,,,,,,,,,,,,(506) 369-7262,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Central N.B. Nursing Home,,,Manley Black,,,(506) 369-2331,,,,,,,,,,,,(506) 369-7262,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,
+Central N.B. Nursing Home,,,Manley Black,,,(506) 369-2331,,,,,,,,,,,,(506) 369-7262,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Central N.B. Nursing Home,,,Manley Black,,,(506) 369-2331,,,,,,,,,,,,(506) 369-7262,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Central N.B. Nursing Home,,,Manley Black,,,(506) 369-2331,,,,,,,,,,,,(506) 369-7262,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Central N.B. Nursing Home,,,Manley Black,,,(506) 369-2331,,,,,,,,,,,,(506) 369-7262,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Mill Cove Nursing Home,,,Dan Gilman,,,(506) 488-3037,,,,,,,,,,,,(506) 488-3033,,,http://www.millcovenh.com,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Mill Cove Nursing Home,,,Dan Gilman,,,(506) 488-3037,,,,,,,,,,,,(506) 488-3033,,,http://www.millcovenh.com,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,
+Mill Cove Nursing Home,,,Dan Gilman,,,(506) 488-3037,,,,,,,,,,,,(506) 488-3033,,,http://www.millcovenh.com,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Mill Cove Nursing Home,,,Dan Gilman,,,(506) 488-3037,,,,,,,,,,,,(506) 488-3033,,,http://www.millcovenh.com,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Mill Cove Nursing Home,,,Dan Gilman,,,(506) 488-3037,,,,,,,,,,,,(506) 488-3033,,,http://www.millcovenh.com,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Mill Cove Nursing Home,,,Dan Gilman,,,(506) 488-3037,,,,,,,,,,,,(506) 488-3033,,,http://www.millcovenh.com,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Nashwaak Villa,,,Daphne Noonan,,,(506) 367-7745,,,,,,,,,,,,(506) 367-7734,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Nashwaak Villa,,,Daphne Noonan,,,(506) 367-7745,,,,,,,,,,,,(506) 367-7734,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,
+Nashwaak Villa,,,Daphne Noonan,,,(506) 367-7745,,,,,,,,,,,,(506) 367-7734,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Nashwaak Villa,,,Daphne Noonan,,,(506) 367-7745,,,,,,,,,,,,(506) 367-7734,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Nashwaak Villa,,,Daphne Noonan,,,(506) 367-7745,,,,,,,,,,,,(506) 367-7734,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Nashwaak Villa,,,Daphne Noonan,,,(506) 367-7745,,,,,,,,,,,,(506) 367-7734,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Orchard View,,,Steve Little,,,(506) 488-3551,,,,,,,,,,,,(506) 488-3544,,,http://www.orchardviewcare.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Orchard View,,,Steve Little,,,(506) 488-3551,,,,,,,,,,,,(506) 488-3544,,,http://www.orchardviewcare.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,
+Orchard View,,,Steve Little,,,(506) 488-3551,,,,,,,,,,,,(506) 488-3544,,,http://www.orchardviewcare.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Orchard View,,,Steve Little,,,(506) 488-3551,,,,,,,,,,,,(506) 488-3544,,,http://www.orchardviewcare.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Orchard View,,,Steve Little,,,(506) 488-3551,,,,,,,,,,,,(506) 488-3544,,,http://www.orchardviewcare.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Orchard View,,,Steve Little,,,(506) 488-3551,,,,,,,,,,,,(506) 488-3544,,,http://www.orchardviewcare.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Pine Grove,,,Cheryl Wiggins,,,(506) 444-3407,,,,,,,,,,,,(506) 444-3400,,,http://www.pinegrovenh.com,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Pine Grove,,,Cheryl Wiggins,,,(506) 444-3407,,,,,,,,,,,,(506) 444-3400,,,http://www.pinegrovenh.com,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,
+Pine Grove,,,Cheryl Wiggins,,,(506) 444-3407,,,,,,,,,,,,(506) 444-3400,,,http://www.pinegrovenh.com,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Pine Grove,,,Cheryl Wiggins,,,(506) 444-3407,,,,,,,,,,,,(506) 444-3400,,,http://www.pinegrovenh.com,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Pine Grove,,,Cheryl Wiggins,,,(506) 444-3407,,,,,,,,,,,,(506) 444-3400,,,http://www.pinegrovenh.com,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Pine Grove,,,Cheryl Wiggins,,,(506) 444-3407,,,,,,,,,,,,(506) 444-3400,,,http://www.pinegrovenh.com,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+River View Manor,,,Guildo Cyr,,,(506) 278-5962,,,,,,,,,,,,(506) 278-6030,,,http://www.riverviewmanor.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+River View Manor,,,Guildo Cyr,,,(506) 278-5962,,,,,,,,,,,,(506) 278-6030,,,http://www.riverviewmanor.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,
+River View Manor,,,Guildo Cyr,,,(506) 278-5962,,,,,,,,,,,,(506) 278-6030,,,http://www.riverviewmanor.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+River View Manor,,,Guildo Cyr,,,(506) 278-5962,,,,,,,,,,,,(506) 278-6030,,,http://www.riverviewmanor.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+River View Manor,,,Guildo Cyr,,,(506) 278-5962,,,,,,,,,,,,(506) 278-6030,,,http://www.riverviewmanor.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+River View Manor,,,Guildo Cyr,,,(506) 278-5962,,,,,,,,,,,,(506) 278-6030,,,http://www.riverviewmanor.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Thomas Hall,,,Pam Bowen,,,(506) 447-6441,,,,,,,,,,,,(506) 447-6440,,,http://www.shannex.com,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Thomas Hall,,,Pam Bowen,,,(506) 447-6441,,,,,,,,,,,,(506) 447-6440,,,http://www.shannex.com,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,
+Thomas Hall,,,Pam Bowen,,,(506) 447-6441,,,,,,,,,,,,(506) 447-6440,,,http://www.shannex.com,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Thomas Hall,,,Pam Bowen,,,(506) 447-6441,,,,,,,,,,,,(506) 447-6440,,,http://www.shannex.com,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Thomas Hall,,,Pam Bowen,,,(506) 447-6441,,,,,,,,,,,,(506) 447-6440,,,http://www.shannex.com,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Thomas Hall,,,Pam Bowen,,,(506) 447-6441,,,,,,,,,,,,(506) 447-6440,,,http://www.shannex.com,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Tobique Valley Manor,,,Charlotte Bellefleur,,,(506) 356-6041,,,,,,,,,,,,(506) 356-6040,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Tobique Valley Manor,,,Charlotte Bellefleur,,,(506) 356-6041,,,,,,,,,,,,(506) 356-6040,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,
+Tobique Valley Manor,,,Charlotte Bellefleur,,,(506) 356-6041,,,,,,,,,,,,(506) 356-6040,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Tobique Valley Manor,,,Charlotte Bellefleur,,,(506) 356-6041,,,,,,,,,,,,(506) 356-6040,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Tobique Valley Manor,,,Charlotte Bellefleur,,,(506) 356-6041,,,,,,,,,,,,(506) 356-6040,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Tobique Valley Manor,,,Charlotte Bellefleur,,,(506) 356-6041,,,,,,,,,,,,(506) 356-6040,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Victoria Glen Manor,,,Donna Miller-Wallace,,,(506) 273-4975,,,,,,,,,,,,(506) 273-4885,,,http://www.vgm.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Victoria Glen Manor,,,Donna Miller-Wallace,,,(506) 273-4975,,,,,,,,,,,,(506) 273-4885,,,http://www.vgm.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,
+Victoria Glen Manor,,,Donna Miller-Wallace,,,(506) 273-4975,,,,,,,,,,,,(506) 273-4885,,,http://www.vgm.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Victoria Glen Manor,,,Donna Miller-Wallace,,,(506) 273-4975,,,,,,,,,,,,(506) 273-4885,,,http://www.vgm.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Victoria Glen Manor,,,Donna Miller-Wallace,,,(506) 273-4975,,,,,,,,,,,,(506) 273-4885,,,http://www.vgm.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Victoria Glen Manor,,,Donna Miller-Wallace,,,(506) 273-4975,,,,,,,,,,,,(506) 273-4885,,,http://www.vgm.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+W.G. Bishop Nursing Home,,,Charlene Cobbett,,,(506) 327-7812,,,,,,,,,,,,(506) 327-7853,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+W.G. Bishop Nursing Home,,,Charlene Cobbett,,,(506) 327-7812,,,,,,,,,,,,(506) 327-7853,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,
+W.G. Bishop Nursing Home,,,Charlene Cobbett,,,(506) 327-7812,,,,,,,,,,,,(506) 327-7853,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+W.G. Bishop Nursing Home,,,Charlene Cobbett,,,(506) 327-7812,,,,,,,,,,,,(506) 327-7853,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+W.G. Bishop Nursing Home,,,Charlene Cobbett,,,(506) 327-7812,,,,,,,,,,,,(506) 327-7853,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+W.G. Bishop Nursing Home,,,Charlene Cobbett,,,(506) 327-7812,,,,,,,,,,,,(506) 327-7853,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Wauklehegan Manor,,,Mike Harvey,,,(506) 784-6344,,,,,,,,,,,,(506) 784-6303,,,http://waukleheganmanor.weebly.com,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Wauklehegan Manor,,,Mike Harvey,,,(506) 784-6344,,,,,,,,,,,,(506) 784-6303,,,http://waukleheganmanor.weebly.com,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,
+Wauklehegan Manor,,,Mike Harvey,,,(506) 784-6344,,,,,,,,,,,,(506) 784-6303,,,http://waukleheganmanor.weebly.com,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Wauklehegan Manor,,,Mike Harvey,,,(506) 784-6344,,,,,,,,,,,,(506) 784-6303,,,http://waukleheganmanor.weebly.com,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Wauklehegan Manor,,,Mike Harvey,,,(506) 784-6344,,,,,,,,,,,,(506) 784-6303,,,http://waukleheganmanor.weebly.com,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Wauklehegan Manor,,,Mike Harvey,,,(506) 784-6344,,,,,,,,,,,,(506) 784-6303,,,http://waukleheganmanor.weebly.com,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+White Rapids Manor,,,Kathy Jenkins,,,(506) 368-6512,,,,,,,,,,,,(506) 368-6508,,,http://www.whiterapidsmanor.nb.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+White Rapids Manor,,,Kathy Jenkins,,,(506) 368-6512,,,,,,,,,,,,(506) 368-6508,,,http://www.whiterapidsmanor.nb.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,
+White Rapids Manor,,,Kathy Jenkins,,,(506) 368-6512,,,,,,,,,,,,(506) 368-6508,,,http://www.whiterapidsmanor.nb.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+White Rapids Manor,,,Kathy Jenkins,,,(506) 368-6512,,,,,,,,,,,,(506) 368-6508,,,http://www.whiterapidsmanor.nb.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+White Rapids Manor,,,Kathy Jenkins,,,(506) 368-6512,,,,,,,,,,,,(506) 368-6508,,,http://www.whiterapidsmanor.nb.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+White Rapids Manor,,,Kathy Jenkins,,,(506) 368-6512,,,,,,,,,,,,(506) 368-6508,,,http://www.whiterapidsmanor.nb.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+York Care Centre,,,Kevin Harter,,,(506) 444-3544,,,,,,,,,,,,(506) 444-3880,,,http://www.yorkmanor.nb.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+York Care Centre,,,Kevin Harter,,,(506) 444-3544,,,,,,,,,,,,(506) 444-3880,,,http://www.yorkmanor.nb.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,
+York Care Centre,,,Kevin Harter,,,(506) 444-3544,,,,,,,,,,,,(506) 444-3880,,,http://www.yorkmanor.nb.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+York Care Centre,,,Kevin Harter,,,(506) 444-3544,,,,,,,,,,,,(506) 444-3880,,,http://www.yorkmanor.nb.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+York Care Centre,,,Kevin Harter,,,(506) 444-3544,,,,,,,,,,,,(506) 444-3880,,,http://www.yorkmanor.nb.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+York Care Centre,,,Kevin Harter,,,(506) 444-3544,,,,,,,,,,,,(506) 444-3880,,,http://www.yorkmanor.nb.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Foyer Notre-Dame de St-LÃ©onard,,,Violette Thibodeau,,,(506) 423-3152,,,,,,,,,,,,(506) 423-3100,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Foyer Notre-Dame de St-LÃ©onard,,,Violette Thibodeau,,,(506) 423-3152,,,,,,,,,,,,(506) 423-3100,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,
+Foyer Notre-Dame de St-LÃ©onard,,,Violette Thibodeau,,,(506) 423-3152,,,,,,,,,,,,(506) 423-3100,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Foyer Notre-Dame de St-LÃ©onard,,,Violette Thibodeau,,,(506) 423-3152,,,,,,,,,,,,(506) 423-3100,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Foyer Notre-Dame de St-LÃ©onard,,,Violette Thibodeau,,,(506) 423-3152,,,,,,,,,,,,(506) 423-3100,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Foyer Notre-Dame de St-LÃ©onard,,,Violette Thibodeau,,,(506) 423-3152,,,,,,,,,,,,(506) 423-3100,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Foyer Ste-Elizabeth,,,Monique Gendron,,,(506) 258-3010,,,,,,,,,,,,(506) 258-3020,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Foyer Ste-Elizabeth,,,Monique Gendron,,,(506) 258-3010,,,,,,,,,,,,(506) 258-3020,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,
+Foyer Ste-Elizabeth,,,Monique Gendron,,,(506) 258-3010,,,,,,,,,,,,(506) 258-3020,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Foyer Ste-Elizabeth,,,Monique Gendron,,,(506) 258-3010,,,,,,,,,,,,(506) 258-3020,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Foyer Ste-Elizabeth,,,Monique Gendron,,,(506) 258-3010,,,,,,,,,,,,(506) 258-3020,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Foyer Ste-Elizabeth,,,Monique Gendron,,,(506) 258-3010,,,,,,,,,,,,(506) 258-3020,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+RÃ©sidence Mgr. Melanson,,,AndrÃ© Savoie,,,(506) 235-6075,,,,,,,,,,,,(506) 235-6030,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+RÃ©sidence Mgr. Melanson,,,AndrÃ© Savoie,,,(506) 235-6075,,,,,,,,,,,,(506) 235-6030,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,
+RÃ©sidence Mgr. Melanson,,,AndrÃ© Savoie,,,(506) 235-6075,,,,,,,,,,,,(506) 235-6030,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+RÃ©sidence Mgr. Melanson,,,AndrÃ© Savoie,,,(506) 235-6075,,,,,,,,,,,,(506) 235-6030,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+RÃ©sidence Mgr. Melanson,,,AndrÃ© Savoie,,,(506) 235-6075,,,,,,,,,,,,(506) 235-6030,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+RÃ©sidence Mgr. Melanson,,,AndrÃ© Savoie,,,(506) 235-6075,,,,,,,,,,,,(506) 235-6030,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+RÃ©sidences Jodin,,,David Couturier,,,(506) 501-3015,,,,,,,,,,,,(506) 501-3014  ,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+RÃ©sidences Jodin,,,David Couturier,,,(506) 501-3015,,,,,,,,,,,,(506) 501-3014,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,
+RÃ©sidences Jodin,,,David Couturier,,,(506) 501-3015,,,,,,,,,,,,(506) 501-3014,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+RÃ©sidences Jodin,,,David Couturier,,,(506) 501-3015,,,,,,,,,,,,(506) 501-3014,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+RÃ©sidences Jodin,,,David Couturier,,,(506) 501-3015,,,,,,,,,,,,(506) 501-3014,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+RÃ©sidences Jodin,,,David Couturier,,,(506) 501-3015,,,,,,,,,,,,(506) 501-3014,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Villa des Chutes,,,AmÃ©lie Cayouette,,,(506) 473-7849,,,,,,,,,,,,(506) 473-7726,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Villa des Chutes,,,AmÃ©lie Cayouette,,,(506) 473-7849,,,,,,,,,,,,(506) 473-7726,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,
+Villa des Chutes,,,AmÃ©lie Cayouette,,,(506) 473-7849,,,,,,,,,,,,(506) 473-7726,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Villa des Chutes,,,AmÃ©lie Cayouette,,,(506) 473-7849,,,,,,,,,,,,(506) 473-7726,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Villa des Chutes,,,AmÃ©lie Cayouette,,,(506) 473-7849,,,,,,,,,,,,(506) 473-7726,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Villa des Chutes,,,AmÃ©lie Cayouette,,,(506) 473-7849,,,,,,,,,,,,(506) 473-7726,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Campbellton Nursing Home,,,Ken Murray,,,(506) 789-7360,,,,,,,,,,,,(506) 789-7350,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Campbellton Nursing Home,,,Ken Murray,,,(506) 789-7360,,,,,,,,,,,,(506) 789-7350,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,
+Campbellton Nursing Home,,,Ken Murray,,,(506) 789-7360,,,,,,,,,,,,(506) 789-7350,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Campbellton Nursing Home,,,Ken Murray,,,(506) 789-7360,,,,,,,,,,,,(506) 789-7350,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Campbellton Nursing Home,,,Ken Murray,,,(506) 789-7360,,,,,,,,,,,,(506) 789-7350,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Campbellton Nursing Home,,,Ken Murray,,,(506) 789-7360,,,,,,,,,,,,(506) 789-7350,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Dalhousie Nursing Home,,,Diane LÃ©ger,,,(506) 684-7832,,,,,,,,,,,,(506) 684-7800,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Dalhousie Nursing Home,,,Diane LÃ©ger,,,(506) 684-7832,,,,,,,,,,,,(506) 684-7800,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,
+Dalhousie Nursing Home,,,Diane LÃ©ger,,,(506) 684-7832,,,,,,,,,,,,(506) 684-7800,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Dalhousie Nursing Home,,,Diane LÃ©ger,,,(506) 684-7832,,,,,,,,,,,,(506) 684-7800,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Dalhousie Nursing Home,,,Diane LÃ©ger,,,(506) 684-7832,,,,,,,,,,,,(506) 684-7800,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Dalhousie Nursing Home,,,Diane LÃ©ger,,,(506) 684-7832,,,,,,,,,,,,(506) 684-7800,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Foyer Notre-Dame de Lourdes,,,LÃ©o-Paul Sonier,,,(506) 549-5052,,,,,,,,,,,,(506) 549-5085,,,http://www.fndl.org,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Foyer Notre-Dame de Lourdes,,,LÃ©o-Paul Sonier,,,(506) 549-5052,,,,,,,,,,,,(506) 549-5085,,,http://www.fndl.org,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,
+Foyer Notre-Dame de Lourdes,,,LÃ©o-Paul Sonier,,,(506) 549-5052,,,,,,,,,,,,(506) 549-5085,,,http://www.fndl.org,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Foyer Notre-Dame de Lourdes,,,LÃ©o-Paul Sonier,,,(506) 549-5052,,,,,,,,,,,,(506) 549-5085,,,http://www.fndl.org,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Foyer Notre-Dame de Lourdes,,,LÃ©o-Paul Sonier,,,(506) 549-5052,,,,,,,,,,,,(506) 549-5085,,,http://www.fndl.org,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Foyer Notre-Dame de Lourdes,,,LÃ©o-Paul Sonier,,,(506) 549-5052,,,,,,,,,,,,(506) 549-5085,,,http://www.fndl.org,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Manoir Edith B. Pinet,,,Bruno Holmes,,,(506) 764-2451,,,,,,,,,,,,(506) 764-2444,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Manoir Edith B. Pinet,,,Bruno Holmes,,,(506) 764-2451,,,,,,,,,,,,(506) 764-2444,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,
+Manoir Edith B. Pinet,,,Bruno Holmes,,,(506) 764-2451,,,,,,,,,,,,(506) 764-2444,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Manoir Edith B. Pinet,,,Bruno Holmes,,,(506) 764-2451,,,,,,,,,,,,(506) 764-2444,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Manoir Edith B. Pinet,,,Bruno Holmes,,,(506) 764-2451,,,,,,,,,,,,(506) 764-2444,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Manoir Edith B. Pinet,,,Bruno Holmes,,,(506) 764-2451,,,,,,,,,,,,(506) 764-2444,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+RÃ©sidences Inkerman,,,Michel HachÃ©,,,.,,,,,,,,,,,,(506) 336-3909,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+RÃ©sidences Inkerman,,,Michel HachÃ©,,,.,,,,,,,,,,,,(506) 336-3909,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,
+RÃ©sidences Inkerman,,,Michel HachÃ©,,,.,,,,,,,,,,,,(506) 336-3909,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+RÃ©sidences Inkerman,,,Michel HachÃ©,,,.,,,,,,,,,,,,(506) 336-3909,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+RÃ©sidences Inkerman,,,Michel HachÃ©,,,.,,,,,,,,,,,,(506) 336-3909,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+RÃ©sidences Inkerman,,,Michel HachÃ©,,,.,,,,,,,,,,,,(506) 336-3909,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+RÃ©sidences Lucien Saindon,,,GaÃ«tan HachÃ©,,,(506) 344-3240,,,,,,,,,,,,(506) 344-3232,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+RÃ©sidences Lucien Saindon,,,GaÃ«tan HachÃ©,,,(506) 344-3240,,,,,,,,,,,,(506) 344-3232,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,
+RÃ©sidences Lucien Saindon,,,GaÃ«tan HachÃ©,,,(506) 344-3240,,,,,,,,,,,,(506) 344-3232,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+RÃ©sidences Lucien Saindon,,,GaÃ«tan HachÃ©,,,(506) 344-3240,,,,,,,,,,,,(506) 344-3232,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+RÃ©sidences Lucien Saindon,,,GaÃ«tan HachÃ©,,,(506) 344-3240,,,,,,,,,,,,(506) 344-3232,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+RÃ©sidences Lucien Saindon,,,GaÃ«tan HachÃ©,,,(506) 344-3240,,,,,,,,,,,,(506) 344-3232,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+RÃ©sidences Mgr. Chiasson,,,Anne-Marie Richardson Chiasson,,,(506) 336-3099,,,,,,,,,,,,(506) 336-3266,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+RÃ©sidences Mgr. Chiasson,,,Anne-Marie Richardson Chiasson,,,(506) 336-3099,,,,,,,,,,,,(506) 336-3266,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,
+RÃ©sidences Mgr. Chiasson,,,Anne-Marie Richardson Chiasson,,,(506) 336-3099,,,,,,,,,,,,(506) 336-3266,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+RÃ©sidences Mgr. Chiasson,,,Anne-Marie Richardson Chiasson,,,(506) 336-3099,,,,,,,,,,,,(506) 336-3266,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+RÃ©sidences Mgr. Chiasson,,,Anne-Marie Richardson Chiasson,,,(506) 336-3099,,,,,,,,,,,,(506) 336-3266,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+RÃ©sidences Mgr. Chiasson,,,Anne-Marie Richardson Chiasson,,,(506) 336-3099,,,,,,,,,,,,(506) 336-3266,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Villa BeausÃ©jour,,,Roger Landry,,,(506) 726-2745,,,,,,,,,,,,(506) 726-2744,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Villa BeausÃ©jour,,,Roger Landry,,,(506) 726-2745,,,,,,,,,,,,(506) 726-2744,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,
+Villa BeausÃ©jour,,,Roger Landry,,,(506) 726-2745,,,,,,,,,,,,(506) 726-2744,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Villa BeausÃ©jour,,,Roger Landry,,,(506) 726-2745,,,,,,,,,,,,(506) 726-2744,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Villa BeausÃ©jour,,,Roger Landry,,,(506) 726-2745,,,,,,,,,,,,(506) 726-2744,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Villa BeausÃ©jour,,,Roger Landry,,,(506) 726-2745,,,,,,,,,,,,(506) 726-2744,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Villa Chaleur Inc.,,,Victor Shea,,,(506) 545-6424,,,,,,,,,,,,(506) 549-5582,,,http://www.abschi.com,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Villa Chaleur Inc.,,,Victor Shea,,,(506) 545-6424,,,,,,,,,,,,(506) 549-5582,,,http://www.abschi.com,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,
+Villa Chaleur Inc.,,,Victor Shea,,,(506) 545-6424,,,,,,,,,,,,(506) 549-5582,,,http://www.abschi.com,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Villa Chaleur Inc.,,,Victor Shea,,,(506) 545-6424,,,,,,,,,,,,(506) 549-5582,,,http://www.abschi.com,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Villa Chaleur Inc.,,,Victor Shea,,,(506) 545-6424,,,,,,,,,,,,(506) 549-5582,,,http://www.abschi.com,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Villa Chaleur Inc.,,,Victor Shea,,,(506) 545-6424,,,,,,,,,,,,(506) 549-5582,,,http://www.abschi.com,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Villa Sormany,,,Wayne McWilliams,,,(506) 542-2733,,,,,,,,,,,,(506) 542-2731,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Villa Sormany,,,Wayne McWilliams,,,(506) 542-2733,,,,,,,,,,,,(506) 542-2731,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,
+Villa Sormany,,,Wayne McWilliams,,,(506) 542-2733,,,,,,,,,,,,(506) 542-2731,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Villa Sormany,,,Wayne McWilliams,,,(506) 542-2733,,,,,,,,,,,,(506) 542-2731,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Villa Sormany,,,Wayne McWilliams,,,(506) 542-2733,,,,,,,,,,,,(506) 542-2731,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Villa Sormany,,,Wayne McWilliams,,,(506) 542-2733,,,,,,,,,,,,(506) 542-2731,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Villa St-Joseph,,,Serge Robichaud,,,(506) 394-4826,,,,,,,,,,,,(506) 394-4800,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Villa St-Joseph,,,Serge Robichaud,,,(506) 394-4826,,,,,,,,,,,,(506) 394-4800,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,
+Villa St-Joseph,,,Serge Robichaud,,,(506) 394-4826,,,,,,,,,,,,(506) 394-4800,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Villa St-Joseph,,,Serge Robichaud,,,(506) 394-4826,,,,,,,,,,,,(506) 394-4800,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Villa St-Joseph,,,Serge Robichaud,,,(506) 394-4826,,,,,,,,,,,,(506) 394-4800,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Villa St-Joseph,,,Serge Robichaud,,,(506) 394-4826,,,,,,,,,,,,(506) 394-4800,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Foyer Assomption,,,Anne Babineau,,,(506) 775-2053,,,,,,,,,,,,(506) 775-2040,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Foyer Assomption,,,Anne Babineau,,,(506) 775-2053,,,,,,,,,,,,(506) 775-2040,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,
+Foyer Assomption,,,Anne Babineau,,,(506) 775-2053,,,,,,,,,,,,(506) 775-2040,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Foyer Assomption,,,Anne Babineau,,,(506) 775-2053,,,,,,,,,,,,(506) 775-2040,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Foyer Assomption,,,Anne Babineau,,,(506) 775-2053,,,,,,,,,,,,(506) 775-2040,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Foyer Assomption,,,Anne Babineau,,,(506) 775-2053,,,,,,,,,,,,(506) 775-2040,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Le Complexe Rendez-Vous Inc.,,,Ronald LeBlanc,,,(506) 776-0608,,,,,,,,,,,,(506) 776-0640,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Le Complexe Rendez-Vous Inc.,,,Ronald LeBlanc,,,(506) 776-0608,,,,,,,,,,,,(506) 776-0640,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,
+Le Complexe Rendez-Vous Inc.,,,Ronald LeBlanc,,,(506) 776-0608,,,,,,,,,,,,(506) 776-0640,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Le Complexe Rendez-Vous Inc.,,,Ronald LeBlanc,,,(506) 776-0608,,,,,,,,,,,,(506) 776-0640,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Le Complexe Rendez-Vous Inc.,,,Ronald LeBlanc,,,(506) 776-0608,,,,,,,,,,,,(506) 776-0640,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Le Complexe Rendez-Vous Inc.,,,Ronald LeBlanc,,,(506) 776-0608,,,,,,,,,,,,(506) 776-0640,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Miramichi Senior Citizens Home,,,Jean Doyle,,,(506) 778-6860,,,,,,,,,,,,(506) 778-6810,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Miramichi Senior Citizens Home,,,Jean Doyle,,,(506) 778-6860,,,,,,,,,,,,(506) 778-6810,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,
+Miramichi Senior Citizens Home,,,Jean Doyle,,,(506) 778-6860,,,,,,,,,,,,(506) 778-6810,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Miramichi Senior Citizens Home,,,Jean Doyle,,,(506) 778-6860,,,,,,,,,,,,(506) 778-6810,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Miramichi Senior Citizens Home,,,Jean Doyle,,,(506) 778-6860,,,,,,,,,,,,(506) 778-6810,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Miramichi Senior Citizens Home,,,Jean Doyle,,,(506) 778-6860,,,,,,,,,,,,(506) 778-6810,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Mount St. Joseph,,,Debbie Walls,,,(506) 778-0193,,,,,,,,,,,,(506) 778-6550,,,http://www.mountsj.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Mount St. Joseph,,,Debbie Walls,,,(506) 778-0193,,,,,,,,,,,,(506) 778-6550,,,http://www.mountsj.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,
+Mount St. Joseph,,,Debbie Walls,,,(506) 778-0193,,,,,,,,,,,,(506) 778-6550,,,http://www.mountsj.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Mount St. Joseph,,,Debbie Walls,,,(506) 778-0193,,,,,,,,,,,,(506) 778-6550,,,http://www.mountsj.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Mount St. Joseph,,,Debbie Walls,,,(506) 778-0193,,,,,,,,,,,,(506) 778-6550,,,http://www.mountsj.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Mount St. Joseph,,,Debbie Walls,,,(506) 778-0193,,,,,,,,,,,,(506) 778-6550,,,http://www.mountsj.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Tabusintac Nursing Home,,,Joanne Sonier,,,(506) 779-8149,,,,,,,,,,,,(506) 779-4100,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,saintjohn,,,NB,,,,,,,FALSE
+Tabusintac Nursing Home,,,Joanne Sonier,,,(506) 779-8149,,,,,,,,,,,,(506) 779-4100,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,
+Tabusintac Nursing Home,,,Joanne Sonier,,,(506) 779-8149,,,,,,,,,,,,(506) 779-4100,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Tabusintac Nursing Home,,,Joanne Sonier,,,(506) 779-8149,,,,,,,,,,,,(506) 779-4100,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Tabusintac Nursing Home,,,Joanne Sonier,,,(506) 779-8149,,,,,,,,,,,,(506) 779-4100,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Tabusintac Nursing Home,,,Joanne Sonier,,,(506) 779-8149,,,,,,,,,,,,(506) 779-4100,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Drew Nursing Home,,,Linda Shannon,,,(506) 364-4921,,,,,,,,,,,,(506) 364-4900,,,http://www.drewnursinghome.ca/,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,FALSE
+Drew Nursing Home,,,Linda Shannon,,,(506) 364-4921,,,,,,,,,,,,(506) 364-4900,,,http://www.drewnursinghome.ca/,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Drew Nursing Home,,,Linda Shannon,,,(506) 364-4921,,,,,,,,,,,,(506) 364-4900,,,http://www.drewnursinghome.ca/,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Drew Nursing Home,,,Linda Shannon,,,(506) 364-4921,,,,,,,,,,,,(506) 364-4900,,,http://www.drewnursinghome.ca/,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Drew Nursing Home,,,Linda Shannon,,,(506) 364-4921,,,,,,,,,,,,(506) 364-4900,,,http://www.drewnursinghome.ca/,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Forest Dale Home,,,Vicki Caissie,,,(506) 882-3014,,,,,,,,,,,,(506) 882-3015,,,http://www.forestdalehome.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,FALSE
+Forest Dale Home,,,Vicki Caissie,,,(506) 882-3014,,,,,,,,,,,,(506) 882-3015,,,http://www.forestdalehome.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Forest Dale Home,,,Vicki Caissie,,,(506) 882-3014,,,,,,,,,,,,(506) 882-3015,,,http://www.forestdalehome.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Forest Dale Home,,,Vicki Caissie,,,(506) 882-3014,,,,,,,,,,,,(506) 882-3015,,,http://www.forestdalehome.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Forest Dale Home,,,Vicki Caissie,,,(506) 882-3014,,,,,,,,,,,,(506) 882-3015,,,http://www.forestdalehome.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Foyer St-Antoine,,,George Cormier,,,(506) 525-4090,,,,,,,,,,,,(506) 525-4040,,,http://www3.nbnet.nb.ca/fsa,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,FALSE
+Foyer St-Antoine,,,George Cormier,,,(506) 525-4090,,,,,,,,,,,,(506) 525-4040,,,http://www3.nbnet.nb.ca/fsa,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Foyer St-Antoine,,,George Cormier,,,(506) 525-4090,,,,,,,,,,,,(506) 525-4040,,,http://www3.nbnet.nb.ca/fsa,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Foyer St-Antoine,,,George Cormier,,,(506) 525-4090,,,,,,,,,,,,(506) 525-4040,,,http://www3.nbnet.nb.ca/fsa,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Foyer St-Antoine,,,George Cormier,,,(506) 525-4090,,,,,,,,,,,,(506) 525-4040,,,http://www3.nbnet.nb.ca/fsa,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Jordan Lifecare Centre,,,Gary Buchanan,,,(506) 756-2081,,,,,,,,,,,,(506) 756-3355,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,FALSE
+Jordan Lifecare Centre,,,Gary Buchanan,,,(506) 756-2081,,,,,,,,,,,,(506) 756-3355,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Jordan Lifecare Centre,,,Gary Buchanan,,,(506) 756-2081,,,,,,,,,,,,(506) 756-3355,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Jordan Lifecare Centre,,,Gary Buchanan,,,(506) 756-2081,,,,,,,,,,,,(506) 756-3355,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Jordan Lifecare Centre,,,Gary Buchanan,,,(506) 756-2081,,,,,,,,,,,,(506) 756-3355,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Kenneth E. Spencer,,,Victor Shea,,,(506) 858-9674,,,,,,,,,,,,(506) 858-7870,,,http://www.abschi.com/,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,FALSE
+Kenneth E. Spencer,,,Victor Shea,,,(506) 858-9674,,,,,,,,,,,,(506) 858-7870,,,http://www.abschi.com/,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Kenneth E. Spencer,,,Victor Shea,,,(506) 858-9674,,,,,,,,,,,,(506) 858-7870,,,http://www.abschi.com/,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Kenneth E. Spencer,,,Victor Shea,,,(506) 858-9674,,,,,,,,,,,,(506) 858-7870,,,http://www.abschi.com/,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Kenneth E. Spencer,,,Victor Shea,,,(506) 858-9674,,,,,,,,,,,,(506) 858-7870,,,http://www.abschi.com/,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+La Villa Maria,,,Jean-Paul Mazerolle,,,(506) 876-3466,,,,,,,,,,,,(506) 876-3488,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,FALSE
+La Villa Maria,,,Jean-Paul Mazerolle,,,(506) 876-3466,,,,,,,,,,,,(506) 876-3488,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+La Villa Maria,,,Jean-Paul Mazerolle,,,(506) 876-3466,,,,,,,,,,,,(506) 876-3488,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+La Villa Maria,,,Jean-Paul Mazerolle,,,(506) 876-3466,,,,,,,,,,,,(506) 876-3488,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+La Villa Maria,,,Jean-Paul Mazerolle,,,(506) 876-3466,,,,,,,,,,,,(506) 876-3488,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Le Foyer St-Thomas (Memramcook),,,Paul Rossignol,,,(506) 758-9489,,,,,,,,,,,,(506) 758-2110,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,FALSE
+Le Foyer St-Thomas (Memramcook),,,Paul Rossignol,,,(506) 758-9489,,,,,,,,,,,,(506) 758-2110,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Le Foyer St-Thomas (Memramcook),,,Paul Rossignol,,,(506) 758-9489,,,,,,,,,,,,(506) 758-2110,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Le Foyer St-Thomas (Memramcook),,,Paul Rossignol,,,(506) 758-9489,,,,,,,,,,,,(506) 758-2110,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Le Foyer St-Thomas (Memramcook),,,Paul Rossignol,,,(506) 758-9489,,,,,,,,,,,,(506) 758-2110,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Manoir St-Jean Baptiste,,,Ian Drapeau,,,(506) 743-7343,,,,,,,,,,,,(506) 743-7344,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,FALSE
+Manoir St-Jean Baptiste,,,Ian Drapeau,,,(506) 743-7343,,,,,,,,,,,,(506) 743-7344,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Manoir St-Jean Baptiste,,,Ian Drapeau,,,(506) 743-7343,,,,,,,,,,,,(506) 743-7344,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Manoir St-Jean Baptiste,,,Ian Drapeau,,,(506) 743-7343,,,,,,,,,,,,(506) 743-7344,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Manoir St-Jean Baptiste,,,Ian Drapeau,,,(506) 743-7343,,,,,,,,,,,,(506) 743-7344,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Monarch Hall,,,Carole Morey,,,(506) 387-3167,,,,,,,,,,,,(506) 387-3168,,,http://www.shannex.com,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,FALSE
+Monarch Hall,,,Carole Morey,,,(506) 387-3167,,,,,,,,,,,,(506) 387-3168,,,http://www.shannex.com,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Monarch Hall,,,Carole Morey,,,(506) 387-3167,,,,,,,,,,,,(506) 387-3168,,,http://www.shannex.com,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Monarch Hall,,,Carole Morey,,,(506) 387-3167,,,,,,,,,,,,(506) 387-3168,,,http://www.shannex.com,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Monarch Hall,,,Carole Morey,,,(506) 387-3167,,,,,,,,,,,,(506) 387-3168,,,http://www.shannex.com,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Rexton Lions Nursing Home,,,Nancy Cail,,,(506) 523-7703,,,,,,,,,,,,(506) 523-7720,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,FALSE
+Rexton Lions Nursing Home,,,Nancy Cail,,,(506) 523-7703,,,,,,,,,,,,(506) 523-7720,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Rexton Lions Nursing Home,,,Nancy Cail,,,(506) 523-7703,,,,,,,,,,,,(506) 523-7720,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Rexton Lions Nursing Home,,,Nancy Cail,,,(506) 523-7703,,,,,,,,,,,,(506) 523-7720,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Rexton Lions Nursing Home,,,Nancy Cail,,,(506) 523-7703,,,,,,,,,,,,(506) 523-7720,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+The Salvation Army Lakeview Manor,,,Kym Elder,,,(506) 387-7200,,,,,,,,,,,,(506) 387-2012,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,FALSE
+The Salvation Army Lakeview Manor,,,Kym Elder,,,(506) 387-7200,,,,,,,,,,,,(506) 387-2012,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+The Salvation Army Lakeview Manor,,,Kym Elder,,,(506) 387-7200,,,,,,,,,,,,(506) 387-2012,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+The Salvation Army Lakeview Manor,,,Kym Elder,,,(506) 387-7200,,,,,,,,,,,,(506) 387-2012,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+The Salvation Army Lakeview Manor,,,Kym Elder,,,(506) 387-7200,,,,,,,,,,,,(506) 387-2012,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Villa du Repos,,,Ronald LeBlanc,,,(506) 859-1619,,,,,,,,,,,,(506) 857-3560,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,FALSE
+Villa du Repos,,,Ronald LeBlanc,,,(506) 859-1619,,,,,,,,,,,,(506) 857-3560,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Villa du Repos,,,Ronald LeBlanc,,,(506) 859-1619,,,,,,,,,,,,(506) 857-3560,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Villa du Repos,,,Ronald LeBlanc,,,(506) 859-1619,,,,,,,,,,,,(506) 857-3560,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Villa du Repos,,,Ronald LeBlanc,,,(506) 859-1619,,,,,,,,,,,,(506) 857-3560,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Villa Providence Shediac,,,Ronald LeBlanc,,,(506) 532-5909,,,,,,,,,,,,(506) 532-4484,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,FALSE
+Villa Providence Shediac,,,Ronald LeBlanc,,,(506) 532-5909,,,,,,,,,,,,(506) 532-4484,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Villa Providence Shediac,,,Ronald LeBlanc,,,(506) 532-5909,,,,,,,,,,,,(506) 532-4484,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Villa Providence Shediac,,,Ronald LeBlanc,,,(506) 532-5909,,,,,,,,,,,,(506) 532-4484,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Villa Providence Shediac,,,Ronald LeBlanc,,,(506) 532-5909,,,,,,,,,,,,(506) 532-4484,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Westford Nursing Home,,,Judy White,,,(506) 538-7293,,,,,,,,,,,,(506) 538-1302,,,http://www.westfordnursinghome.com,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,FALSE
+Westford Nursing Home,,,Judy White,,,(506) 538-7293,,,,,,,,,,,,(506) 538-1302,,,http://www.westfordnursinghome.com,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Westford Nursing Home,,,Judy White,,,(506) 538-7293,,,,,,,,,,,,(506) 538-1302,,,http://www.westfordnursinghome.com,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Westford Nursing Home,,,Judy White,,,(506) 538-7293,,,,,,,,,,,,(506) 538-1302,,,http://www.westfordnursinghome.com,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Westford Nursing Home,,,Judy White,,,(506) 538-7293,,,,,,,,,,,,(506) 538-1302,,,http://www.westfordnursinghome.com,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Campobello Lodge,,,Sherry Johnston,,,(506) 752-7105,,,,,,,,,,,,(506) 752-7101,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,FALSE
+Campobello Lodge,,,Sherry Johnston,,,(506) 752-7105,,,,,,,,,,,,(506) 752-7101,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Campobello Lodge,,,Sherry Johnston,,,(506) 752-7105,,,,,,,,,,,,(506) 752-7101,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Campobello Lodge,,,Sherry Johnston,,,(506) 752-7105,,,,,,,,,,,,(506) 752-7101,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Campobello Lodge,,,Sherry Johnston,,,(506) 752-7105,,,,,,,,,,,,(506) 752-7101,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Carleton Kirk Lodge,,,Tim Stevens,,,(506) 643-7038,,,,,,,,,,,,(506) 643-7040,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,FALSE
+Carleton Kirk Lodge,,,Tim Stevens,,,(506) 643-7038,,,,,,,,,,,,(506) 643-7040,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Carleton Kirk Lodge,,,Tim Stevens,,,(506) 643-7038,,,,,,,,,,,,(506) 643-7040,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Carleton Kirk Lodge,,,Tim Stevens,,,(506) 643-7038,,,,,,,,,,,,(506) 643-7040,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Carleton Kirk Lodge,,,Tim Stevens,,,(506) 643-7038,,,,,,,,,,,,(506) 643-7040,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Church of St. John & St. Stephen,,,Shelley Fulton,,,(506) 643-6126,,,,,,,,,,,,(506) 643-6001,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,FALSE
+Church of St. John & St. Stephen,,,Shelley Fulton,,,(506) 643-6126,,,,,,,,,,,,(506) 643-6001,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Church of St. John & St. Stephen,,,Shelley Fulton,,,(506) 643-6126,,,,,,,,,,,,(506) 643-6001,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Church of St. John & St. Stephen,,,Shelley Fulton,,,(506) 643-6126,,,,,,,,,,,,(506) 643-6001,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Church of St. John & St. Stephen,,,Shelley Fulton,,,(506) 643-6126,,,,,,,,,,,,(506) 643-6001,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Dr. V.A. Snow Centre,,,Terry O'Neill,,,(506) 832-7674,,,,,,,,,,,,(506) 832-6210,,,http://www.snownursing.com,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,FALSE
+Dr. V.A. Snow Centre,,,Terry O'Neill,,,(506) 832-7674,,,,,,,,,,,,(506) 832-6210,,,http://www.snownursing.com,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Dr. V.A. Snow Centre,,,Terry O'Neill,,,(506) 832-7674,,,,,,,,,,,,(506) 832-6210,,,http://www.snownursing.com,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Dr. V.A. Snow Centre,,,Terry O'Neill,,,(506) 832-7674,,,,,,,,,,,,(506) 832-6210,,,http://www.snownursing.com,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Dr. V.A. Snow Centre,,,Terry O'Neill,,,(506) 832-7674,,,,,,,,,,,,(506) 832-6210,,,http://www.snownursing.com,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Embassy Hall,,,John Campbell,,,(506) 848-3171,,,,,,,,,,,,(506) 848-3170,,,http://www.shannex.com,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,FALSE
+Embassy Hall,,,John Campbell,,,(506) 848-3171,,,,,,,,,,,,(506) 848-3170,,,http://www.shannex.com,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Embassy Hall,,,John Campbell,,,(506) 848-3171,,,,,,,,,,,,(506) 848-3170,,,http://www.shannex.com,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Embassy Hall,,,John Campbell,,,(506) 848-3171,,,,,,,,,,,,(506) 848-3170,,,http://www.shannex.com,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Embassy Hall,,,John Campbell,,,(506) 848-3171,,,,,,,,,,,,(506) 848-3170,,,http://www.shannex.com,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Fundy Nursing Home,,,Debbie Harris,,,(506) 456-3057,,,,,,,,,,,,(506) 456-4218,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,FALSE
+Fundy Nursing Home,,,Debbie Harris,,,(506) 456-3057,,,,,,,,,,,,(506) 456-4218,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Fundy Nursing Home,,,Debbie Harris,,,(506) 456-3057,,,,,,,,,,,,(506) 456-4218,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Fundy Nursing Home,,,Debbie Harris,,,(506) 456-3057,,,,,,,,,,,,(506) 456-4218,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Fundy Nursing Home,,,Debbie Harris,,,(506) 456-3057,,,,,,,,,,,,(506) 456-4218,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Grand Manan Nursing Home,,,Joanne Ingalls,,,(506) 662-7117,,,,,,,,,,,,(506) 662-7111,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,FALSE
+Grand Manan Nursing Home,,,Joanne Ingalls,,,(506) 662-7117,,,,,,,,,,,,(506) 662-7111,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Grand Manan Nursing Home,,,Joanne Ingalls,,,(506) 662-7117,,,,,,,,,,,,(506) 662-7111,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Grand Manan Nursing Home,,,Joanne Ingalls,,,(506) 662-7117,,,,,,,,,,,,(506) 662-7111,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Grand Manan Nursing Home,,,Joanne Ingalls,,,(506) 662-7117,,,,,,,,,,,,(506) 662-7111,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Kennebec Manor,,,Judy Lane,,,(506) 658-9376,,,,,,,,,,,,(506) 632-9628,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,FALSE
+Kennebec Manor,,,Judy Lane,,,(506) 658-9376,,,,,,,,,,,,(506) 632-9628,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Kennebec Manor,,,Judy Lane,,,(506) 658-9376,,,,,,,,,,,,(506) 632-9628,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Kennebec Manor,,,Judy Lane,,,(506) 658-9376,,,,,,,,,,,,(506) 632-9628,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Kennebec Manor,,,Judy Lane,,,(506) 658-9376,,,,,,,,,,,,(506) 632-9628,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Kings Way Care Center,,,Judy Lane,,,(506) 847-1134,,,,,,,,,,,,(506) 847-1131,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,FALSE
+Kings Way Care Center,,,Judy Lane,,,(506) 847-1134,,,,,,,,,,,,(506) 847-1131,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Kings Way Care Center,,,Judy Lane,,,(506) 847-1134,,,,,,,,,,,,(506) 847-1131,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Kings Way Care Center,,,Judy Lane,,,(506) 847-1134,,,,,,,,,,,,(506) 847-1131,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Kings Way Care Center,,,Judy Lane,,,(506) 847-1134,,,,,,,,,,,,(506) 847-1131,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Kiwanis Nursing Home,,,Kerri Marr,,,(506) 432-3104,,,,,,,,,,,,(506) 432-3118,,,http://www.kiwanisnursinghome.com,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,FALSE
+Kiwanis Nursing Home,,,Kerri Marr,,,(506) 432-3104,,,,,,,,,,,,(506) 432-3118,,,http://www.kiwanisnursinghome.com,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Kiwanis Nursing Home,,,Kerri Marr,,,(506) 432-3104,,,,,,,,,,,,(506) 432-3118,,,http://www.kiwanisnursinghome.com,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Kiwanis Nursing Home,,,Kerri Marr,,,(506) 432-3104,,,,,,,,,,,,(506) 432-3118,,,http://www.kiwanisnursinghome.com,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Kiwanis Nursing Home,,,Kerri Marr,,,(506) 432-3104,,,,,,,,,,,,(506) 432-3118,,,http://www.kiwanisnursinghome.com,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Lincourt Manor,,,Stacy Butler,,,(506) 466-7853,,,,,,,,,,,,(506) 466-7855,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,FALSE
+Lincourt Manor,,,Stacy Butler,,,(506) 466-7853,,,,,,,,,,,,(506) 466-7855,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Lincourt Manor,,,Stacy Butler,,,(506) 466-7853,,,,,,,,,,,,(506) 466-7855,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Lincourt Manor,,,Stacy Butler,,,(506) 466-7853,,,,,,,,,,,,(506) 466-7855,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Lincourt Manor,,,Stacy Butler,,,(506) 466-7853,,,,,,,,,,,,(506) 466-7855,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Loch Lomond Villa,,,Cindy Donovan,,,(506) 643-7179,,,,,,,,,,,,(506) 643-7175,,,http://www.lochlomondvilla.com,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,FALSE
+Loch Lomond Villa,,,Cindy Donovan,,,(506) 643-7179,,,,,,,,,,,,(506) 643-7175,,,http://www.lochlomondvilla.com,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Loch Lomond Villa,,,Cindy Donovan,,,(506) 643-7179,,,,,,,,,,,,(506) 643-7175,,,http://www.lochlomondvilla.com,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Loch Lomond Villa,,,Cindy Donovan,,,(506) 643-7179,,,,,,,,,,,,(506) 643-7175,,,http://www.lochlomondvilla.com,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Loch Lomond Villa,,,Cindy Donovan,,,(506) 643-7179,,,,,,,,,,,,(506) 643-7175,,,http://www.lochlomondvilla.com,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Passamaquoddy Lodge,,,Lezlie LeBlanc,,,(506) 529-5258,,,,,,,,,,,,(506) 529-5240,,,http://www.passamaquoddylodge.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,FALSE
+Passamaquoddy Lodge,,,Lezlie LeBlanc,,,(506) 529-5258,,,,,,,,,,,,(506) 529-5240,,,http://www.passamaquoddylodge.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Passamaquoddy Lodge,,,Lezlie LeBlanc,,,(506) 529-5258,,,,,,,,,,,,(506) 529-5240,,,http://www.passamaquoddylodge.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Passamaquoddy Lodge,,,Lezlie LeBlanc,,,(506) 529-5258,,,,,,,,,,,,(506) 529-5240,,,http://www.passamaquoddylodge.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Passamaquoddy Lodge,,,Lezlie LeBlanc,,,(506) 529-5258,,,,,,,,,,,,(506) 529-5240,,,http://www.passamaquoddylodge.ca,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Rocmaura,,,Sheana Mohra,,,(506) 643-7053,,,,,,,,,,,,(506) 643-7050,,,http://www.rocmaura.com,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,FALSE
+Rocmaura,,,Sheana Mohra,,,(506) 643-7053,,,,,,,,,,,,(506) 643-7050,,,http://www.rocmaura.com,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Rocmaura,,,Sheana Mohra,,,(506) 643-7053,,,,,,,,,,,,(506) 643-7050,,,http://www.rocmaura.com,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Rocmaura,,,Sheana Mohra,,,(506) 643-7053,,,,,,,,,,,,(506) 643-7050,,,http://www.rocmaura.com,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Rocmaura,,,Sheana Mohra,,,(506) 643-7053,,,,,,,,,,,,(506) 643-7050,,,http://www.rocmaura.com,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Turnbull Nursing Home,,,Patti Alcorn,,,(506) 648-9786,,,,,,,,,,,,(506) 643-7200,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,FALSE
+Turnbull Nursing Home,,,Patti Alcorn,,,(506) 648-9786,,,,,,,,,,,,(506) 643-7200,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Turnbull Nursing Home,,,Patti Alcorn,,,(506) 648-9786,,,,,,,,,,,,(506) 643-7200,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Turnbull Nursing Home,,,Patti Alcorn,,,(506) 648-9786,,,,,,,,,,,,(506) 643-7200,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Turnbull Nursing Home,,,Patti Alcorn,,,(506) 648-9786,,,,,,,,,,,,(506) 643-7200,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Carleton Manor,,,Angela Acott-Smith,,,(506) 325-4618,,,,,,,,,,,,(506) 325-4373,,,http://www.carletonmanor.com,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,FALSE
+Carleton Manor,,,Angela Acott-Smith,,,(506) 325-4618,,,,,,,,,,,,(506) 325-4373,,,http://www.carletonmanor.com,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Carleton Manor,,,Angela Acott-Smith,,,(506) 325-4618,,,,,,,,,,,,(506) 325-4373,,,http://www.carletonmanor.com,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Carleton Manor,,,Angela Acott-Smith,,,(506) 325-4618,,,,,,,,,,,,(506) 325-4373,,,http://www.carletonmanor.com,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Carleton Manor,,,Angela Acott-Smith,,,(506) 325-4618,,,,,,,,,,,,(506) 325-4373,,,http://www.carletonmanor.com,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,
+Central Carleton Nursing Home,,,Kristi Schriver,,,(506) 375-3035,,,,,,,,,,,,(506) 375-3033,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,fredericton,,,NB,,,,,,,FALSE
+Central Carleton Nursing Home,,,Kristi Schriver,,,(506) 375-3035,,,,,,,,,,,,(506) 375-3033,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,edmunston,,,NB,,,,,,,
+Central Carleton Nursing Home,,,Kristi Schriver,,,(506) 375-3035,,,,,,,,,,,,(506) 375-3033,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,campbellton,,,NB,,,,,,,
+Central Carleton Nursing Home,,,Kristi Schriver,,,(506) 375-3035,,,,,,,,,,,,(506) 375-3033,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,bathurst,,,NB,,,,,,,
+Central Carleton Nursing Home,,,Kristi Schriver,,,(506) 375-3035,,,,,,,,,,,,(506) 375-3033,,,,,,,,,,,,,,,,,Nursing Home,,,,,,,miramichi,,,NB,,,,,,,

@@ -1,0 +1,67 @@
+name,contact_first_name,contact_last_name,contact_name,email,contact_email,fax,mailing_address_line_1,mailing_address_line_2,mailing_city,mailing_contact_first_name,mailing_contact_last_name,mailing_contact_name,mailing_country,mailing_county,mailing_postalcode,mailing_province,provider_name,primary_phone,secondary_phone,twitter,website,source,contact_occupation,dsgne_first_name,dsgne_last_name,admin_name,co_address_line_1,co_address_line_2,co_company,co_city,co_postalcode,co_province,ombudsman_phone,typeofcare,typeofcare2,low_high_rate,low_rate,high_rate,address_line_1,address_line_2,address_directions,city,municipality,region,province,state_id,postal_code,country,latitude,longitude,neighborhood,addr_valid
+Baillie House,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11666 Laity St,,,Maple Ridge,,,BC,,V2X 7G5,Canada,49.2155155,-122.6300294,Haney,True
+Bradley Centre,,,, ,,604.795.4150,,,,,,,,,,,,604.795.4103,,,,,,,,,,,,,,,,,,,,,45600 Menholm Rd,,,Chilliwack,,,BC,,V2P 1P7,Canada,49.166644,-121.9637349,Chilliwack Proper Village West,True
+Carelife/Fleetwood,,,, ,,604.598.7229,,,,,,,,,,,,604.598.7200,,,,,,,,,,,,,,,,,,,,,8265 159 St,,,Surrey,,,BC,,V4N 5T5,Canada,49.15269,-122.7822247,,True
+Cedar Hill,,,, ,,604.533.6468,,,,,,,,,,,,604.533.6413,,,,,,,,,,,,,,,,,,,,,22051 Fraser Hwy,,,Langley,,,BC,,V3A 4H4,Canada,49.09443570000001,-122.6124141,,True
+Cottage-Worthington Pavilion,,,, ,,604.870.7997,,,,,,,,,,,,604.870.7999,,,,,,,,,,,,,,,,,,,,,33457 Cottage Ln,,,Abbotsford,,,BC,,V2S 0B3,Canada,49.041135,-122.297791,Mill Lake,True
+Eagle Ridge Manor,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,475 Guildford Way,,,Port Moody,,,BC,,V3H 3W9,Canada,49.2850899,-122.82402,,True
+Fraser Hope Lodge,,,, ,,604.860.7708,,,,,,,,,,,,604.860.7706,,,,,,,,,,,,,,,,,,,,,1275A 7th Ave,,,Hope,,,BC,,V0X 1L4,Canada,49.3768912,-121.4242582,,True
+Evergreen Timbers,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5464 203 St,,,Langley,,,BC,,V3A 0A4,Canada,49.1016929,-122.6584485,,True
+MSA Manor,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2510 Gladwin Rd,,,Abbotsford,,,BC,,V2T 3N9,Canada,49.0475096,-122.3145179,Mill Lake,True
+Maple Hill,,,, ,,604.533.6426,,,,,,,,,,,,604.514.6095,,,,,,,,,,,,,,,,,,,,,22051 Fraser Hwy,,,Langley,,,BC,,V3A 4H4,Canada,49.09443570000001,-122.6124141,,True
+Marrwood,,,, ,,604.533.6401,,,,,,,,,,,,604.533.6423,,,,,,,,,,,,,,,,,,,,,22051 Fraser Hwy,,,Langley,,,BC,,V3A 4H4,Canada,49.09443570000001,-122.6124141,,True
+Mountain View Manor,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5800 Mountain View Blvd,,,Delta,,,BC,,V4K 3V6,Canada,49.08567730000001,-123.0618836,Ladner,True
+Peace Arch Hospital - Al Hogg Pavilion,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15521 Russell Ave,,,White Rock,,,BC,,V4B 2R4,Canada,49.0301274,-122.7921925,,True
+Queen's Park Care Centre,,,, ,,604.517.8651,,,,,,,,,,,,604.520.0911,,,,,,,,,,,,,,,,,,,,,315 McBride Blvd,,,New Westminster,,,BC,,V3L 5E8,Canada,49.2168667,-122.9023583,,True
+Rosewood,,,, ,,604.533.6427,,,,,,,,,,,,604.514.6026,,,,,,,,,,,,,,,,,,,,,22051 Fraser Hwy,,,Langley,,,BC,,V3A 4H4,Canada,49.09443570000001,-122.6124141,,True
+Oceanside,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15521 Russell Ave,,,White Rock,,,BC,,V4B 2R4,Canada,49.0301274,-122.7921925,,True
+Dania Manor,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4155 Norland Ave,,,Burnaby,,,BC,,V5G 3S7,Canada,49.24722000000001,-122.97584,,True
+Victoria Heights,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,230 Ross Dr,,,New Westminster,,,BC,,V3L 0B1,Canada,49.21357899999999,-122.9001205,,True
+Augustine House,,,, ,,,,,,,,,,,,,,,1.866.940.6005,,,,,,,,,,,,,,,,,,,,3820 Arthur Dr,,,Delta,,,BC,,V4K 3N2,Canada,49.073062,-123.077155,,True
+The Emerald at Elim Village,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9080 158 St,,,Surrey,,,BC,,V4N 5G4,Canada,49.1678568,-122.7842203,,True
+Sto:lo Elders Lodge,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7519 Topaz Dr,,,Chilliwack,,,BC,,V2R 0E8,Canada,49.1389349,-121.9670607,Sardis,True
+Bevan Lodge,,,, ,,604.850.5418,,,,,,,,,,,,604.850.5416,,,,,,,,,,,,,,,,,,,,,33386 Bevan Ave,,,Abbotsford,,,BC,,V2S 5G6,Canada,49.0417573,-122.2993356,Mill Lake,True
+Gateway Independent Living for Seniors,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13787 100 Ave,,,Surrey,,,BC,,V3T 5X7,Canada,49.1847317,-122.8404363,Whalley,True
+Waverly Seniors Village,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8445 Young Rd,,,Chilliwack,,,BC,,V2P 4P2,Canada,49.1554583,-121.9519837,Chilliwack Proper Village West,True
+The Cascades,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,45586 McIntosh Dr,,,Chilliwack,,,BC,,V2P 7W8,Canada,49.1609803,-121.9628995,Chilliwack Proper Village West,True
+Evergreen Heights,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1501 Everall St,,,White Rock,,,BC,,V4B 3S8,Canada,49.0293954,-122.8098635,,True
+Czorny Alzheimer Centre,,,, ,,604.575.6710,,,,,,,,,,,,604.575.6700,,,,,,,,,,,,,,,,,,,,,16850 66 Ave,,,Surrey,,,BC,,V3S 5M1,Canada,49.122411,-122.755087,,True
+Saint Michael's Centre,,,, ,,604.434.6469,,,,,,,,,,,,604.434.1323,,,,,,,,,,,,,,,,,,,,,7451 Sussex Ave,,,Burnaby,,,BC,,V5J 5C2,Canada,49.2159691,-123.0051885,,True
+Belvedere Care Centre,,,, ,,604.939.5910,,,,,,,,,,,,604.939.5991,,,,,,,,,,,,,,,,,,,,,739 Alderson Ave,,,Coquitlam,,,BC,,V3K 1T9,Canada,49.23988199999999,-122.878261,,True
+Kinsmen Place Lodge,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9650 137A St,,,Surrey,,,BC,,V3T 4H9,Canada,49.1777442,-122.8420964,Whalley,True
+Cherington Place,,,, ,,604.582.9028,,,,,,,,,,,,604.581.2885,,,,,,,,,,,,,,,,,,,,,13453 111A Ave,,,Surrey,,,BC,,V3R 2C5,Canada,49.2055578,-122.849455,,True
+Valhaven Home,,,, ,,604.856.3243,,,,,,,,,,,,604.856.2812,,,,,,,,,,,,,,,,,,,,,4212 Balmoral St,,,Abbotsford,,,BC,,V4X 2P7,Canada,49.0788564,-122.3853679,Bradner,True
+White Rock Seniors Village,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15628 Buena Vista Ave,,,White Rock,,,BC,,V4B 1Z4,Canada,49.0236424,-122.7891502,,True
+Langley Gardens,,,, ,,604.881.8199,,,,,,,,,,,,604.888.0228,,,,,,,,,,,,,,,,,,,,,8888 202 St,,,Langley,,,BC,,V1M 4A7,Canada,49.1660759,-122.6605598,,True
+Fleetwood Place,,,, ,,,,,,,,,,,,,,604.590.6860,,,,,,,,,,,,,,,,,,,,,16011 83 Ave,,,Surrey,,,BC,,V4N 0N2,Canada,49.15378399999999,-122.777988,,True
+Glenwood Care Centre,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1458 Glenwood Dr,,,Agassiz,,,BC,,V0M 1A2,Canada,49.23062299999999,-121.75819,,True
+Sherwood Crescent Manor,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,32073 Sherwood Cr,,,Abbotsford,,,BC,,V2T 1C1,Canada,49.0418021,-122.3348765,Clearbrook,True
+Rosemary Heights Seniors Village,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15240 34 Ave,,,Surrey,,,BC,,V3S 2J9,Canada,49.063198,-122.8004591,Rosemary Heights Central,True
+Cartier House,,,, ,,604.939.6442,,,,,,,,,,,,604.939.4654,,,,,,,,,,,,,,,,,,,,,1419 Cartier Ave,,,Coquitlam,,,BC,,V3K 2C6,Canada,49.241715,-122.852882,,True
+Eden Care Centre,,,, ,,604.792.1111,,,,,,,,,,,,604.792.8166,,,,,,,,,,,,,,,,,,,,,9100 Charles St,,,Chilliwack,,,BC,,V2P 5K6,Canada,49.167096,-121.94196,Chilliwack Proper Village West,True
+Dufferin Care Centre,,,, ,,604.552.3116,,,,,,,,,,,,604.552.1166,,,,,,,,,,,,,,,,,,,,,1131 Dufferin St,,,Coquitlam,,,BC,,V3B 7X5,Canada,49.2788776,-122.8039201,,True
+Evergreen Hamlets,,,, ,,604.597.9025,,,,,,,,,,,,604.597.7906,,,,,,,,,,,,,,,,,,,,,15660 84 Ave,,,Surrey,,,BC,,V4N 0W3,Canada,49.15533199999999,-122.788255,,True
+Menno Hospital,,,, ,,604.859.6931,,,,,,,,,,,,604.859.7631,,,,,,,,,,,,,,,,,,,,,32945 Marshall Rd,,,Abbotsford,,,BC,,V2S 1K1,Canada,49.0391075,-122.311278,Mill Lake,True
+Finnish Manor,,,, ,,604.439.7448,,,,,,,,,,,,604.434.2666,,,,,,,,,,,,,,,,,,,,,3460 Kalyk Ave,,,Burnaby,,,BC,,V5G 3B2,Canada,49.2536838,-123.012884,,True
+Langley Lodge,,,, ,,604.532.4205,,,,,,,,,,,,604.530.2305,,,,,,,,,,,,,,,,,,,,,5451 204 St,,,Langley,,,BC,,V3A 5M9,Canada,49.1015439,-122.6571539,,True
+Guildford Seniors' Village,,,, ,,604.582.7011,,,,,,,,,,,,604.582.0808,,,,,,,,,,,,,,,,,,,,,14568 104A Ave,,,Surrey,,,BC,,V3R 1R3,Canada,49.1923682,-122.8182762,Guildford,True
+Hilton Villa Care Centre,,,, ,,604.588.3433,,,,,,,,,,,,604.588.3424,,,,,,,,,,,,,,,,,,,,,13525 Hilton Rd,,,Surrey,,,BC,,V3R 5J3,Canada,49.20242299999999,-122.8470147,,True
+New Vista Care Centre,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7550 Rosewood St,,,Burnaby,,,BC,,V5E 3Z3,Canada,49.22391770000001,-122.9453392,,True
+Delta View Life Enrichment Centre,,,, ,,604.596.7613,,,,,,,,,,,,604.596.8842,,,,,,,,,,,,,,,,,,,,,9341 Burns Dr,,,Delta,,,BC,,V4K 3N3,Canada,49.0921761,-122.965141,,True
+Harmony Court,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7195 Canada Way,,,Burnaby,,,BC,,V5E 3R7,Canada,49.2247436,-122.9425326,,True
+Jackman Manor,,,, ,,604.856.2562,,,,,,,,,,,,604.856.4161,,,,,,,,,,,,,,,,,,,,,27477 28 Ave,,,Langley,,,BC,,V4W 3L9,Canada,49.0531465,-122.4642276,Aldergrove,True
+Crescent Gardens,,,, ,,604.541.8871,,,,,,,,,,,,604.541.8861,,,,,,,,,,,,,,,,,,,,,1222 King George Blvd,,,Surrey,,,BC,,V4A 9W6,Canada,49.0243698,-122.7651873,,True
+Burquitlam Lions Care Centre,,,, ,,604.939.4728,,,,,,,,,,,,604.939.6485,,,,,,,,,,,,,,,,,,,,,560 Sydney Ave,,,Coquitlam,,,BC,,V3K 6A4,Canada,49.24792300000001,-122.887812,,True
+Tabor Home,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,31944 Sunrise Cr,,,Abbotsford,,,BC,,V2T 1N5,Canada,49.04682229999999,-122.3388291,Clearbrook Commercial,True
+Lakeshore Care Centre,,,, ,,604.939.6518,,,,,,,,,,,,604.939.9277,,,,,,,,,,,,,,,,,,,,,657 Gatensbury St,,,Coquitlam,,,BC,,V3J 5G9,Canada,49.256645,-122.8564442,,True
+Normanna Rest Home,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7725 4th St,,,Burnaby,,,BC,,V3N 5B6,Canada,49.222035,-122.927667,,True
+George Derby Centre,,,, ,,604.521.0220,,,,,,,,,,,,604.521.2676,,,,,,,,,,,,,,,,,,,,,7550 Cumberland St,,,Burnaby,,,BC,,V3N 3X5,Canada,49.2335692,-122.9164988,,True
+Evergreen Baptist Care Home,,,, ,,604.541.3803,,,,,,,,,,,,604.536.3344,,,,,,,,,,,,,,,,,,,,,1550 Oxford St,,,White Rock,,,BC,,V4B 3R5,Canada,49.02988010000001,-122.8114563,,True
+Maplewood House,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1919 Jackson St,,,Abbotsford,,,BC,,V2S 2Z8,Canada,49.03688700000001,-122.307631,Mill Lake,True
+Menno Home,,,, ,,604.859.0751,,,,,,,,,,,,604.853.2411,,,,,,,,,,,,,,,,,,,,,32910 Brundige Ave,,,Abbotsford,,,BC,,V2S 1N2,Canada,49.0399536,-122.3105995,Mill Lake,True
+Dania Home,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4175 Norland Ave,,,Burnaby,,,BC,,V5G 3S7,Canada,49.2474414,-122.9750779,,True
+Fair Haven United Church Homes,,,, ,,604.435.7031,,,,,,,,,,,,604.435.0525,,,,,,,,,,,,,,,,,,,,,7557 Sussex Ave,,,Burnaby,,,BC,,V5J 3V6,Canada,49.2151387,-123.0051921,,True
+Delta View Habilitation Centre,,,, ,,604.596.8858,,,,,,,,,,,,604.596.8842,,,,,,,,,,,,,,,,,,,,,9341 Burns Dr,,,Delta,,,BC,,V4K 3N3,Canada,49.0921761,-122.965141,,True
+KinVillage Care Home,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5410 10 Ave,,,Delta,,,BC,,V4M 3X8,Canada,49.02151899999999,-123.073644,Tsawwassen,True
+Courtyard Terrace,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3730 Burke St,,,Burnaby,,,BC,,V5G 4H7,Canada,49.2368917,-123.0226075,,True
+"St. Vincent's Hospital, Langara",,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,255 62nd Ave W,,,Vancouver,,,BC,,V5X 4V4,Canada,49.21472969999999,-123.1114069,West Side,True

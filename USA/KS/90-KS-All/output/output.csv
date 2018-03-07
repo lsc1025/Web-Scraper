@@ -1,0 +1,143 @@
+row_id,Facility Name,Facility Type,Address1,Address2,City,Zip,State,Country,Phone,Latitude,Longitude
+USA-KS-90-KS-All-output-1,Memorial  Hospital LTCU (Village Manor),SNF/NF,705 N Brady St,,Abilene,67410,KS, USA,(785) 263-1431,38.9221325,-97.2037264
+USA-KS-90-KS-All-output-2,Arkansas City Presbyterian Manor,SNF/NF,1711 N 4th St,,Arkansas City,67005,KS, USA,(620) 442-8700,37.083515,-97.045514
+USA-KS-90-KS-All-output-3,Attica Long Term Care,NF,303 N Botkin St,,Attica,67009,KS, USA,(620) 254-7253,37.241072,-98.229075
+USA-KS-90-KS-All-output-4,Comfortcare Homes of Baldwin City LLC,HP,232 Elm St,,Baldwin City,66006,KS, USA,(785) 594-2603,38.7780352,-95.1808093
+USA-KS-90-KS-All-output-5,Solomon Valley Village,HP,120 N Campbell Ave,,Beloit,67420,KS, USA,(785) 534-1892,39.4592674,-98.1073446
+USA-KS-90-KS-All-output-6,Buhler Sunshine Home,SNF/NF,400 S Buhler Rd,,Buhler,67522,KS, USA,(620) 543-2251,38.1313149,-97.7750643
+USA-KS-90-KS-All-output-7,Life Care Center of Burlington,SNF/NF,601 Cross St,,Burlington,66839,KS, USA,(620) 431-0599,38.2058519,-95.7423429
+USA-KS-90-KS-All-output-8,Eastridge,SNF/NF,604 1st St,,Centralia,66415,KS, USA,(785) 857-3388,39.7241436,-96.1239612
+USA-KS-90-KS-All-output-9,Country Place Memory Care,HP,705 Osa Martin Blvd,,Chanute,66720,KS, USA,(620) 431-1822,37.6722743,-95.4774569
+USA-KS-90-KS-All-output-10,Clearwater Village,ALF,440 N 4th St,,Clearwater,67026,KS, USA,(620) 584-4257,37.510286,-97.494717
+USA-KS-90-KS-All-output-11,Clearwater Nursing & Rehab Ctr,SNF/NF,620 E Wood St,,Clearwater,67026,KS, USA,(620) 584-2271,37.5088719,-97.4989189
+USA-KS-90-KS-All-output-12,Windsor Place LLC,SNF/NF,2921 W 1st St,,Coffeyville,67337,KS, USA,(620) 251-5190,37.0434728,-95.6587568
+USA-KS-90-KS-All-output-13,Citizens Medical Center LTCU,LTCU,1625 S Franklin Ave,,Colby,67701,KS, USA,(785) 462-8295,39.3735147,-101.0443589
+USA-KS-90-KS-All-output-14,The Autumn Place Memory Care Unit,RHCF,315 S E Ave,,Columbus,66725,KS, USA,(630) 429-1011,37.1678846,-94.8325754
+USA-KS-90-KS-All-output-15,Glen Carr House,RHCF,1433 N Hamilton Dr,,Derby,67037,KS, USA,(316) 788-9999,37.5612987,-97.2343792
+USA-KS-90-KS-All-output-16,Good Samaritan Society - Dodge City,SNF/NF,501 W Beeson Rd,,Dodge City,67801,KS, USA,(620) 227-7512,37.7359173,-100.0257991
+USA-KS-90-KS-All-output-17,Homestead of El Dorado,RHCF,1650 E 12th Ave,,El Dorado,67042,KS, USA,(316) 321-7777,37.832787,-96.830641
+USA-KS-90-KS-All-output-18,Morton Co. Senior Living Community,NF,400 Buckmaster Dr,,Elkhart,67950,KS, USA,(620) 697-2728,37.00197,-101.9058475
+USA-KS-90-KS-All-output-19,Emporia Presbyterian Manor,SNF/NF,2300 Industrial Rd,,Emporia,66801,KS, USA,(620) 343-2613,38.425769,-96.2139909
+USA-KS-90-KS-All-output-20,Eureka Nursing Ctr,SNF/NF,1020 N School St,,Eureka,67045,KS, USA,(620) 583-7418,37.8289915,-96.2914034
+USA-KS-90-KS-All-output-21,Country Place Memory Care of Ft. Scott,HP,822 Horton St,,Fort Scott,66701,KS, USA,(620) 223-1822,37.8310542,-94.7136092
+USA-KS-90-KS-All-output-22,Vintage Park at Fredonia,ALF,2111 E Washington St,,Fredonia,66736,KS, USA,(620) 378-2329,37.5298157,-95.8065038
+USA-KS-90-KS-All-output-23,Good Samaritan Society - Sherman Co.,SNF/NF,208 W 2nd St,,Goodland,67735,KS, USA,(785) 890-7517,39.357575,-101.7133156
+USA-KS-90-KS-All-output-24,Cherry Village,SNF/NF,1401 Cherry Ln,,Great Bend,67530,KS, USA,(620) 792-2165,38.3654383,-98.8153948
+USA-KS-90-KS-All-output-25,Great Bend Health & Rehab Ctr,SNF/NF,1560 KS-96,,Great Bend,67530,KS, USA,(620) 792-2448,38.357777,-98.7468712
+USA-KS-90-KS-All-output-26,Haven House,HP,410 N Reno Ave,,Haven,67543,KS, USA,(620) 465-2421,37.9073909,-97.7838658
+USA-KS-90-KS-All-output-27,Good Samaritan Society - Hays,SNF/NF,2700 Canal Blvd,,Hays,67601,KS, USA,(785) 625-7331,38.8860316,-99.3334144
+USA-KS-90-KS-All-output-28,Maple Heights Nursing & Rehab Ctr,SNF/NF,302 E Iowa St,,Hiawatha,66434,KS, USA,(785) 742-7465,39.851288,-95.518958
+USA-KS-90-KS-All-output-29,Highland Healthcare & Rehab Ctr,SNF/NF,402 South Ave,,Highland,66035,KS, USA,(785) 442-3217,39.8564172,-95.2705246
+USA-KS-90-KS-All-output-30,Country Place Memory Care,HP,520 N Vine St,,Hoisington,67544,KS, USA,(620) 653-4121,38.5187221,-98.7798514
+USA-KS-90-KS-All-output-31,"The Pines, Inc.",HP,725 Iowa Ave,,Holton,66436,KS, USA,(785) 364-3314,39.4687478,-95.7395121
+USA-KS-90-KS-All-output-32,Brookdale of Hutchinson,ALF,2416 Brentwood St,,Hutchinson,67502,KS, USA,(620) 633-9195,38.0808105,-97.906359
+USA-KS-90-KS-All-output-33,"Wesley Towers, Inc.",SNF/NF,700 Monterey Pl,,Hutchinson,67502,KS, USA,(620) 663-9175,38.0939018,-97.9452104
+USA-KS-90-KS-All-output-34,Pleasant View Home,SNF/NF,108 N Walnut St,,Inman,67546,KS, USA,(620) 585-6411,38.232572,-97.770182
+USA-KS-90-KS-All-output-35,Valley View Senior Living,SNF/NF,1417 W Ash St,,Junction City,66441,KS, USA,(785) 762-2162,39.013972,-96.8549743
+USA-KS-90-KS-All-output-36,Johnsonville Home LLC,HP,2419 N 22nd St,,Kansas City,66104,KS, USA,(913) 371-3995,39.1338504,-94.6550696
+USA-KS-90-KS-All-output-37,Morningside Place,RHCF,6921 W 81st St,,Overland Park,66204,KS, USA,(913) 901-8500,38.9817093,-94.6664634
+USA-KS-90-KS-All-output-38,The Wheatlands Health Care Ctr,SNF/NF,750 W Washington St,,Kingman,67068,KS, USA,(620) 532-5801,37.6513278,-98.1226531
+USA-KS-90-KS-All-output-39,Country Living of Larned Home Plus,HP,710 W 9th St,,Larned,67550,KS, USA,(620) 285-6212,38.1830465,-99.1071229
+USA-KS-90-KS-All-output-40,The Arbors at Monterey Village,RHCF,3905 Peterson Rd,,Lawrence,66049,KS, USA,(785) 371-9080,38.9860576,-95.2902407
+USA-KS-90-KS-All-output-41,Brandon Woods at Alvamar,SNF/NF,1501 Inverness Dr,,Lawrence,66047,KS, USA,(913) 838-8000,38.9561144,-95.3036378
+USA-KS-90-KS-All-output-42,The Windsor of Lawrence,ALF,3220 Peterson Rd,,Lawrence,66049,KS, USA,(785) 832-9900,38.9868562,-95.2758233
+USA-KS-90-KS-All-output-43,Grace Gardens of Leawood ALF,ALF,5201 W 143rd St,,Overland Park,66224,KS, USA,(913) 685-4800,38.8683268,-94.646976
+USA-KS-90-KS-All-output-44,Sunrise Assisted Living of Leawood,ALF,11661 Granada Ln,,Leawood,66211,KS, USA,(913) 906-0200,38.9181771,-94.6388852
+USA-KS-90-KS-All-output-45,Care Haven Homes - Overbrook,HP,9833 Overbrook Ct,,Leawood,66206,KS, USA,(913) 643-0111,38.9434801,-94.609234
+USA-KS-90-KS-All-output-46,Care Haven Homes - Sunflower,HP,9218 Lee Blvd,,Leawood,66206,KS, USA,(913) 643-0111,38.9619441,-94.6157175
+USA-KS-90-KS-All-output-47,Brookdale Leawood State Line,RHCF,12724 State Line Rd,,Leawood,66209,KS, USA,(913) 345-8808,38.8969989,-94.6088038
+USA-KS-90-KS-All-output-48,Kearny County Hospital LTCU,LTCU,607 Court Pl,,Lakin,67860,KS, USA,(620) 355-7836,37.9470083,-101.2507041
+USA-KS-90-KS-All-output-49,Sunrise Assisted Living of Lenexa,ALF,15055 W 87th St Pkwy,,Lenexa,66215,KS, USA,(913) 307-0665,38.970565,-94.760174
+USA-KS-90-KS-All-output-50,Benton House of Lenexa,ALF,22000 Prairie Star Pkwy,,Lenexa,66220,KS, USA,(678) 297-0388,38.9522916,-94.8347086
+USA-KS-90-KS-All-output-51,Delmar Gardens of Lenexa,SNF/NF,9701 Monrovia St,,Lenexa,66215,KS, USA,(913) 492-1130,38.9504608,-94.7268062
+USA-KS-90-KS-All-output-52,Leonardville Nursing Home,SNF/NF,409 W Barton Rd,,Leonardville,66449,KS, USA,(785) 293-5244,39.36375,-96.865776
+USA-KS-90-KS-All-output-53,Good Samaritan Society - Liberal,SNF/NF,2160 Zinnia Ln,,Liberal,67901,KS, USA,(620) 624-3831,37.0635007,-100.9249964
+USA-KS-90-KS-All-output-54,Lyons Good Samaritan Society,SNF/NF,1311 S Douglas Ave,,Lyons,67554,KS, USA,(620) 257-5163,38.3345727,-98.2076802
+USA-KS-90-KS-All-output-55,Stoneybrook Assisted Living,ALF,2025 Little Kitten Ave,,Manhattan,66503,KS, USA,(785) 537-1065,39.206016,-96.633001
+USA-KS-90-KS-All-output-56,Cambridge Place,SNF/NF,1100 N 16th St,,Marysville,66508,KS, USA,(785) 562-5321,39.8514883,-96.6374983
+USA-KS-90-KS-All-output-57,Good Samaritan Society - Minneapolis,SNF/NF,615 N Rothsay Ave,,Minneapolis,67467,KS, USA,(785) 392-2162,39.126589,-97.7018134
+USA-KS-90-KS-All-output-58,Moran Manor,SNF/NF,3940 US-54,,Moran,66755,KS, USA,(620) 237-4300,37.922197,-95.175455
+USA-KS-90-KS-All-output-59,Pine Village,SNF/NF,86 22nd Ave,,Moundridge,67107,KS, USA,(620) 345-2901,38.1874595,-97.5173243
+USA-KS-90-KS-All-output-60,Vintage Park at Neodesha,ALF,400 Fir St,,Neodesha,66757,KS, USA,(620) 325-2244,37.4355109,-95.6791446
+USA-KS-90-KS-All-output-61,Comfort Care Homes of Harvey Co.,HP,1504 Terrace Dr,,Newton,67114,KS, USA,(316) 804-7220,38.0612206,-97.3526553
+USA-KS-90-KS-All-output-62,Newton Presbyterian Manor,SNF/NF,1200 E 7th St,,Newton,67114,KS, USA,(316) 283-5400,38.0515387,-97.3259904
+USA-KS-90-KS-All-output-63,"Andbe Home, Inc.",SNF/NF,201 W Crane St,,Norton,67654,KS, USA,(785) 877-2601,39.8406447,-99.8901254
+USA-KS-90-KS-All-output-64,The Homestead of Olathe North,ALF,791 N Somerset Terrace,,Olathe,66062,KS, USA,(913) 929-1403,38.892672,-94.7822
+USA-KS-90-KS-All-output-65,Azria Health at Olathe,SNF/NF,201 E Flaming Rd,,Olathe,66061,KS, USA,(913) 829-2273,38.8666629,-94.8184623
+USA-KS-90-KS-All-output-66,Evergreen Community of Johnson Co.,SNF/NF,11875 S Sunset Dr ,#100,Olathe,66061,KS, USA,(913) 477-8227,38.9140076,-94.8020564
+USA-KS-90-KS-All-output-67,Good Samaritan Society - Olathe,SNF/NF,20705 W 151st St,,Olathe,66061,KS, USA,(913) 782-1372,38.8545451,-94.8282393
+USA-KS-90-KS-All-output-68,Pinnacle Ridge Nursing & Rehab Ctr,SNF/NF,400 S Rogers Rd,,Olathe,66062,KS, USA,(913) 782-3350,38.8777808,-94.7915346
+USA-KS-90-KS-All-output-69,Villa St. Francis,SNF/NF,16600 W 126th St,,Olathe,66062,KS, USA,(913) 829-5201,38.9010671,-94.7814982
+USA-KS-90-KS-All-output-70,Aberdeen Village,SNF/NF,17500 W 119th St,,Olathe,66061,KS, USA,(913) 599-6100,38.9149119,-94.7908812
+USA-KS-90-KS-All-output-71,Parkview Care Center,SNF/NF,811 N 1st St,,Osborne,67473,KS, USA,(785) 346-2114,39.4499522,-98.6945224
+USA-KS-90-KS-All-output-72,Hickory Point Care & Rehab Center,SNF/NF,700 Cherokee St,,Oskaloosa,66066,KS, USA,(785) 863-2108,39.213955,-95.312318
+USA-KS-90-KS-All-output-73,Comfortcare Homes of Ottawa LLC,HP,27 E Rockwood Dr,,Ottawa,66067,KS, USA,(785) 592-2603,38.5966098,-95.2546526
+USA-KS-90-KS-All-output-74,Stratford Commons Memory Care,ALF,12340 Quivira Rd,,Overland Park,66213,KS, USA,(913) 851-0215,38.9048424,-94.7247263
+USA-KS-90-KS-All-output-75,Sunrise Assisted Living,ALF,12500 W 135th St,,Overland Park,66221,KS, USA,(913) 685-3340,38.8843758,-94.7291358
+USA-KS-90-KS-All-output-76,Morningside Place,RHCF,6921 W 81st St,,Overland Park,66204,KS, USA,(913) 901-8500,38.9817093,-94.6664634
+USA-KS-90-KS-All-output-77,Park Meadows Memory Care,RHCF,5952 W 107th St,,Overland Park,66211,KS, USA,(913) 901-8100,38.9347847,-94.6543048
+USA-KS-90-KS-All-output-78,The Atriums Senior Living Community,RHCF,7300 W 107th St,,Overland Park,66212,KS, USA,(913) 381-6000,38.9343549,-94.6714487
+USA-KS-90-KS-All-output-79,Bickford of Overland Park,RHCF,10665 Barkley,,Overland Park,66212,KS, USA,(913) 642-5400,38.9356812,-94.663624
+USA-KS-90-KS-All-output-80,The Fields of Brookside Retire Com,HP,Ash St,,Overland Park,66224,KS, USA,(785) 224-9488,38.8754053,-94.6453732
+USA-KS-90-KS-All-output-81,Care Haven Homes - Broadmoor,HP,7001 W 69th St,,Overland Park,66204,KS, USA,(913) 643-0111,39.00375,-94.6666989
+USA-KS-90-KS-All-output-82,Care Haven Homes - Fontana,HP,10001 Fontana Ln,,Overland Park,66207,KS, USA,(913) 643-0111,38.9475496,-94.6375016
+USA-KS-90-KS-All-output-83,Care Haven Homes - Southmoor,HP,7010 W 69th Terrace,,Overland Park,66204,KS, USA,(913) 643-0111,39.0030852,-94.6671676
+USA-KS-90-KS-All-output-84,Care Haven Homes - Wychlow,HP,3 Wycklow St,,Overland Park,66207,KS, USA,(913) 643-0111,38.9406621,-94.6369698
+USA-KS-90-KS-All-output-85,The Prairie Elder Homes,HP,15354 Quivira Rd,,Overland Park,66221,KS, USA,(913) 257-5425,38.8487938,-94.7242636
+USA-KS-90-KS-All-output-86,Prairie Elder Homes - Harmony House,HP,11865 W 155th Terrace,,Overland Park,66221,KS, USA,(913) 257-5425,38.8461152,-94.7232084
+USA-KS-90-KS-All-output-87,Brookdale - Overland Park,SNF/NF,12000 Lamar Ave,,Overland Park,66209,KS, USA,(913) 663-2888,38.9107155,-94.6603848
+USA-KS-90-KS-All-output-88,Garden Terrace at Overland Park,SNF/NF,7541 Switzer Rd,,Overland Park,66214,KS, USA,(913) 631-2273,38.991722,-94.704971
+USA-KS-90-KS-All-output-89,"Village Shalom, Inc.",SNF/NF,5500 W 123rd St,,Leawood,66209,KS, USA,(913) 266-8490,38.907188,-94.651883
+USA-KS-90-KS-All-output-90,The Heritage of Overland Park,SNF/NF,10101 W 127th St,,Overland Park,66213,KS, USA,(913) 912-7800,38.8973666,-94.7029238
+USA-KS-90-KS-All-output-91,Indian Creek Healthcare Center,SNF/NF,6515 W 103rd St,,Overland Park,66212,KS, USA,(913) 642-5545,38.9389054,-94.6623407
+USA-KS-90-KS-All-output-92,Brookdale College Square,RHCF,11000 Oakmont St,,Overland Park,66210,KS, USA,(913) 491-1144,38.9303559,-94.72935
+USA-KS-90-KS-All-output-93,Sunrise Assisted Living of Overland Park,SNF/NF,12500 W 135th St,,Overland Park,66221,KS, USA,(913) 685-3340,38.8843758,-94.7291358
+USA-KS-90-KS-All-output-94,Autumn Leaves of Overland Park,RHCF,12701 Pflumm Rd,,Overland Park,66213,KS, USA,(913) 378-9810,38.8981613,-94.7422676
+USA-KS-90-KS-All-output-95,Park Meadows Senior Living,ALF,5901 W 107th St,,Overland Park,66207,KS, USA,(913) 901-8200,38.933664,-94.654347
+USA-KS-90-KS-All-output-96,Peabody Operator LLC,SNF/NF,407 N Locust St,,Peabody,66866,KS, USA,(620) 983-2152,38.1684385,-97.1123568
+USA-KS-90-KS-All-output-97,Comfortcare Homes Millie's Place,HP,803 Lakeview Dr,,Pittsburg,66762,KS, USA,(620) 308-6520,37.3944903,-94.692942
+USA-KS-90-KS-All-output-98,Pittsburg Care & Rehabilitation Center,SNF/NF,1005 E Centennial Dr,,Pittsburg,66762,KS, USA,(620) 231-1120,37.3818018,-94.6893856
+USA-KS-90-KS-All-output-99,Addington Place of Prairie Village,ALF,2700 Somerset Dr,,Prairie Village,66206,KS, USA,(913) 648-3333,38.9849537,-94.6171982
+USA-KS-90-KS-All-output-100,Brighton Gardens of Prairie Village,SNF/NF,7105 Mission Rd,,Prairie Village,66208,KS, USA,(913) 262-1611,38.9993018,-94.6291236
+USA-KS-90-KS-All-output-101,Parkwood Village,ALF,401 Rochester St,,Pratt,67124,KS, USA,(620) 672-5541,37.6428065,-98.7317429
+USA-KS-90-KS-All-output-102,Richmond Healthcare & Rehab Center,SNF/NF,340 E South St,,Richmond,66080,KS, USA,(785) 835-6135,38.3982828,-95.251992
+USA-KS-90-KS-All-output-103,Oakley Place of Rossville,HP,590 Industrial Traffic Way,,Rossville,66533,KS, USA,(785) 584-6075,39.1313203,-95.9445585
+USA-KS-90-KS-All-output-104,Rossville Healthcare & Rehab Center,SNF/NF,600 E Perry St,,Rossville,66533,KS, USA,(785) 584-6104,39.136257,-95.9433927
+USA-KS-90-KS-All-output-105,Smoky Hill Rehabilitation Center,SNF/NF,Johnson Rd,,Marquette,67464,KS, USA,(785) 823-7107,38.5997209,-97.9768866
+USA-KS-90-KS-All-output-106,Salina Presbyterian Manor,SNF/NF,2601 E Crawford St,,Salina,67401,KS, USA,(785) 825-1366,38.8283182,-97.5636833
+USA-KS-90-KS-All-output-107,Pleasant Valley Manor,SNF/NF,613 E Elm St,,Sedan,67361,KS, USA,(620) 725-3153,37.1289788,-96.1794556
+USA-KS-90-KS-All-output-108,Brookdale Shawnee,RHCF,11400 W 65th St,,Shawnee,66203,KS, USA,(913) 248-1500,39.0116174,-94.719391
+USA-KS-90-KS-All-output-109,Clover Care,HP,6320 Zarda Dr,,Shawnee,66226,KS, USA,(913) 991-2605,39.0137965,-94.8785256
+USA-KS-90-KS-All-output-110,Blackhawk Assisted Living,ALF,22550 S Franklin St,,Spring Hill,66083,KS, USA,(913) 592-5101,38.7206813,-94.8312448
+USA-KS-90-KS-All-output-111,Aldersgate Village,SNF/NF,3220 SW Albright Dr,,Topeka,66614,KS, USA,(785) 478-9440,39.008428,-95.788677
+USA-KS-90-KS-All-output-112,Atria Hearthstone East,ALF,3415 SW 6th Ave,,Topeka,66606,KS, USA,(785) 234-6806,39.0576339,-95.7187694
+USA-KS-90-KS-All-output-113,The Homestead of Topeka,ALF,5820 SW Drury Ln,,Topeka,66604,KS, USA,(785) 272-2200,39.0405398,-95.7534539
+USA-KS-90-KS-All-output-114,Brookdale of Topeka,RHCF,5800 SW Drury Ln,,Topeka,66604,KS, USA,(785) 271-5100,39.040509,-95.7527907
+USA-KS-90-KS-All-output-115,Peggy Kelley House I,RHCF,2111 SW Randolph Ave,,Topeka,66611,KS, USA,(785) 234-8888,39.0289285,-95.7114973
+USA-KS-90-KS-All-output-116,Peggy Kelley House II,RHCF,1800 SW Fairmont Rd,,Topeka,66604,KS, USA,(785) 271-9594,39.0342524,-95.7454581
+USA-KS-90-KS-All-output-117,Oakley Place #1,HP,618 SW Oakley Ave,,Topeka,66606,KS, USA,(785) 221-7740,39.058141,-95.7150489
+USA-KS-90-KS-All-output-118,Oakley Place #2,HP,618 SW Oakley Ave b,,Topeka,66606,KS, USA,(785) 221-7740,39.058141,-95.7150489
+USA-KS-90-KS-All-output-119,Brewster Health Center,SNF/NF,1001 SW 29th St,,Topeka,66611,KS, USA,(785) 267-1666,39.013998,-95.690421
+USA-KS-90-KS-All-output-120,Legend at Capital Ridge,ALF,1931 SW Arvonia Pl,,Topeka,66615,KS, USA,(785) 272-9400,39.031563,-95.769978
+USA-KS-90-KS-All-output-121,"Westy Community Care Home, Inc.",SNF/NF,105 KS-99,,Westmoreland,66549,KS, USA,(785) 457-2801,39.393558,-96.408649
+USA-KS-90-KS-All-output-122,Wheat State Manor,SNF/NF,601 S Main St,,Whitewater,67154,KS, USA,(316) 799-2181,37.9578278,-97.1501781
+USA-KS-90-KS-All-output-123,Avita Senior Living at Rolling Hills,ALF,629 S Maize Ct,,Wichita,67209,KS, USA,(316) 361-2500,37.6731434,-97.4655101
+USA-KS-90-KS-All-output-124,Larksfield Place Assisted Living,ALF,2727 N Rock Rd,,Wichita,67226,KS, USA,(316) 361-2800,37.7335394,-97.245817
+USA-KS-90-KS-All-output-125,Park West Plaza,ALF,505 N Maize Rd,,Wichita,67212,KS, USA,(316) 729-4114,37.6906872,-97.4648938
+USA-KS-90-KS-All-output-126,Regent Park Assisted Liv & Memory Care,ALF,10600 E 13th St N,,Wichita,67206,KS, USA,(316) 337-5400,37.7085226,-97.2122104
+USA-KS-90-KS-All-output-127,The Oxford Grand,ALF,3051 N Parkdale St,,Wichita,67205,KS, USA,(316) 927-2007,37.7387516,-97.4707805
+USA-KS-90-KS-All-output-128,Brookdale East Wichita,RHCF,9191 E 21st St N,,Wichita,67206,KS, USA,(913) 630-0788,37.7222817,-97.2310761
+USA-KS-90-KS-All-output-129,Caring Hearts for Senior Living,HP,1229 S Byron Rd,,Wichita,67209,KS, USA,(316) 993-8942,37.6713848,-97.447373
+USA-KS-90-KS-All-output-130,Grace Cottage LLC,HP,531 N Crestline St,,Wichita,67212,KS, USA,(316) 990-2366,37.6909037,-97.4601967
+USA-KS-90-KS-All-output-131,Meadowlark Adult Care Home 5,HP,8101 W Maple St,,Wichita,67209,KS, USA,(316) 773-2277,37.67938,-97.436463
+USA-KS-90-KS-All-output-132,Meadowlark Adult Care Home 2,HP,254 S Robin Rd,,Wichita,67209,KS, USA,(316) 773-2277,37.6799751,-97.4422183
+USA-KS-90-KS-All-output-133,Meadowlark Adult Care Home 3,HP,11216 W Maple St,,Wichita,67209,KS, USA,(316) 733-2277,37.67962,-97.472108
+USA-KS-90-KS-All-output-134,Meadowlark Adult Care Home 4,HP,1425 Leecrest St,,Wichita,67209,KS, USA,(316) 733-2277,37.6676021,-97.4643038
+USA-KS-90-KS-All-output-135,Meadowlark Adult Care Home 6,HP,10001 W 12th St N,,Wichita,67212,KS, USA,(316) 733-2277,37.7050599,-97.4586189
+USA-KS-90-KS-All-output-136,Reflections Residential Care,HP,1201 N Pinecrest St,,Wichita,67208,KS, USA,(316) 214-3359,37.7061209,-97.274793
+USA-KS-90-KS-All-output-137,Stratford Home,HP,1425 N Stratford Ln,,Wichita,67206,KS, USA,(316) 425-5509,37.7103876,-97.258727
+USA-KS-90-KS-All-output-138,Kansas Masonic Home,SNF/NF,402 S Martinson St,,Wichita,67213,KS, USA,(316) 269-7500,37.6794834,-97.3552674
+USA-KS-90-KS-All-output-139,Life Care Center of Wichita,SNF/NF,622 N Edgemoor St,,Wichita,67208,KS, USA,(316) 686-5100,37.6964914,-97.2703272
+USA-KS-90-KS-All-output-140,Meridian Nursing & Rehabitation Center,SNF/NF,1555 N Meridian Ave,,Wichita,67203,KS, USA,(316) 942-8471,37.7117619,-97.3724463
+USA-KS-90-KS-All-output-141,Wichita Presbyterian Manor,SNF/NF,4700 W 13th St N,,Wichita,67212,KS, USA,(316) 942-7456,37.710232,-97.397405
+USA-KS-90-KS-All-output-142,The Homestead of Wichita,ALF,12221 W Maple St,,Wichita,67235,KS, USA,(316) 729-2400,37.6781813,-97.4829138

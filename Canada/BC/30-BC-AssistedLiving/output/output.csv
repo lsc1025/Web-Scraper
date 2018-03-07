@@ -1,0 +1,67 @@
+row_id,Facility Name,Address,City,Postal Code,Province,Contact Phone,Toll-Free Phone,Fax,Email,Services Hours,Wheelchair accessible,Parking Notes,Country,type
+Canada-BC-30-BC-AssistedLiving-output-1,Baillie House,11666 Laity Street,Maple Ridge,V2X 7G5,BC,,,, ,,Wheelchair accessible.,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-2,Bradley Centre,45600 Menholm Road,Chilliwack,V2P 1P7,BC,604.795.4103,,604.795.4150, ,,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-3,Carelife/Fleetwood,8265 159 Street,Surrey,V4N 5T5,BC,604.598.7200,,604.598.7229, ,24-Jul,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-4,Cedar Hill,22051 Fraser Highway,Langley,V3A 4H4,BC,604.533.6413,,604.533.6468, ,24-Jul,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-5,Cottage-Worthington Pavilion,33457 Cottage Lane,Abbotsford,V2S 0B3,BC,604.870.7999,,604.870.7997, ,24-Jul,Wheelchair accessible,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-6,Eagle Ridge Manor,475 Guildford Way,Port Moody,V3H 3W9,BC,,,, ,24-Jul,Wheelchair access from main entrance; single storey building.,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-7,Fraser Hope Lodge,1275A 7th Avenue,Hope,V0X 1L4,BC,604.860.7706,,604.860.7708, ,24-Jul,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-8,Evergreen Timbers,5464 203 Street,Langley,V3A 0A4,BC,,,, ,,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-9,MSA Manor,2510 Gladwin Road,Abbotsford,V2T 3N9,BC,,,, ,,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-10,Maple Hill,22051 Fraser Highway,Langley,V3A 4H4,BC,604.514.6095,,604.533.6426, ,24-Jul,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-11,Marrwood,22051 Fraser Highway,Langley,V3A 4H4,BC,604.533.6423,,604.533.6401, ,24-Jul,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-12,Mountain View Manor,5800 Mountain View Boulevard,Delta,V4K 3V6,BC,,,, ,,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-13,Peace Arch Hospital - Al Hogg Pavilion,15521 Russell Avenue,White Rock,V4B 2R4,BC,,,, ,,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-14,Queen's Park Care Centre,315 McBride Boulevard,New Westminster,V3L 5E8,BC,604.520.0911,,604.517.8651, ,,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-15,Rosewood,22051 Fraser Highway,Langley,V3A 4H4,BC,604.514.6026,,604.533.6427, ,24-Jul,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-16,Oceanside,15521 Russell Avenue,White Rock,V4B 2R4,BC,,,, ,,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-17,Dania Manor,4155 Norland Avenue,Burnaby,V5G 3S7,BC,,,, ,,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-18,Victoria Heights,230 Ross Drive,New Westminster,V3L 0B1,BC,,,, ,,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-19,Augustine House,3820 Arthur Drive,Delta,V4K 3N2,BC,,1.866.940.6005,, ,,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-20,The Emerald at Elim Village,9080 158 Street,Surrey,V4N 5G4,BC,,,, ,,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-21,Sto:lo Elders Lodge,7519 Topaz Drive,Chilliwack,V2R 0E8,BC,,,, ,,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-22,Bevan Lodge,33386 Bevan Avenue,Abbotsford,V2S 5G6,BC,604.850.5416,,604.850.5418, ,24-Jul,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-23,Gateway Independent Living for Seniors,13787 100 Avenue,Surrey,V3T 5X7,BC,,,, ,,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-24,Waverly Seniors Village,8445 Young Road,Chilliwack,V2P 4P2,BC,,,, ,,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-25,The Cascades,45586 McIntosh Drive,Chilliwack,V2P 7W8,BC,,,, ,,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-26,Evergreen Heights,1501 Everall Street,White Rock,V4B 3S8,BC,,,, ,,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-27,Czorny Alzheimer Centre,16850 66 Avenue,Surrey,V3S 5M1,BC,604.575.6700,,604.575.6710, ,,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-28,Saint Michael's Centre,7451 Sussex Avenue,Burnaby,V5J 5C2,BC,604.434.1323,,604.434.6469, ,24-Jul,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-29,Belvedere Care Centre,739 Alderson Avenue,Coquitlam,V3K 1T9,BC,604.939.5991,,604.939.5910, ,24-Jul,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-30,Kinsmen Place Lodge,9650 137A Street,Surrey,V3T 4H9,BC,,,, ,,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-31,Cherington Place,13453 111A Avenue,Surrey,V3R 2C5,BC,604.581.2885,,604.582.9028, ,24-Jul,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-32,Valhaven Home,4212 Balmoral Street,Abbotsford,V4X 2P7,BC,604.856.2812,,604.856.3243, ,24-Jul,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-33,White Rock Seniors Village,15628 Buena Vista Avenue,White Rock,V4B 1Z4,BC,,,, ,,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-34,Langley Gardens,8888 202 Street,Langley,V1M 4A7,BC,604.888.0228,,604.881.8199, ,24-Jul,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-35,Fleetwood Place,16011 83 Avenue,Surrey,V4N 0N2,BC,604.590.6860,,, ,"Mon - Sun, 24 hours daily",,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-36,Glenwood Care Centre,1458 Glenwood Drive,Agassiz,V0M 1A2,BC,,,, ,,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-37,Sherwood Crescent Manor,32073 Sherwood Crescent,Abbotsford,V2T 1C1,BC,,,, ,24-Jul,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-38,Rosemary Heights Seniors Village,15240 34 Avenue,Surrey,V3S 2J9,BC,,,, ,24-Jul,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-39,Cartier House,1419 Cartier Avenue,Coquitlam,V3K 2C6,BC,604.939.4654,,604.939.6442, ,"Mon - Sun, 24 hours",,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-40,Eden Care Centre,9100 Charles Street,Chilliwack,V2P 5K6,BC,604.792.8166,,604.792.1111, ,24-Jul,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-41,Dufferin Care Centre,1131 Dufferin Street,Coquitlam,V3B 7X5,BC,604.552.1166,,604.552.3116, ,24-Jul,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-42,Evergreen Hamlets,15660 84 Avenue,Surrey,V4N 0W3,BC,604.597.7906,,604.597.9025, ,24-Jul,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-43,Menno Hospital,32945 Marshall Road,Abbotsford,V2S 1K1,BC,604.859.7631,,604.859.6931, ,"Mon - Fri, 8 a.m. - 4 p.m.",,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-44,Finnish Manor,3460 Kalyk Avenue,Burnaby,V5G 3B2,BC,604.434.2666,,604.439.7448, ,24-Jul,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-45,Langley Lodge,5451 204 Street,Langley,V3A 5M9,BC,604.530.2305,,604.532.4205, ,24-Jul,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-46,Guildford Seniors' Village,14568 104A Avenue,Surrey,V3R 1R3,BC,604.582.0808,,604.582.7011, ,24-Jul,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-47,Hilton Villa Care Centre,13525 Hilton Road,Surrey,V3R 5J3,BC,604.588.3424,,604.588.3433, ,24-Jul,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-48,New Vista Care Centre,7550 Rosewood Street,Burnaby,V5E 3Z3,BC,,,, ,,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-49,Delta View Life Enrichment Centre,9341 Burns Drive,Delta,V4K 3N3,BC,604.596.8842,,604.596.7613, ,24-Jul,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-50,Harmony Court,7195 Canada Way,Burnaby,V5E 3R7,BC,,,, ,,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-51,Jackman Manor,27477 28 Avenue,Langley,V4W 3L9,BC,604.856.4161,,604.856.2562, ,24-Jul,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-52,Crescent Gardens,1222 King George Boulevard,Surrey,V4A 9W6,BC,604.541.8861,,604.541.8871, ,,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-53,Burquitlam Lions Care Centre,560 Sydney Avenue,Coquitlam,V3K 6A4,BC,604.939.6485,,604.939.4728, ,24-Jul,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-54,Tabor Home,31944 Sunrise Crescent,Abbotsford,V2T 1N5,BC,,,, ,,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-55,Lakeshore Care Centre,657 Gatensbury Street,Coquitlam,V3J 5G9,BC,604.939.9277,,604.939.6518, ,24-Jul,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-56,Normanna Rest Home,7725 4th Street,Burnaby,V3N 5B6,BC,,,, ,,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-57,George Derby Centre,7550 Cumberland Street,Burnaby,V3N 3X5,BC,604.521.2676,,604.521.0220, ,24-Jul,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-58,Evergreen Baptist Care Home,1550 Oxford Street,White Rock,V4B 3R5,BC,604.536.3344,,604.541.3803, ,24-Jul,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-59,Maplewood House,1919 Jackson Street,Abbotsford,V2S 2Z8,BC,,,, ,,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-60,Menno Home,32910 Brundige Avenue,Abbotsford,V2S 1N2,BC,604.853.2411,,604.859.0751, ,24-Jul,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-61,Dania Home,4175 Norland Avenue,Burnaby,V5G 3S7,BC,,,, ,24-Jul,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-62,Fair Haven United Church Homes,7557 Sussex Avenue,Burnaby,V5J 3V6,BC,604.435.0525,,604.435.7031, ,24-Jul,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-63,Delta View Habilitation Centre,9341 Burns Drive,Delta,V4K 3N3,BC,604.596.8842,,604.596.8858, ,24-Jul,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-64,KinVillage Care Home,5410 10 Avenue,Delta,V4M 3X8,BC,,,, ,,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-65,Courtyard Terrace,3730 Burke Street,Burnaby,V5G 4H7,BC,,,, ,,,,Canada,Assisted Living
+Canada-BC-30-BC-AssistedLiving-output-66,"St. Vincent's Hospital, Langara",255 62nd Avenue W,Vancouver,V5X 4V4,BC,,,, ,,,,Canada,Assisted Living

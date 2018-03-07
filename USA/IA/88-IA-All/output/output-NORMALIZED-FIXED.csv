@@ -1,0 +1,768 @@
+name,contact_first_name,contact_last_name,contact_name,email,contact_email,fax,mailing_address_line_1,mailing_address_line_2,mailing_city,mailing_contact_first_name,mailing_contact_last_name,mailing_contact_name,mailing_country,mailing_county,mailing_postalcode,mailing_province,provider_name,primary_phone,secondary_phone,twitter,website,source,contact_occupation,dsgne_first_name,dsgne_last_name,admin_name,co_address_line_1,co_address_line_2,co_company,co_city,co_postalcode,co_province,ombudsman_phone,typeofcare,typeofcare2,low_high_rate,low_rate,high_rate,address_line_1,address_line_2,address_directions,city,municipality,region,province,state_id,postal_code,country,latitude,longitude,neighborhood,addr_valid
+Grundy Care Center,,,,,,,,,,,,,,,,,,(319) 824-5436,,,,,,,,,,,,,,,,,Nursing Facility,,,,102 East J Ave,,,Grundy Center,Grundy,,IA,,50638,US,42.3582528,-92.7625678,,True
+Countryside Nursing and Rehabilitation Center,,,,,,,,,,,,,,,,,,(712) 276-3000,,,,,,,,,,,,,,,,,Nursing Facility,,,,6120 Morningside Ave,,,Sioux City,Woodbury,,IA,,51106,US,42.4602938,-96.3277306,,True
+Mercy Living Center South,,,,,,,,,,,,,,,,,,(563) 244-5555,,,,,,,,,,,,,,,,,Nursing Facility,,,,638 South Bluff Blvd,,,Clinton,Clinton,,IA,,52732,US,41.8403641,-90.213194,,True
+Good Samaritan Society - LeMars,,,,,,,,,,,,,,,,,,(712) 546-4101,,,,,,,,,,,,,,,,,Nursing Facility,,,,1140 Lincoln St NE,,,LeMars,Plymouth,,IA,,51031,US,42.7998144,-96.1492768,,True
+Brooklyn Community Estates,,,,,,,,,,,,,,,,,,(641) 522-9263,,,,,,,,,,,,,,,,,Nursing Facility,,,,406 North St,,,Brooklyn,Poweshiek,,IA,,52211,US,41.7395477,-92.4418239,,True
+Crest Haven Care Centre,,,,,,,,,,,,,,,,,,(641) 782-5012,,,,,,,,,,,,,,,,,Nursing Facility,,,,1000 East Howard St,,,Creston,Union,,IA,,50801,US,41.0609025,-94.34983249999999,,True
+Regency Park Nursing and Rehabilitation Center of Carroll,,,,,,,,,,,,,,,,,,(712) 792-9281,,,,,,,,,,,,,,,,,Nursing Facility,,,,500 East Valley Dr,PO 821,,Carroll,Carroll,,IA,,51401,US,42.052779,-94.863832,,True
+Living Center East,,,,,,,,,,,,,,,,,,(319) 366-8701,,,,,,,,,,,,,,,,,Nursing Facility,,,,1220 5th Ave SE,,,Cedar Rapids,Linn,,IA,,52403,US,41.982272,-91.6536871,Wellington Heights,True
+Centerville Specialty Care,,,,,,,,,,,,,,,,,,(641) 856-8651,,,,,,,,,,,,,,,,,Nursing Facility,,,,1208 East Cross St,,,Centerville,Appanoose,,IA,,52544,US,40.74047700000001,-92.86251399999999,,True
+Chautauqua Guest Home #3,,,,,,,,,,,,,,,,,,(641) 228-5351,,,,,,,,,,,,,,,,,Nursing Facility,,,,302 9th St,,,Charles City,Floyd,,IA,,50616,US,43.0551141,-92.6757153,,True
+Chautauqua Guest Home #2,,,,,,,,,,,,,,,,,,(641) 228-2353,,,,,,,,,,,,,,,,,Nursing Facility,,,,602 11th St,,,Charles City,Floyd,,IA,,50616,US,43.05198600000001,-92.67837829999999,,True
+Colonial Manor of Amana,,,,,,,,,,,,,,,,,,(319) 622-3131,,,,,,,,,,,,,,,,,Nursing Facility,,,,3207 220th Trl,,,Amana,Iowa,,IA,,52203,US,41.799113,-91.89469000000001,,True
+Colonial Manor of Columbus Community,,,,,,,,,,,,,,,,,,(319) 728-2276,,,,,,,,,,,,,,,,,Nursing Facility,,,,814 Springer Ave,,,Columbus Junction,Louisa,,IA,,52738-0266,US,41.27165309999999,-91.3711471,,True
+Correctionville Specialty Care,,,,,,,,,,,,,,,,,,(712) 372-4466,,,,,,,,,,,,,,,,,Nursing Facility,,,,1115 E Hwy 20 H,PO Box,,Correctionville,Woodbury,,IA,,51016,US,42.4821322,-95.7768717,,False
+Kingsley Specialty Care,,,,,,,,,,,,,,,,,,(712) 378-2400,,,,,,,,,,,,,,,,,Nursing Facility,,,,305 West 3rd St,PO Box 407,,Kingsley,Plymouth,,IA,,51028,US,42.590798,-95.972529,,True
+"Zearing Health Care, LLC",,,,,,,,,,,,,,,,,,(641) 487-7631,,,,,,,,,,,,,,,,,Nursing Facility,,,,404 East Garfield,,,Zearing,Story,,IA,,50278,US,42.162653,-93.29178399999999,,False
+Genesis Senior Living Center,,,,,,,,,,,,,,,,,,(515) 285-3070,,,,,,,,,,,,,,,,,Nursing Facility,,,,5608 SW 9th,,,Des Moines,Polk,,IA,,50315,US,41.5330862,-93.6264147,Greater South Side,False
+"Community Care Center, Inc.",,,,,,,,,,,,,,,,,,(515) 523-2815,,,,,,,,,,,,,,,,,Nursing Facility,,,,325 SW 7th St,,,Stuart,Adair,,IA,,50250,US,41.49741270000001,-94.32233810000001,,True
+Corydon Specialty Care,,,,,,,,,,,,,,,,,,(641) 872-1590,,,,,,,,,,,,,,,,,Nursing Facility,,,,745 East South St,,,Corydon,Wayne,,IA,,50060,US,40.754318,-93.309196,,True
+Country View Manor Inc.,,,,,,,,,,,,,,,,,,(712) 754-2568,,,,,,,,,,,,,,,,,Nursing Facility,,,,100 Cedar Ln,,,Sibley,Osceola,,IA,,51249,US,43.4095922,-95.744474,,True
+Panora Specialty Care,,,,,,,,,,,,,,,,,,(641) 755-2700,,,,,,,,,,,,,,,,,Nursing Facility,,,,805 East Main,PO Box 69,,Panora,Guthrie,,IA,,50216,US,41.69291279999999,-94.3535787,,False
+Union Park Health Services,,,,,,,,,,,,,,,,,,(515) 262-9303,,,,,,,,,,,,,,,,,Nursing Facility,,,,2401 East Eighth St,,,Des Moines,Polk,,IA,,50316,US,41.6167317,-93.60718039999999,Union Park,True
+Dunlap Specialty Care,,,,,,,,,,,,,,,,,,(712) 643-2121,,,,,,,,,,,,,,,,,Nursing Facility,,,,1403 Harrison Rd,,,Dunlap,Harrison,,IA,,51529,US,41.8486412,-95.58867219999999,,True
+Edgewood Convalescent Home,,,,,,,,,,,,,,,,,,(563) 928-6461,,,,,,,,,,,,,,,,,Nursing Facility,,,,PO Box 39,513 Bell St.,,Edgewood,Delaware,,IA,,52052,US,42.6444313,-91.4012515,,True
+Fellowship Village,,,,,,,,,,,,,,,,,,(712) 753-4663,,,,,,,,,,,,,,,,,Nursing Facility,,,,300 East Jefferson,,,Inwood,Lyon,,IA,,51240,US,43.30716,-96.42910649999999,,False
+Elkader Care Center,,,,,,,,,,,,,,,,,,(563) 245-1620,,,,,,,,,,,,,,,,,Nursing Facility,,,,116 Reimer St SW,Box 519,,Elkader,Clayton,,IA,,52043,US,42.84727640000001,-91.4068786,,True
+English Valley Nursing Care Center,,,,,,,,,,,,,,,,,,(319) 664-3256,,,,,,,,,,,,,,,,,Nursing Facility,,,,150 West Washington,PO 430,,North English,Iowa,,IA,,52316,US,41.5183892,-92.078582,,False
+Evans Memorial Home,,,,,,,,,,,,,,,,,,(563) 547-2364,,,,,,,,,,,,,,,,,Nursing Facility,,,,1010 North Elm St,,,Cresco,Howard,,IA,,52136,US,43.3835377,-92.1138514,,True
+Exira Care Center,,,,,,,,,,,,,,,,,,(712) 268-5393,,,,,,,,,,,,,,,,,Nursing Facility,,,,411 South Carthage,,,Exira,Audubon,,IA,,50076,US,41.5868314,-94.8775472,,False
+Faith Lutheran Home,,,,,,,,,,,,,,,,,,(641) 732-5511,,,,,,,,,,,,,,,,,Nursing Facility,,,,914 Davidson Dr,,,Osage,Mitchell,,IA,,50461,US,43.27664370000001,-92.8084414,,True
+Fonda Specialty Care,,,,,,,,,,,,,,,,,,(712) 288-4441,,,,,,,,,,,,,,,,,Nursing Facility,,,,607 Queen St,,,Fonda,Pocahontas,,IA,,50540,US,42.5859896,-94.84266149999999,,True
+Fort Madison Health Center,,,,,,,,,,,,,,,,,,(319) 372-8021,,,,,,,,,,,,,,,,,Nursing Facility,,,,1702 41st St,,,Fort Madison,Lee,,IA,,52627,US,40.62243899999999,-91.3648429,,True
+Fountain West Health Center,,,,,,,,,,,,,,,,,,(515) 223-1223,,,,,,,,,,,,,,,,,Nursing Facility,,,,1501 Office Park Rd,,,West Des Moines,Polk,,IA,,50265,US,41.5925538,-93.7247172,,True
+Friendship Home Association,,,,,,,,,,,,,,,,,,(712) 563-2651,,,,,,,,,,,,,,,,,Nursing Facility,,,,714 North Division St,,,Audubon,Audubon,,IA,,50025,US,41.7248689,-94.9292979,,True
+Glen Haven Home,,,,,,,,,,,,,,,,,,(712) 527-3101,,,,,,,,,,,,,,,,,Nursing Facility,,,,302 6th St,,,Glenwood,Mills,,IA,,51534,US,41.052412,-95.741177,,True
+Good Samaritan Society - Algona,,,,,,,,,,,,,,,,,,(515) 295-2414,,,,,,,,,,,,,,,,,Nursing Facility,,,,412 West Kennedy St,,,Algona,Kossuth,,IA,,50511,US,43.06490669999999,-94.2402759,,True
+Good Samaritan Society - Estherville,,,,,,,,,,,,,,,,,,(712) 362-3522,,,,,,,,,,,,,,,,,Nursing Facility,,,,1646 5th Ave N,,,Estherville,Emmet,,IA,,51334,US,43.408321,-94.8205426,,True
+Good Samaritan Society - Fontanelle,,,,,,,,,,,,,,,,,,(641) 745-4191,,,,,,,,,,,,,,,,,Nursing Facility,,,,326 Summerset St,PO 38,,Fontanelle,Adair,,IA,,50846,US,41.2944123,-94.56369869999999,,True
+Good Samaritan Society - Forest City,,,,,,,,,,,,,,,,,,(641) 585-2232,,,,,,,,,,,,,,,,,Nursing Facility,,,,606 S 7th St,,,Forest City,Winnebago,,IA,,50436,US,43.2585339,-93.6412314,,True
+Good Samaritan Society - George,,,,,,,,,,,,,,,,,,(712) 475-3391,,,,,,,,,,,,,,,,,Nursing Facility,,,,324 1st Ave,PO Box 608,,George,Lyon,,IA,,51237,US,43.34873609999999,-95.9950435,,True
+Good Samaritan Society - Holstein,,,,,,,,,,,,,,,,,,(712) 368-4304,,,,,,,,,,,,,,,,,Nursing Facility,,,,505 W 2nd St,,,Holstein,Ida,,IA,,51025,US,42.4886077,-95.55098939999999,,True
+Good Samaritan Society - Indianola,,,,,,,,,,,,,,,,,,(515) 961-2596,,,,,,,,,,,,,,,,,Nursing Facility,,,,708 South Jefferson Way,PO 319,,Indianola,Warren,,IA,,50125,US,41.35384429999999,-93.5572596,,True
+Good Samaritan Society - Manson,,,,,,,,,,,,,,,,,,(712) 469-3908,,,,,,,,,,,,,,,,,Nursing Facility,,,,1402 Main St,,,Manson,Calhoun,,IA,,50563,US,42.5344702,-94.53484569999999,,True
+Good Samaritan Society - Newell ,,,,,,,,,,,,,,,,,,(712) 272-3327,,,,,,,,,,,,,,,,,Nursing Facility,,,,415 W Hwy 7,PO Box 395,,Newell,Buena Vista,,IA,,50568,US,42.6029608,-95.0079947,,True
+Good Samaritan Society - Ottumwa,,,,,,,,,,,,,,,,,,(641) 682-8041,,,,,,,,,,,,,,,,,Nursing Facility,,,,2035 Chester Ave,,,Ottumwa,Wapello,,IA,,52501,US,41.00511230000001,-92.4587136,,True
+Good Samaritan Society - Postville,,,,,,,,,,,,,,,,,,(563) 864-7425,,,,,,,,,,,,,,,,,Nursing Facility,,,,400 Hardin Dr,,,Postville,Allamakee,,IA,,52162,US,43.0821507,-91.55876429999999,,True
+Good Samaritan Society - Red Oak,,,,,,,,,,,,,,,,,,(712) 623-3170,,,,,,,,,,,,,,,,,Nursing Facility,,,,201 Alix Ave,,,Red Oak,Montgomery,,IA,,51566,US,41.0235325,-95.2312354,,True
+Good Samaritan Society - Saint Ansgar,,,,,,,,,,,,,,,,,,(641) 713-4912,,,,,,,,,,,,,,,,,Nursing Facility,,,,701 East 4th St,,,Saint Ansgar,Mitchell,,IA,,50472,US,43.3790519,-92.91016959999999,,True
+Keosauqua Health Care Center,,,,,,,,,,,,,,,,,,(319) 293-3761,,,,,,,,,,,,,,,,,Nursing Facility,,,,819 Country Lane Rd,,,Keosauqua,Van Buren,,IA,,52565,US,40.73664249999999,-91.968058,,True
+Good Samaritan Society - Villisca,,,,,,,,,,,,,,,,,,(712) 826-9592,,,,,,,,,,,,,,,,,Nursing Facility,,,,202 Central Ave,,,Villisca,Montgomery,,IA,,50864-1097,US,40.9346627,-94.9824774,,True
+Good Samaritan Society - Waukon,,,,,,,,,,,,,,,,,,(563) 568-3447,,,,,,,,,,,,,,,,,Nursing Facility,,,,21 East Main St,,,Waukon,Allamakee,,IA,,52172,US,43.2685766,-91.4739609,,True
+Good Samaritan Society - West Union,,,,,,,,,,,,,,,,,,(563) 422-3814,,,,,,,,,,,,,,,,,Nursing Facility,,,,201 Hall St,,,West Union,Fayette,,IA,,52175,US,42.9704778,-91.8112628,,True
+Good Shepherd Health Center,,,,,,,,,,,,,,,,,,(641) 424-1740,,,,,,,,,,,,,,,,,Nursing Facility,,,,PO Box 1707,302 2nd Street,,Mason City,Cerro Gordo,,IA,,50402-1707,US,43.1535728,-93.20103669999999,,True
+Grandview Heights,,,,,,,,,,,,,,,,,,(641) 752-4581,,,,,,,,,,,,,,,,,Nursing Facility,,,,910 East Olive St,,,Marshalltown,Marshall,,IA,,50158,US,42.0293286,-92.897627,,True
+Great River Care Center ,,,,,,,,,,,,,,,,,,(563) 873-3527,,,,,,,,,,,,,,,,,Nursing Facility,,,,1400 West Main St,,,McGregor,Clayton,,IA,,52157,US,43.0201263,-91.1931291,,True
+"Accura Healthcare of Knoxville, LLC ",,,,,,,,,,,,,,,,,,(641) 842-2187,,,,,,,,,,,,,,,,,Nursing Facility,,,,606 North 7th St,,,Knoxville,Marion,,IA,,50138,US,41.3241109,-93.0923725,,True
+Happy Siesta Nursing Home,,,,,,,,,,,,,,,,,,(712) 786-1118,,,,,,,,,,,,,,,,,Nursing Facility,,,,423 Roosevelt St,,,Remsen,Plymouth,,IA,,51050,US,42.8094474,-95.9669619,,True
+New Hampton Nursing & Rehab Center,,,,,,,,,,,,,,,,,,(641) 394-4153,,,,,,,,,,,,,,,,,Nursing Facility,,,,703 4th Ave,,,New Hampton,Chickasaw,,IA,,50659,US,43.055071,-92.3045176,,True
+Henry County Hlth Cntr/Park Place,,,,,,,,,,,,,,,,,,(319) 385-6192,,,,,,,,,,,,,,,,,Nursing Facility,,,,401 South Van Buren,,,Mt. Pleasant,Henry,,IA,,52641,US,40.9638356,-91.5586848,,False
+Hawkeye Care Center Bancroft,,,,,,,,,,,,,,,,,,(515) 885-2463,,,,,,,,,,,,,,,,,Nursing Facility,,,,546 East Ramsey,,,Bancroft,Kossuth,,IA,,50517,US,43.2929742,-94.2093822,,False
+Hawkeye Care Center of Dubuque,,,,,,,,,,,,,,,,,,(563) 583-6447,,,,,,,,,,,,,,,,,Nursing Facility,,,,4885 Asbury Rd,,,Dubuque,Dubuque,,IA,,52002,US,42.5146765,-90.7459174,,True
+Hawkeye Care Center Spirit Lake,,,,,,,,,,,,,,,,,,(712) 336-3300,,,,,,,,,,,,,,,,,Nursing Facility,,,,1912 Zenith Ave,,,Spirit Lake,Dickinson,,IA,,51360,US,43.42158860000001,-95.1225328,,True
+Holy Spirit Retirement Home,,,,,,,,,,,,,,,,,,(712) 252-2726,,,,,,,,,,,,,,,,,Nursing Facility,,,,1701 West 25th St,,,Sioux City,Woodbury,,IA,,51103,US,42.5171268,-96.4330986,,True
+Regency Park Nursing and Rehab Center - Jefferson,,,,,,,,,,,,,,,,,,(515) 386-4107,,,,,,,,,,,,,,,,,Nursing Facility,,,,100 Ram Dr,,,Jefferson,Greene,,IA,,50129,US,42.0032097,-94.3743461,,True
+Lexington Square,,,,,,,,,,,,,,,,,,(319) 524-5321,,,,,,,,,,,,,,,,,Nursing Facility,,,,500 Messinger Rd,,,Keokuk,Lee,,IA,,52632,US,40.42203300000001,-91.394779,,True
+Keystone Nursing Care Center,,,,,,,,,,,,,,,,,,(319) 442-3234,,,,,,,,,,,,,,,,,Nursing Facility,,,,250 Fifth St,,,Keystone,Benton,,IA,,52249-9521,US,42.00392,-92.1980409,,True
+Pearl Valley Rehabilitation and Nursing at Lake Park LLC,,,,,,,,,,,,,,,,,,(712) 832-3691,,,,,,,,,,,,,,,,,Nursing Facility,,,,1304 S Market St,,,Lake Park,Dickinson,,IA,,51347-0425,US,43.4407405,-95.324733,,True
+Lamoni Specialty Care,,,,,,,,,,,,,,,,,,(641) 784-3388,,,,,,,,,,,,,,,,,Nursing Facility,,,,215 South Oak St,Box 69,,Lamoni,Decatur,,IA,,50140,US,40.622024,-93.92354399999999,,True
+Little Flower Haven,,,,,,,,,,,,,,,,,,(712) 747-3301,,,,,,,,,,,,,,,,,Nursing Facility,,,,736 Hwy 37,PO 288,,Earling,Shelby,,IA,,51530,US,41.775495,-95.426041,,True
+Pioneer Park,,,,,,,,,,,,,,,,,,(319) 629-4255,,,,,,,,,,,,,,,,,Nursing Facility,,,,501 E Pioneer Rd,,,Lone Tree,Johnson,,IA,,52755,US,41.480887,-91.42185099999999,,True
+"Longview Home, Inc.",,,,,,,,,,,,,,,,,,(712) 642-2264,,,,,,,,,,,,,,,,,Nursing Facility,,,,1010 Longview Rd,,,Missouri Valley,Harrison,,IA,,51555,US,41.5669344,-95.88351449999999,,True
+Lyon Specialty Care,,,,,,,,,,,,,,,,,,(712) 472-3748,,,,,,,,,,,,,,,,,Nursing Facility,,,,1010 South Union St,,,Rock Rapids,Lyon,,IA,,51246,US,43.42054599999999,-96.174883,,True
+Manilla Manor,,,,,,,,,,,,,,,,,,(712) 654-6812,,,,,,,,,,,,,,,,,Nursing Facility,,,,146 North 5th St,PO 490,,Manilla,Crawford,,IA,,51454-0490,US,41.895356,-95.2320972,,True
+Manly Specialty Care,,,,,,,,,,,,,,,,,,(641) 454-2223,,,,,,,,,,,,,,,,,Nursing Facility,,,,601 East South St,,,Manly,Worth,,IA,,50456,US,43.2840678,-93.1944681,,True
+Manning Regional Healthcare Center,,,,,,,,,,,,,,,,,,(712) 655-2072,,,,,,,,,,,,,,,,,Nursing Facility,,,,1550 6th St,,,Manning,Carroll,,IA,,51455,US,41.9064593,-95.0441987,,True
+Maple Crest Manor,,,,,,,,,,,,,,,,,,(563) 425-3336,,,,,,,,,,,,,,,,,Nursing Facility,,,,100 Bolger Dr,,,Fayette,Fayette,,IA,,52142-9762,US,42.84185199999999,-91.809242,,True
+Maple Heights,,,,,,,,,,,,,,,,,,(712) 881-1680,,,,,,,,,,,,,,,,,Nursing Facility,,,,2 Sunrise Ave,,,Mapleton,Monona,,IA,,51034,US,42.1632879,-95.7801176,,True
+Arbor Court,,,,,,,,,,,,,,,,,,(319) 385-1400,,,,,,,,,,,,,,,,,Nursing Facility,,,,701 E Mapleleaf Dr,,,Mt. Pleasant,Henry,,IA,,52641,US,40.97456030000001,-91.5437682,,True
+Keota Health Care Center,,,,,,,,,,,,,,,,,,(641) 636-3400,,,,,,,,,,,,,,,,,Nursing Facility,,,,204 North Keokuk Washington Rd,,,Keota,Keokuk,,IA,,52248-9495,US,41.3670548,-91.9466815,,True
+Marian Home,,,,,,,,,,,,,,,,,,(515) 576-1138,,,,,,,,,,,,,,,,,Nursing Facility,,,,2400 6th Ave N,,,Fort Dodge,Webster,,IA,,50501,US,42.5124821,-94.1656055,,True
+Mechanicsville Specialty Care,,,,,,,,,,,,,,,,,,(563) 432-7235,,,,,,,,,,,,,,,,,Nursing Facility,,,,PO Box 430,104 E. 4th Street,,Mechanicsville,Cedar,,IA,,52306,US,41.90279090000001,-91.2546067,,True
+Prairie Ridge Care & Rehabilitation,,,,,,,,,,,,,,,,,,(319) 394-3991,,,,,,,,,,,,,,,,,Nursing Facility,,,,608 Prairie St,,,Mediapolis,Des Moines,,IA,,52637-0815,US,41.0038291,-91.16343549999999,,True
+Hawkeye Care Center Milford,,,,,,,,,,,,,,,,,,(712) 338-4742,,,,,,,,,,,,,,,,,Nursing Facility,,,,1600 13th St,,,Milford,Dickinson,,IA,,51351,US,43.32876259999999,-95.1591912,,True
+Mill Valley Care Center,,,,,,,,,,,,,,,,,,(563) 872-5521,,,,,,,,,,,,,,,,,Nursing Facility,,,,1201 Park St,,,Bellevue,Jackson,,IA,,52031,US,42.257273,-90.437647,,True
+"Pearl Valley Rehabilitation and Nursing at Sutherland, LLC",,,,,,,,,,,,,,,,,,(712) 446-3857,,,,,,,,,,,,,,,,,Nursing Facility,,,,506 E4th St,PO Box 475,,Sutherland,O'Brien,,IA,,51058-0475,US,42.9716189,-95.4912185,,True
+Mount Ayr Health Care Center,,,,,,,,,,,,,,,,,,(641) 464-3204,,,,,,,,,,,,,,,,,Nursing Facility,,,,1504 East South St,,,Mt. Ayr,Ringgold,,IA,,50854,US,40.7111026,-94.2284438,,True
+Nelson Manor,,,,,,,,,,,,,,,,,,(641) 792-1443,,,,,,,,,,,,,,,,,Nursing Facility,,,,1500 1st Ave E,,,Newton,Jasper,,IA,,50208,US,41.699954,-93.03349299999999,,True
+Linn Haven Rehab & Healthcare ,,,,,,,,,,,,,,,,,,(641) 394-3151,,,,,,,,,,,,,,,,,Nursing Facility,,,,530 So Linn Ave,,,New Hampton,Chickasaw,,IA,,50659,US,43.0488271,-92.31707139999999,,True
+The New Homestead Care Center - SNF,,,,,,,,,,,,,,,,,,(515) 224-4442,,,,,,,,,,,,,,,,,Nursing Facility,,,,2306 State St,,,Guthrie Center,Guthrie,,IA,,50115,US,41.68009199999999,-94.48499699999999,,True
+New London Specialty Care,,,,,,,,,,,,,,,,,,(319) 367-5753,,,,,,,,,,,,,,,,,Nursing Facility,,,,100 Care Center Circle St,,,New London,Henry,,IA,,52645,US,40.9173685,-91.40874939999999,,True
+Northern Mahaska Specialty Care,,,,,,,,,,,,,,,,,,(641) 673-3000,,,,,,,,,,,,,,,,,Nursing Facility,,,,2401 Crestview Dr,,,Oskaloosa,Mahaska,,IA,,52577,US,41.31513890000001,-92.6446335,,True
+Northbrook Manor Care Center,,,,,,,,,,,,,,,,,,(319) 393-1447,,,,,,,,,,,,,,,,,Nursing Facility,,,,6420 Council St NE,,,Cedar Rapids,Linn,,IA,,52402,US,42.0425339,-91.6572922,,True
+Norwalk Nursing and Rehabilitation Center,,,,,,,,,,,,,,,,,,(515) 981-0604,,,,,,,,,,,,,,,,,Nursing Facility,,,,921 Sunset Dr,,,Norwalk,Warren,,IA,,50211,US,41.4767823,-93.68216129999999,,True
+Oakland Manor,,,,,,,,,,,,,,,,,,(712) 482-6403,,,,,,,,,,,,,,,,,Nursing Facility,,,,737 N Hwy,,,Oakland,Pottawattamie,,IA,,51560,US,41.3172022,-95.3874204,,True
+Oakview Inc.,,,,,,,,,,,,,,,,,,(641) 366-2212,,,,,,,,,,,,,,,,,Nursing Facility,,,,511 East Center St,,,Conrad,Grundy,,IA,,50621-0785,US,42.2239713,-92.8676795,,True
+Elmwood Care Center,,,,,,,,,,,,,,,,,,(712) 423-2510,,,,,,,,,,,,,,,,,Nursing Facility,,,,222 North 15th St,,,Onawa,Monona,,IA,,51040,US,42.0364708,-96.10486829999999,,True
+Southern Hills Specialty Care,,,,,,,,,,,,,,,,,,(641) 342-6061,,,,,,,,,,,,,,,,,Nursing Facility,,,,444 N West View Dr,,,Osceola,Clarke,,IA,,50213,US,41.0384536,-93.7871151,,True
+Ossian Senior Hospice,,,,,,,,,,,,,,,,,,(563) 532-9440,,,,,,,,,,,,,,,,,Nursing Facility,,,,114 Fisher Ave,PO 98,,Ossian,Winneshiek,,IA,,52161,US,43.1469919,-91.7681447,,True
+Parkview Care Center,,,,,,,,,,,,,,,,,,(641) 472-5022,,,,,,,,,,,,,,,,,Nursing Facility,,,,2237 Business Highway 34,,,Fairfield,Jefferson,,IA,,52556,US,41.0071007,-91.9401524,,True
+Parkview Manor,,,,,,,,,,,,,,,,,,(319) 646-2911,,,,,,,,,,,,,,,,,Nursing Facility,,,,516 13th St,,,Wellman,Washington,,IA,,52356,US,41.47540190000001,-91.8342381,,True
+Parkview Manor Care Center & Elms Assisted Living,,,,,,,,,,,,,,,,,,(319) 345-6811,,,,,,,,,,,,,,,,,Nursing Facility,,,,1009 Third St,,,Reinbeck,Grundy,,IA,,50643,US,42.3244195,-92.6072547,,True
+"Accura Healthcare of Pleasantville, LLC",,,,,,,,,,,,,,,,,,(515) 848-5718,,,,,,,,,,,,,,,,,Nursing Facility,,,,909 North State St,,,Pleasantville,Marion,,IA,,50225,US,41.3941685,-93.2723492,,True
+Pleasant View Home,,,,,,,,,,,,,,,,,,(712) 843-2237,,,,,,,,,,,,,,,,,Nursing Facility,,,,410 Spruce St,,,Albert City,Buena Vista,,IA,,50510,US,42.773136,-94.952438,,True
+Pleasant View Care Center,,,,,,,,,,,,,,,,,,(712) 458-2417,,,,,,,,,,,,,,,,,Nursing Facility,,,,200 Shannon Dr,,,Whiting,Monona,,IA,,51063,US,42.1255086,-96.15922049999999,,True
+Plymouth Manor Care Center,,,,,,,,,,,,,,,,,,(712) 546-7831,,,,,,,,,,,,,,,,,Nursing Facility,,,,954 7th Ave SE,,,Le Mars,Plymouth,,IA,,51031,US,42.78145079999999,-96.15466479999999,,True
+Polk City Nursing and Rehabilitation,,,,,,,,,,,,,,,,,,(515) 984-6511,,,,,,,,,,,,,,,,,Nursing Facility,,,,1002 W Washington,,,Polk City,Polk,,IA,,50226,US,41.77238979999999,-93.72270089999999,,False
+"Accura Healthcare of Pomeroy, LLC",,,,,,,,,,,,,,,,,,(712) 468-2241,,,,,,,,,,,,,,,,,Nursing Facility,,,,303 East 7th St,Box 10,,Pomeroy,Calhoun,,IA,,50575,US,42.5429419,-94.680701,,True
+Prairie View Home Inn,,,,,,,,,,,,,,,,,,(712) 930-3228,,,,,,,,,,,,,,,,,Nursing Facility,,,,610 N Eastern St,,,Sanborn,O'Brien,,IA,,51248,US,43.18452699999999,-95.643969,,True
+"Pearl Valley Rehabilitation and Nursing at Primghar, LLC",,,,,,,,,,,,,,,,,,(712) 957-3655,,,,,,,,,,,,,,,,,Nursing Facility,,,,735 N Rerick Ave,,,Primghar,O'Brien,,IA,,51245,US,43.0924159,-95.62425669999999,,True
+Rock Rapids Health Centre,,,,,,,,,,,,,,,,,,(712) 472-2585,,,,,,,,,,,,,,,,,Nursing Facility,,,,703 S Union St,,,Rock Rapids,Lyon,,IA,,51246,US,43.4249205,-96.17633409999999,,True
+Rose Haven Nursing Home,,,,,,,,,,,,,,,,,,(319) 642-5533,,,,,,,,,,,,,,,,,Nursing Facility,,,,1500 Franklyn Ave,,,Marengo,Iowa,,IA,,52301,US,41.80413900000001,-92.071761,,True
+"Rose Vista Home, Inc.",,,,,,,,,,,,,,,,,,(712) 647-2010,,,,,,,,,,,,,,,,,Nursing Facility,,,,1109 Normal St,PO 6,,Woodbine,Harrison,,IA,,51579,US,41.74420140000001,-95.7090291,,True
+Pearl Valley Rehabilitation and Nursing at Estherville LLC ,,,,,,,,,,,,,,,,,,(712) 362-3594,,,,,,,,,,,,,,,,,Nursing Facility,,,,2001 First Ave N,,,Estherville,Emmett,,IA,,51334-0514,US,43.40297,-94.81542879999999,,True
+Scenic Living Communities,,,,,,,,,,,,,,,,,,(641) 648-4671,,,,,,,,,,,,,,,,,Nursing Facility,,,,1409 Fremont St,,,Iowa Falls,Hardin,,IA,,50126,US,42.52904849999999,-93.2610749,,True
+Montezuma Specialty Care,,,,,,,,,,,,,,,,,,(641) 623-5497,,,,,,,,,,,,,,,,,Nursing Facility,,,,316 Meadow Dr,,,Montezuma,Poweshiek,,IA,,50171,US,41.583009,-92.53721,,True
+Monticello Nursing & Rehab Center,,,,,,,,,,,,,,,,,,(319) 465-5415,,,,,,,,,,,,,,,,,Nursing Facility,,,,500 Pinehaven Dr,,,Monticello,Jones,,IA,,52310,US,42.2282604,-91.1833383,,True
+Shady Oaks Care Center,,,,,,,,,,,,,,,,,,(712) 464-3106,,,,,,,,,,,,,,,,,Nursing Facility,,,,1409 W Main St,,,Lake City,Calhoun,,IA,,51449,US,42.264406,-94.750502,,True
+Shady Rest Care Center,,,,,,,,,,,,,,,,,,(563) 852-3277,,,,,,,,,,,,,,,,,Nursing Facility,,,,701 Johnson Str NW,PO 130,,Cascade,Dubuque,,IA,,52033,US,42.3023782,-91.0212267,,True
+Shell Rock Senior Living,,,,,,,,,,,,,,,,,,(319) 885-4341,,,,,,,,,,,,,,,,,Nursing Facility,,,,920 North Cherry St,,,Shell Rock,Butler,,IA,,50670,US,42.7141169,-92.5704992,,True
+Sibley Specialty Care,,,,,,,,,,,,,,,,,,(712) 754-3629,,,,,,,,,,,,,,,,,Nursing Facility,,,,700 9th Ave N,,,Sibley,Osceola,,IA,,51249,US,43.41089789999999,-95.74123060000001,,True
+The Ambassador Sidney,,,,,,,,,,,,,,,,,,(712) 374-2693,,,,,,,,,,,,,,,,,Nursing Facility,,,,115 Main,,,Sidney,Fremont,,IA,,51601,US,40.7362951,-95.64697969999999,,False
+Sigourney Health Care,,,,,,,,,,,,,,,,,,(641) 622-2971,,,,,,,,,,,,,,,,,Nursing Facility,,,,900 S Stone St,,,Sigourney,Keokuk,,IA,,52591,US,41.3265633,-92.2082867,,True
+Hawkeye Care Center Sioux Rapids,,,,,,,,,,,,,,,,,,(712) 283-2302,,,,,,,,,,,,,,,,,Nursing Facility,,,,702 Blake St,PO 478,,Sioux Rapids,Buena Vista,,IA,,50585,US,42.8945678,-95.14385050000001,,True
+Solon Nursing Care Center,,,,,,,,,,,,,,,,,,(319) 624-3492,,,,,,,,,,,,,,,,,Nursing Facility,,,,523 E 5th St,,,Solon,Johnson,,IA,,52333,US,41.8010853,-91.4899849,,True
+"Accura Healthcare of Stanton, LLC",,,,,,,,,,,,,,,,,,(712) 829-2727,,,,,,,,,,,,,,,,,Nursing Facility,,,,PO Box 430,213 Halland,,Stanton,Montgomery,,IA,,51573,US,40.9777689,-95.10165339999999,,True
+State Center Specialty Care,,,,,,,,,,,,,,,,,,(641) 483-2812,,,,,,,,,,,,,,,,,Nursing Facility,,,,702 3rd St NW,,,State Center,Marshall,,IA,,50247,US,42.0180005,-93.1733533,,True
+Stratford Specialty Care,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nursing Facility,,,,1200 Hwy 175 E,PO 260,,Stratford,Hamilton,,IA,,50249,US,42.2671608,-93.92215999999999,,True
+Sunny Hill Care Center,,,,,,,,,,,,,,,,,,(641) 484-4061,,,,,,,,,,,,,,,,,Nursing Facility,,,,1708 Harding St,,,Tama,Tama,,IA,,52339-1028,US,41.9759049,-92.5816449,,True
+Sunny Knoll Care Centre,,,,,,,,,,,,,,,,,,(712) 297-8918,,,,,,,,,,,,,,,,,Nursing Facility,,,,135 Warner St,,,Rockwell City,Calhoun,,IA,,50579,US,42.3975041,-94.62004089999999,,True
+Sunny View Care Center,,,,,,,,,,,,,,,,,,(515) 635-0936,,,,,,,,,,,,,,,,,Nursing Facility,,,,410 NW Ash Dr,,,Ankeny,Polk,,IA,,50021,US,41.735305,-93.6111366,,True
+Sunrise Hill Care Center,,,,,,,,,,,,,,,,,,(319) 478-2730,,,,,,,,,,,,,,,,,Nursing Facility,,,,909 6th St,,,Traer,Tama,,IA,,50675,US,42.18878279999999,-92.4602914,,True
+Sunrise Terrace Nursing & Rehabilitation Center,,,,,,,,,,,,,,,,,,(319) 257-3303,,,,,,,,,,,,,,,,,Nursing Facility,,,,706 West Central Ave,PO Box 30,,Winfield,Henry,,IA,,52659,US,41.1267764,-91.44673449999999,,True
+Thomas Rest Haven,,,,,,,,,,,,,,,,,,(712) 999-2253,,,,,,,,,,,,,,,,,Nursing Facility,,,,217 Main St,,,Coon Rapids,Carroll,,IA,,50058,US,41.871393,-94.674127,,True
+Thornton Manor Care Center,,,,,,,,,,,,,,,,,,(563) 538-4236,,,,,,,,,,,,,,,,,Nursing Facility,,,,1329 Main,PO 700,,Lansing,Allamakee,,IA,,52151,US,43.360156,-91.2345945,,False
+Timely Mission Nursing Home,,,,,,,,,,,,,,,,,,(641) 562-2844,,,,,,,,,,,,,,,,,Nursing Facility,,,,109 Mission Dr,,,Buffalo Center,Winnebago,,IA,,50424,US,43.3887026,-93.95308910000001,,True
+Titonka Care Center,,,,,,,,,,,,,,,,,,(515) 928-2600,,,,,,,,,,,,,,,,,Nursing Facility,,,,312 1st Ave NW,PO Box349,,Titonka,Kossuth,,IA,,50480,US,43.2359979,-94.04501929999999,,True
+"Twilight Acres, Inc.",,,,,,,,,,,,,,,,,,(712) 664-2488,,,,,,,,,,,,,,,,,Nursing Facility,,,,600 West 6th St,,,Wall Lake,Sac,,IA,,51466,US,42.2761429,-95.0974066,,True
+Wapello Specialty Care,,,,,,,,,,,,,,,,,,(319) 523-2001,,,,,,,,,,,,,,,,,Nursing Facility,,,,601 HIghway 61 S,PO 208,,Wapello,Louisa,,IA,,52653,US,41.1716467,-91.18890379999999,,True
+West Point Care Center,,,,,,,,,,,,,,,,,,(319) 837-6117,,,,,,,,,,,,,,,,,Nursing Facility,,,,607 6th St,PO Box 398,,West Point,Lee,,IA,,52656-0398,US,40.721872,-91.45058859999999,,True
+Westbrook Acres,,,,,,,,,,,,,,,,,,(641) 473-2016,,,,,,,,,,,,,,,,,Nursing Facility,,,,605 Garfield St,,,Gladbrook,Tama,,IA,,50635,US,42.183298,-92.7203973,,True
+Winslow House Care Center,,,,,,,,,,,,,,,,,,(319) 377-8296,,,,,,,,,,,,,,,,,Nursing Facility,,,,3456 Indian Creek Rd,,,Marion,Linn,,IA,,52302,US,42.0552588,-91.5893732,,True
+Granger Nursing and Rehabilitation Center - Granger,,,,,,,,,,,,,,,,,,(515) 999-2588,,,,,,,,,,,,,,,,,Nursing Facility,,,,2001 Kennedy St,,,Granger,Dallas,,IA,,50109,US,41.7629312,-93.8298411,,True
+ManorCare Health Services of Dubuque,,,,,,,,,,,,,,,,,,(563) 556-1161,,,,,,,,,,,,,,,,,Nursing Facility,,,,901 W 3rd St,,,Dubuque,Dubuque,,IA,,52001,US,42.4946993,-90.67403809999999,,True
+Montrose Health Center Inc.,,,,,,,,,,,,,,,,,,(319) 463-5438,,,,,,,,,,,,,,,,,Nursing Facility,,,,400 South 7th St,PO Box 248,,Montrose,Lee,,IA,,52639,US,40.52617900000001,-91.419004,,True
+Living Center West,,,,,,,,,,,,,,,,,,(319) 366-8714,,,,,,,,,,,,,,,,,Nursing Facility,,,,1050 4th Ave SE,,,Cedar Rapids,Linn,,IA,,52403,US,41.9822121,-91.65609839999999,Wellington Heights,True
+Longhouse - Northshire Ltd.,,,,,,,,,,,,,,,,,,(712) 262-2344,,,,,,,,,,,,,,,,,Nursing Facility,,,,711 West 11th St,,,Spencer,Clay,,IA,,51301,US,43.1491664,-95.1560346,,True
+West Bend Health and Rehabilitation,,,,,,,,,,,,,,,,,,(515) 887-4071,,,,,,,,,,,,,,,,,Nursing Facility,,,,203 4th St NW,,,West Bend,Palo Alto,,IA,,50597-5114,US,42.9663768,-94.4486494,,True
+Ridgewood Specialty Care,,,,,,,,,,,,,,,,,,(641) 683-3111,,,,,,,,,,,,,,,,,Nursing Facility,,,,1977 Albia Rd,,,Ottumwa,Wapello,,IA,,52501,US,41.009818,-92.455568,,True
+Parkridge Specialty Care,,,,,,,,,,,,,,,,,,(515) 265-5348,,,,,,,,,,,,,,,,,Nursing Facility,,,,5800 NE 12th Ave,,,Pleasant Hill,Polk,,IA,,50327,US,41.60077810000001,-93.49472519999999,,True
+Altoona Nursing and Rehabilitation,,,,,,,,,,,,,,,,,,(515) 967-4267,,,,,,,,,,,,,,,,,Nursing Facility,,,,200 7th Ave SW,PO Box 595,,Altoona,Polk,,IA,,50009,US,41.6498833,-93.47329959999999,,True
+Danville Care Center,,,,,,,,,,,,,,,,,,(319) 392-4259,,,,,,,,,,,,,,,,,Nursing Facility,,,,401 S Birch St,,,Danville,Des Moines,,IA,,52623,US,40.862451,-91.3162569,,True
+Avoca Specialty Care,,,,,,,,,,,,,,,,,,(712) 343-6398,,,,,,,,,,,,,,,,,Nursing Facility,,,,610 East York Rd,,,Avoca,Pottawattamie,,IA,,51521-0728,US,41.50307929999999,-95.33341349999999,,True
+Corning Specialty Care,,,,,,,,,,,,,,,,,,(641) 322-4061,,,,,,,,,,,,,,,,,Nursing Facility,,,,1614 Northgate Dr,,,Corning,Adams,,IA,,50841,US,40.999178,-94.732328,,True
+La Porte City Specialty Care,,,,,,,,,,,,,,,,,,(319) 342-2125,,,,,,,,,,,,,,,,,Nursing Facility,,,,1100 Highway 218 N,PO Box 175,,La Porte City,Black Hawk,,IA,,50651,US,42.3213055,-92.20356869999999,,True
+Odebolt Specialty Care,,,,,,,,,,,,,,,,,,(712) 668-4867,,,,,,,,,,,,,,,,,Nursing Facility,,,,801 S Des Moines St,PO Box 670,,Odebolt,Sac,,IA,,51458,US,42.304215,-95.24429339999999,,True
+Atlantic Specialty Care,,,,,,,,,,,,,,,,,,(712) 243-3952,,,,,,,,,,,,,,,,,Nursing Facility,,,,1300 East 19th St,,,Atlantic,Cass,,IA,,50022,US,41.39229629999999,-94.99477739999999,,True
+Denison Care Center,,,,,,,,,,,,,,,,,,(712) 263-5611,,,,,,,,,,,,,,,,,Nursing Facility,,,,1202 Ridge Rd,,,Denison,Crawford,,IA,,51442,US,42.0316597,-95.3362935,,True
+Lenox Care Center,,,,,,,,,,,,,,,,,,(641) 333-2226,,,,,,,,,,,,,,,,,Nursing Facility,,,,111 East Van Buren,,,Lenox,Taylor,,IA,,50851,US,40.8854175,-94.5587487,,False
+ManorCare Health Services of Waterloo,,,,,,,,,,,,,,,,,,(319) 234-7777,,,,,,,,,,,,,,,,,Nursing Facility,,,,201 West Ridgeway Ave,,,Waterloo,Black Hawk,,IA,,50701,US,42.4685664,-92.3584338,,True
+Bettendorf Health Care Center,,,,,,,,,,,,,,,,,,(563) 332-7463,,,,,,,,,,,,,,,,,Nursing Facility,,,,2730 Crow Creek Rd,PO Box 1026,,Bettendorf,Scott,,IA,,52722,US,41.5699264,-90.4941444,,True
+Riverview Manor ,,,,,,,,,,,,,,,,,,(563) 332-4600,,,,,,,,,,,,,,,,,Nursing Facility,,,,17990 Spencer Rd,PO Box 503,,Pleasant Valley,Scott,,IA,,52767,US,41.5677499,-90.42218600000001,,True
+Mercy Living Center - North,,,,,,,,,,,,,,,,,,(563) 244-3887,,,,,,,,,,,,,,,,,Nursing Facility,,,,600 14th Ave N,,,Clinton,Clinton,,IA,,52732,US,41.86087149999999,-90.1904361,,True
+Premier Estates of Toledo,,,,,,,,,,,,,,,,,,(641) 484-5080,,,,,,,,,,,,,,,,,Nursing Facility,,,,403 Grandview Dr,,,Toledo,Tama,,IA,,52342-0279,US,41.9867286,-92.5876593,,True
+River Hills Village,,,,,,,,,,,,,,,,,,(319) 524-5772,,,,,,,,,,,,,,,,,Nursing Facility,,,,20 Village Cir,,,Keokuk,Lee,,IA,,52632,US,40.43199449999999,-91.4123779,,True
+Clearview Home - Clearfield,,,,,,,,,,,,,,,,,,(641) 336-2333,,,,,,,,,,,,,,,,,Nursing Facility,,,,202 N Jefferson,PO Box 219,,Clearfield,Taylor,,IA,,50840,US,40.80352500000001,-94.4768663,,False
+Clearview Home - Mt Ayr,,,,,,,,,,,,,,,,,,(641) 464-2240,,,,,,,,,,,,,,,,,Nursing Facility,,,,406 West Washington St,,,Mt. Ayr,Ringgold,,IA,,50854,US,40.7182825,-94.2421866,,True
+West Bridge Care & Rehabilitation,,,,,,,,,,,,,,,,,,(515) 462-1711,,,,,,,,,,,,,,,,,Nursing Facility,,,,1015 West Summitt,PO 352,,Winterset,Madison,,IA,,50273-2209,US,41.33027379999999,-94.0255901,,False
+Hawkeye Care Center of Cresco,,,,,,,,,,,,,,,,,,(563) 547-3580,,,,,,,,,,,,,,,,,Nursing Facility,,,,701 Vernon Rd SW,,,Cresco,Howard,,IA,,52136,US,43.36568399999999,-92.124432,,True
+Heritage Specialty Care,,,,,,,,,,,,,,,,,,(319) 396-7171,,,,,,,,,,,,,,,,,Nursing Facility,,,,200 Clive Dr SW,,,Cedar Rapids,Linn,,IA,,52404,US,41.9665808,-91.723129,Cedar Hills,True
+Heritage Care Center,,,,,,,,,,,,,,,,,,(641) 648-4250,,,,,,,,,,,,,,,,,Nursing Facility,,,,2320 W Washington Ave,,,Iowa Falls,Hardin,,IA,,50126,US,42.52057,-93.28609999999999,,True
+Karen Acres Healthcare Center,,,,,,,,,,,,,,,,,,(515) 276-4969,,,,,,,,,,,,,,,,,Nursing Facility,,,,3605 Elm Dr,,,Urbandale,Polk,,IA,,50322,US,41.6279996,-93.72396359999999,,True
+Westwood Specialty Care,,,,,,,,,,,,,,,,,,(712) 258-0135,,,,,,,,,,,,,,,,,Nursing Facility,,,,4201 N Fieldcrest Dr,,,Sioux City,Woodbury,,IA,,51103,US,42.5055726,-96.46208159999999,,True
+Lantern Park Specialty Care,,,,,,,,,,,,,,,,,,(319) 351-8440,,,,,,,,,,,,,,,,,Nursing Facility,,,,2200 Oakdale Rd,,,Coralville,Johnson,,IA,,52241,US,41.7038255,-91.5941818,Wickham,True
+Chariton Specialty Care,,,,,,,,,,,,,,,,,,(641) 774-5921,,,,,,,,,,,,,,,,,Nursing Facility,,,,1214 North 7th St,,,Chariton,Lucas,,IA,,50049-1210,US,41.0289215,-93.3021665,,True
+Oakwood Specialty Care,,,,,,,,,,,,,,,,,,(641) 932-7105,,,,,,,,,,,,,,,,,Nursing Facility,,,,200 16th Ave E,,,Albia,Monroe,,IA,,52531,US,41.013299,-92.80279999999999,,True
+West Ridge Specialty Care,,,,,,,,,,,,,,,,,,(641) 842-3153,,,,,,,,,,,,,,,,,Nursing Facility,,,,1904 W Howard St,,,Knoxville,Marion,,IA,,50138,US,41.3111767,-93.11658659999999,,True
+Crestview Specialty Care- West Branch,,,,,,,,,,,,,,,,,,(319) 643-2551,,,,,,,,,,,,,,,,,Nursing Facility,,,,451 West Orange St,,,West Branch,Cedar,,IA,,52358,US,41.67564350000001,-91.3532261,,True
+Creston Specialty Care,,,,,,,,,,,,,,,,,,(641) 782-8511,,,,,,,,,,,,,,,,,Nursing Facility,,,,1001 Cottonwood Rd,,,Creston,Union,,IA,,50801,US,41.0693147,-94.38532,,True
+Dubuque Specialty Care,,,,,,,,,,,,,,,,,,(563) 556-0673,,,,,,,,,,,,,,,,,Nursing Facility,,,,2935 Kaufmann Ave,,,Dubuque,Dubuque,,IA,,52001,US,42.5149487,-90.70750749999999,,True
+NorthCrest Specialty Care,,,,,,,,,,,,,,,,,,(319) 234-4423,,,,,,,,,,,,,,,,,Nursing Facility,,,,2001 Heath St,,,Waterloo,Black Hawk,,IA,,50703,US,42.53204400000001,-92.34035,,True
+Ravenwood Specialty Care,,,,,,,,,,,,,,,,,,(319) 232-6808,,,,,,,,,,,,,,,,,Nursing Facility,,,,2651 St Francis Dr,,,Waterloo,Black Hawk,,IA,,50702,US,42.4618941,-92.34300089999999,,True
+Northcrest Living Center,,,,,,,,,,,,,,,,,,(712) 328-2333,,,,,,,,,,,,,,,,,Nursing Facility,,,,34 Northcrest Dr,,,Council Bluffs,Pottawattamie,,IA,,51503-1695,US,41.2726563,-95.8296641,,True
+Southridge Specialty Care,,,,,,,,,,,,,,,,,,(641) 752-4553,,,,,,,,,,,,,,,,,Nursing Facility,,,,309 W Merle Hibbs Blvd,,,Marshalltown,Marshall,,IA,,50158,US,42.013386,-92.9183237,,True
+Eldora Specialty Care,,,,,,,,,,,,,,,,,,(641) 939-3491,,,,,,,,,,,,,,,,,Nursing Facility,,,,1510 22nd St,,,Eldora,Hardin,,IA,,50627,US,42.35757679999999,-93.11109139999999,,True
+Valley View Specialty Care,,,,,,,,,,,,,,,,,,(641) 858-5422,,,,,,,,,,,,,,,,,Nursing Facility,,,,2313 15th Ave,,,Eldora,Hardin,,IA,,50627,US,42.358353,-93.113449,,True
+Cherokee Specialty Care,,,,,,,,,,,,,,,,,,(712) 225-5189,,,,,,,,,,,,,,,,,Nursing Facility,,,,1011 North Roosevelt Ave,,,Cherokee,Cherokee,,IA,,51012,US,42.762611,-95.54455709999999,,True
+Pleasant Acres Care Center,,,,,,,,,,,,,,,,,,(712) 439-2758,,,,,,,,,,,,,,,,,Nursing Facility,,,,309 Railroad St,,,Hull,Sioux,,IA,,51239,US,43.1873161,-96.14345540000001,,True
+Grandview Health Care Center,,,,,,,,,,,,,,,,,,(515) 547-2288,,,,,,,,,,,,,,,,,Nursing Facility,,,,508 2nd St NE,,,Dayton,Webster,,IA,,50530,US,42.267154,-94.065384,,True
+Osage Rehab & Health Care Center,,,,,,,,,,,,,,,,,,(641) 732-5520,,,,,,,,,,,,,,,,,Nursing Facility,,,,830 South 5th St,,,Osage,Mitchell,,IA,,50461,US,43.27596229999999,-92.8140624,,True
+Hawkeye Care Center Carroll,,,,,,,,,,,,,,,,,,(712) 792-9284,,,,,,,,,,,,,,,,,Nursing Facility,,,,2241 North West St,,,Carroll,Carroll,,IA,,51401,US,42.0844142,-94.8699887,,True
+Cedar Falls Health Care Center,,,,,,,,,,,,,,,,,,(319) 277-2437,,,,,,,,,,,,,,,,,Nursing Facility,,,,1728 West Eighth St,,,Cedar Falls,Black Hawk,,IA,,50613,US,42.53081700000001,-92.46639599999999,,True
+Griswold Rehabilitation & Health Care Center,,,,,,,,,,,,,,,,,,(712) 778-2534,,,,,,,,,,,,,,,,,Nursing Facility,,,,106 Harrison St,,,Griswold,Cass,,IA,,51535,US,41.2366773,-95.1339033,,True
+Pocahontas Manor,,,,,,,,,,,,,,,,,,(712) 335-3387,,,,,,,,,,,,,,,,,Nursing Facility,,,,700 NW 7th St,,,Pocahontas,Pocahontas,,IA,,50574,US,42.7407987,-94.6788265,,True
+Wheatland Manor,,,,,,,,,,,,,,,,,,(563) 374-1295,,,,,,,,,,,,,,,,,Nursing Facility,,,,316 E Lincolnway,PO Box 369,,Wheatland,Clinton,,IA,,52777,US,41.8335212,-90.83191839999999,,False
+Iowa City Rehab. and Health Care Center,,,,,,,,,,,,,,,,,,(319) 351-7460,,,,,,,,,,,,,,,,,Nursing Facility,,,,3661 Rochester Ave,,,Iowa City,Johnson,,IA,,52245,US,41.66816789999999,-91.4792973,Longfellow,True
+Palo Alto County Hospital NF,,,,,,,,,,,,,,,,,,(712) 852-5500,,,,,,,,,,,,,,,,,Nursing Facility,,,,3201 First St,,,Emmetsburg,Palo Alto,,IA,,50536,US,43.1199732,-94.69156369999999,,True
+Ruthven Community Care Center,,,,,,,,,,,,,,,,,,(712) 837-5411,,,,,,,,,,,,,,,,,Nursing Facility,,,,2701 Mitchell Street Box D,,,Ruthven,Palo Alto,,IA,,51358,US,43.127774,-94.888954,,False
+Atrium Village,,,,,,,,,,,,,,,,,,(319) 679-2224,,,,,,,,,,,,,,,,,Nursing Facility,,,,117 South 3rd St,PO 220,,Hills,Johnson,,IA,,52235,US,43.527234,-96.35815939999999,,True
+ManorCare Health Services of Cedar Rapids,,,,,,,,,,,,,,,,,,(319) 364-5151,,,,,,,,,,,,,,,,,Nursing Facility,,,,1940 1st Ave NE,,,Cedar Rapids,Linn,,IA,,52402,US,41.99397889999999,-91.643255,Mound View,True
+Scottish Rite Park Health Care Center,,,,,,,,,,,,,,,,,,(515) 274-4614,,,,,,,,,,,,,,,,,Nursing Facility,,,,2909 Woodland Ave,,,Des Moines,Polk,,IA,,50312-3885,US,41.5888092,-93.65560099999999,Woodland Heights,True
+"Childserve Habilitation Center / Homecare, Inc.",,,,,,,,,,,,,,,,,,(515) 727-8750,,,,,,,,,,,,,,,,,Nursing Facility,,,,5406 Merle Hay Rd,,,Johnston,Polk,,IA,,50131,US,41.66033189999999,-93.69981430000001,,True
+Sheffield Care Center,,,,,,,,,,,,,,,,,,(641) 892-4691,,,,,,,,,,,,,,,,,Nursing Facility,,,,100 Bennett Dr,,,Sheffield,Franklin,,IA,,50475,US,42.893907,-93.20629699999999,,True
+Community Memorial Health Center,,,,,,,,,,,,,,,,,,(712) 728-2428,,,,,,,,,,,,,,,,,Nursing Facility,,,,231 8th Ave W,PO 188,,Hartley,O'Brien,,IA,,51346,US,43.1839399,-95.4868508,,True
+Adel Acres,,,,,,,,,,,,,,,,,,(515) 993-4511,,,,,,,,,,,,,,,,,Nursing Facility,,,,1919 Greene St,,,Adel,Dallas,,IA,,50003,US,41.6121849,-94.033721,,True
+Great River Klein Center,,,,,,,,,,,,,,,,,,(319) 768-4600,,,,,,,,,,,,,,,,,Nursing Facility,,,,1221 South Gear Ave,,,West Burlington,Des Moines,,IA,,52655-1681,US,40.80965969999999,-91.1730702,,True
+Tru Rehab of Grinnell,,,,,,,,,,,,,,,,,,(641) 236-6511,,,,,,,,,,,,,,,,,Nursing Facility,,,,415 6th Ave W,,,Grinnell,Poweshiek,,IA,,50112-1802,US,41.7461578,-92.7429087,,True
+Good Samaritan Society - Davenport,,,,,,,,,,,,,,,,,,(563) 324-1651,,,,,,,,,,,,,,,,,Nursing Facility,,,,700 Waverly Rd,,,Davenport,Scott,,IA,,52804,US,41.5254529,-90.62352969999999,,True
+Iowa Jewish Senior Life Center,,,,,,,,,,,,,,,,,,(515) 255-5433,,,,,,,,,,,,,,,,,Nursing Facility,,,,900 Polk Blvd,,,Des Moines,Polk,,IA,,50312,US,41.593539,-93.68293,Waveland Park,True
+Tabor Manor Care Center,,,,,,,,,,,,,,,,,,(712) 629-2645,,,,,,,,,,,,,,,,,Nursing Facility,,,,209 Main St,PO Box 180,,Tabor,Fremont,,IA,,51653,US,40.89129659999999,-95.67132699999999,,True
+Hawkeye Care Center Marshalltown,,,,,,,,,,,,,,,,,,(641) 752-1553,,,,,,,,,,,,,,,,,Nursing Facility,,,,2401 South 2nd St,,,Marshalltown,Marshall,,IA,,50158,US,42.0172093,-92.9165761,,True
+Red Oak Healthcare Community,,,,,,,,,,,,,,,,,,(712) 623-5156,,,,,,,,,,,,,,,,,Nursing Facility,,,,1600 E Summit St,,,Red Oak,Montgomery,,IA,,51566,US,41.0156847,-95.2127239,,True
+Westmont Healthcare Community,,,,,,,,,,,,,,,,,,(952) 873-7977,,,,,,,,,,,,,,,,,Nursing Facility,,,,314 South Elm St,,,Logan,Harrison,,IA,,51546,US,41.6404198,-95.7940103,,True
+Regency Care Center,,,,,,,,,,,,,,,,,,(515) 981-4269,,,,,,,,,,,,,,,,,Nursing Facility,,,,815 High Rd,,,Norwalk,Warren,,IA,,50211,US,41.4834568,-93.678168,,True
+Morningside Healthcare Community,,,,,,,,,,,,,,,,,,(952) 873-7977,,,,,,,,,,,,,,,,,Nursing Facility,,,,600 Morningside Ave,,,Ida Grove,Ida,,IA,,51445,US,42.34065109999999,-95.46382489999999,,True
+Touchstone Healthcare Community,,,,,,,,,,,,,,,,,,(712) 239-4582,,,,,,,,,,,,,,,,,Nursing Facility,,,,1800 Indian Hills Dr,,,Sioux City,Woodbury,,IA,,51104,US,42.533748,-96.38675660000001,,True
+Casa de Paz Health Care Center,,,,,,,,,,,,,,,,,,(712) 233-3127,,,,,,,,,,,,,,,,,Nursing Facility,,,,2121 West 19th St,,,Sioux City,Woodbury,,IA,,51103,US,42.5111883,-96.435959,,True
+ManorCare Health Services of Davenport,,,,,,,,,,,,,,,,,,(563) 324-3276,,,,,,,,,,,,,,,,,Nursing Facility,,,,815 East Locust St,,,Davenport,Scott,,IA,,52803,US,41.5378629,-90.5631365,,True
+Genesis Medical Center - DeWitt,,,,,,,,,,,,,,,,,,(563) 659-4212,,,,,,,,,,,,,,,,,Nursing Facility,,,,1118 11th St,,,DeWitt,Clinton,,IA,,52742,US,41.8259131,-90.5466292,,True
+Donnellson Health Center,,,,,,,,,,,,,,,,,,(319) 835-5621,,,,,,,,,,,,,,,,,Nursing Facility,,,,901 State St,,,Donnellson,Lee,,IA,,52625,US,40.64688499999999,-91.56980899999999,,True
+Hillcrest Health Care Center,,,,,,,,,,,,,,,,,,(712) 551-1074,,,,,,,,,,,,,,,,,Nursing Facility,,,,2121 Avenue L,,,Hawarden,Sioux,,IA,,51023,US,43.0095609,-96.48106419999999,,False
+IOOF Home and Community Therapy Center,,,,,,,,,,,,,,,,,,(641) 423-0428,,,,,,,,,,,,,,,,,Nursing Facility,,,,1037 19th St SW,,,Mason City,Cerro Gordo,,IA,,50401,US,43.13267,-93.218273,,True
+Clarence Nursing Home,,,,,,,,,,,,,,,,,,(563) 452-3262,,,,,,,,,,,,,,,,,Nursing Facility,,,,402 2nd Ave,PO 485,,Clarence,Cedar,,IA,,52216,US,41.8861491,-91.06273519999999,,True
+Embassy Healthcare Community,,,,,,,,,,,,,,,,,,(952) 873-7977,,,,,,,,,,,,,,,,,Nursing Facility,,,,206 Port Neal Rd,,,Sergeant Bluff,Woodbury,,IA,,51054,US,42.3972545,-96.3542039,,True
+Denver Sunset Home,,,,,,,,,,,,,,,,,,(319) 984-5372,,,,,,,,,,,,,,,,,Nursing Facility,,,,235 North Mill St,Box 383,,Denver,Bremer,,IA,,50622,US,42.674524,-92.33478799999999,,True
+West Ridge Care Center,,,,,,,,,,,,,,,,,,(319) 390-3367,,,,,,,,,,,,,,,,,Nursing Facility,,,,3131 F Ave NW,,,Cedar Rapids,Linn,,IA,,52405,US,41.97940880000001,-91.7131649,,True
+Valley View,,,,,,,,,,,,,,,,,,(641) 823-4531,,,,,,,,,,,,,,,,,Nursing Facility,,,,108 S High St,,,Greene,Butler,,IA,,50636,US,42.89136999999999,-92.80765439999999,,True
+"Accura Healthcare of Baxter, LLC",,,,,,,,,,,,,,,,,,(641) 227-3602,,,,,,,,,,,,,,,,,Nursing Facility,,,,407 S East Ave,,,Baxter,Jasper,,IA,,50028,US,41.82081299999999,-93.1440946,,True
+Salem Lutheran Homes,,,,,,,,,,,,,,,,,,(712) 764-4201,,,,,,,,,,,,,,,,,Nursing Facility,,,,2027 College St,,,Elk Horn,Shelby,,IA,,51531,US,41.5938168,-95.05957149999999,,True
+Methodist Manor Retirement Community,,,,,,,,,,,,,,,,,,(712) 732-1120,,,,,,,,,,,,,,,,,Nursing Facility,,,,1206 West 4th St,,,Storm Lake,Buena Vista,,IA,,50588,US,42.6420658,-95.21634759999999,,True
+Pearl Valley Rehabilitation and Nursing at Gowrie LLC ,,,,,,,,,,,,,,,,,,(515) 352-3912,,,,,,,,,,,,,,,,,Nursing Facility,,,,1808 Main St,,,Gowrie,Webster,,IA,,50543,US,42.28319,-94.29970399999999,,True
+Careage Hills Rehabilitation and Healthcare,,,,,,,,,,,,,,,,,,(712) 225-2561,,,,,,,,,,,,,,,,,Nursing Facility,,,,725 North Second St,,,Cherokee,Cherokee,,IA,,51012,US,42.7567449,-95.55236699999999,,True
+"Rockwell Community Nursing Home, Inc.",,,,,,,,,,,,,,,,,,(641) 822-3203,,,,,,,,,,,,,,,,,Nursing Facility,,,,707 Elm St E,,,Rockwell,Cerro Gordo,,IA,,50469,US,42.988107,-93.1831,,True
+Bethany Home,,,,,,,,,,,,,,,,,,(563) 556-5233,,,,,,,,,,,,,,,,,Nursing Facility,,,,1005 Lincoln Ave,,,Dubuque,Dubuque,,IA,,52001-3499,US,42.5194937,-90.66224700000001,,True
+Heartland Care Center,,,,,,,,,,,,,,,,,,(712) 376-2500,,,,,,,,,,,,,,,,,Nursing Facility,,,,604 E Fenton,,,Marcus,Cherokee,,IA,,51035-0608,US,42.820181,-95.800412,,False
+Good Neighbor Society,,,,,,,,,,,,,,,,,,(563) 927-3907,,,,,,,,,,,,,,,,,Nursing Facility,,,,105 McCarren Dr,,,Manchester,Delaware,,IA,,52057,US,42.4849121,-91.4378369,,True
+Westview Acres Care Center,,,,,,,,,,,,,,,,,,(641) 446-4165,,,,,,,,,,,,,,,,,Nursing Facility,,,,203 SW Lorraine St,,,Leon,Decatur,,IA,,50144,US,40.7396146,-93.7610273,,True
+VIA Health Services (Des Moines),,,,,,,,,,,,,,,,,,(515) 285-2559,,,,,,,,,,,,,,,,,Nursing Facility,,,,4911 SW 19th St,,,Des Moines,Polk,,IA,,50315,US,41.53908,-93.642004,Greater South Side,True
+Maquoketa Care Center,,,,,,,,,,,,,,,,,,(563) 652-5195,,,,,,,,,,,,,,,,,Nursing Facility,,,,1202 German St,,,Maquoketa,Jackson,,IA,,52060,US,42.0721559,-90.6812819,,True
+Black Hawk Life Care Center,,,,,,,,,,,,,,,,,,(712) 657-8527,,,,,,,,,,,,,,,,,Nursing Facility,,,,73 West 5th St,,,Lake View,Sac,,IA,,51450,US,42.3079401,-95.05673209999999,,True
+Burlington Care Center,,,,,,,,,,,,,,,,,,(319) 753-2841,,,,,,,,,,,,,,,,,Nursing Facility,,,,2610 South 5th St,,,Burlington,Des Moines,,IA,,52601,US,40.778485,-91.102862,,True
+Ennoble Skilled Nursing and Rehabilitation Center,,,,,,,,,,,,,,,,,,(563) 557-1076,,,,,,,,,,,,,,,,,Nursing Facility,,,,2000 Pasadena Dr,,,Dubuque,Dubuque,,IA,,52001,US,42.5044878,-90.71774160000001,,True
+Garden View Care Center,,,,,,,,,,,,,,,,,,(712) 246-4515,,,,,,,,,,,,,,,,,Nursing Facility,,,,1200 West Nishna Rd,,,Shenandoah,Page,,IA,,51601,US,40.7565893,-95.38151219999999,,True
+Goldenrod Manor,,,,,,,,,,,,,,,,,,(712) 542-5621,,,,,,,,,,,,,,,,,Nursing Facility,,,,225 West Laperla Dr,,,Clarinda,Page,,IA,,51632,US,40.724596,-95.039538,,True
+Monroe Care Center,,,,,,,,,,,,,,,,,,(641) 932-2125,,,,,,,,,,,,,,,,,Nursing Facility,,,,120 North 13th St,,,Albia,Monroe,,IA,,52531,US,41.0283234,-92.7931773,,True
+Pleasant Manor Care Center,,,,,,,,,,,,,,,,,,(319) 385-8095,,,,,,,,,,,,,,,,,Nursing Facility,,,,413 North Broadway St,,,Mt. Pleasant,Henry,,IA,,52641,US,40.9713157,-91.5557348,,True
+Aase Haugen Home,,,,,,,,,,,,,,,,,,(563) 382-3603,,,,,,,,,,,,,,,,,Nursing Facility,,,,4 Ohio St,,,Decorah,Winneshiek,,IA,,52101,US,43.30303819999999,-91.80283419999999,,True
+Algona Manor Care Center,,,,,,,,,,,,,,,,,,(515) 295-3505,,,,,,,,,,,,,,,,,Nursing Facility,,,,2221 East McGregor St,,,Algona,Kossuth,,IA,,50511,US,43.06777599999999,-94.2094556,,True
+Willow Gardens Care Center,,,,,,,,,,,,,,,,,,(319) 377-7363,,,,,,,,,,,,,,,,,Nursing Facility,,,,455 31st St,,,Marion,Linn,,IA,,52302,US,42.03099159999999,-91.578722,,True
+Elm Heights Care Center,,,,,,,,,,,,,,,,,,(712) 246-4627,,,,,,,,,,,,,,,,,Nursing Facility,,,,1203 South Elm St,,,Shenandoah,Page,,IA,,51601,US,40.7551581,-95.37325109999999,,True
+Midlands Living Center LLC,,,,,,,,,,,,,,,,,,(712) 323-7135,,,,,,,,,,,,,,,,,Nursing Facility,,,,2452 North Broadway,,,Council Bluffs,Pottawattamie,,IA,,51503,US,41.2871466,-95.83660429999999,,True
+Eagle Point Health Care Center,,,,,,,,,,,,,,,,,,(563) 243-6600,,,,,,,,,,,,,,,,,Nursing Facility,,,,801 28th Ave N,,,Clinton,Clinton,,IA,,52732,US,41.877789,-90.1897777,,True
+Hubbard Care Center,,,,,,,,,,,,,,,,,,(641) 864-3264,,,,,,,,,,,,,,,,,Nursing Facility,,,,403 S State,PO 667,,Hubbard,Hardin,,IA,,50122,US,42.300657,-93.291764,,False
+Patty Elwood Center (Country Winds Manor),,,,,,,,,,,,,,,,,,(563) 547-2398,,,,,,,,,,,,,,,,,Nursing Facility,,,,21668 80th St,,,Cresco,Howard,,IA,,52136-8412,US,43.39946349999999,-92.14593529999999,,True
+Pearl Valley Rehabilitation and Nursing at Perry LLC,,,,,,,,,,,,,,,,,,(515) 465-5349,,,,,,,,,,,,,,,,,Nursing Facility,,,,2625 Iowa St,,,Perry,Dallas,,IA,,50220,US,41.8342917,-94.0851606,,True
+"Accura Healthcare of Ogden,LLC ",,,,,,,,,,,,,,,,,,(515) 275-2481,,,,,,,,,,,,,,,,,Nursing Facility,,,,625 East Oak St,,,Odgen,Boone,,IA,,50212,US,42.0373947,-94.0188486,,True
+Greenfield Rehabilitation and Health Care Center,,,,,,,,,,,,,,,,,,(641) 743-6131,,,,,,,,,,,,,,,,,Nursing Facility,,,,615 SE Kent,,,Greenfield,Adair,,IA,,50849,US,41.30314799999999,-94.45034799999999,,False
+Sioux Center Health ,,,,,,,,,,,,,,,,,,(712) 722-8260,,,,,,,,,,,,,,,,,Nursing Facility,,,,1400 7th Ave SE,,,Sioux Center,Sioux,,IA,,51250,US,43.0609498,-96.16334160000001,,True
+Golden Age Care Center,,,,,,,,,,,,,,,,,,(641) 856-2757,,,,,,,,,,,,,,,,,Nursing Facility,,,,1915 South 18th St,,,Centerville,Appanoose,,IA,,52544,US,40.7151053,-92.8667852,,True
+Clarion Wellness and Rehabilitation Center,,,,,,,,,,,,,,,,,,(515) 532-2893,,,,,,,,,,,,,,,,,Nursing Facility,,,,110 13th St SW,,,Clarion,Wright,,IA,,50525,US,42.72038339999999,-93.734461,,True
+Newton Health Care Center,,,,,,,,,,,,,,,,,,(641) 792-7440,,,,,,,,,,,,,,,,,Nursing Facility,,,,200 South 8th Ave E,,,Newton,Jasper,,IA,,50208,US,41.6932115,-93.0521894,,True
+Fort Dodge Health and Rehabilitation,,,,,,,,,,,,,,,,,,(515) 576-7226,,,,,,,,,,,,,,,,,Nursing Facility,,,,728 14th Ave N,,,Fort Dodge,Webster,,IA,,50501,US,42.5197067,-94.1925516,,True
+Lakeside Lutheran Home,,,,,,,,,,,,,,,,,,(712) 852-4060,,,,,,,,,,,,,,,,,Nursing Facility,,,,301 North Lawler St,,,Emmetsburg,Palo Alto,,IA,,50536-1099,US,43.1171808,-94.6830763,,True
+"QHC Winterset North, LLC",,,,,,,,,,,,,,,,,,(515) 462-1571,,,,,,,,,,,,,,,,,Nursing Facility,,,,411 East St,,,Winterset,Madison,,IA,,50273,US,41.341088,-94.009923,,True
+"QHC Winterset South, LLC",,,,,,,,,,,,,,,,,,(515) 462-4040,,,,,,,,,,,,,,,,,Nursing Facility,,,,715 South 2nd Ave,,,Winterset,Madison,,IA,,50273,US,41.329393,-94.015647,,True
+Sunnycrest Nursing Center  ,,,,,,,,,,,,,,,,,,(319) 476-2400,,,,,,,,,,,,,,,,,Nursing Facility,,,,401 Crisman St,,,Dysart,Tama,,IA,,52224,US,42.1702418,-92.30813429999999,,True
+Crestview Acres,,,,,,,,,,,,,,,,,,(319) 377-4823,,,,,,,,,,,,,,,,,Nursing Facility,,,,1485 Grand Ave,,,Marion,Linn,,IA,,52302,US,42.01976510000001,-91.5943047,,True
+Akron Care Center,,,,,,,,,,,,,,,,,,(712) 568-2422,,,,,,,,,,,,,,,,,Nursing Facility,,,,991 Hwy 3,,,Akron,Plymouth,,IA,,51001,US,42.8194109,-96.54954839999999,,True
+"Accura Healthcare of Newton West, LLC",,,,,,,,,,,,,,,,,,(641) 791-1127,,,,,,,,,,,,,,,,,Nursing Facility,,,,2130 West 18th St S,,,Newton,Jasper,,IA,,50208,US,41.6797805,-93.07409969999999,,True
+Cedar Manor Nursing Home,,,,,,,,,,,,,,,,,,(563) 886-2133,,,,,,,,,,,,,,,,,Nursing Facility,,,,1200 Mulberry St,,,Tipton,Cedar,,IA,,52772,US,41.7775986,-91.1237695,,True
+Country View,,,,,,,,,,,,,,,,,,(319) 291-2509,,,,,,,,,,,,,,,,,Nursing Facility,,,,1410 West Dunkerton Rd,,,Waterloo,Black Hawk,,IA,,50703,US,42.571656,-92.36542999999999,,True
+Davenport Lutheran Home,,,,,,,,,,,,,,,,,,(563) 391-5342,,,,,,,,,,,,,,,,,Nursing Facility,,,,1130 W 53rd St,,,Davenport,Scott,,IA,,52806,US,41.576189,-90.5884839,,True
+Westhaven Community,,,,,,,,,,,,,,,,,,(515) 432-1393,,,,,,,,,,,,,,,,,Nursing Facility,,,,112 W 4th St,,,Boone,Boone,,IA,,50036,US,42.0602578,-93.8932834,,True
+Greene County Medical Center ,,,,,,,,,,,,,,,,,,(515) 386-2114,,,,,,,,,,,,,,,,,Nursing Facility,,,,1000 West Lincolnway,,,Jefferson,Greene,,IA,,50129,US,42.0159506,-94.38899359999999,,False
+Hegg Memorial Health Center Hsp,,,,,,,,,,,,,,,,,,(712) 476-8200,,,,,,,,,,,,,,,,,Nursing Facility,,,,2116 14th St,,,Rock Valley,Sioux,,IA,,51247,US,43.20417899999999,-96.2849913,,True
+Linn Manor Care Center,,,,,,,,,,,,,,,,,,(319) 377-4611,,,,,,,,,,,,,,,,,Nursing Facility,,,,1140 Elim Dr,,,Marion,Linn,,IA,,52302,US,42.0196986,-91.6025239,,True
+Madrid Home for the Aging,,,,,,,,,,,,,,,,,,(515) 795-3007,,,,,,,,,,,,,,,,,Nursing Facility,,,,613 West North St,,,Madrid,Boone,,IA,,50156,US,41.8782559,-93.8274356,,True
+Sanford Senior Care Sheldon,,,,,,,,,,,,,,,,,,(712) 324-6020,,,,,,,,,,,,,,,,,Nursing Facility,,,,118 N 7th Ave,PO 250,,Sheldon,O'Brien,,IA,,51201,US,43.1868662,-95.84624629999999,,True
+Parkview Home,,,,,,,,,,,,,,,,,,(319) 256-3525,,,,,,,,,,,,,,,,,Nursing Facility,,,,102 North Jackson,,,Wayland,Henry,,IA,,52654-0038,US,41.1471771,-91.6664864,,False
+Ramsey Village,,,,,,,,,,,,,,,,,,(515) 274-3612,,,,,,,,,,,,,,,,,Nursing Facility,,,,1611 27th St,,,Des Moines,Polk,,IA,,50310-5400,US,41.60889309999999,-93.65272499999999,Drake,True
+Rowley Memorial Masonic Home,,,,,,,,,,,,,,,,,,(515) 465-5316,,,,,,,,,,,,,,,,,Nursing Facility,,,,1300 28th St,PO Box 528,,Perry,Dallas,,IA,,50220,US,41.8398111,-94.0757395,,True
+Strawberry Point Lutheran Home Community,,,,,,,,,,,,,,,,,,(563) 933-6037,,,,,,,,,,,,,,,,,Nursing Facility,,,,313 Elkader St,PO 34,,Strawberry Point,Clayton,,IA,,52076,US,42.6878125,-91.5342574,,True
+St. Anthony Regional Hospital,,,,,,,,,,,,,,,,,,(712) 794-5291,,,,,,,,,,,,,,,,,Nursing Facility,,,,311 South Clark,PO Box 628,,Carroll,Carroll,,IA,,51401,US,42.05642479999999,-94.86603629999999,,False
+Sunset Knoll Care and Rehab Center,,,,,,,,,,,,,,,,,,(712) 434-2294,,,,,,,,,,,,,,,,,Nursing Facility,,,,401 West 5th St,PO Box 67,,Aurelia,Cherokee,,IA,,51005-0067,US,42.71603589999999,-95.4407851,,True
+Tripoli Nursing and Rehab,,,,,,,,,,,,,,,,,,(319) 882-4269,,,,,,,,,,,,,,,,,Nursing Facility,,,,604 Third St SW,,,Tripoli,Bremer,,IA,,50676,US,42.8039187,-92.262408,,True
+Virginia Gay Nursing and Rehabilitation,,,,,,,,,,,,,,,,,,(319) 472-6280,,,,,,,,,,,,,,,,,Nursing Facility,,,,502 North 9th Ave,,,Vinton,Benton,,IA,,52349,US,42.1735988,-92.0123811,,True
+Mercy Medical Center - Dubuque,,,,,,,,,,,,,,,,,,(563) 589-8000,,,,,,,,,,,,,,,,,Nursing Facility,,,,250 Mercy Dr,,,Dubuque,Dubuque,,IA,,52001,US,42.4925024,-90.67460799999999,,True
+"QHC Humboldt North, LLC",,,,,,,,,,,,,,,,,,(515) 332-2623,,,,,,,,,,,,,,,,,Nursing Facility,,,,1111 11th Ave N,,,Humboldt,Humboldt,,IA,,50548,US,42.733492,-94.224564,,True
+Vinton Lutheran Home,,,,,,,,,,,,,,,,,,(319) 472-4751,,,,,,,,,,,,,,,,,Nursing Facility,,,,1301 2nd Ave,,,Vinton,Benton,,IA,,52349,US,42.15867799999999,-92.02360399999999,,True
+On With Life,,,,,,,,,,,,,,,,,,(515) 965-1339,,,,,,,,,,,,,,,,,Nursing Facility,,,,715 SW Ankeny Rd,,,Ankeny,Polk,,IA,,50023-9798,US,41.6982629,-93.60875419999999,,True
+VIA Health Services (Carlisle),,,,,,,,,,,,,,,,,,(515) 989-0871,,,,,,,,,,,,,,,,,Nursing Facility,,,,680 Cole St,,,Carlisle,Warren,,IA,,50047,US,41.4956293,-93.4927015,,True
+Spurgeon Manor,,,,,,,,,,,,,,,,,,(515) 992-3735,,,,,,,,,,,,,,,,,Nursing Facility,,,,1204 Linden St,,,Dallas Center,Dallas,,IA,,50063-1052,US,41.679747,-93.95890999999999,,True
+Crestridge Care Center,,,,,,,,,,,,,,,,,,(563) 652-4968,,,,,,,,,,,,,,,,,Nursing Facility,,,,1015 Wesley Dr,,,Maquoketa,Jackson,,IA,,52060,US,42.0657923,-90.6800726,,True
+"QHC Fort Dodge Villa, LLC",,,,,,,,,,,,,,,,,,(515) 576-7525,,,,,,,,,,,,,,,,,Nursing Facility,,,,2721 10th Ave N,,,Fort Dodge,Webster,,IA,,50501,US,42.5149347,-94.1599669,,True
+"QHC Humboldt South, LLC",,,,,,,,,,,,,,,,,,(515) 332-4104,,,,,,,,,,,,,,,,,Nursing Facility,,,,800 13th St S,,,Humboldt,Humboldt,,IA,,50548,US,42.712465,-94.22758999999999,,True
+Trinity Center at Luther Park,,,,,,,,,,,,,,,,,,(515) 262-5639,,,,,,,,,,,,,,,,,Nursing Facility,,,,1555 Hull Ave,,,Des Moines,Polk,,IA,,50316,US,41.621601,-93.59556669999999,Union Park,True
+"QHC Mitchellville, LLC",,,,,,,,,,,,,,,,,,(515) 967-3726,,,,,,,,,,,,,,,,,Nursing Facility,,,,114 Carter St SW,,,Mitchellville,Polk,,IA,,50169,US,41.66188319999999,-93.3594111,,True
+Crystal Heights Care Center,,,,,,,,,,,,,,,,,,(641) 673-7032,,,,,,,,,,,,,,,,,Nursing Facility,,,,1514 High Ave W,,,Oskaloosa,Mahaska,,IA,,52577,US,41.295209,-92.661523,,True
+Rotary Senior Living,,,,,,,,,,,,,,,,,,(515) 448-5124,,,,,,,,,,,,,,,,,Nursing Facility,,,,620 SE 5th St,,,Eagle Grove,Wright,,IA,,50533,US,42.6589499,-93.8944289,,True
+Humboldt County Memorial Hospital,,,,,,,,,,,,,,,,,,(515) 332-4200,,,,,,,,,,,,,,,,,Nursing Facility,,,,1000 N 15th St,,,Humboldt,Humboldt,,IA,,50548,US,42.7318263,-94.23020179999999,,True
+St. Luke Lutheran Nursing Home,,,,,,,,,,,,,,,,,,(712) 262-5931,,,,,,,,,,,,,,,,,Nursing Facility,,,,1301 St Luke Dr,,,Spencer,Clay,,IA,,51301,US,43.124384,-95.126345,,True
+Mercy Hospital of the Franciscan Sisters,,,,,,,,,,,,,,,,,,(319) 283-6150,,,,,,,,,,,,,,,,,Nursing Facility,,,,201 8th Ave SE,,,Oelwein,Fayette,,IA,,50662,US,42.67544559999999,-91.90216749999999,,True
+On With Life at Glenwood,,,,,,,,,,,,,,,,,,(712) 525-1294,,,,,,,,,,,,,,,,,Nursing Facility,,,,714 South Lacey St,Suite 100,,Glenwood,Mills,,IA,,51534,US,41.04007,-95.7364731,,True
+Wellington Place NF/RCF,,,,,,,,,,,,,,,,,,(563) 382-9691,,,,,,,,,,,,,,,,,Nursing Facility,,,,2479 River Rd,,,Decorah,Winneshiek,,IA,,52101,US,43.300197,-91.746498,,True
+University Park Nursing and Rehabilitation Center,,,,,,,,,,,,,,,,,,(515) 284-1280,,,,,,,,,,,,,,,,,Nursing Facility,,,,233 University Ave,,,Des Moines,Polk,,IA,,50314,US,41.6008029,-93.6210502,River Bend,True
+Care Initiatives ,,,,,,,,,,,,,,,,,,(515) 224-4442,,,,,,,,,,,,,,,,,Nursing Facility,,,,1611 West Lakes Pkwy,,,West Des Moines,Polk,,IA,,50266,US,41.5968275,-93.7842563,,True
+Hiawatha Care Center,,,,,,,,,,,,,,,,,,(319) 378-8583,,,,,,,,,,,,,,,,,Nursing Facility,,,,405 North 15th Ave,,,Hiawatha,Linn,,IA,,52233,US,42.04283360000001,-91.69223079999999,,True
+Mercy Medical Center - Clinton,,,,,,,,,,,,,,,,,,(563) 244-5555,,,,,,,,,,,,,,,,,Nursing Facility,,,,1410 North 4th St,,,Clinton,Clinton,,IA,,52732,US,41.86141110000001,-90.1892084,,True
+Vista Woods Care Center,,,,,,,,,,,,,,,,,,(641) 683-3372,,,,,,,,,,,,,,,,,Nursing Facility,,,,#3 Pennsylvania Pl,,,Ottumwa,Wapello,,IA,,52501,US,41.0275261,-92.38545189999999,,False
+"Accura Healthcare of Sioux City, LLC",,,,,,,,,,,,,,,,,,(712) 239-5025,,,,,,,,,,,,,,,,,Nursing Facility,,,,3800 Indian Hills Dr,,,Sioux City,Woodbury,,IA,,51104,US,42.53593679999999,-96.3744816,,True
+"Accura Healthcare of Ames, LLC",,,,,,,,,,,,,,,,,,(515) 232-3426,,,,,,,,,,,,,,,,,Nursing Facility,,,,3440 Grand Ave,,,Ames,Story,,IA,,50010,US,42.0552039,-93.6195012,,True
+"Accura Healthcare of Cherokee, LLC",,,,,,,,,,,,,,,,,,(712) 225-5724,,,,,,,,,,,,,,,,,Nursing Facility,,,,921 Riverview Dr,,,Cherokee,Cherokee,,IA,,51012,US,42.75948,-95.536039,,True
+"Accura Healthcare of Newton East, LLC",,,,,,,,,,,,,,,,,,(641) 792-5680,,,,,,,,,,,,,,,,,Nursing Facility,,,,1743 South 8th Ave E,,,Newton,Jasper,,IA,,50208,US,41.691775,-93.03119,,True
+Elm Crest Retirement Community,,,,,,,,,,,,,,,,,,(712) 755-5174,,,,,,,,,,,,,,,,,Nursing Facility,,,,2104 12th St,,,Harlan,Shelby,,IA,,51537,US,41.648206,-95.32480100000001,,True
+The Alverno Health Care Facility,,,,,,,,,,,,,,,,,,(563) 242-1521,,,,,,,,,,,,,,,,,Nursing Facility,,,,849 13th Ave N,,,Clinton,Clinton,,IA,,52732,US,41.85850069999999,-90.2046148,,True
+Franklin General Hospital ,,,,,,,,,,,,,,,,,,(641) 456-5029,,,,,,,,,,,,,,,,,Nursing Facility,,,,1720 Central Ave E,,,Hampton,Franklin,,IA,,50441,US,42.743645,-93.185346,,True
+Afton Care Center,,,,,,,,,,,,,,,,,,(641) 347-8416,,,,,,,,,,,,,,,,,Nursing Facility,,,,508 West Pearl St,,,Afton,Union,,IA,,50830,US,41.0345904,-94.2024016,,True
+Windmill Manor,,,,,,,,,,,,,,,,,,(319) 545-7390,,,,,,,,,,,,,,,,,Nursing Facility,,,,2332 Liberty Dr,,,Coralville,Johnson,,IA,,52241,US,41.6990474,-91.6208934,,True
+Davis Center Optimae Lifeservices,,,,,,,,,,,,,,,,,,(641) 664-3202,,,,,,,,,,,,,,,,,Nursing Facility,,,,22425 Overland Ave,,,Bloomfield,Davis,,IA,,52537-7169,US,40.716586,-92.35642039999999,,True
+Arbor Springs of West Des Moines LLC,,,,,,,,,,,,,,,,,,(515) 223-1135,,,,,,,,,,,,,,,,,Nursing Facility,,,,7951 EP True Pkwy,,,West Des Moines,Dallas,,IA,,50266,US,41.57537879999999,-93.8164987,,True
+Blair House,,,,,,,,,,,,,,,,,,(319) 752-4100,,,,,,,,,,,,,,,,,Nursing Facility,,,,1212 Indian Hills Dr,,,Burlington,Des Moines,,IA,,52601,US,40.79512099999999,-91.16662300000002,,True
+Bedford Specialty Care,,,,,,,,,,,,,,,,,,(712) 523-2161,,,,,,,,,,,,,,,,,Nursing Facility,,,,1005 West Pearl Box 233,,,Bedford,Taylor,,IA,,50833,US,40.6690481,-94.7252163,,True
+Westridge Quality Care & Rehab.,,,,,,,,,,,,,,,,,,(712) 542-5161,,,,,,,,,,,,,,,,,Nursing Facility,,,,600 Manor Dr,,,Clarinda,Page,,IA,,51632-0475,US,40.7301576,-95.0452803,,True
+Anamosa Care Center,,,,,,,,,,,,,,,,,,(319) 462-4356,,,,,,,,,,,,,,,,,Nursing Facility,,,,1209 E 3rd St,,,Anamosa,Jones,,IA,,52205,US,42.1037931,-91.2705254,,True
+Urbandale Health Care Center,,,,,,,,,,,,,,,,,,(515) 270-6838,,,,,,,,,,,,,,,,,Nursing Facility,,,,4614 NW 84th St,,,Urbandale,Polk,,IA,,50322,US,41.656481,-93.73436769999999,,True
+Premier Estates of Muscatine,,,,,,,,,,,,,,,,,,(563) 263-2194,,,,,,,,,,,,,,,,,Nursing Facility,,,,3440 Mulberry Ave,,,Muscatine,Muscatine,,IA,,52761,US,41.446424,-91.08486599999999,,True
+Belle Plaine Specialty Care,,,,,,,,,,,,,,,,,,(319) 444-2500,,,,,,,,,,,,,,,,,Nursing Facility,,,,1505 Sunset Dr,,,Belle Plaine,Benton,,IA,,52208-1319,US,41.899648,-92.265142,,True
+Deerfield Retirement Community Inc.,,,,,,,,,,,,,,,,,,(515) 267-0438,,,,,,,,,,,,,,,,,Nursing Facility,,,,13731 Hickman Rd,,,Urbandale,Polk,,IA,,50323,US,41.61689399999999,-93.808145,,True
+ManorCare Health Services - West Des Moines,,,,,,,,,,,,,,,,,,(515) 222-5991,,,,,,,,,,,,,,,,,Nursing Facility,,,,5010 Grand Ridge Dr,,,West Des Moines,Polk,,IA,,50265,US,41.5426688,-93.76643589999999,,True
+Village at Legacy Pointe ,,,,,,,,,,,,,,,,,,(515) 987-4100,,,,,,,,,,,,,,,,,Nursing Facility,,,,1645 SE Holiday Crest Cir,,,Waukee,Dallas,,IA,,50263,US,41.612992,-93.8400101,,True
+Cedar Health,,,,,,,,,,,,,,,,,,(641) 228-1612,,,,,,,,,,,,,,,,,Nursing Facility,,,,807 5th St,,,Charles City,Floyd,,IA,,50616,US,43.0603901,-92.68351849999999,,True
+Oskaloosa Care Center,,,,,,,,,,,,,,,,,,(641) 676-3414,,,,,,,,,,,,,,,,,Nursing Facility,,,,605 Highway 432,,,Oskaloosa,Mahaska,,IA,,52577,US,41.3019195,-92.6682163,,True
+ManorCare Health Services of Utica Ridge,,,,,,,,,,,,,,,,,,(563) 344-2000,,,,,,,,,,,,,,,,,Nursing Facility,,,,3800 Commerce Blvd,,,Davenport,Scott,,IA,,52807,US,41.5688183,-90.5206695,,True
+Rehabilitation Center of Des Moines,,,,,,,,,,,,,,,,,,(515) 266-1106,,,,,,,,,,,,,,,,,Nursing Facility,,,,701 Riverview St,,,Des Moines,Polk,,IA,,50316,US,41.6034919,-93.6098373,Capitol Park,True
+SunnyBrook Living Care Center,,,,,,,,,,,,,,,,,,(641) 209-1600,,,,,,,,,,,,,,,,,Nursing Facility,,,,400 Highland St,,,Fairfield,Jefferson,,IA,,52556,US,41.0037717,-91.9529993,,True
+Briarwood Health Care Center,,,,,,,,,,,,,,,,,,(319) 338-7912,,,,,,,,,,,,,,,,,Nursing Facility,,,,605 Greenwood Dr,,,Iowa City,Johnson,,IA,,52246,US,41.651787,-91.54666499999999,Horn,True
+Kennybrook Village,,,,,,,,,,,,,,,,,,(515) 369-3900,,,,,,,,,,,,,,,,,Nursing Facility,,,,200 SW Brookside Dr,,,Grimes,Polk,,IA,,50111,US,41.6865979,-93.8058444,,True
+Dave's Place,,,,,,,,,,,,,,,,,,(319) 524-1800,,,,,,,,,,,,,,,,,Nursing Facility,,,,3140 Plank Rd,,,Keokuk,Lee,,IA,,52632,US,40.4207759,-91.407465,,True
+"Martin Health Center, Inc.",,,,,,,,,,,,,,,,,,(319) 277-2141,,,,,,,,,,,,,,,,,Nursing Facility,,,,420 E 11th St,Western Home Communities,,Cedar Falls,Black Hawk,,IA,,50613,US,42.52911530000001,-92.4409589,,True
+Crestview Nursing & Rehab - Webster City,,,,,,,,,,,,,,,,,,(515) 832-2727,,,,,,,,,,,,,,,,,Nursing Facility,,,,2401 South Des Moines St,,,Webster City,Hamilton,,IA,,50595,US,42.4512434,-93.82117869999999,,True
+Laurens Care Center,,,,,,,,,,,,,,,,,,(712) 845-4915,,,,,,,,,,,,,,,,,Nursing Facility,,,,304 E Veterans Rd,,,Laurens,Pocahontas,,IA,,50554,US,42.84264340000001,-94.846112,,True
+Caring Acres Nursing & Rehab Center,,,,,,,,,,,,,,,,,,(712) 762-3219,,,,,,,,,,,,,,,,,Nursing Facility,,,,1000 Hillcrest Dr,,,Anita,Cass,,IA,,50020,US,41.4364845,-94.7665926,,True
+Prairie Vista Village,,,,,,,,,,,,,,,,,,(515) 967-8700,,,,,,,,,,,,,,,,,Nursing Facility,,,,2785 First Ave S,PO Box 335,,Altoona,Polk,,IA,,50009,US,41.6266962,-93.4634263,,True
+Mercy Medical Center - North Iowa,,,,,,,,,,,,,,,,,,(641) 428-6182,,,,,,,,,,,,,,,,,Nursing Facility,,,,1000 4th St SW,,,Mason City,Cerro Gordo,,IA,,50401,US,43.15063299999999,-93.21717799999999,,True
+Prairie Ridge Care Center,,,,,,,,,,,,,,,,,,(712) 707-6006,,,,,,,,,,,,,,,,,Nursing Facility,,,,1005 7th St NE,,,Orange City,Sioux,,IA,,51041,US,43.0142079,-96.0456742,,True
+St. Francis Manor,,,,,,,,,,,,,,,,,,(641) 236-7592,,,,,,,,,,,,,,,,,Nursing Facility,,,,2021 Fourth Ave,,,Grinnell,Poweshiek,,IA,,50112,US,41.74401019999999,-92.70543099999999,,True
+Northridge Village,,,,,,,,,,,,,,,,,,(515) 357-8395,,,,,,,,,,,,,,,,,Nursing Facility,,,,3300 George W Carver Ave,,,Ames,Story,,IA,,50010,US,42.05334130000001,-93.64748949999999,Somerset,True
+Mercy Medical - Sioux City,,,,,,,,,,,,,,,,,,(712) 279-5697,,,,,,,,,,,,,,,,,Nursing Facility,,,,801 5th St,,,Sioux City,Woodbury,,IA,,51102,US,42.495742,-96.4009446,,True
+The Bridges at Ankeny,,,,,,,,,,,,,,,,,,(515) 963-9815,,,,,,,,,,,,,,,,,Nursing Facility,,,,3510 NW Abilene Rd,,,Ankeny,Polk,,IA,,50023,US,41.7562806,-93.628545,,True
+Pinnacle Specialty Care,,,,,,,,,,,,,,,,,,(319) 268-0489,,,,,,,,,,,,,,,,,Nursing Facility,,,,1223 Prairie View Rd,,,Cedar Falls,Black Hawk,,IA,,50613,US,42.4906116,-92.4324415,,True
+The Gardens of Cedar Rapids,,,,,,,,,,,,,,,,,,(319) 930-6666,,,,,,,,,,,,,,,,,Nursing Facility,,,,5710 Dean Rd SW,,,Cedar Rapids,Linn,,IA,,52404,US,41.94495469999999,-91.748358,,True
+Countryside Nursing and Rehabilitation Center,,,,,,,,,,,,,,,,,,(712) 276-3000,,,,,,,,,,,,,,,,,Assisted Living,,,,6120 Morningside Ave,,,Sioux City,Woodbury,,IA,,51106,US,42.4602938,-96.3277306,,True
+Colonial Manor of Columbus Community,,,,,,,,,,,,,,,,,,(319) 728-2276,,,,,,,,,,,,,,,,,Assisted Living,,,,814 Springer Ave,,,Columbus Junction,Louisa,,IA,,52738-0266,US,41.27165309999999,-91.3711471,,True
+Panora Specialty Care,,,,,,,,,,,,,,,,,,(641) 755-2700,,,,,,,,,,,,,,,,,Assisted Living,,,,805 East Main,PO Box 69,,Panora,Guthrie,,IA,,50216,US,41.69291279999999,-94.3535787,,False
+Exira Care Center,,,,,,,,,,,,,,,,,,(712) 268-5393,,,,,,,,,,,,,,,,,Assisted Living,,,,411 South Carthage,,,Exira,Audubon,,IA,,50076,US,41.5868314,-94.8775472,,False
+Good Samaritan Society - Ottumwa,,,,,,,,,,,,,,,,,,(641) 682-8041,,,,,,,,,,,,,,,,,Assisted Living,,,,2035 Chester Ave,,,Ottumwa,Wapello,,IA,,52501,US,41.00511230000001,-92.4587136,,True
+Holy Spirit Retirement Home,,,,,,,,,,,,,,,,,,(712) 252-2726,,,,,,,,,,,,,,,,,Assisted Living,,,,1701 West 25th St,,,Sioux City,Woodbury,,IA,,51103,US,42.5171268,-96.4330986,,True
+Pearl Valley Rehabilitation and Nursing at Lake Park LLC,,,,,,,,,,,,,,,,,,(712) 832-3691,,,,,,,,,,,,,,,,,Assisted Living,,,,1304 S Market St,,,Lake Park,Dickinson,,IA,,51347-0425,US,43.4407405,-95.324733,,True
+Lamoni Specialty Care,,,,,,,,,,,,,,,,,,(641) 784-3388,,,,,,,,,,,,,,,,,Assisted Living,,,,215 South Oak St,Box 69,,Lamoni,Decatur,,IA,,50140,US,40.622024,-93.92354399999999,,True
+Pioneer Park,,,,,,,,,,,,,,,,,,(319) 629-4255,,,,,,,,,,,,,,,,,Assisted Living,,,,501 E Pioneer Rd,,,Lone Tree,Johnson,,IA,,52755,US,41.480887,-91.42185099999999,,True
+"Longview Home, Inc.",,,,,,,,,,,,,,,,,,(712) 642-2264,,,,,,,,,,,,,,,,,Assisted Living,,,,1010 Longview Rd,,,Missouri Valley,Harrison,,IA,,51555,US,41.5669344,-95.88351449999999,,True
+Parkview Care Center,,,,,,,,,,,,,,,,,,(641) 472-5022,,,,,,,,,,,,,,,,,Assisted Living,,,,2237 Business Highway 34,,,Fairfield,Jefferson,,IA,,52556,US,41.0071007,-91.9401524,,True
+Parkview Manor Care Center & Elms Assisted Living,,,,,,,,,,,,,,,,,,(319) 345-6811,,,,,,,,,,,,,,,,,Assisted Living,,,,1009 Third St,,,Reinbeck,Grundy,,IA,,50643,US,42.3244195,-92.6072547,,True
+Pleasant View Care Center,,,,,,,,,,,,,,,,,,(712) 458-2417,,,,,,,,,,,,,,,,,Assisted Living,,,,200 Shannon Dr,,,Whiting,Monona,,IA,,51063,US,42.1255086,-96.15922049999999,,True
+"Accura Healthcare of Pomeroy, LLC",,,,,,,,,,,,,,,,,,(712) 468-2241,,,,,,,,,,,,,,,,,Assisted Living,,,,303 East 7th St,Box 10,,Pomeroy,Calhoun,,IA,,50575,US,42.5429419,-94.680701,,True
+Prairie View Home Inn,,,,,,,,,,,,,,,,,,(712) 930-3228,,,,,,,,,,,,,,,,,Assisted Living,,,,610 N Eastern St,,,Sanborn,O'Brien,,IA,,51248,US,43.18452699999999,-95.643969,,True
+Rose Haven Nursing Home,,,,,,,,,,,,,,,,,,(319) 642-5533,,,,,,,,,,,,,,,,,Assisted Living,,,,1500 Franklyn Ave,,,Marengo,Iowa,,IA,,52301,US,41.80413900000001,-92.071761,,True
+Scenic Living Communities,,,,,,,,,,,,,,,,,,(641) 648-4671,,,,,,,,,,,,,,,,,Assisted Living,,,,1409 Fremont St,,,Iowa Falls,Hardin,,IA,,50126,US,42.52904849999999,-93.2610749,,True
+Sunny View Care Center,,,,,,,,,,,,,,,,,,(515) 635-0936,,,,,,,,,,,,,,,,,Assisted Living,,,,410 NW Ash Dr,,,Ankeny,Polk,,IA,,50021,US,41.735305,-93.6111366,,True
+"Twilight Acres, Inc.",,,,,,,,,,,,,,,,,,(712) 664-2488,,,,,,,,,,,,,,,,,Assisted Living,,,,600 West 6th St,,,Wall Lake,Sac,,IA,,51466,US,42.2761429,-95.0974066,,True
+Longhouse - Northshire Ltd.,,,,,,,,,,,,,,,,,,(712) 262-2344,,,,,,,,,,,,,,,,,Assisted Living,,,,711 West 11th St,,,Spencer,Clay,,IA,,51301,US,43.1491664,-95.1560346,,True
+River Hills Village,,,,,,,,,,,,,,,,,,(319) 524-5772,,,,,,,,,,,,,,,,,Assisted Living,,,,20 Village Cir,,,Keokuk,Lee,,IA,,52632,US,40.43199449999999,-91.4123779,,True
+West Bridge Care & Rehabilitation,,,,,,,,,,,,,,,,,,(515) 462-1711,,,,,,,,,,,,,,,,,Assisted Living,,,,1015 West Summitt,PO 352,,Winterset,Madison,,IA,,50273-2209,US,41.33027379999999,-94.0255901,,False
+Griswold Rehabilitation & Health Care Center,,,,,,,,,,,,,,,,,,(712) 778-2534,,,,,,,,,,,,,,,,,Assisted Living,,,,106 Harrison St,,,Griswold,Cass,,IA,,51535,US,41.2366773,-95.1339033,,True
+Ruthven Community Care Center,,,,,,,,,,,,,,,,,,(712) 837-5411,,,,,,,,,,,,,,,,,Assisted Living,,,,2701 Mitchell Street Box D,,,Ruthven,Palo Alto,,IA,,51358,US,43.127774,-94.888954,,False
+Scottish Rite Park Health Care Center,,,,,,,,,,,,,,,,,,(515) 274-4614,,,,,,,,,,,,,,,,,Assisted Living,,,,2909 Woodland Ave,,,Des Moines,Polk,,IA,,50312-3885,US,41.5888092,-93.65560099999999,Woodland Heights,True
+Community Memorial Health Center,,,,,,,,,,,,,,,,,,(712) 728-2428,,,,,,,,,,,,,,,,,Assisted Living,,,,231 8th Ave W,PO 188,,Hartley,O'Brien,,IA,,51346,US,43.1839399,-95.4868508,,True
+Hillcrest Health Care Center,,,,,,,,,,,,,,,,,,(712) 551-1074,,,,,,,,,,,,,,,,,Assisted Living,,,,2121 Avenue L,,,Hawarden,Sioux,,IA,,51023,US,43.0095609,-96.48106419999999,,False
+Clarence Nursing Home,,,,,,,,,,,,,,,,,,(563) 452-3262,,,,,,,,,,,,,,,,,Assisted Living,,,,402 2nd Ave,PO 485,,Clarence,Cedar,,IA,,52216,US,41.8861491,-91.06273519999999,,True
+Evergreen Estates III,,,,,,,,,,,,,,,,,,(319) 363-8116,,,,,,,,,,,,,,,,,Assisted Living,,,,2204 Johnson Ave NW,,,Cedar Rapids,Linn,,IA,,52405,US,41.97508000000001,-91.70393399999999,,True
+Heartland Care Center,,,,,,,,,,,,,,,,,,(712) 376-2500,,,,,,,,,,,,,,,,,Assisted Living,,,,604 E Fenton,,,Marcus,Cherokee,,IA,,51035-0608,US,42.820181,-95.800412,,False
+Senior Suites of Urbandale,,,,,,,,,,,,,,,,,,(515) 270-9700,,,,,,,,,,,,,,,,,Assisted Living,,,,4700 84th St,,,Urbandale,Polk,,IA,,50322,US,41.6456781,-93.7341149,,True
+"Brees Rest Home, Inc.",,,,,,,,,,,,,,,,,,(641) 932-5517,,,,,,,,,,,,,,,,,Assisted Living,,,,210 Washington Ave E,PO Box 534,,Albia,Monroe,,IA,,52531,US,41.0260093,-92.80531700000002,,True
+Davenport Lutheran Home,,,,,,,,,,,,,,,,,,(563) 391-5342,,,,,,,,,,,,,,,,,Assisted Living,,,,1130 W 53rd St,,,Davenport,Scott,,IA,,52806,US,41.576189,-90.5884839,,True
+Westhaven Community,,,,,,,,,,,,,,,,,,(515) 432-1393,,,,,,,,,,,,,,,,,Assisted Living,,,,112 W 4th St,,,Boone,Boone,,IA,,50036,US,42.0602578,-93.8932834,,True
+Parkview Home,,,,,,,,,,,,,,,,,,(319) 256-3525,,,,,,,,,,,,,,,,,Assisted Living,,,,102 North Jackson,,,Wayland,Henry,,IA,,52654-0038,US,41.1471771,-91.6664864,,False
+Ramsey Village,,,,,,,,,,,,,,,,,,(515) 274-3612,,,,,,,,,,,,,,,,,Assisted Living,,,,1611 27th St,,,Des Moines,Polk,,IA,,50310-5400,US,41.60889309999999,-93.65272499999999,Drake,True
+Rowley Memorial Masonic Home,,,,,,,,,,,,,,,,,,(515) 465-5316,,,,,,,,,,,,,,,,,Assisted Living,,,,1300 28th St,PO Box 528,,Perry,Dallas,,IA,,50220,US,41.8398111,-94.0757395,,True
+Strawberry Point Lutheran Home Community,,,,,,,,,,,,,,,,,,(563) 933-6037,,,,,,,,,,,,,,,,,Assisted Living,,,,313 Elkader St,PO 34,,Strawberry Point,Clayton,,IA,,52076,US,42.6878125,-91.5342574,,True
+VIA Health Services (Carlisle),,,,,,,,,,,,,,,,,,(515) 989-0871,,,,,,,,,,,,,,,,,Assisted Living,,,,680 Cole St,,,Carlisle,Warren,,IA,,50047,US,41.4956293,-93.4927015,,True
+Spurgeon Manor,,,,,,,,,,,,,,,,,,(515) 992-3735,,,,,,,,,,,,,,,,,Assisted Living,,,,1204 Linden St,,,Dallas Center,Dallas,,IA,,50063-1052,US,41.679747,-93.95890999999999,,True
+Trinity Center at Luther Park,,,,,,,,,,,,,,,,,,(515) 262-5639,,,,,,,,,,,,,,,,,Assisted Living,,,,1555 Hull Ave,,,Des Moines,Polk,,IA,,50316,US,41.621601,-93.59556669999999,Union Park,True
+Stanard Family Assisted Living Center,,,,,,,,,,,,,,,,,,(319) 277-2141,,,,,,,,,,,,,,,,,Assisted Living,,,,Western Home Communities,420 E 11th Street,,Cedar Falls,Black Hawk,,IA,,50613,US,42.5290912,-92.4410358,,False
+Rotary Senior Living,,,,,,,,,,,,,,,,,,(515) 448-5124,,,,,,,,,,,,,,,,,Assisted Living,,,,620 SE 5th St,,,Eagle Grove,Wright,,IA,,50533,US,42.6589499,-93.8944289,,True
+Wellington Place NF/RCF,,,,,,,,,,,,,,,,,,(563) 382-9691,,,,,,,,,,,,,,,,,Assisted Living,,,,2479 River Rd,,,Decorah,Winneshiek,,IA,,52101,US,43.300197,-91.746498,,True
+Park Place Estates,,,,,,,,,,,,,,,,,,(712) 546-6793,,,,,,,,,,,,,,,,,Assisted Living,,,,900 Lincoln St NE,,,LeMars,Plymouth,,IA,,51031,US,42.7984928,-96.152935,,True
+Bickford Assisted Living - West Des Moines,,,,,,,,,,,,,,,,,,(515) 327-9400,,,,,,,,,,,,,,,,,Assisted Living,,,,5050 Hawthorne Dr,,,West Des Moines,Polk,,IA,,50265,US,41.5631855,-93.7724897,,True
+Bickford Cottage - Fort Dodge,,,,,,,,,,,,,,,,,,(515) 573-3300,,,,,,,,,,,,,,,,,Assisted Living,,,,1536 20th Ave N,,,Fort Dodge,Webster,,IA,,50501,US,42.52700550000001,-94.1763706,,True
+Lakeview Village,,,,,,,,,,,,,,,,,,(319) 622-6500,,,,,,,,,,,,,,,,,Assisted Living,,,,3012 F Dr,,,Amana,Iowa,,IA,,52203,US,41.801332,-91.895107,,True
+Premier Estates Rock Rapids,,,,,,,,,,,,,,,,,,(712) 472-4100,,,,,,,,,,,,,,,,,Assisted Living,,,,1510 South Carroll St,,,Rock Rapids,Lyon,,IA,,51246,US,43.4150904,-96.1727616,,True
+Bickford Assisted Living - Urbandale,,,,,,,,,,,,,,,,,,(515) 331-3000,,,,,,,,,,,,,,,,,Assisted Living,,,,5915 Sutton Pl,,,Urbandale,Polk,,IA,,50322,US,41.64905469999999,-93.70148160000001,,True
+Bickford Assisted Living - Davenport,,,,,,,,,,,,,,,,,,(563) 322-0000,,,,,,,,,,,,,,,,,Assisted Living,,,,4040 E 55th,,,Davenport,Scott,,IA,,52806,US,41.5782697,-90.51522109999999,,False
+Bickford Assisted Living - Marion,,,,,,,,,,,,,,,,,,(319) 373-7000,,,,,,,,,,,,,,,,,Assisted Living,,,,1100 Linden Dr,,,Marion,Linn,,IA,,52302,US,42.0375474,-91.5764803,,True
+Bickford Assisted Living - Iowa City,,,,,,,,,,,,,,,,,,(319) 351-3200,,,,,,,,,,,,,,,,,Assisted Living,,,,3500 Lower WBranch Rd,,,Iowa City,Johnson,,IA,,52240,US,41.665228,-91.48221129999999,Lemme,True
+Bickford Assisted Living - Cedar Falls,,,,,,,,,,,,,,,,,,(319) 266-6800,,,,,,,,,,,,,,,,,Assisted Living,,,,5101 University,,,Cedar Falls,Black Hawk,,IA,,50613,US,42.5082347,-92.4187456,,False
+Bickford Assisted Living - Muscatine,,,,,,,,,,,,,,,,,,(563) 263-6600,,,,,,,,,,,,,,,,,Assisted Living,,,,2807 Cedar St,,,Muscatine,Muscatine,,IA,,52761,US,41.4369075,-91.07699389999999,,True
+Bickford Assisted Living - Burlington,,,,,,,,,,,,,,,,,,(319) 754-7500,,,,,,,,,,,,,,,,,Assisted Living,,,,3301 Sterling Dr,,,Burlington,Des Moines,,IA,,52601,US,40.7988746,-91.14337909999999,,True
+Bickford Assisted Living - Clinton,,,,,,,,,,,,,,,,,,(563) 242-2400,,,,,,,,,,,,,,,,,Assisted Living,,,,1150 13th Ave N,,,Clinton,Clinton,,IA,,52732,US,41.8594971,-90.2120474,,True
+Bickford Assisted Living - Marshalltown,,,,,,,,,,,,,,,,,,(641) 753-5700,,,,,,,,,,,,,,,,,Assisted Living,,,,101 Newcastle Rd,,,Marshalltown,Marshall,,IA,,50158,US,42.0199915,-92.9111448,,True
+Bickford Cottage 1 - Sioux City,,,,,,,,,,,,,,,,,,(712) 239-2065,,,,,,,,,,,,,,,,,Assisted Living,,,,4020 Indian Hills Dr,,,Sioux City,Woodbury,,IA,,51108,US,42.5394644,-96.37333869999999,,True
+Sunrise Villa A/L,,,,,,,,,,,,,,,,,,(563) 872-5521,,,,,,,,,,,,,,,,,Assisted Living,,,,308 N 12th St,,,Bellevue,Jackson,,IA,,52031,US,42.257287,-90.4376418,,True
+Keystone Senior Suites,,,,,,,,,,,,,,,,,,(319) 442-3234,,,,,,,,,,,,,,,,,Assisted Living,,,,250 Fifth St,,,Keystone,Benton,,IA,,52249-9521,US,42.00392,-92.1980409,,True
+The Heritage at Northern Hills ,,,,,,,,,,,,,,,,,,(712) 239-9402,,,,,,,,,,,,,,,,,Assisted Living,,,,4002 Teton Trace,,,Sioux City,Woodbury,,IA,,51104,US,42.5386473,-96.3855882,,False
+Waterford at Ames,,,,,,,,,,,,,,,,,,(515) 292-2858,,,,,,,,,,,,,,,,,Assisted Living,,,,1325 Coconino Rd,,,Ames,Story,,IA,,50014,US,42.0104149,-93.6774801,,True
+Bickford Cottage 2 - Sioux City,,,,,,,,,,,,,,,,,,(712) 239-6851,,,,,,,,,,,,,,,,,Assisted Living,,,,4022 Indian Hills Dr,,,Sioux City,Woodbury,,IA,,51108,US,42.5401301,-96.3739604,,True
+Heritage Court Assisted Living,,,,,,,,,,,,,,,,,,(515) 223-1224,,,,,,,,,,,,,,,,,Assisted Living,,,,1499 Office Park Rd,,,West Des Moines,Polk,,IA,,50265,US,41.5911996,-93.7237389,,True
+"Accura Healthcare of Cherokee, LLC",,,,,,,,,,,,,,,,,,(712) 225-5724,,,,,,,,,,,,,,,,,Assisted Living,,,,921 Riverview Dr,,,Cherokee,Cherokee,,IA,,51012,US,42.75948,-95.536039,,True
+Homestead of Centerville,,,,,,,,,,,,,,,,,,(641) 437-1999,,,,,,,,,,,,,,,,,Assisted Living,,,,19999 St Joseph's Dr,,,Centerville,Appanoose,,IA,,52544,US,40.7533117,-92.8597174,,True
+Lincolnwood Assisted Living,,,,,,,,,,,,,,,,,,(563) 928-6461,,,,,,,,,,,,,,,,,Assisted Living,,,,302 W Lincoln Box 189,,,Edgewood,Delaware,,IA,,52042,US,42.6429982,-91.402986,,True
+Char-Mac Assisted Living of Lawton,,,,,,,,,,,,,,,,,,(712) 944-4893,,,,,,,,,,,,,,,,,Assisted Living,,,,200 East Char-Mac Dr,,,Lawton,Woodbury,,IA,,51030,US,42.4751649,-96.1838398,,True
+The Meadows - Manchester,,,,,,,,,,,,,,,,,,(563) 927-6467,,,,,,,,,,,,,,,,,Assisted Living,,,,200 McCarren Dr,,,Manchester,Delaware,,IA,,52057,US,42.4868193,-91.439165,,True
+Legacy Pointe,,,,,,,,,,,,,,,,,,(319) 341-0911,,,,,,,,,,,,,,,,,Assisted Living,,,,1020 South Scott Blvd,,,Iowa City,Johnson,,IA,,52244-1087,US,41.64925419999999,-91.4816555,Lucas,True
+SunnyBrook of Fairfield,,,,,,,,,,,,,,,,,,(641) 469-5778,,,,,,,,,,,,,,,,,Assisted Living,,,,3000 W Madison Ave,Ste 500,,Fairfield,Jefferson,,IA,,52556,US,41.0019888,-91.99851330000001,,True
+Pennington Square Assisted Living,,,,,,,,,,,,,,,,,,(319) 465-2013,,,,,,,,,,,,,,,,,Assisted Living,,,,502 Pinehaven Dr,Monticello Nursing & Rehab,,Monticello,Jones,,IA,,52310,US,42.2285313,-91.18560260000001,,True
+Landsmeer Ridge Retirement Community,,,,,,,,,,,,,,,,,,(712) 737-8947,,,,,,,,,,,,,,,,,Assisted Living,,,,1007 7th St NE,,,Orange City,Sioux,,IA,,51041,US,43.0136323,-96.0433422,,True
+Clearview Estates Assisted Living,,,,,,,,,,,,,,,,,,(641) 464-0651,,,,,,,,,,,,,,,,,Assisted Living,,,,500 West Columbus,,,Mt. Ayr,Ringgold,,IA,,50854,US,40.718177,-94.2424956,,False
+Oakland Heights,,,,,,,,,,,,,,,,,,(712) 482-3566,,,,,,,,,,,,,,,,,Assisted Living,,,,904 North Scenic Dr,,,Oakland,Pottawattamie,,IA,,51560,US,41.31608019999999,-95.3864193,,True
+Promise House Hiawatha,,,,,,,,,,,,,,,,,,(319) 743-9812,,,,,,,,,,,,,,,,,Assisted Living,,,,1320 Litchfield Dr,,,Hiawatha,Linn,,IA,,52233,US,42.042489,-91.690934,,True
+Pennsylvania Place AL Ottumwa,,,,,,,,,,,,,,,,,,(641) 684-4000,,,,,,,,,,,,,,,,,Assisted Living,,,,2 Pennsylvania Pl,,,Ottumwa,Wapello,,IA,,52501,US,41.0275238,-92.3852826,,True
+Franken Manor,,,,,,,,,,,,,,,,,,(712) 722-8174,,,,,,,,,,,,,,,,,Assisted Living,,,,527 South Main,,,Sioux Center,Shelby,,IA,,51250,US,43.0729468,-96.1759002,,False
+Crown Pointe,,,,,,,,,,,,,,,,,,(712) 722-8243,,,,,,,,,,,,,,,,,Assisted Living,,,,1400 7th Ave SE,,,Sioux Center,Shelby,,IA,,51250,US,43.0609498,-96.16334160000001,,True
+Brookdale Sioux City,,,,,,,,,,,,,,,,,,(712) 255-1200,,,,,,,,,,,,,,,,,Assisted Living,,,,2562 Pierce St,,,Sioux City,Woodbury,,IA,,51104,US,42.5166776,-96.40442689999999,,True
+Willows of Stuart,,,,,,,,,,,,,,,,,,(515) 523-1695,,,,,,,,,,,,,,,,,Assisted Living,,,,324 SW 6th St,,,Stuart,Guthrie,,IA,,50250,US,41.4982321,-94.32450850000001,,True
+Welcov Assisted Living at Alta,,,,,,,,,,,,,,,,,,(712) 200-2620,,,,,,,,,,,,,,,,,Assisted Living,,,,705 W 7th St,,,Alta,Buena Vista,,IA,,51002,US,42.668788,-95.312015,,True
+Cobble Creek Assisted Living/Spencer,,,,,,,,,,,,,,,,,,(712) 262-1430,,,,,,,,,,,,,,,,,Assisted Living,,,,2116 1st Ave E,,,Spencer,Clay,,IA,,51301,US,43.1598316,-95.14359329999999,,True
+Maggie's House Assisted Living,,,,,,,,,,,,,,,,,,(563) 659-1678,,,,,,,,,,,,,,,,,Assisted Living,,,,107 E 2nd St,,,DeWitt,Clinton,,IA,,52742,US,41.8169978,-90.5318425,,True
+Reed Place,,,,,,,,,,,,,,,,,,(712) 263-8657,,,,,,,,,,,,,,,,,Assisted Living,,,,2506 3rd Ave N,,,Denison,Crawford,,IA,,51442,US,42.0205328,-95.3376249,,True
+Rosebush Gardens Assisted Living,,,,,,,,,,,,,,,,,,(319) 752-1200,,,,,,,,,,,,,,,,,Assisted Living,,,,4925 West Ave,,,Burlington,Des Moines,,IA,,52601,US,40.7994475,-91.15791879999999,,True
+Welcov Assisted Living of Spirit Lake,,,,,,,,,,,,,,,,,,(712) 336-3553,,,,,,,,,,,,,,,,,Assisted Living,,,,1819 23rd St,,,Spirit Lake,Dickinson,,IA,,51360,US,43.4174938,-95.1169353,,True
+Apple Valley Assisted Living - Charles City,,,,,,,,,,,,,,,,,,(641) 257-3003,,,,,,,,,,,,,,,,,Assisted Living,,,,801 Blunt Pkwy,# 39,,Charles City,Floyd,,IA,,50616,US,43.06853090000001,-92.67573680000001,,True
+The Kensington,,,,,,,,,,,,,,,,,,(319) 372-4233,,,,,,,,,,,,,,,,,Assisted Living,,,,2210 Avenue H,Suite 1A,,Fort Madison,Lee,,IA,,52627,US,40.63206630000001,-91.3373817,,False
+Villages at Marion/Village Ridge,,,,,,,,,,,,,,,,,,(319) 377-9808,,,,,,,,,,,,,,,,,Assisted Living,,,,365 Marion Blvd,,,Marion,Linn,,IA,,52302,US,42.0286628,-91.6143032,,True
+QHC Madison Square LLC,,,,,,,,,,,,,,,,,,(515) 462-5087,,,,,,,,,,,,,,,,,Assisted Living,,,,209 W Jefferson St,,,Winterset,Madison,,IA,,50273,US,41.335511,-94.01587699999999,,True
+Cobble Creek Assisted Living/Sheldon,,,,,,,,,,,,,,,,,,(712) 324-7404,,,,,,,,,,,,,,,,,Assisted Living,,,,980 Oak St,,,Sheldon,O'Brien,,IA,,51201,US,43.1874911,-95.84396199999999,,True
+Heartwood Heights,,,,,,,,,,,,,,,,,,(712) 754-3009,,,,,,,,,,,,,,,,,Assisted Living,,,,409 9th Ave,,,Sibley,Osceola,,IA,,51249,US,43.4050809,-95.741726,,True
+Country Manor Memory Care,,,,,,,,,,,,,,,,,,(563) 391-1111,,,,,,,,,,,,,,,,,Assisted Living,,,,900 W 46th St,,,Davenport,Scott,,IA,,52806,US,41.5673523,-90.58597979999999,,True
+Jersey Ridge,,,,,,,,,,,,,,,,,,(563) 355-2027,,,,,,,,,,,,,,,,,Assisted Living,,,,5605 Jersey Ridge Rd,,,Davenport,Scott,,IA,,52807,US,41.5777434,-90.5408446,,True
+Oakhill Assisted Living,,,,,,,,,,,,,,,,,,(712) 551-4284,,,,,,,,,,,,,,,,,Assisted Living,,,,1126 Oak Hill Dr,,,Hawarden,Sioux,,IA,,51023,US,43.011724,-96.478292,,True
+Kosgrove Estate,,,,,,,,,,,,,,,,,,(712) 722-4972,,,,,,,,,,,,,,,,,Assisted Living,,,,4155 US 75 Ave,,,Sioux Center,Sioux,,IA,,51250,US,42.5021393,-90.780704,,True
+Homestead of Knoxville,,,,,,,,,,,,,,,,,,(641) 828-7878,,,,,,,,,,,,,,,,,Assisted Living,,,,908 South Park Ln,,,Knoxville,Marion,,IA,,50138,US,41.31125910000001,-93.11535359999999,,True
+Ballard Creek Community,,,,,,,,,,,,,,,,,,(515) 597-2555,,,,,,,,,,,,,,,,,Assisted Living,,,,908 N Hwy 69,Madrid Homes,,Huxley,Story,,IA,,50124,US,41.9026725,-93.6081955,,True
+Elm Crest Retirement Community,,,,,,,,,,,,,,,,,,(712) 755-5174,,,,,,,,,,,,,,,,,Assisted Living,,,,2104 12th St,,,Harlan,Shelby,,IA,,51537,US,41.648206,-95.32480100000001,,True
+Forest Plaza Assisted Living,,,,,,,,,,,,,,,,,,(641) 585-1555,,,,,,,,,,,,,,,,,Assisted Living,,,,635 Highway 9 E,,,Forest City,Winnebago,,IA,,50436,US,43.27169999999999,-93.6280472,,True
+Apple Valley Assisted Living - Hampton,,,,,,,,,,,,,,,,,,(641) 456-4692,,,,,,,,,,,,,,,,,Assisted Living,,,,1724 Central Ave E,,,Hampton,Franklin,,IA,,50441,US,42.7434547,-93.18361589999999,,True
+QHC Villa Cottages,,,,,,,,,,,,,,,,,,(515) 576-6525,,,,,,,,,,,,,,,,,Assisted Living,,,,925 Martin Luther King Dr,,,Fort Dodge,Webster,,IA,,50501,US,42.5138253,-94.16030839999999,,True
+Aase Haugen Assisted Living,,,,,,,,,,,,,,,,,,(563) 382-3603,,,,,,,,,,,,,,,,,Assisted Living,,,,4 Ohio St,,,Decorah,Winneshiek,,IA,,52101,US,43.30303819999999,-91.80283419999999,,True
+Arbor Heights at University,,,,,,,,,,,,,,,,,,(515) 284-1280,,,,,,,,,,,,,,,,,Assisted Living,,,,233 University Ave,,,Des Moines,Polk,,IA,,50314-3124,US,41.6008029,-93.6210502,River Bend,True
+Cornerstone Assisted Living,,,,,,,,,,,,,,,,,,(641) 424-1740,,,,,,,,,,,,,,,,,Assisted Living,,,,302 2nd St NE,Good Shepherd Health Ctr.,,Mason City,Cerro Gordo,,IA,,50401,US,43.153959,-93.19577799999999,,True
+Greenfield Rehabilitation and Health Care Center Assisted Living,,,,,,,,,,,,,,,,,,(641) 743-6131,,,,,,,,,,,,,,,,,Assisted Living,,,,615 SE Kent St,Greenfield Manor,,Greenfield,Adair,,IA,,50849,US,41.30314799999999,-94.45034799999999,,True
+The New Homestead Care Center - AL,,,,,,,,,,,,,,,,,,(641) 332-2204,,,,,,,,,,,,,,,,,Assisted Living,,,,2306 State St,,,Guthrie Center,Guthrie,,IA,,50115,US,41.68009199999999,-94.48499699999999,,True
+Oak Estates,,,,,,,,,,,,,,,,,,(641) 366-2212,,,,,,,,,,,,,,,,,Assisted Living,,,,110 Alice St,Oakview,,Conrad,Grundy,,IA,,50621,US,42.2252029,-92.8682661,,True
+Terrace Park Senior Living,,,,,,,,,,,,,,,,,,(641) 446-8396,,,,,,,,,,,,,,,,,Assisted Living,,,,201 SW Lorraine,,,Leon,Decatur,,IA,,50144,US,40.7396327,-93.7610267,,False
+Homestead of Mason City,,,,,,,,,,,,,,,,,,(641) 423-4809,,,,,,,,,,,,,,,,,Assisted Living,,,,2501 W State St,,,Mason City,Cerro Gordo,,IA,,50401,US,43.1517083,-93.2385281,,True
+Meadows AL/Shell Rock,,,,,,,,,,,,,,,,,,(319) 885-4341,,,,,,,,,,,,,,,,,Assisted Living,,,,528 N Kelly St,,,Shell Rock,Butler,,IA,,50670-9757,US,42.7133658,-92.57183669999999,,True
+Vista Prairie at Fieldcrest ,,,,,,,,,,,,,,,,,,(712) 324-2338,,,,,,,,,,,,,,,,,Assisted Living,,,,2501 East 6th St,,,Sheldon,O'Brien,,IA,,51201,US,43.1823607,-95.82219719999999,,True
+Avoca Lodge Assisted Living Center,,,,,,,,,,,,,,,,,,(712) 343-2400,,,,,,,,,,,,,,,,,Assisted Living,,,,612 East York Rd,,,Avoca,Pottawattamie,,IA,,51522,US,41.5058679,-95.3860383,,True
+Maple Ridge Assisted Living - Mt. Ayr,,,,,,,,,,,,,,,,,,(641) 464-3204,,,,,,,,,,,,,,,,,Assisted Living,,,,1500 East South St,,,Mt. Ayr,Ringgold,,IA,,50854,US,40.7111026,-94.2284438,,True
+Valley Lodge Assisted Living,,,,,,,,,,,,,,,,,,(712) 372-4466,,,,,,,,,,,,,,,,,Assisted Living,,,,1116 East Highway 20,,,Correctionville,Woodbury,,IA,,51016,US,42.4815972,-95.7769306,,True
+Vriendschap Village,,,,,,,,,,,,,,,,,,(641) 628-8260,,,,,,,,,,,,,,,,,Assisted Living,,,,2604 Fifield Rd,,,Pella,Marion,,IA,,50219,US,41.40739,-92.9493693,,True
+Legacy Gardens ,,,,,,,,,,,,,,,,,,(319) 338-4404,,,,,,,,,,,,,,,,,Assisted Living,,,,15 Silvercrest Pl,,,Iowa City,Johnson,,IA,,52240,US,41.64778099999999,-91.481759,Lucas,True
+Premier Estates-Onawa,,,,,,,,,,,,,,,,,,(712) 423-2510,,,,,,,,,,,,,,,,,Assisted Living,,,,190 15th St,,,Onawa,Monona,,IA,,51040,US,42.0375476,-96.1048661,,True
+Sigourney Assisted Living,,,,,,,,,,,,,,,,,,(641) 622-2971,,,,,,,,,,,,,,,,,Assisted Living,,,,810 S Stone St,,,Sigourney,Keokuk,,IA,,52591,US,41.3271591,-92.20830819999999,,True
+Kingston Court Assisted Living,,,,,,,,,,,,,,,,,,(563) 245-1620,,,,,,,,,,,,,,,,,Assisted Living,,,,118 Reimer Street SW,,,Elkader,Clayton,,IA,,52042,US,42.8468345,-91.4063382,,True
+Maple Grove Senior Living,,,,,,,,,,,,,,,,,,(641) 856-6601,,,,,,,,,,,,,,,,,Assisted Living,,,,1917 South 18th St,,,Centerville,Appanoose,,IA,,52544,US,40.7144799,-92.86770899999999,,True
+Bickford Assisted Living of Ames,,,,,,,,,,,,,,,,,,(515) 233-6000,,,,,,,,,,,,,,,,,Assisted Living,,,,2418 Kent Ave,,,Ames,Story,,IA,,50010,US,42.0463225,-93.6393003,Somerset,True
+Estabrook Lodge Assisted Living,,,,,,,,,,,,,,,,,,(641) 939-7711,,,,,,,,,,,,,,,,,Assisted Living,,,,2302 Rick Collins Way,,,Eldora,Hardin,,IA,,50627,US,42.357247,-93.111102,,True
+Rose Vista Assisted Living,,,,,,,,,,,,,,,,,,(712) 647-2361,,,,,,,,,,,,,,,,,Assisted Living,,,,1109 Normal St,PO 6,,Woodbine,Harrison,,IA,,51579,US,41.74420140000001,-95.7090291,,True
+Kentucky Ridge,,,,,,,,,,,,,,,,,,(641) 423-5707,,,,,,,,,,,,,,,,,Assisted Living,,,,2060 Kentucky Ave S,,,Mason City,Cerro Gordo,,IA,,50401,US,43.13316700000001,-93.18383399999999,,True
+Silver Pond Assisted Living,,,,,,,,,,,,,,,,,,(319) 646-2911,,,,,,,,,,,,,,,,,Assisted Living,,,,1400 6th Ave,,,Wellman,Washington,,IA,,52356,US,41.4760888,-91.83471519999999,,True
+Otsego Place at Methodist Manor Ret Comm,,,,,,,,,,,,,,,,,,(712) 213-5879,,,,,,,,,,,,,,,,,Assisted Living,,,,520 Otsego St,,,Storm Lake,Buena Vista,,IA,,50588,US,42.6434493,-95.20670539999999,,True
+Evergreen Estates I,,,,,,,,,,,,,,,,,,(319) 396-3692,,,,,,,,,,,,,,,,,Assisted Living,,,,3410 12th Ave SW,,,Cedar Rapids,Cedar,,IA,,52404,US,41.9659305,-91.7166737,Cedar Hills,True
+Evergreen Estates II,,,,,,,,,,,,,,,,,,(319) 365-4116,,,,,,,,,,,,,,,,,Assisted Living,,,,307 Edgewood Rd SW,,,Cedar Rapids,Linn,,IA,,52404,US,41.966149,-91.71555699999999,,True
+Woodlands Creek,,,,,,,,,,,,,,,,,,(515) 223-9755,,,,,,,,,,,,,,,,,Assisted Living,,,,12675 Woodlands Pkwy,,,Clive,Polk,,IA,,50325,US,41.6092502,-93.7937804,,True
+Apple Valley Assisted Living - Clear Lake,,,,,,,,,,,,,,,,,,(641) 357-7083,,,,,,,,,,,,,,,,,Assisted Living,,,,405 27th Ave S,,,Clear Lake,Cerro Gordo,,IA,,50428,US,43.1104048,-93.3869898,,True
+Reflections Assisted Living,,,,,,,,,,,,,,,,,,(319) 646-5812,,,,,,,,,,,,,,,,,Assisted Living,,,,516 13th St,,,Wellman,Washington,,IA,,52356,US,41.47540190000001,-91.8342381,,True
+Lincolnway Villa Assisted Living,,,,,,,,,,,,,,,,,,(563) 374-1295,,,,,,,,,,,,,,,,,Assisted Living,,,,320 E Lincolnway,PO 369,,Wheatland,Clinton,,IA,,52777,US,41.8334663,-90.83094679999999,,False
+Village Terrace,,,,,,,,,,,,,,,,,,(319) 293-3171,,,,,,,,,,,,,,,,,Assisted Living,,,,304 Franklin St,,,Keosauqua,Van Buren,,IA,,52565,US,40.73637859999999,-91.95949960000002,,True
+Prairie Creek Assisted Living,,,,,,,,,,,,,,,,,,(515) 887-4071,,,,,,,,,,,,,,,,,Assisted Living,,,,301 4th St SW,,,West Bend,Palo Alto,,IA,,50597,US,42.9569921,-94.4482786,,True
+Emerson Point ,,,,,,,,,,,,,,,,,,(319) 466-0200,,,,,,,,,,,,,,,,,Assisted Living,,,,1355 Shannon Dr,,,Iowa City,Johnson,,IA,,52246,US,41.6467203,-91.5813642,Weber,True
+Thornton Heights Assisted Living,,,,,,,,,,,,,,,,,,(563) 538-4335,,,,,,,,,,,,,,,,,Assisted Living,,,,1329 Main St,,,Lansing,Allamakee,,IA,,52151,US,43.360156,-91.2345945,,True
+Rock Ridge Assisted Living,,,,,,,,,,,,,,,,,,(319) 436-5570,,,,,,,,,,,,,,,,,Assisted Living,,,,400 Canton St NW,,,Shellsburg,Benton,,IA,,52332,US,42.0968224,-91.87317589999999,,True
+Journey Senior Services Carroll,,,,,,,,,,,,,,,,,,(712) 830-8184,,,,,,,,,,,,,,,,,Assisted Living,,,,17504 Mahogany Ave,,,Carroll,Carroll,,IA,,51401-9590,US,42.1013659,-94.8578857,,True
+Homestead of Oskaloosa,,,,,,,,,,,,,,,,,,(641) 672-1090,,,,,,,,,,,,,,,,,Assisted Living,,,,2102 South Market,,,Oskaloosa,Mahaska,,IA,,52577,US,41.276363,-92.643993,,False
+Meadows Assisted Living,,,,,,,,,,,,,,,,,,(515) 532-2035,,,,,,,,,,,,,,,,,Assisted Living,,,,1302 S Main St,,,Clarion,Wright,,IA,,50525,US,42.72127899999999,-93.73319509999999,,True
+Prime Living Apartments,,,,,,,,,,,,,,,,,,(712) 548-5488,,,,,,,,,,,,,,,,,Assisted Living,,,,108 1st Ave NW,,,Le Mars,Plymouth,,IA,,51031,US,42.7946226,-96.16752869999999,,True
+Linnwood Estates,,,,,,,,,,,,,,,,,,(712) 527-1035,,,,,,,,,,,,,,,,,Assisted Living,,,,700 North Linn St,,,Glenwood,Mills,,IA,,51534,US,41.0527267,-95.7403398,,True
+Parkview Assisted Living,,,,,,,,,,,,,,,,,,(319) 635-2585,,,,,,,,,,,,,,,,,Assisted Living,,,,114 Forest St,,,Fairbank,Buchanan,,IA,,50629,US,42.64023460000001,-92.0502916,,True
+Murphy Place Assisted Living,,,,,,,,,,,,,,,,,,(641) 872-3993,,,,,,,,,,,,,,,,,Assisted Living,,,,620 E Monroe,,,Corydon,Wayne,,IA,,50060,US,40.7549191,-93.3123224,,False
+Maple Crest AL/Maple Memory Lane,,,,,,,,,,,,,,,,,,(563) 425-4160,,,,,,,,,,,,,,,,,Assisted Living,,,,98 Bolger Dr,,,Fayette,Fayette,,IA,,52142,US,42.8418612,-91.8091201,,True
+Valley View Assisted Living,,,,,,,,,,,,,,,,,,(319) 664-3257,,,,,,,,,,,,,,,,,Assisted Living,,,,PO Box 430,,,North English,Iowa,,IA,,52316,US,41.5138978,-92.0762891,,True
+Heritage at Fox Run Assisted Living,,,,,,,,,,,,,,,,,,(712) 256-2741,,,,,,,,,,,,,,,,,Assisted Living,,,,3121 MacIneery Dr,,,Council Bluffs,Pottawattamie,,IA,,51501,US,41.2107701,-95.8956702,,True
+Riverside Senior Living,,,,,,,,,,,,,,,,,,(641) 228-2800,,,,,,,,,,,,,,,,,Assisted Living,,,,209 Park Dr,,,Charles City,Floyd,,IA,,50616,US,43.0700379,-92.6873306,,True
+Kensington Place Assisted Living,,,,,,,,,,,,,,,,,,(641) 394-3316,,,,,,,,,,,,,,,,,Assisted Living,,,,504 Short Ave,,,New Hampton,Chickasaw,,IA,,50659,US,43.0544507,-92.304987,,True
+Windsor Manor Indianola,,,,,,,,,,,,,,,,,,(641) 891-2130,,,,,,,,,,,,,,,,,Assisted Living,,,,608 South 15th St,,,Indianola,Warren,,IA,,50125,US,41.35374789999999,-93.53853900000001,,True
+SunnyBrook of Mount Pleasant,,,,,,,,,,,,,,,,,,(319) 385-7227,,,,,,,,,,,,,,,,,Assisted Living,,,,1406 East Linden Dr,,,Mt. Pleasant,Henry,,IA,,52641,US,40.9484025,-91.53087599999999,,True
+Cresco Assisted Living,,,,,,,,,,,,,,,,,,(563) 547-2364,,,,,,,,,,,,,,,,,Assisted Living,,,,1004 North Elm St,,,Cresco,Howard,,IA,,52136,US,43.383429,-92.113879,,True
+Garden View Senior Community,,,,,,,,,,,,,,,,,,(563) 539-4528,,,,,,,,,,,,,,,,,Assisted Living,,,,800 Darby Dr,,,Monona,Clayton,,IA,,52159,US,43.05006539999999,-91.400571,,True
+Springvale Assisted Living,,,,,,,,,,,,,,,,,,(515) 332-7660,,,,,,,,,,,,,,,,,Assisted Living,,,,1050 North 15th St,,,Humboldt,Humboldt,,IA,,50548,US,42.7326841,-94.2302364,,True
+Oak Park Place of Dubuque,,,,,,,,,,,,,,,,,,(563) 585-4900,,,,,,,,,,,,,,,,,Assisted Living,,,,1381 Oak Park Pl,,,Dubuque,Dubuque,,IA,,52002,US,42.4968672,-90.73457570000001,,True
+MeadowView Memory Care Village,,,,,,,,,,,,,,,,,,(319) 294-9669,,,,,,,,,,,,,,,,,Assisted Living,,,,3005 F Ave NW,,,Cedar Rapids,Linn,,IA,,52405,US,41.9791468,-91.71192549999999,,True
+Homestead Assisted Living - Chariton,,,,,,,,,,,,,,,,,,(641) 774-2303,,,,,,,,,,,,,,,,,Assisted Living,,,,1110 N 6th St,,,Chariton,Lucas,,IA,,50049,US,41.0272409,-93.300247,,True
+Prairie Hills at Independence,,,,,,,,,,,,,,,,,,(319) 334-2000,,,,,,,,,,,,,,,,,Assisted Living,,,,505 Enterprise Dr SW,,,Independence,Buchanan,,IA,,50644,US,42.4501854,-91.898026,,True
+Southcrest Manor II,,,,,,,,,,,,,,,,,,(563) 568-0043,,,,,,,,,,,,,,,,,Assisted Living,,,,602 2nd St SW,,,Waukon,Allamakee,,IA,,52172,US,43.2618523,-91.47818009999999,,True
+Deerfield Retirement Community Inc.,,,,,,,,,,,,,,,,,,(515) 267-0438,,,,,,,,,,,,,,,,,Assisted Living,,,,13731 Hickman Rd,,,Urbandale,Polk,,IA,,50323,US,41.61689399999999,-93.808145,,True
+Windsor Manor  Grinnell,,,,,,,,,,,,,,,,,,(641) 236-8700,,,,,,,,,,,,,,,,,Assisted Living,,,,229 Pearl St,,,Grinnell,Poweshiek,,IA,,50112,US,41.7343532,-92.7304355,,True
+Willows of Mt. Pleasant,,,,,,,,,,,,,,,,,,(319) 385-1403,,,,,,,,,,,,,,,,,Assisted Living,,,,710 Arbor Ct,,,Mt. Pleasant,Henry,,IA,,52641,US,40.9750206,-91.5445019,,True
+Silvercrest Garner Farms,,,,,,,,,,,,,,,,,,(563) 386-9196,,,,,,,,,,,,,,,,,Assisted Living,,,,1575 West 53rd St,,,Davenport,Scott,,IA,,52806,US,41.5735041,-90.5965717,,True
+Petersen Commons A/L (Marycrest Campus),,,,,,,,,,,,,,,,,,563 323-3888,,,,,,,,,,,,,,,,,Assisted Living,,,,1607 W 12th St,Office 2205,,Davenport,Scott,,IA,,52804,US,41.531409,-90.5977104,,True
+Shores at Pleasant Hill,,,,,,,,,,,,,,,,,,(515) 262-4444,,,,,,,,,,,,,,,,,Assisted Living,,,,1500 Edgewater Dr,,,Pleasant Hill,Polk,,IA,,50327,US,41.6034051,-93.52525279999999,,True
+Circle Terrace Lodge ,,,,,,,,,,,,,,,,,,641-454-2223,,,,,,,,,,,,,,,,,Assisted Living,,,,155 Circle Terrace,,,Manly,Worth,,IA,,50456,US,43.282906,-93.19641,,False
+Regency Assisted Living,,,,,,,,,,,,,,,,,,(515) 981-4576,,,,,,,,,,,,,,,,,Assisted Living,,,,815 High Rd,,,Norwalk,Warren ,,IA,,50211,US,41.4834568,-93.678168,,True
+Summit Pointe Senior Living Community,,,,,,,,,,,,,,,,,,319-373-4242,,,,,,,,,,,,,,,,,Assisted Living,,,,3505 English Glen Ave,,,Marion,Linn,,IA,,52302,US,42.052418,-91.57305040000001,,True
+Char-Mac of Assisted Living Holstein,,,,,,,,,,,,,,,,,,(712) 368-4893,,,,,,,,,,,,,,,,,Assisted Living,,,,1500 South Kiel St,,,Holstein,Ida,,IA,,51025,US,42.4762521,-95.5372551,,True
+Windhaven Assisted Living Center & Thalman Square,,,,,,,,,,,,,,,,,,319-277-2141,,,,,,,,,,,,,,,,,Assisted Living,,,,5500 South Main St,,,Cedar Falls,Black Hawk,,IA,,50613,US,42.4884289,-92.44453299999999,,True
+Prairie Hills at Tipton,,,,,,,,,,,,,,,,,,563-886-1584,,,,,,,,,,,,,,,,,Assisted Living,,,,219 South Cedar St,,,Tipton,Cedar,,IA,,52772,US,41.7623144,-91.1295303,,True
+Prairie Hills at Clinton,,,,,,,,,,,,,,,,,,563-243-6870,,,,,,,,,,,,,,,,,Assisted Living,,,,1701 13th Ave N,,,Clinton,Clinton,,IA,,52732,US,41.8585577,-90.2254122,,True
+Prime Living Apartments - SC,,,,,,,,,,,,,,,,,,712-226-6300,,,,,,,,,,,,,,,,,Assisted Living,,,,725 Pearl St,,,Sioux City,Woodbury,,IA,,51101,US,42.4978594,-96.4083939,,True
+Homestead Assisted Living and Memory Care (Creston),,,,,,,,,,,,,,,,,,641-782-3131,,,,,,,,,,,,,,,,,Assisted Living,,,,1709 West Prairie St,,,Creston,Union,,IA,,50801,US,41.06798999999999,-94.382137,,True
+Odebolt Assisted Living,,,,,,,,,,,,,,,,,,712-668-2224,,,,,,,,,,,,,,,,,Assisted Living,,,,799 South Des Moines,,,Odebolt,Sac,,IA,,51458,US,42.3048009,-95.24527479999999,,False
+Dunlap Assisted Living,,,,,,,,,,,,,,,,,,712-643-2121,,,,,,,,,,,,,,,,,Assisted Living,,,,1405 Harrison Rd,,,Dunlap,Harrison,,IA,,51529,US,41.8487653,-95.58856809999999,,True
+Stoney Brook Village,,,,,,,,,,,,,,,,,,563-422-7145,,,,,,,,,,,,,,,,,Assisted Living,,,,705 S Pine,,,West Union,Fayette,,IA,,52175,US,42.95000659999999,-91.8035735,,False
+Village at Legacy Pointe ,,,,,,,,,,,,,,,,,,515-987-4100,,,,,,,,,,,,,,,,,Assisted Living,,,,1645 SE Holiday Crest Cir,,,Waukee,Dallas,,IA,,50263,US,41.612992,-93.8400101,,True
+Wellington Place Assisted Living,,,,,,,,,,,,,,,,,,563-382-2292,,,,,,,,,,,,,,,,,Assisted Living,,,,2475 River Rd,,,Decorah,Winneshiek,,IA,,52101,US,43.3021883,-91.7404488,,True
+Turner Pointe Assisted Living,,,,,,,,,,,,,,,,,,563-873-3527,,,,,,,,,,,,,,,,,Assisted Living,,,,1203 Buell Ave,,,McGregor,Clayton,,IA,,52157,US,43.0207839,-91.1899241,,True
+Woodland Park Assisted Living,,,,,,,,,,,,,,,,,,319-462-2668,,,,,,,,,,,,,,,,,Assisted Living,,,,1207 East 3rd St,,,Anamosa,Jones,,IA,,52205,US,42.10395080000001,-91.27077059999999,,True
+Vista Prairie at Keelson Harbour,,,,,,,,,,,,,,,,,,712-336-4501,,,,,,,,,,,,,,,,,Assisted Living,,,,2810 Aurora Ave,,,Spirit Lake,Dickinson,,IA,,51360,US,43.4135946,-95.1250298,,True
+Prairie Hills at Ottumwa ,,,,,,,,,,,,,,,,,,641-684-1871,,,,,,,,,,,,,,,,,Assisted Living,,,,173 East Rochester St,,,Ottumwa,Wapello,,IA,,52501,US,41.0601505,-92.40559859999999,,True
+Faith Home Assisted Living,,,,,,,,,,,,,,,,,,641-832-2580,,,,,,,,,,,,,,,,,Assisted Living,,,,912 Davidson Dr,,,Osage,Mitchell,,IA,,50461,US,43.27664350000001,-92.8084652,,True
+Windsor Manor Vinton,,,,,,,,,,,,,,,,,,319-472-2060,,,,,,,,,,,,,,,,,Assisted Living,,,,1807 West 5th St,,,Vinton,Benton,,IA,,52349,US,42.166705,-92.04519599999999,,True
+Cedars of Madrid Homes,,,,,,,,,,,,,,,,,,515-795-4097,,,,,,,,,,,,,,,,,Assisted Living,,,,600 North Kennedy Ave,,,Madrid,Boone,,IA,,50156,US,41.88429439999999,-93.8163254,,True
+Tower Living Center,,,,,,,,,,,,,,,,,,563-964-9090,,,,,,,,,,,,,,,,,Assisted Living,,,,103 Centre St,Box 477,,Garnavillo,Clayton,,IA,,52049,US,42.8690648,-91.2352999,,True
+River Bend Retirement Community,,,,,,,,,,,,,,,,,,563-852-5001,,,,,,,,,,,,,,,,,Assisted Living,,,,813 Tyler St NE,,,Cascade,Dubuque,,IA,,52033,US,42.307734,-91.014793,,True
+Huskamp Haven,,,,,,,,,,,,,,,,,,515-395-3300,,,,,,,,,,,,,,,,,Assisted Living,,,,300 Riverview Dr,,,Algona,Kossuth,,IA,,50511,US,43.0641379,-94.2417413,,True
+Grand Haven Retirement Community,,,,,,,,,,,,,,,,,,563-285-4900,,,,,,,,,,,,,,,,,Assisted Living,,,,201 East Franklin St,,,Eldridge,Scott,,IA,,52748,US,41.656576,-90.5807449,,True
+Fountains Senior Living,,,,,,,,,,,,,,,,,,563-332-5775,,,,,,,,,,,,,,,,,Assisted Living,,,,3752 Thunder Ridge Rd,,,Bettendorf,Scott,,IA,,52722,US,41.580997,-90.48038199999999,,True
+Traditions of West Union,,,,,,,,,,,,,,,,,,563-422-9200,,,,,,,,,,,,,,,,,Assisted Living,,,,609 Highway 150 N,,,West Union,Fayette,,IA,,52175,US,42.96943900000001,-91.816031,,True
+Gardens Assisted Living,,,,,,,,,,,,,,,,,,515-386-2555,,,,,,,,,,,,,,,,,Assisted Living,,,,1000 West Washington St,,,Jefferson,Greene,,IA,,50129,US,42.017314,-94.38715099999999,,True
+Park View Assisted Living,,,,,,,,,,,,,,,,,,712-999-0120,,,,,,,,,,,,,,,,,Assisted Living,,,,210 Park St,,,Coon Rapids,Carroll,,IA,,50058,US,41.8719028,-94.6736081,,True
+Primrose of Council Bluffs,,,,,,,,,,,,,,,,,,712-352-1111,,,,,,,,,,,,,,,,,Assisted Living,,,,1801 E Kanesville Blvd,,,Council Bluffs,Pottawattamie,,IA,,51503,US,41.2749722,-95.8223685,,True
+Prairie Hills at Cedar Rapids,,,,,,,,,,,,,,,,,,(319) 390-7700,,,,,,,,,,,,,,,,,Assisted Living,,,,2903 F Ave NW,,,Cedar Rapids,Linn,,IA,,52405,US,41.9792223,-91.7107286,,True
+SunnyBrook of Carroll,,,,,,,,,,,,,,,,,,712-792-8995,,,,,,,,,,,,,,,,,Assisted Living,,,,1214 East 18th St,,,Carroll,Carroll,,IA,,51401,US,42.077684,-94.849417,,True
+Sunnybrook at Burlington,,,,,,,,,,,,,,,,,,319-752-0260,,,,,,,,,,,,,,,,,Assisted Living,,,,5175 West Ave,,,Burlington,Lee,,IA,,52601,US,40.79665620000001,-91.1691967,,True
+SunnyBrook of Fort Madison,,,,,,,,,,,,,,,,,,319-372-8611,,,,,,,,,,,,,,,,,Assisted Living,,,,5025 River Valley Rd,,,Fort Madison,Lee,,IA,,52627,US,40.63248799999999,-91.37807099999999,,True
+SunnyBrook of Muscatine,,,,,,,,,,,,,,,,,,563-263-5108,,,,,,,,,,,,,,,,,Assisted Living,,,,3515 Diana Queen Dr,,,Muscatine,Muscatine,,IA,,52761,US,41.44837,-91.077815,,True
+Apple Valley Assisted Living - Osage,,,,,,,,,,,,,,,,,,641-357-7083,,,,,,,,,,,,,,,,,Assisted Living,,,,300 Lyndale St,,,Osage,Mitchell,,IA,,50461,US,43.2704206,-92.8181824,,True
+River Living Center,,,,,,,,,,,,,,,,,,563-252-3070,,,,,,,,,,,,,,,,,Assisted Living,,,,831 South Highway 52,,,Guttenberg,Clayton,,IA,,52052,US,42.7762012,-91.10019299999999,,True
+Windsor Manor Webster City,,,,,,,,,,,,,,,,,,515-832-1188,,,,,,,,,,,,,,,,,Assisted Living,,,,1401 Wall St,,,Webster City,Hamilton,,IA,,50595,US,42.45741429999999,-93.83918609999999,,True
+Irving Point,,,,,,,,,,,,,,,,,,319-294-5007,,,,,,,,,,,,,,,,,Assisted Living,,,,910 7th Ave SE,,,Cedar Rapids,Linn,,IA,,52401,US,41.9772067,-91.65657800000001,Oakhill Jackson,True
+Bavarian Meadows Assisted Living,,,,,,,,,,,,,,,,,,712-786-1660,,,,,,,,,,,,,,,,,Assisted Living,,,,632 L-14,Unit 130,,Remsen,Plymouth,,IA,,51050,US,42.8088922,-95.9586211,,True
+Gardens @ Cherokee,,,,,,,,,,,,,,,,,,712-225-2999,,,,,,,,,,,,,,,,,Assisted Living,,,,1610 Hwy 3,,,Cherokee,Cherokee,,IA,,51012,US,42.7706962,-95.55117419999999,,True
+SunnyBrook Living Care Center,,,,,,,,,,,,,,,,,,641-209-1600,,,,,,,,,,,,,,,,,Assisted Living,,,,400 Highland St,,,Fairfield,Jefferson,,IA,,52556,US,41.0037717,-91.9529993,,True
+Prairie Hills at Des Moines,,,,,,,,,,,,,,,,,,515-256-9143,,,,,,,,,,,,,,,,,Assisted Living,,,,5815 SE 27th St,,,Des Moines,Polk,,IA,,50320,US,41.53170470000001,-93.5646938,Bloomfield/Allen,True
+Whispering Creek,,,,,,,,,,,,,,,,,,712-276-1879,,,,,,,,,,,,,,,,,Assisted Living,,,,2607 Nicklaus Blvd,,,Sioux City,Woodbury,,IA,,51106,US,42.4635297,-96.3143094,,True
+Deerfield Place,,,,,,,,,,,,,,,,,,641-892-4691 ,,,,,,,,,,,,,,,,,Assisted Living,,,,505 East Gilman St,,,Sheffield,Franklin,,IA,,50475,US,42.89317279999999,-93.2178902,,True
+Sunrise Assisted Living Suites,,,,,,,,,,,,,,,,,,(319) 478-2730,,,,,,,,,,,,,,,,,Assisted Living,,,,599 Taylor St,,,Traer,Tama,,IA,,50675,US,42.18891120000001,-92.45956149999999,,True
+Solon Assisted Living Village,,,,,,,,,,,,,,,,,,(319) 624-5353,,,,,,,,,,,,,,,,,Assisted Living,,,,623 E 5th St,,,Solon,Johnson,,IA,,52333,US,41.8021046,-91.49040370000002,,True
+Summit House Retirement Community,,,,,,,,,,,,,,,,,,641-843-3333,,,,,,,,,,,,,,,,,Assisted Living,,,,600 1st St NW,,,Britt,Hancock,,IA,,50423,US,43.097887,-93.80909,,True
+Homestead of Osceola(West View AL),,,,,,,,,,,,,,,,,,(641) 342-1036,,,,,,,,,,,,,,,,,Assisted Living,,,,334 North West View Dr,,,Osceola,Clarke,,IA,,50213,US,41.0360859,-93.78775519999999,,True
+Vintage Hills Retirement Community of Indianola,,,,,,,,,,,,,,,,,,515-961-1924,,,,,,,,,,,,,,,,,Assisted Living,,,,604 E Hillcrest Dr,,,Indianola,Warren,,IA,,50125-1759,US,41.3808979,-93.552585,,True
+Golden Horizons ,,,,,,,,,,,,,,,,,,712-364-4128,,,,,,,,,,,,,,,,,Assisted Living,,,,800 Byron Goddersen Dr,,,Ida Grove,Ida,,IA,,51445,US,42.3358532,-95.4633542,,True
+Kennybrook Village,,,,,,,,,,,,,,,,,,515-369-3900,,,,,,,,,,,,,,,,,Assisted Living,,,,200 SW Brookside Dr,,,Grimes,Polk,,IA,,50111,US,41.6865979,-93.8058444,,True
+Aspen Heights Assisted Living,,,,,,,,,,,,,,,,,,712-439-6715,,,,,,,,,,,,,,,,,Assisted Living,,,,1410 Aspen St,,,Hull,Sioux,,IA,,51239,US,43.1935116,-96.1237991,,True
+Vintage Hills at Prairie Trail,,,,,,,,,,,,,,,,,,515-963-4000,,,,,,,,,,,,,,,,,Assisted Living,,,,1275 SW State St,,,Ankeny,Polk,,IA,,50023,US,41.7175709,-93.61764459999999,Prairie Trail,True
+Hansen House,,,,,,,,,,,,,,,,,,712-256-4525,,,,,,,,,,,,,,,,,Assisted Living,,,,404 Parkwild Dr,,,Council Bluffs,Pottawattamie,,IA,,51503,US,41.2778661,-95.852862,,True
+Windsor Manor Nevada,,,,,,,,,,,,,,,,,,515-382-2980,,,,,,,,,,,,,,,,,Assisted Living,,,,1642 South G Ave,,,Nevada,Story,,IA,,50201,US,42.00473,-93.4389779,,True
+Windsor Manor Shenandoah,,,,,,,,,,,,,,,,,,712.635.4165,,,,,,,,,,,,,,,,,Assisted Living,,,,601 Harrison St,,,Shenandoah,Page,,IA,,51601,US,40.7603099,-95.35774719999999,,True
+Glen Oaks Alzheimers Special Care Center,,,,,,,,,,,,,,,,,,515-331-0970,,,,,,,,,,,,,,,,,Assisted Living,,,,8525 Urbandale Ave,,,Urbandale,Polk,,IA,,50322,US,41.6207953,-93.7335954,,True
+Westside Assisted Living Suites,,,,,,,,,,,,,,,,,,319-278-4900,,,,,,,,,,,,,,,,,Assisted Living,,,,110 Ely St,,,Clarksville,Butler,,IA,,50619,US,42.78422090000001,-92.6748375,,True
+Homestead of Albia,,,,,,,,,,,,,,,,,,641-932-2102,,,,,,,,,,,,,,,,,Assisted Living,,,,6592 165th St,,,Albia,Monroe,,IA,,52531,US,41.0445089,-92.7980845,,True
+Prairie Vista Village,,,,,,,,,,,,,,,,,,515-967-8700,,,,,,,,,,,,,,,,,Assisted Living,,,,2785 First Ave S,PO Box 335,,Altoona,Polk,,IA,,50009,US,41.6266962,-93.4634263,,True
+Windsor Manor Algona,,,,,,,,,,,,,,,,,,(515) 395-1512,,,,,,,,,,,,,,,,,Assisted Living,,,,512 Finn Dr,,,Algona,Kossuth,,IA,,50511,US,43.0735309,-94.2062803,,True
+Winding Creek Meadows Assisted Living,,,,,,,,,,,,,,,,,,319.827.1052,,,,,,,,,,,,,,,,,Assisted Living,,,,1044 9th St,,,Jesup,Buchanan,,IA,,50648,US,42.4727656,-92.0588032,,True
+967-8700,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,False
+Windsor Manor Algona,,,,,,,,,,,,,,,,,,(515) 395-1512,,,,,,,,,,,,,,,,,Assisted Living,,,,512 Finn Dr,,,Algona,Kossuth,,IA,,50511,US,43.0735309,-94.2062803,,True
+Winding Creek Meadows Assisted Living,,,,,,,,,,,,,,,,,,(319) 827-1052,,,,,,,,,,,,,,,,,Assisted Living,,,,1044 9th St,,,Jesup,Buchanan,,IA,,50648,US,42.4727656,-92.0588032,,True
+Frontier Management,,,,,,,,,,,,,,,,,,(503) 597-4902,,,,,,,,,,,,,,,,,Assisted Living,,,,7420 Bridgeport Rd,Suite 105,,Portland,,,OR,,97224,US,45.3933885,-122.7537637,Metzger,True
+Elms,,,,,,,,,,,,,,,,,,(319) 345-6812,,,,,,,,,,,,,,,,,Assisted Living,,,,1007 3rd St,,,Reinbeck,Grundy,,IA,,50669,US,42.3239816,-92.60637179999999,,True
+Donald Lundak Assisted Living Center,,,,,,,,,,,,,,,,,,(563) 547-1194,,,,,,,,,,,,,,,,,Assisted Living,,,,21668 80th St,,,Cresco,Howard,,IA,,52136,US,43.39946349999999,-92.14593529999999,,True
+Lakeside Assisted Living,,,,,,,,,,,,,,,,,,(712) 852-4060,,,,,,,,,,,,,,,,,Assisted Living,,,,401 North Lawler St,,,Emmetsburg,Palo Alto,,IA,,50536,US,43.1163248,-94.6830622,,True
+Riverview Terrace Assisted Living,,,,,,,,,,,,,,,,,,(712) 262-5932,,,,,,,,,,,,,,,,,Assisted Living,,,,1501 St Luke Dr,,,Spencer,Clay,,IA,,51301,US,43.1261079,-95.1257603,,True
+Northridge Village,,,,,,,,,,,,,,,,,,(515) 357-8395,,,,,,,,,,,,,,,,,Assisted Living,,,,3300 George W Carver Ave,,,Ames,Story,,IA,,50010,US,42.05334130000001,-93.64748949999999,Somerset,True
+Windsor Manor Estherville,,,,,,,,,,,,,,,,,,(712) 362-0171,,,,,,,,,,,,,,,,,Assisted Living,,,,2015 3rd Ave N,,,Estherville,Emmet,,IA,,51334,US,43.4046153,-94.81519639999999,,True
+Cobblestone Court Assisted Living,,,,,,,,,,,,,,,,,,(319) 231-3635,,,,,,,,,,,,,,,,,Assisted Living,,,,3187 140th St,,,Sumner,Bremer,,IA,,50674,US,42.8474026,-92.12350049999999,,True
+Char-Mac of Manning,,,,,,,,,,,,,,,,,,(712) 655-4893,,,,,,,,,,,,,,,,,Assisted Living,,,,203 11th St,,,Manning,Carroll,,IA,,51030,US,41.902601,-95.05693,,True
+The Bridges at Ankeny,,,,,,,,,,,,,,,,,,(515) 963-9815,,,,,,,,,,,,,,,,,Assisted Living,,,,3510 NW Abilene Rd,,,Ankeny,Polk,,IA,,50023,US,41.7562806,-93.628545,,True
+"Vinton Lutheran AL, IL, & Home Health",,,,,,,,,,,,,,,,,,(319) 472-2092,,,,,,,,,,,,,,,,,Assisted Living,,,,1301 2nd Ave,,,Vinton,Benton,,IA,,52349,US,42.15867799999999,-92.02360399999999,,True
+Country House Residence,,,,,,,,,,,,,,,,,,(712) 322-4100,,,,,,,,,,,,,,,,,Assisted Living,,,,1831 East Kanesville Blvd,,,Council Bluffs,Pottawattamie,,IA,,51503,US,41.26979,-95.83497679999999,,True
+The Gardens of Cedar Rapids,,,,,,,,,,,,,,,,,,(319) 930-6666,,,,,,,,,,,,,,,,,Assisted Living,,,,5710 Dean Rd SW,,,Cedar Rapids,Linn,,IA,,52404,US,41.94495469999999,-91.748358,,True
+Good Samaritan Society - Indianola,,,,,,,,,,,,,,,,,,(515) 961-2596,,,,,,,,,,,,,,,,,Home Health,,,,708 South Jefferson Way,PO 319,,Indianola,Warren,,IA,,50125,US,41.35384429999999,-93.5572596,,True
+"Childserve Habilitation Center / Homecare, Inc.",,,,,,,,,,,,,,,,,,(515) 727-8750,,,,,,,,,,,,,,,,,Home Health,,,,5406 Merle Hay Rd,,,Johnston,Polk,,IA,,50131,US,41.66033189999999,-93.69981430000001,,True
+Good Samaritan Society - Davenport,,,,,,,,,,,,,,,,,,(563) 324-1651,,,,,,,,,,,,,,,,,Home Health,,,,700 Waverly Rd,,,Davenport,Scott,,IA,,52804,US,41.5254529,-90.62352969999999,,True
+Pella Regional Health Center - Home Health,,,,,,,,,,,,,,,,,,(641) 628-3150,,,,,,,,,,,,,,,,,Home Health,,,,404 Jefferson St,,,Pella,Marion,,IA,,50219,US,41.4132654,-92.91088339999999,,True
+Sioux Center Health ,,,,,,,,,,,,,,,,,,(712) 722-8260,,,,,,,,,,,,,,,,,Home Health,,,,1400 7th Ave SE,,,Sioux Center,Sioux,,IA,,51250,US,43.0609498,-96.16334160000001,,True
+Great River Home Health Care,,,,,,,,,,,,,,,,,,(319) 768-3350,,,,,,,,,,,,,,,,,Home Health,,,,1306 South Washington Rd,,,West Burlington,Des Moines,,IA,,52655,US,40.8308193,-91.1785857,,True
+"Stay In Home Care, Inc.",,,,,,,,,,,,,,,,,,(712) 346-7019,,,,,,,,,,,,,,,,,Home Health,,,,401 Main St,PO Box 154,,Royal,Clay,,IA,,51357,US,43.064307,-95.285708,,True
+Above & Beyond Home Health ,,,,,,,,,,,,,,,,,,(319) 465-3059,,,,,,,,,,,,,,,,,Home Health,,,,417 East 31st St,,,Monticello,Jones,,IA,,52301,US,42.23833510000001,-91.18709369999999,,True
+Bremer County Health Department  - Home Health,,,,,,,,,,,,,,,,,,(319) 352-0082,,,,,,,,,,,,,,,,,Home Health,,,,403 3rd St SE,,,Waverly,Bremer,,IA,,50677-3513,US,42.7228612,-92.4668554,,True
+Buena Vista County Public Health & Home Care,,,,,,,,,,,,,,,,,,(712) 749-2548,,,,,,,,,,,,,,,,,Home Health,,,,1709 East Richland St,PO Box 663,,Storm Lake,Buena Vista,,IA,,50588,US,42.64124709999999,-95.17781989999999,,True
+Iowa Home Care LLC Corporate,,,,,,,,,,,,,,,,,,(515) 222-2285,,,,,,,,,,,,,,,,,Home Health,,,,12107 Stratford Dr,,,Clive,Polk,,IA,,50325,US,41.6028797,-93.7842003,,True
+Iowa Home Care LLC - West Des Moines,,,,,,,,,,,,,,,,,,(515) 222-9995,,,,,,,,,,,,,,,,,Home Health,,,,2500 University,,,West Des Moines,Polk,,IA,,50266,US,41.59981239999999,-93.74024039999999,,False
+Iowa Home Care LLC - Fort Dodge,,,,,,,,,,,,,,,,,,(515) 576-2273,,,,,,,,,,,,,,,,,Home Health,,,,1325 1st Ave S,,,Fort Dodge,Webster,,IA,,50501-4948,US,42.5049133,-94.18008929999999,,True
+Iowa Home Care LLC - Ottumwa,,,,,,,,,,,,,,,,,,(641) 226-5050,,,,,,,,,,,,,,,,,Home Health,,,,1112 North Van Buren Ave,Suite 3,,Ottumwa,Wapello,,IA,,52501,US,41.024881,-92.3942282,,True
+Circle of Friends Home Care,,,,,,,,,,,,,,,,,,(641) 774-2339,,,,,,,,,,,,,,,,,Home Health,,,,1010 North 7th St,,,Chariton,Lucas,,IA,,50049,US,41.0260966,-93.3028856,,True
+Advanced Home Health Care,,,,,,,,,,,,,,,,,,(319) 753-6270,,,,,,,,,,,,,,,,,Home Health,,,,1603 Morgan St,Suite 8,,Keokuk,Des Moines,,IA,,52632,US,40.4075765,-91.3878491,,True
+Universal Pediatric Services - WDM,,,,,,,,,,,,,,,,,,(800) 333-5185,,,,,,,,,,,,,,,,,Home Health,,,,6750 Westown Pkwy,Suite 115,,West Des Moines,Dallas,,IA,,50266,US,41.59468589999999,-93.80277040000001,,True
+Carroll Area Nursing Service,,,,,,,,,,,,,,,,,,(712) 792-1111,,,,,,,,,,,,,,,,,Home Health,,,,603 West 8th St,PO Box 683,,Carroll,Carroll,,IA,,51401,US,42.0695177,-94.8738781,,True
+Chickasaw County Public Health & Home Care Services,,,,,,,,,,,,,,,,,,(641) 394-4053,,,,,,,,,,,,,,,,,Home Health,,,,260 East Prospect,PO Box 355,,New Hampton,Chickasaw,,IA,,50659-0003,US,43.06060529999999,-92.31198119999999,,False
+Universal Pediatric Services- Carroll,,,,,,,,,,,,,,,,,,(712) 792-1921,,,,,,,,,,,,,,,,,Home Health,,,,829 North Griffith Rd,PO Box 1234,,Carroll,Carroll,,IA,,51401-2709,US,42.066152,-94.84308,,True
+Universal Pediatric Services - Newton,,,,,,,,,,,,,,,,,,(641) 792-5553,,,,,,,,,,,,,,,,,Home Health,,,,115 North 3rd Ave W,,,Newton,Jasper,,IA,,52205,US,41.7012618,-93.0543663,,True
+"Sunnybrook Home Care, Inc. ",,,,,,,,,,,,,,,,,,(641) 472-4808,,,,,,,,,,,,,,,,,Home Health,,,,400 S Highland St,# 102,,Fairfield,Jefferson,,IA,,52556,US,41.0037717,-91.9529993,,True
+"Home Sweet Home Care, Inc",,,,,,,,,,,,,,,,,,(712) 243-5343,,,,,,,,,,,,,,,,,Home Health,,,,16 West Sixth St,,,Atlantic,Cass,,IA,,50022-0384,US,41.4051571,-95.0139106,,True
+Gentiva Health Services - Hiawatha,,,,,,,,,,,,,,,,,,(319) 393-4742,,,,,,,,,,,,,,,,,Home Health,,,,1067 North Center Point Rd,,,Hiawatha,Linn,,IA,,52233,US,42.050042,-91.6847061,,True
+Hamilton County Public Health Nursing Services,,,,,,,,,,,,,,,,,,(515) 832-9565,,,,,,,,,,,,,,,,,Home Health,,,,820 James St,,,Webster City,Hamilton,,IA,,50595,US,42.47176959999999,-93.82554619999999,,True
+Hancock County  Health System Community Health,,,,,,,,,,,,,,,,,,(641) 923-3676,,,,,,,,,,,,,,,,,Home Health,,,,545 State St,,,Garner,Hancock,,IA,,50438,US,43.10002319999999,-93.6018902,,True
+Greenbelt Homecare,,,,,,,,,,,,,,,,,,(641) 939-8444,,,,,,,,,,,,,,,,,Home Health,,,,2411 Edgington Ave,,,Eldora,Hardin,,IA,,50627,US,42.3598383,-93.1148826,,True
+Optimae Home Health,,,,,,,,,,,,,,,,,,(641) 472-4464,,,,,,,,,,,,,,,,,Home Health,,,,206 West Burlington,,,Fairfield,Jefferson ,,IA,,52556,US,41.0064814,-91.9661026,,False
+Keokuk County PHNS,,,,,,,,,,,,,,,,,,(641) 622-3575,,,,,,,,,,,,,,,,,Home Health,,,,101 South Main St,Courthouse,,Sigourney,Keokuk,,IA,,52591,US,41.3332431,-92.2045644,,True
+"Community Health Services, Kossuth Regional Health Center ",,,,,,,,,,,,,,,,,,(515) 295-4430,,,,,,,,,,,,,,,,,Home Health,,,,1515 South Phillips St,,,Algona,Kossuth,,IA,,50511,US,43.0551795,-94.2271454,,True
+Lee County Health Department,,,,,,,,,,,,,,,,,,(319) 372-5225,,,,,,,,,,,,,,,,,Home Health,,,,2218 Avenue H,,,Fort Madison,Lee,,IA,,52627,US,40.62974320000001,-91.3372624,,False
+"Mobile Nursing Services, LTD.",,,,,,,,,,,,,,,,,,(319) 372-8023,,,,,,,,,,,,,,,,,Home Health,,,,705 Avenue G,,,Fort Madison,Lee,,IA,,52627,US,40.631148,-91.31007699999999,,False
+Welcov Home Health of Logan,,,,,,,,,,,,,,,,,,(712) 644-3529,,,,,,,,,,,,,,,,,Home Health,,,,314 South Elm St,,,Logan,Harrison,,IA,,51546,US,41.6404198,-95.7940103,,True
+Recover Health of Sioux City,,,,,,,,,,,,,,,,,,(712) 233-5494,,,,,,,,,,,,,,,,,Home Health,,,,117 Pierce St,Suite 100,,Sioux City,Woodbury,,IA,,51105,US,42.49176120000001,-96.4058286,,True
+Wright County Health Department,,,,,,,,,,,,,,,,,,(515) 532-3461,,,,,,,,,,,,,,,,,Home Health,,,,115 First St SE,,,Clarion,Wright,,IA,,50525,US,42.7309966,-93.7313356,,True
+Webster County Health Department,,,,,,,,,,,,,,,,,,(515) 573-4107,,,,,,,,,,,,,,,,,Home Health,,,,723 1st Ave S,Ste 220,,Fort Dodge,Webster,,IA,,50501,US,42.5037483,-94.18769499999999,,True
+Winnebago County Public Health,,,,,,,,,,,,,,,,,,(641) 585-4763,,,,,,,,,,,,,,,,,Home Health,,,,216 South 4th St,,,Forest City,Winnebago,,IA,,50436,US,43.262261,-93.63730699999999,,True
+"Comfort Care Medicare, Inc.",,,,,,,,,,,,,,,,,,(319) 294-3527,,,,,,,,,,,,,,,,,Home Health,,,,4027 Glass Rd NE,,,Cedar Rapids,Linn,,IA,,52402,US,42.0177678,-91.69824709999999,,True
+Recover Health of Cedar Rapids,,,,,,,,,,,,,,,,,,(319) 373-6294,,,,,,,,,,,,,,,,,Home Health,,,,700 1st Ave NE,Suite 101,,Cedar Rapids,Linn,,IA,,52401,US,41.9826483,-91.6626872,,True
+Cerro Gordo County Department of Public Health,,,,,,,,,,,,,,,,,,(641) 421-9300,,,,,,,,,,,,,,,,,Home Health,,,,22 North Georgia,Suite 300,,Mason City,Cerro Gordo ,,IA,,50401,US,43.152256,-93.1966702,,False
+Therapy Solutions,,,,,,,,,,,,,,,,,,(319) 861-3322,,,,,,,,,,,,,,,,,Home Health,,,,3315 First Ave SE,,,Cedar Rapids,Linn,,IA,,52402,US,42.01163679999999,-91.634391,Kenwood Park,True
+Louisa County Public Health,,,,,,,,,,,,,,,,,,(319) 523-3981,,,,,,,,,,,,,,,,,Home Health,,,,805 Highway 61 N,,,Wapello,Louisa,,IA,,52653,US,41.1869283,-91.1963561,,True
+"Skyline Center, Inc. Home Health",,,,,,,,,,,,,,,,,,(563) 243-4065,,,,,,,,,,,,,,,,,Home Health,,,,2600 North Fourth St,,,Clinton,Clinton,,IA,,52732-3064,US,41.87681560000001,-90.1838415,,True
+Dallas County Public Health Nursing Service,,,,,,,,,,,,,,,,,,(515) 993-3750,,,,,,,,,,,,,,,,,Home Health,,,,25747 N Ave,Suite C,,Adel,Dallas,,IA,,50003-1448,US,41.66299830000001,-94.0242789,,True
+Mahaska Health Partnership Home Health & Hospice,,,,,,,,,,,,,,,,,,(641) 672-3260,,,,,,,,,,,,,,,,,Home Health,,,,1225 C Ave E,,,Oskaloosa,Mahaska,,IA,,52577,US,41.2988299,-92.6307358,,True
+Decatur County Public Health and Home Care ,,,,,,,,,,,,,,,,,,(641) 446-6518,,,,,,,,,,,,,,,,,Home Health,,,,207 NE Idaho St,,,Leon,Decatur,,IA,,50144-0000,US,40.7404939,-93.7456759,,True
+Welcov Home Health of Red Oak,,,,,,,,,,,,,,,,,,(712) 623-2500,,,,,,,,,,,,,,,,,Home Health,,,,1600 Summit St,,,Red Oak,Montgomery,,IA,,51566,US,41.0156847,-95.2127239,,True
+Des Moines County Health Department,,,,,,,,,,,,,,,,,,(319) 753-8290,,,,,,,,,,,,,,,,,Home Health,,,,522 North St,,,Burlington,Des Moines ,,IA,,52601-0000,US,40.8199017,-91.10277409999999,,True
+Good Samaritan Society - Home Care Spirit Lake,,,,,,,,,,,,,,,,,,(712) 336-3412,,,,,,,,,,,,,,,,,Home Health,,,,1710 Lincoln St,Suite A,,Spirit Lake,Dickinson ,,IA,,51360,US,43.4228714,-95.1076097,,True
+"Quality Home Care Professionals, Inc.",,,,,,,,,,,,,,,,,,(641) 828-7889,,,,,,,,,,,,,,,,,Home Health,,,,101 East Marion St,,,Knoxville,Marion,,IA,,50138,US,41.3200684,-93.09851650000002,,True
+Heights Home Health Inc,,,,,,,,,,,,,,,,,,(712) 881-7144,,,,,,,,,,,,,,,,,Home Health,,,,114 N 4th St,Suite C,,Mapleton,Monona,,IA,,51034,US,42.166563,-95.79278649999999,,True
+Floyd County Public Health/Home Health Care,,,,,,,,,,,,,,,,,,(641) 257-6111,,,,,,,,,,,,,,,,,Home Health,,,,1003 Gilbert St,,,Charles City,Floyd,,IA,,50616-2637,US,43.0659764,-92.6835634,,True
+Franklin County Public Health ,,,,,,,,,,,,,,,,,,(641) 456-5820,,,,,,,,,,,,,,,,,Home Health,,,,1600 Central Ave E,,,Hampton,Franklin,,IA,,50441,US,42.74301990000001,-93.18730719999999,,True
+Southwest Iowa Home Health Services,,,,,,,,,,,,,,,,,,(712) 374-2685,,,,,,,,,,,,,,,,,Home Health,,,,301 Main St,BO Box 357,,Sidney,Fremont,,IA,,51652-0357,US,40.7384332,-95.64696029999999,,True
+Guthrie County Public Health Nursing Service,,,,,,,,,,,,,,,,,,(641) 747-3972,,,,,,,,,,,,,,,,,Home Health,,,,2002 State St,,,Guthrie Center,Guthrie,,IA,,50115,US,41.6791347,-94.4870261,,True
+Mary Greeley Home Health Services,,,,,,,,,,,,,,,,,,(515) 239-6730,,,,,,,,,,,,,,,,,Home Health,,,,1114 Duff Ave,,,Ames,Story,,IA,,50010,US,42.0326142,-93.61022489999999,,True
+Taylor County Public Health,,,,,,,,,,,,,,,,,,(712) 523-3405,,,,,,,,,,,,,,,,,Home Health,,,,405 Jefferson,Ste 7,,Bedford,Taylor,,IA,,50833,US,40.6683867,-94.72017939999999,,False
+Genesis VNA ,,,,,,,,,,,,,,,,,,(563) 421-5500,,,,,,,,,,,,,,,,,Home Health,,,,2535 Maplecrest Rd,,,Bettendorf,Scott,,IA,,52722,US,41.5538217,-90.49505979999999,,True
+Orange City Home Health & Hospice,,,,,,,,,,,,,,,,,,(712) 737-5279,,,,,,,,,,,,,,,,,Home Health,,,,1000 Lincoln Cir SE,,,Orange City,Sioux,,IA,,51041,US,42.9941746,-96.0442496,,True
+Recover Health of Council Bluffs,,,,,,,,,,,,,,,,,,(712) 325-8989,,,,,,,,,,,,,,,,,Home Health,,,,1509 West Broadway,Ste 4,,Council Bluffs,Pottawattamie,,IA,,51501,US,41.2615653,-95.8668405,,True
+Grinnell Regional Home Care,,,,,,,,,,,,,,,,,,(641) 236-2059,,,,,,,,,,,,,,,,,Home Health,,,,210 Fourth Ave,,,Grinnell,Poweshiek,,IA,,50112,US,41.742551,-92.7344566,,True
+Sac County PHNS,,,,,,,,,,,,,,,,,,(712) 662-4785,,,,,,,,,,,,,,,,,Home Health,,,,116 South State St,Suite A,,Sac City,Sac,,IA,,50583,US,42.4212766,-94.98859940000001,,True
+"Family Care Solutions, LC",,,,,,,,,,,,,,,,,,(563) 332-0520,,,,,,,,,,,,,,,,,Home Health,,,,3411 Devils Glen Rd,,,Bettendorf,Scott,,IA,,52722,US,41.5570327,-90.4834161,,True
+Pocahontas Community Hospital Home Health  Hospice,,,,,,,,,,,,,,,,,,(712) 335-3501,,,,,,,,,,,,,,,,,Home Health,,,,606 NW 7th St,,,Pocahontas,Pocahontas,,IA,,50574,US,42.7409547,-94.6778693,,True
+"Freedom Home Health Care, Inc. ",,,,,,,,,,,,,,,,,,(515) 207-1501,,,,,,,,,,,,,,,,,Home Health,,,,2701 SE Convenience Blvd,,,Ankeny,Polk,,IA,,50021,US,41.7018825,-93.571029,,True
+St. Anthony Home Health/Hospice,,,,,,,,,,,,,,,,,,(712) 794-5279,,,,,,,,,,,,,,,,,Home Health,,,,318 South Maple,,,Carroll,Carroll,,IA,,51401,US,42.0562148,-94.8652647,,False
+Spirit Home Healthcare,,,,,,,,,,,,,,,,,,(515) 987-9090,,,,,,,,,,,,,,,,,Home Health,,,,12010 Ridgemont Dr,,,Urbandale,Polk,,IA,,50323,US,41.6332849,-93.7808735,,True
+Careage Home Care,,,,,,,,,,,,,,,,,,(712) 225-5120,,,,,,,,,,,,,,,,,Home Health,,,,203 East Bow Dr,,,Cherokee,Cherokee,,IA,,51012,US,42.76195190000001,-95.5498824,,True
+Nurse Force,,,,,,,,,,,,,,,,,,(515) 224-4566,,,,,,,,,,,,,,,,,Home Health,,,,2900 Westown Pkwy,Suite 200,,West Des Moines,Polk,,IA,,50266,US,41.59559369999999,-93.7443426,,True
+Welcov Home Health of Sergeant Bluff,,,,,,,,,,,,,,,,,,(712) 943-7644,,,,,,,,,,,,,,,,,Home Health,,,,112 Gaul Dr,,,Sergeant Bluff,Woodbury,,IA,,51054,US,42.3988379,-96.3515493,,True
+Floyd Valley Community Health ,,,,,,,,,,,,,,,,,,(712) 546-3335,,,,,,,,,,,,,,,,,Home Health,,,,714 Lincoln St NE,Floyd Valley Hospital,,LeMars,Plymouth,,IA,,51031,US,42.7973366,-96.155799,,True
+Hegg Home Health Care,,,,,,,,,,,,,,,,,,(712) 476-8050,,,,,,,,,,,,,,,,,Home Health,,,,1202 21st Ave,,,Rock Valley,Sioux,,IA,,51247,US,43.20279869999999,-96.2836026,,True
+Universal Pediatric Services - Sheldon,,,,,,,,,,,,,,,,,,(712) 324-4012,,,,,,,,,,,,,,,,,Home Health,,,,702 Park St,PO Box 158,,Sheldon,O'Brien,,IA,,51201,US,43.1859665,-95.846733,,True
+At Home with Western Home,,,,,,,,,,,,,,,,,,(319) 277-7779,,,,,,,,,,,,,,,,,Home Health,,,,5201 South Main St,,,Cedar Falls,Black Hawk,,IA,,50613,US,42.4902562,-92.4458925,,True
+Caregivers Home Health,,,,,,,,,,,,,,,,,,(641) 437-1117,,,,,,,,,,,,,,,,,Home Health,,,,19999 St Joseph's Dr,,,Centerville,Appanoose,,IA,,52544,US,40.7533117,-92.8597174,,True
+Gentiva Home Health - Des Moines,,,,,,,,,,,,,,,,,,(515) 277-0977,,,,,,,,,,,,,,,,,Home Health,,,,6200 Aurora E,Suite 100,,Urbandale,Polk,,IA,,50322,US,41.6355878,-93.70359889999999,,True
+St. Francis Manor,,,,,,,,,,,,,,,,,,(641) 236-7592,,,,,,,,,,,,,,,,,Home Health,,,,2021 Fourth Ave,,,Grinnell,Poweshiek,,IA,,50112,US,41.74401019999999,-92.70543099999999,,True
+Angels in the Home,,,,,,,,,,,,,,,,,,(515) 645-9117,,,,,,,,,,,,,,,,,Home Health,,,,12107 Stratford Dr,,,Clive,Polk,,IA,,50325,US,41.6028797,-93.7842003,,True
+Keystone Home Health,,,,,,,,,,,,,,,,,,(319) 442-3650,,,,,,,,,,,,,,,,,Home Health,,,,280 5th St,# 2,,Keystone,,,IA,,52249,US,42.0035517,-92.2015886,,True
+At Home Care Company Ankeny,,,,,,,,,,,,,,,,,,(515) 963-4410,,,,,,,,,,,,,,,,,Home Health,,,,1513 N Ankeny Blvd,Ste 4,,Ankeny,Polk,,IA,,50023,US,41.744247,-93.599346,,True
+Veterans Memorial Hospital Community and Home Care,,,,,,,,,,,,,,,,,,(563) 568-5660,,,,,,,,,,,,,,,,,Home Health,,,,40 1st St SE,,,Waukon,Allamakee,,IA,,52172,US,43.2688492,-91.4744331,,True
+"CARE at Home Iowa, LLC",,,,,,,,,,,,,,,,,,(319) 330-1755,,,,,,,,,,,,,,,,,Home Health,,,,907 East Washington St,Ste 105,,Mt. Pleasant,Henry,,IA,,52641,US,40.9645393,-91.5401558,,True
+Universal Pediatrics - Sioux City,,,,,,,,,,,,,,,,,,(712) 234-3426,,,,,,,,,,,,,,,,,Home Health,,,,518 8th St,Suite B,,Sioux City,Woodbury,,IA,,51101,US,42.49832680000001,-96.4039339,,True
+Universal Pediatrics - Dubuque,,,,,,,,,,,,,,,,,,(563) 557-5762,,,,,,,,,,,,,,,,,Home Health,,,,1605 Associates Dr,Ste 103,,Dubuque,Dubuque,,IA,,52002,US,42.4982523,-90.7393324,,True
+Home Instead Senior Care-Polk County,,,,,,,,,,,,,,,,,,(515) 221-0866,,,,,,,,,,,,,,,,,Home Health,,,,414 61st St,,,Des Moines,Polk,,IA,,50312,US,41.5832242,-93.7003441,Waterbury,True
+Home Instead Senior Care-Cedar Rapids,,,,,,,,,,,,,,,,,,(319) 247-0400,,,,,,,,,,,,,,,,,Home Health,,,,373 Collins Rd NE,Ste 101,,Cedar Rapids,Linn,,IA,,52402,US,42.0264669,-91.6367691,,True
+Home Instead Senior Care-Milford,,,,,,,,,,,,,,,,,,(712) 338-6150,,,,,,,,,,,,,,,,,Home Health,,,,PO Box 262,,,Milford,Dickinson,,IA,,51351,US,43.3246863,-95.149996,,True
+Home Instead Senior Care-Waukee,,,,,,,,,,,,,,,,,,(515) 978-7991,,,,,,,,,,,,,,,,,Home Health,,,,215 North Warrior Ln,Ste B,,Waukee,Dallas,,IA,,50263,US,41.6178286,-93.8714179,,True
+Home Instead Senior Care-Waterloo,,,,,,,,,,,,,,,,,,(319) 235-5999,,,,,,,,,,,,,,,,,Home Health,,,,1844 W Ridgeway Ave,,,Waterloo,Bremer,,IA,,50701,US,42.4697863,-92.38788269999999,,True
+Home Instead Senior Care-Newton,,,,,,,,,,,,,,,,,,(641) 792-1800,,,,,,,,,,,,,,,,,Home Health,,,,119 W 2nd St N,,,Newton,Jasper,,IA,,50208,US,41.70025140000001,-93.055015,,True
+Home Instead Senior Care-Quad Cities,,,,,,,,,,,,,,,,,,(563) 359-0027,,,,,,,,,,,,,,,,,Home Health,,,,1977 Spruce Hills Dr,,,Bettendorf,Scott,,IA,,52722,US,41.5502254,-90.5050359,,True
+Connect Home Care,,,,,,,,,,,,,,,,,,(515) 462-0288,,,,,,,,,,,,,,,,,Home Health,,,,1217 N 6th Ave,# 3,,Winterset,Madison,,IA,,50273,US,41.3455314,-94.0200461,,True
+Home Instead Senior Care-Iowa City,,,,,,,,,,,,,,,,,,(319) 358-2340,,,,,,,,,,,,,,,,,Home Health,,,,1700 S 1st Ave Eastdale Plaza,Ste 25E,,Iowa City,Johnson,,IA,,52240,US,41.64199199999999,-91.50479039999999,Twain,False
+"Vinton Lutheran AL, IL, & Home Health",,,,,,,,,,,,,,,,,,(319) 472-2092,,,,,,,,,,,,,,,,,Home Health,,,,1301 2nd Ave,,,Vinton,Benton,,IA,,52349,US,42.15867799999999,-92.02360399999999,,True
+Countryside Nursing and Rehabilitation Center,,,,,,,,,,,,,,,,,,(712) 276-3000,,,,,,,,,,,,,,,,,Senior Apartments,,,,6120 Morningside Ave,,,Sioux City,Woodbury,,IA,,51106,US,42.4602938,-96.3277306,,True
+Good Samaritan Society - LeMars,,,,,,,,,,,,,,,,,,(712) 546-4101,,,,,,,,,,,,,,,,,Senior Apartments,,,,1140 Lincoln St NE,,,LeMars,Plymouth,,IA,,51031,US,42.7998144,-96.1492768,,True
+Fellowship Village,,,,,,,,,,,,,,,,,,(712) 753-4663,,,,,,,,,,,,,,,,,Senior Apartments,,,,300 East Jefferson,,,Inwood,Lyon,,IA,,51240,US,43.30716,-96.42910649999999,,False
+Good Samaritan Society - Estherville,,,,,,,,,,,,,,,,,,(712) 362-3522,,,,,,,,,,,,,,,,,Senior Apartments,,,,1646 5th Ave N,,,Estherville,Emmet,,IA,,51334,US,43.408321,-94.8205426,,True
+Good Samaritan Society - George,,,,,,,,,,,,,,,,,,(712) 475-3391,,,,,,,,,,,,,,,,,Senior Apartments,,,,324 1st Ave,PO Box 608,,George,Lyon,,IA,,51237,US,43.34873609999999,-95.9950435,,True
+Good Samaritan Society - Indianola,,,,,,,,,,,,,,,,,,(515) 961-2596,,,,,,,,,,,,,,,,,Senior Apartments,,,,708 South Jefferson Way,PO 319,,Indianola,Warren,,IA,,50125,US,41.35384429999999,-93.5572596,,True
+Good Samaritan Society - Ottumwa,,,,,,,,,,,,,,,,,,(641) 682-8041,,,,,,,,,,,,,,,,,Senior Apartments,,,,2035 Chester Ave,,,Ottumwa,Wapello,,IA,,52501,US,41.00511230000001,-92.4587136,,True
+Good Samaritan Society - Postville,,,,,,,,,,,,,,,,,,(563) 864-7425,,,,,,,,,,,,,,,,,Senior Apartments,,,,400 Hardin Dr,,,Postville,Allamakee,,IA,,52162,US,43.0821507,-91.55876429999999,,True
+Good Samaritan Society - Waukon,,,,,,,,,,,,,,,,,,(563) 568-3447,,,,,,,,,,,,,,,,,Senior Apartments,,,,21 East Main St,,,Waukon,Allamakee,,IA,,52172,US,43.2685766,-91.4739609,,True
+Good Samaritan Society - West Union,,,,,,,,,,,,,,,,,,(563) 422-3814,,,,,,,,,,,,,,,,,Senior Apartments,,,,201 Hall St,,,West Union,Fayette,,IA,,52175,US,42.9704778,-91.8112628,,True
+Good Shepherd Health Center,,,,,,,,,,,,,,,,,,(641) 424-1740,,,,,,,,,,,,,,,,,Senior Apartments,,,,PO Box 1707,302 2nd Street,,Mason City,Cerro Gordo,,IA,,50402-1707,US,43.1535728,-93.20103669999999,,True
+Holy Spirit Retirement Home,,,,,,,,,,,,,,,,,,(712) 252-2726,,,,,,,,,,,,,,,,,Senior Apartments,,,,1701 West 25th St,,,Sioux City,Woodbury,,IA,,51103,US,42.5171268,-96.4330986,,True
+Maple Heights,,,,,,,,,,,,,,,,,,(712) 881-1680,,,,,,,,,,,,,,,,,Senior Apartments,,,,2 Sunrise Ave,,,Mapleton,Monona,,IA,,51034,US,42.1632879,-95.7801176,,True
+Marian Home,,,,,,,,,,,,,,,,,,(515) 576-1138,,,,,,,,,,,,,,,,,Senior Apartments,,,,2400 6th Ave N,,,Fort Dodge,Webster,,IA,,50501,US,42.5124821,-94.1656055,,True
+Parkview Manor,,,,,,,,,,,,,,,,,,(319) 646-2911,,,,,,,,,,,,,,,,,Senior Apartments,,,,516 13th St,,,Wellman,Washington,,IA,,52356,US,41.47540190000001,-91.8342381,,True
+Pleasant View Home,,,,,,,,,,,,,,,,,,(712) 843-2237,,,,,,,,,,,,,,,,,Senior Apartments,,,,410 Spruce St,,,Albert City,Buena Vista,,IA,,50510,US,42.773136,-94.952438,,True
+Pleasant View Care Center,,,,,,,,,,,,,,,,,,(712) 458-2417,,,,,,,,,,,,,,,,,Senior Apartments,,,,200 Shannon Dr,,,Whiting,Monona,,IA,,51063,US,42.1255086,-96.15922049999999,,True
+Prairie View Home Inn,,,,,,,,,,,,,,,,,,(712) 930-3228,,,,,,,,,,,,,,,,,Senior Apartments,,,,610 N Eastern St,,,Sanborn,O'Brien,,IA,,51248,US,43.18452699999999,-95.643969,,True
+Scenic Living Communities,,,,,,,,,,,,,,,,,,(641) 648-4671,,,,,,,,,,,,,,,,,Senior Apartments,,,,1409 Fremont St,,,Iowa Falls,Hardin,,IA,,50126,US,42.52904849999999,-93.2610749,,True
+Stratford Specialty Care,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Senior Apartments,,,,1200 Hwy 175 E,PO 260,,Stratford,Hamilton,,IA,,50249,US,42.2671608,-93.92215999999999,,True
+Corning Specialty Care,,,,,,,,,,,,,,,,,,(641) 322-4061,,,,,,,,,,,,,,,,,Senior Apartments,,,,1614 Northgate Dr,,,Corning,Adams,,IA,,50841,US,40.999178,-94.732328,,True
+Premier Estates of Toledo,,,,,,,,,,,,,,,,,,(641) 484-5080,,,,,,,,,,,,,,,,,Senior Apartments,,,,403 Grandview Dr,,,Toledo,Tama,,IA,,52342-0279,US,41.9867286,-92.5876593,,True
+River Hills Village,,,,,,,,,,,,,,,,,,(319) 524-5772,,,,,,,,,,,,,,,,,Senior Apartments,,,,20 Village Cir,,,Keokuk,Lee,,IA,,52632,US,40.43199449999999,-91.4123779,,True
+West Bridge Care & Rehabilitation,,,,,,,,,,,,,,,,,,(515) 462-1711,,,,,,,,,,,,,,,,,Senior Apartments,,,,1015 West Summitt,PO 352,,Winterset,Madison,,IA,,50273-2209,US,41.33027379999999,-94.0255901,,False
+Creston Specialty Care,,,,,,,,,,,,,,,,,,(641) 782-8511,,,,,,,,,,,,,,,,,Senior Apartments,,,,1001 Cottonwood Rd,,,Creston,Union,,IA,,50801,US,41.0693147,-94.38532,,True
+Scottish Rite Park Health Care Center,,,,,,,,,,,,,,,,,,(515) 274-4614,,,,,,,,,,,,,,,,,Senior Apartments,,,,2909 Woodland Ave,,,Des Moines,Polk,,IA,,50312-3885,US,41.5888092,-93.65560099999999,Woodland Heights,True
+Good Samaritan Society - Davenport,,,,,,,,,,,,,,,,,,(563) 324-1651,,,,,,,,,,,,,,,,,Senior Apartments,,,,700 Waverly Rd,,,Davenport,Scott,,IA,,52804,US,41.5254529,-90.62352969999999,,True
+Clarence Nursing Home,,,,,,,,,,,,,,,,,,(563) 452-3262,,,,,,,,,,,,,,,,,Senior Apartments,,,,402 2nd Ave,PO 485,,Clarence,Cedar,,IA,,52216,US,41.8861491,-91.06273519999999,,True
+Evergreen Estates III,,,,,,,,,,,,,,,,,,(319) 363-8116,,,,,,,,,,,,,,,,,Senior Apartments,,,,2204 Johnson Ave NW,,,Cedar Rapids,Linn,,IA,,52405,US,41.97508000000001,-91.70393399999999,,True
+Valley View,,,,,,,,,,,,,,,,,,(641) 823-4531,,,,,,,,,,,,,,,,,Senior Apartments,,,,108 S High St,,,Greene,Butler,,IA,,50636,US,42.89136999999999,-92.80765439999999,,True
+Methodist Manor Retirement Community,,,,,,,,,,,,,,,,,,(712) 732-1120,,,,,,,,,,,,,,,,,Senior Apartments,,,,1206 West 4th St,,,Storm Lake,Buena Vista,,IA,,50588,US,42.6420658,-95.21634759999999,,True
+Pearl Valley Rehabilitation and Nursing at Gowrie LLC ,,,,,,,,,,,,,,,,,,(515) 352-3912,,,,,,,,,,,,,,,,,Senior Apartments,,,,1808 Main St,,,Gowrie,Webster,,IA,,50543,US,42.28319,-94.29970399999999,,True
+Cedar Manor Nursing Home,,,,,,,,,,,,,,,,,,(563) 886-2133,,,,,,,,,,,,,,,,,Senior Apartments,,,,1200 Mulberry St,,,Tipton,Cedar,,IA,,52772,US,41.7775986,-91.1237695,,True
+Davenport Lutheran Home,,,,,,,,,,,,,,,,,,(563) 391-5342,,,,,,,,,,,,,,,,,Senior Apartments,,,,1130 W 53rd St,,,Davenport,Scott,,IA,,52806,US,41.576189,-90.5884839,,True
+Westhaven Community,,,,,,,,,,,,,,,,,,(515) 432-1393,,,,,,,,,,,,,,,,,Senior Apartments,,,,112 W 4th St,,,Boone,Boone,,IA,,50036,US,42.0602578,-93.8932834,,True
+Greene County Medical Center ,,,,,,,,,,,,,,,,,,(515) 386-2114,,,,,,,,,,,,,,,,,Senior Apartments,,,,1000 West Lincolnway,,,Jefferson,Greene,,IA,,50129,US,42.0159506,-94.38899359999999,,False
+Linn Manor Care Center,,,,,,,,,,,,,,,,,,(319) 377-4611,,,,,,,,,,,,,,,,,Senior Apartments,,,,1140 Elim Dr,,,Marion,Linn,,IA,,52302,US,42.0196986,-91.6025239,,True
+Madrid Home for the Aging,,,,,,,,,,,,,,,,,,(515) 795-3007,,,,,,,,,,,,,,,,,Senior Apartments,,,,613 West North St,,,Madrid,Boone,,IA,,50156,US,41.8782559,-93.8274356,,True
+Parkview Home,,,,,,,,,,,,,,,,,,(319) 256-3525,,,,,,,,,,,,,,,,,Senior Apartments,,,,102 North Jackson,,,Wayland,Henry,,IA,,52654-0038,US,41.1471771,-91.6664864,,False
+Ramsey Village,,,,,,,,,,,,,,,,,,(515) 274-3612,,,,,,,,,,,,,,,,,Senior Apartments,,,,1611 27th St,,,Des Moines,Polk,,IA,,50310-5400,US,41.60889309999999,-93.65272499999999,Drake,True
+Rowley Memorial Masonic Home,,,,,,,,,,,,,,,,,,(515) 465-5316,,,,,,,,,,,,,,,,,Senior Apartments,,,,1300 28th St,PO Box 528,,Perry,Dallas,,IA,,50220,US,41.8398111,-94.0757395,,True
+Strawberry Point Lutheran Home Community,,,,,,,,,,,,,,,,,,(563) 933-6037,,,,,,,,,,,,,,,,,Senior Apartments,,,,313 Elkader St,PO 34,,Strawberry Point,Clayton,,IA,,52076,US,42.6878125,-91.5342574,,True
+VIA Health Services (Carlisle),,,,,,,,,,,,,,,,,,(515) 989-0871,,,,,,,,,,,,,,,,,Senior Apartments,,,,680 Cole St,,,Carlisle,Warren,,IA,,50047,US,41.4956293,-93.4927015,,True
+Trinity Center at Luther Park,,,,,,,,,,,,,,,,,,(515) 262-5639,,,,,,,,,,,,,,,,,Senior Apartments,,,,1555 Hull Ave,,,Des Moines,Polk,,IA,,50316,US,41.621601,-93.59556669999999,Union Park,True
+Humboldt County Memorial Hospital,,,,,,,,,,,,,,,,,,(515) 332-4200,,,,,,,,,,,,,,,,,Senior Apartments,,,,1000 N 15th St,,,Humboldt,Humboldt,,IA,,50548,US,42.7318263,-94.23020179999999,,True
+Keystone Senior Suites,,,,,,,,,,,,,,,,,,(319) 442-3234,,,,,,,,,,,,,,,,,Senior Apartments,,,,250 Fifth St,,,Keystone,Benton,,IA,,52249-9521,US,42.00392,-92.1980409,,True
+The Heritage at Northern Hills ,,,,,,,,,,,,,,,,,,(712) 239-9402,,,,,,,,,,,,,,,,,Senior Apartments,,,,4002 Teton Trace,,,Sioux City,Woodbury,,IA,,51104,US,42.5386473,-96.3855882,,False
+Evergreen Senior Living,,,,,,,,,,,,,,,,,,(641) 732-3300,,,,,,,,,,,,,,,,,Senior Apartments,,,,925 Heritage Dr,,,Osage,Mitchell,,IA,,50461,US,43.2750491,-92.8076444,,True
+Pennsylvania Place AL Ottumwa,,,,,,,,,,,,,,,,,,(641) 684-4000,,,,,,,,,,,,,,,,,Senior Apartments,,,,2 Pennsylvania Pl,,,Ottumwa,Wapello,,IA,,52501,US,41.0275238,-92.3852826,,True
+Brookdale Sioux City,,,,,,,,,,,,,,,,,,(712) 255-1200,,,,,,,,,,,,,,,,,Senior Apartments,,,,2562 Pierce St,,,Sioux City,Woodbury,,IA,,51104,US,42.5166776,-96.40442689999999,,True
+Villages at Marion/Village Ridge,,,,,,,,,,,,,,,,,,(319) 377-9808,,,,,,,,,,,,,,,,,Senior Apartments,,,,365 Marion Blvd,,,Marion,Linn,,IA,,52302,US,42.0286628,-91.6143032,,True
+Aase Haugen Assisted Living,,,,,,,,,,,,,,,,,,(563) 382-3603,,,,,,,,,,,,,,,,,Senior Apartments,,,,4 Ohio St,,,Decorah,Winneshiek,,IA,,52101,US,43.30303819999999,-91.80283419999999,,True
+Vriendschap Village,,,,,,,,,,,,,,,,,,(641) 628-8260,,,,,,,,,,,,,,,,,Senior Apartments,,,,2604 Fifield Rd,,,Pella,Marion,,IA,,50219,US,41.40739,-92.9493693,,True
+Murphy Place Assisted Living,,,,,,,,,,,,,,,,,,(641) 872-3993,,,,,,,,,,,,,,,,,Senior Apartments,,,,620 E Monroe,,,Corydon,Wayne,,IA,,50060,US,40.7549191,-93.3123224,,False
+Westwood Knolls Senior Housing,,,,,,,,,,,,,,,,,,(712) 792-1064,,,,,,,,,,,,,,,,,Senior Apartments,,,,2239 NW St,,,Carroll,Carroll,,IA,,51401,US,42.0836115,-94.8704636,,True
+Westview Estates,,,,,,,,,,,,,,,,,,(319) 345-6761,,,,,,,,,,,,,,,,,Senior Apartments,,,,1013 2nd St,,,Reinbeck,Grundy,,IA,,50669,US,42.3248025,-92.6081324,,True
+Premier Estates of Muscatine,,,,,,,,,,,,,,,,,,(563) 263-2194,,,,,,,,,,,,,,,,,Senior Apartments,,,,3440 Mulberry Ave,,,Muscatine,Muscatine,,IA,,52761,US,41.446424,-91.08486599999999,,True
+Garden View Senior Community,,,,,,,,,,,,,,,,,,(563) 539-4528,,,,,,,,,,,,,,,,,Senior Apartments,,,,800 Darby Dr,,,Monona,Clayton,,IA,,52159,US,43.05006539999999,-91.400571,,True
+Deerfield Retirement Community Inc.,,,,,,,,,,,,,,,,,,(515) 267-0438,,,,,,,,,,,,,,,,,Senior Apartments,,,,13731 Hickman Rd,,,Urbandale,Polk,,IA,,50323,US,41.61689399999999,-93.808145,,True
+Shores at Pleasant Hill,,,,,,,,,,,,,,,,,,(515) 262-4444,,,,,,,,,,,,,,,,,Senior Apartments,,,,1500 Edgewater Dr,,,Pleasant Hill,Polk,,IA,,50327,US,41.6034051,-93.52525279999999,,True
+Summit Pointe Senior Living Community,,,,,,,,,,,,,,,,,,(319) 373-4242,,,,,,,,,,,,,,,,,Senior Apartments,,,,3505 English Glen Ave,,,Marion,Linn,,IA,,52302,US,42.052418,-91.57305040000001,,True
+Village at Legacy Pointe ,,,,,,,,,,,,,,,,,,(515) 987-4100,,,,,,,,,,,,,,,,,Senior Apartments,,,,1645 SE Holiday Crest Cir,,,Waukee,Dallas,,IA,,50263,US,41.612992,-93.8400101,,True
+Tower Living Center,,,,,,,,,,,,,,,,,,(563) 964-9090,,,,,,,,,,,,,,,,,Senior Apartments,,,,103 Centre St,Box 477,,Garnavillo,Clayton,,IA,,52049,US,42.8690648,-91.2352999,,True
+Solon Assisted Living Village,,,,,,,,,,,,,,,,,,(319) 624-5353,,,,,,,,,,,,,,,,,Senior Apartments,,,,623 E 5th St,,,Solon,Johnson,,IA,,52333,US,41.8021046,-91.49040370000002,,True
+Bridges Senior Lifestyle Living,,,,,,,,,,,,,,,,,,(319) 233-1133,,,,,,,,,,,,,,,,,Senior Apartments,,,,214 Washington St,,,Waterloo,Black Hawk,,IA,,50701,US,42.4946305,-92.3468539,,True
+Kennybrook Village,,,,,,,,,,,,,,,,,,(515) 369-3900,,,,,,,,,,,,,,,,,Senior Apartments,,,,200 SW Brookside Dr,,,Grimes,Polk,,IA,,50111,US,41.6865979,-93.8058444,,True
+"Martin Health Center, Inc.",,,,,,,,,,,,,,,,,,(319) 277-2141,,,,,,,,,,,,,,,,,Senior Apartments,,,,420 E 11th St,Western Home Communities,,Cedar Falls,Black Hawk,,IA,,50613,US,42.52911530000001,-92.4409589,,True
+Crestview Nursing & Rehab - Webster City,,,,,,,,,,,,,,,,,,(515) 832-2727,,,,,,,,,,,,,,,,,Senior Apartments,,,,2401 South Des Moines St,,,Webster City,Hamilton,,IA,,50595,US,42.4512434,-93.82117869999999,,True
+Prairie Vista Village,,,,,,,,,,,,,,,,,,(515) 967-8700,,,,,,,,,,,,,,,,,Senior Apartments,,,,2785 First Ave S,PO Box 335,,Altoona,Polk,,IA,,50009,US,41.6266962,-93.4634263,,True
+St. Francis Manor,,,,,,,,,,,,,,,,,,(641) 236-7592,,,,,,,,,,,,,,,,,Senior Apartments,,,,2021 Fourth Ave,,,Grinnell,Poweshiek,,IA,,50112,US,41.74401019999999,-92.70543099999999,,True
+South Ridge Heights,,,,,,,,,,,,,,,,,,(712) 262-5934,,,,,,,,,,,,,,,,,Senior Apartments,,,,1209 12th St SE,,,Spencer,Clay,,IA,,51301,US,43.1256731,-95.12974469999999,,True
+The Highlands,,,,,,,,,,,,,,,,,,(712) 262-5404,,,,,,,,,,,,,,,,,Senior Apartments,,,,1211 St Luke Dr,,,Spencer,Clay,,IA,,51301,US,43.1247773,-95.12875960000001,,True
+Northridge Village,,,,,,,,,,,,,,,,,,(515) 357-8395,,,,,,,,,,,,,,,,,Senior Apartments,,,,3300 George W Carver Ave,,,Ames,Story,,IA,,50010,US,42.05334130000001,-93.64748949999999,Somerset,True
+Walden Point,,,,,,,,,,,,,,,,,,(515) 288-9985,,,,,,,,,,,,,,,,,Senior Apartments,,,,1200 Fourth St,,,Des Moines,Polk,,IA,,50314,US,41.6013614,-93.62418699999999,River Bend,True
+"Vinton Lutheran AL, IL, & Home Health",,,,,,,,,,,,,,,,,,(319) 472-2092,,,,,,,,,,,,,,,,,Senior Apartments,,,,1301 2nd Ave,,,Vinton,Benton,,IA,,52349,US,42.15867799999999,-92.02360399999999,,True
+Country House Residence,,,,,,,,,,,,,,,,,,(712) 322-4100,,,,,,,,,,,,,,,,,Senior Apartments,,,,1831 East Kanesville Blvd,,,Council Bluffs,Pottawattamie,,IA,,51503,US,41.26979,-95.83497679999999,,True

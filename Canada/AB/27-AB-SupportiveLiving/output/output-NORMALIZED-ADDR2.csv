@@ -1,0 +1,983 @@
+name,contact_first_name,contact_last_name,contact_name,email,contact_email,fax,mailing_address_line_1,mailing_address_line_2,mailing_city,mailing_contact_first_name,mailing_contact_last_name,mailing_contact_name,mailing_country,mailing_county,mailing_postalcode,mailing_province,provider_name,primary_phone,secondary_phone,twitter,website,source,contact_occupation,dsgne_first_name,dsgne_last_name,admin_name,co_address_line_1,co_address_line_2,co_company,co_city,co_postalcode,co_province,ombudsman_phone,typeofcare,typeofcare2,low_high_rate,low_rate,high_rate,address_line_1,address_line_2,address_directions,city,municipality,region,province,state_id,postal_code,country,latitude,longitude,neighborhood,addr_valid
+AOMEGA IV,,,,,,N/A,,,,,,,,,,,,(403) 730-8442,,,,,,,,,,,,,,,,,,,,,824 Lake Ontario Dr SE,,,CALGARY,,,AB,,T3J 3J9,Canada,50.93029,-114.0409987,Southeast Calgary,True
+ORCHARD MANOR,,,,,,N/A,,,,,,,,,,,,(403) 362-6188,,,,,,,,,,,,,,,,,,,,,951 Cassils Rd W,,,BROOKS,,,AB,,T1R 1K9,Canada,50.5717341,-111.9120621,,True
+STONY PLAIN CARE CENTRE,,,,,,(780) 963-0795,,,,,,,,,,,,(780) 963-2261,,,,,,,,,,,,,,,,,,,,,4800 55 Ave,,,STONY PLAIN,,,AB,,T7Z 1P9,Canada,53.52356,-114.003068,,True
+GOOD SAMARITAN SOCIETY MOUNTAINVIEW CENTRE,,,,,,(780) 865-4098,,,,,,,,,,,,(780) 865-5926,,,,,,,,,,,,,,,,,,,,,1290 Switzer Dr,,,HINTON,,,AB,,T7V 2E9,Canada,53.398112,-117.58652,,True
+CALEB MANOR,,,,,,N/A,,,,,,,,,,,,(780) 497-7737,,,,,,,,,,,,,,,,,,,,,100 6411 199 St,,,EDMONTON,,,AB,,T5T 6Y4,Canada,53.5003,-113.663056,West Edmonton,True
+HERITAGE HOUSE,,,,,,(780) 603-2237,,,,,,,,,,,,(780) 603-0853,,,,,,,,,,,,,,,,,,,,,4570 Maple St,,,VEGREVILLE,,,AB,,T9C 1X2,Canada,53.493267,-112.067479,,True
+CANTERBURY COURT,,,,,,N/A,,,,,,,,,,,,(780) 930-3729,,,,,,,,,,,,,,,,,,,,,8403 142 St,,,EDMONTON,,,AB,,T5R 4L3,Canada,53.5160344,-113.5648871,West Edmonton,True
+AOMEGA V,,,,,,N/A,,,,,,,,,,,,(403) 730-8442,,,,,,,,,,,,,,,,,,,,,14120 Parkside Dr SE,,,CALGARY,,,AB,,T2J 3X3,Canada,50.9258326,-114.0377941,Southeast Calgary,True
+138223 ALBERTA LTD O/A NEW HORIZON HOMES 1,,,,,,N/A,,,,,,,,,,,,(587) 899-1159,,,,,,,,,,,,,,,,,,,,,3519 60 St NE,,,CALGARY,,,AB,,T1Y 3L2,Canada,51.0844245,-113.9471084,Northeast Calgary,True
+PROVERBIUM HOMES IV,,,,,,N/A,,,,,,,,,,,,(403) 613-2889,,,,,,,,,,,,,,,,,,,,,29 Del Ray Pl NE,,,CALGARY,,,AB,,T1Y 6X8,Canada,51.0746243,-113.9247037,Northeast Calgary,True
+PARAGON PLACE,,,,,,N/A,,,,,,,,,,,,(403) 742-6195,,,,,,,,,,,,,,,,,,,,,5011 55 St,,,STETTLER,,,AB,,T0C 2L2,Canada,52.326662,-112.711335,,True
+BOW VALLEY REGIONAL HOUSING/CASCADE HOUSE,,,,,,N/A,,,,,,,,,,,,(403) 678-5922,,,,,,,,,,,,,,,,,,,,,227 Beaver St,,,BANFF,,,AB,,T1L 1A9,Canada,51.1781812,-115.5696083,,True
+SUNRISE VILLAGE WETASKIWIN,,,,,,(780) 361-1970,,,,,,,,,,,,(780) 352-4725,,,,,,,,,,,,,,,,,,,,,5430 37A Ave,,,WETASKIWIN,,,AB,,T9A 3A8,Canada,52.9564526,-113.3869865,,True
+EMMANUEL HOME,,,,,,(780) 473-0970,,,,,,,,,,,,(780) 478-2051,,,,,,,,,,,,,,,,,,,,,13425 57 St,,,EDMONTON,,,AB,,T5A 2G1,Canada,53.597173,-113.427956,Northeast Edmonton,True
+WATERFORD OF SUMMERLEA (THE),,,,,,(780) 487-8443,,,,,,,,,,,,(780) 444-4545,,,,,,,,,,,,,,,,,,,,,9395 172 St,,,EDMONTON,,,AB,,T5T 5S6,Canada,53.5300366,-113.6172496,West Edmonton,True
+PROVIDENCE PLACE,,,,,,(780) 374-2529,,,,,,,,,,,,(780) 374-2527,,,,,,,,,,,,,,,,,,,,,6120 51 Ave,,,DAYSLAND,,,AB,,T0B 1A0,Canada,52.8687711,-112.2739257,,True
+VILLA MARGUERITE SENIORS COMMUNITY PARTNERSHIP,,,,,,(780) 431-3699,,,,,,,,,,,,(780) 983-2010,,,,,,,,,,,,,,,,,,,,,9810 165 St,,,EDMONTON,,,AB,,T5P 3S7,Canada,53.536426,-113.607651,West Edmonton,True
+SUMMERLEA INTERNATIONAL CARE HOME INC.,,,,,,N/A,,,,,,,,,,,,(780) 974-0678,,,,,,,,,,,,,,,,,,,,,8727 207 St,,,EDMONTON,,,AB,,T5T 6Y1,Canada,53.5226623,-113.6760817,West Edmonton,True
+MARTHA'S HOUSE,,,,,,N/A,,,,,,,,,,,,(403) 327-2090,,,,,,,,,,,,,,,,,,,,,950 14 St S,,,LETHBRIDGE,,,AB,,T1J 2Y8,Canada,49.6843262,-112.8224206,South Lethbridge,True
+WAINWRIGHT ASSOCIATION FOR COMMUNITY LIVING,,,,,,N/A,,,,,,,,,,,,(780) 842-6863,,,,,,,,,,,,,,,,,,,,,1110 1 Ave,,,WAINWRIGHT,,,AB,,T9W 1S5,Canada,52.8316842,-110.8590918,,True
+WAINWRIGHT ASSOCIATION FOR COMMUNITY LIVING,,,,,,N/A,,,,,,,,,,,,(780) 842-3798,,,,,,,,,,,,,,,,,,,,,1112 1 Ave,,,WAINWRIGHT,,,AB,,T9W 1S5,Canada,52.8316781,-110.8589963,,True
+GARNEAU HALL,,,,,,N/A,,,,,,,,,,,,(780) 989-7900,,,,,,,,,,,,,,,,,,,,,10923 82 Ave,,,EDMONTON,,,AB,,T6G 2N9,Canada,53.5179617,-113.5136259,Garneau,True
+RGC HEALTH CARE 2,,,,,,N/A,,,,,,,,,,,,(403) 202-3992,,,,,,,,,,,,,,,,,,,,,26 Sherwood Gardens NW,,,CALGARY,,,AB,,T3R 1M9,Canada,51.1607198,-114.1465412,Northwest Calgary,True
+CATHOLIC SOCIAL SERVICES,,,,,,N/A,,,,,,,,,,,,(780) 842-9129,,,,,,,,,,,,,,,,,,,,,8815 99 St,,,EDMONTON,,,AB,,T6E 3V3,Canada,53.524238,-113.48568,South Central Edmonton,True
+MAYFAIR CARE CENTRE,,,,,,N/A,,,,,,,,,,,,(403) 252-4445,,,,,,,,,,,,,,,,,,,,,8240 Collicut St SW,,,CALGARY,,,AB,,T2V 2X1,Canada,50.9800267,-114.0931794,Southwest Calgary,True
+BRENTWOOD CARE CENTRE,,,,,,(403) 282-7027,,,,,,,,,,,,(403) 289-2576,,,,,,,,,,,,,,,,,,,,,2727 16 Ave NW,,,CALGARY,,,AB,,T2N 3Y6,Canada,51.0676429,-114.125137,Northwest Calgary,True
+GOOD SAMARITAN SOCIETY SOUTH RIDGE VILLAGE (THE),,,,,,(403) 504-2520,,,,,,,,,,,,(403) 528-5050,,,,,,,,,,,,,,,,,,,,,550 Spruce Way SE,,,MEDICINE HAT,,,AB,,T1B 4P1,Canada,49.998254,-110.6749757,,True
+COALDALE HEALTH CENTRE,,,,,,N/A,,,,,,,,,,,,(403) 345-3075,,,,,,,,,,,,,,,,,,,,,2100 11 St,,,COALDALE,,,AB,,T1M 1L2,Canada,49.726147,-112.606338,,True
+TABER HEALTH CENTRE,,,,,,(403) 223-1703,,,,,,,,,,,,(403) 223-7211,,,,,,,,,,,,,,,,,,,,,4326 50 Ave,,,TABER,,,AB,,T1G 1N9,Canada,49.7850125,-112.1651375,,True
+RAYMOND HEALTH CENTRE,,,,,,(403) 752-3554,,,,,,,,,,,,(403) 752-5406,,,,,,,,,,,,,,,,,,,,,150 N 4 St E,,,RAYMOND,,,AB,,T0K 2S0,Canada,49.4647002,-112.650584,,True
+CARDSTON HEALTH CENTRE,,,,,,(403) 308-6720,,,,,,,,,,,,(403) 653-5254,,,,,,,,,,,,,,,,,,,,,144 2 St W,,,CARDSTON,,,AB,,T0K 0K0,Canada,49.2014769,-113.3068382,,True
+MILK RIVER HEALTH CENTRE,,,,,,(403) 647-2337,,,,,,,,,,,,(403) 647-5506,,,,,,,,,,,,,,,,,,,,,517 Centre Ave E,,,MILK RIVER,,,AB,,T0K 1M0,Canada,49.148799,-112.076851,,True
+CROWSNEST PASS HEALTH CENTRE,,,,,,N/A,,,,,,,,,,,,(403) 562-5016,,,,,,,,,,,,,,,,,,,,,2001 107 St,,,BLAIRMORE,,,AB,,T0K 0E0,Canada,49.6162753,-114.458498,Blairmore,True
+ST. MICHAEL'S HEALTH CENTRE (COVENANT HEALTH),,,,,,N/A,,,,,,,,,,,,(403) 382-6464,,,,,,,,,,,,,,,,,,,,,1400 9 Ave S,,,LETHBRIDGE,,,AB,,T1J 4V5,Canada,49.68595,-112.8225257,South Lethbridge,True
+EXTENDICARE FORT MACLEOD,,,,,,N/A,,,,,,,,,,,,(403) 553-3955,,,,,,,,,,,,,,,,,,,,,654 29 St,,,FORT MACLEOD,,,AB,,T0L 0Z0,Canada,49.7290978,-113.3953232,,True
+EDITH CAVELL CARE CENTRE,,,,,,N/A,,,,,,,,,,,,(403) 328-6631,,,,,,,,,,,,,,,,,,,,,1255 5 Ave S,,,LETHBRIDGE,,,AB,,T1J 0V6,Canada,49.693923,-112.82591,South Lethbridge,True
+ATHABASCA HEALTHCARE CENTRE,,,,,,N/A,,,,,,,,,,,,(780) 675-6032,,,,,,,,,,,,,,,,,,,,,3100 48 Ave,,,ATHABASCA,,,AB,,T9S 1M9,Canada,54.71724,-113.254056,,True
+EXTENDICARE ATHABASCA,,,,,,(780) 675-3833,,,,,,,,,,,,(780) 675-2291,,,,,,,,,,,,,,,,,,,,,4517 53 St,,,ATHABASCA,,,AB,,T9S 1K4,Canada,54.715358,-113.291318,,True
+DR. W. R. KEIR - BARRHEAD CONTINUING CARE CENTRE,,,,,,N/A,,,,,,,,,,,,(780) 674-4506,,,,,,,,,,,,,,,,,,,,,5336 59 Ave,,,BARRHEAD,,,AB,,T7N 1L2,Canada,54.129759,-114.40752,,True
+BONNYVILLE HEALTHCARE CENTRE,,,,,,(780) 826-6526,,,,,,,,,,,,(780) 826-3311,,,,,,,,,,,,,,,,,,,,,5001 Lakeshore Dr,,,BONNYVILLE,,,AB,,T9N 2J7,Canada,54.263728,-110.739296,,True
+EXTENDICARE BONNYVILLE,,,,,,(780) 826-4890,,,,,,,,,,,,(780) 826-3341,,,,,,,,,,,,,,,,,,,,,4602 47 Ave,,,BONNYVILLE,,,AB,,T9N 2E8,Canada,54.264453,-110.731126,,True
+COLD LAKE HEALTHCARE CENTRE,,,,,,N/A,,,,,,,,,,,,(780) 639-6552,,,,,,,,,,,,,,,,,,,,,314 25 St,,,COLD LAKE,,,AB,,T9M 1G6,Canada,54.4658423,-110.1990835,,True
+ELK POINT HEALTHCARE CENTRE,,,,,,(780) 624-3085,,,,,,,,,,,,(780) 724-6334,,,,,,,,,,,,,,,,,,,,,5221 52 Ave,,,ELK POINT,,,AB,,T0A 1A0,Canada,53.8988966,-110.9045162,,True
+WILLIAM J. CADZOW - LAC LA BICHE HEALTHCARE CENTRE,,,,,,N/A,,,,,,,,,,,,(780) 623-6229,,,,,,,,,,,,,,,,,,,,,9110 93 St,,,LAC LA BICHE,,,AB,,T0A 2C0,Canada,54.764637,-111.964463,,True
+EXTENDICARE MAYERTHORPE,,,,,,(780) 786-4710,,,,,,,,,,,,(780) 786-2211,,,,,,,,,,,,,,,,,,,,,4706 54 St,,,MAYERTHORPE,,,AB,,T0E 1N0,Canada,53.9524554,-115.1469856,,True
+MAYERTHORPE HEALTHCARE CENTRE,,,,,,N/A,,,,,,,,,,,,(780) 786-2245,,,,,,,,,,,,,,,,,,,,,4417 45 St,,,MAYERTHORPE,,,AB,,T0E 1N0,Canada,53.948154,-115.133936,,True
+RADWAY CONTINUING CARE CENTRE,,,,,,(780) 736-2353,,,,,,,,,,,,(780) 736-3740,,,,,,,,,,,,,,,,,,,,,Hwy 28,RR 205,,RADWAY,,,AB,,T0A 2V0,Canada,ERROR,ERROR,ERROR,True
+SLAVE LAKE HEALTHCARE CENTRE,,,,,,N/A,,,,,,,,,,,,(780) 805-3542,,,,,,,,,,,,,,,,,,,,,309 6 St NE,,,SLAVE LAKE,,,AB,,T0G 2A2,Canada,55.284356,-114.760739,,True
+GEORGE MCDOUGALL - SMOKY LAKE HEALTHCARE CENTRE,,,,,,N/A,,,,,,,,,,,,(780) 645-3396,,,,,,,,,,,,,,,,,,,,,4212 55 Ave,,,SMOKY LAKE,,,AB,,T0A 3C0,Canada,54.1202749,-112.4641553,,True
+SMOKY LAKE CONTINUING CARE CENTRE,,,,,,N/A,,,,,,,,,,,,(780) 623-6229,,,,,,,,,,,,,,,,,,,,,4607 52 Ave,,,SMOKY LAKE,,,AB,,T0A 3C0,Canada,54.1162996,-112.469655,,True
+EXTENDICARE ST. PAUL,,,,,,(780) 645-4290,,,,,,,,,,,,(780) 645-3375,,,,,,,,,,,,,,,,,,,,,4614 47 Ave,,,ST. PAUL,,,AB,,T0A 3A3,Canada,53.9886547,-111.286559,,True
+ST. THERESE - ST. PAUL HEALTHCARE CENTRE,,,,,,N/A,,,,,,,,,,,,(780) 645-3331,,,,,,,,,,,,,,,,,,,,,4713 48 Ave,,,ST. PAUL,,,AB,,T0A 3A3,Canada,53.9889259,-111.290522,,True
+WESTLOCK CONTINUING CARE CENTRE,,,,,,(780) 349-5647,,,,,,,,,,,,(780) 349-3306,,,,,,,,,,,,,,,,,,,,,10203 96 St,,,WESTLOCK,,,AB,,T7P 2R2,Canada,54.1486079,-113.8531215,,True
+NORTHERN LIGHTS REGIONAL HEALTH CENTRE,,,,,,N/A,,,,,,,,,,,,(780) 791-6251,,,,,,,,,,,,,,,,,,,,,7 Hospital St,,,FORT MCMURRAY,,,AB,,T9H 1P2,Canada,56.7163523,-111.3622389,,True
+ST. THERESA GENERAL HOSPITAL,,,,,,N/A,,,,,,,,,,,,(780) 927-6423,,,,,,,,,,,,,,,,,,,,,4506 46 Ave,,,FORT VERMILION,,,AB,,T0H 1N0,Canada,58.3858843,-116.0122067,,True
+NORTHWEST HEALTH CENTRE,,,,,,(780) 926-7379,,,,,,,,,,,,(780) 841-3269,,,,,,,,,,,,,,,,,,,,,11202 100 Ave,,,HIGH LEVEL,,,AB,,T0H 1Z0,Canada,58.5135257,-117.1621529,,True
+LA CRETE CONTINUING CARE CENTRE,,,,,,N/A,,,,,,,,,,,,(780) 928-6811,,,,,,,,,,,,,,,,,,,,,10603 100 Ave,,,LA CRETE,,,AB,,T0H 2H0,Canada,58.1938451,-116.4028361,,True
+BASSANO HEALTH CENTRE,,,,,,(403) 501-3362,,,,,,,,,,,,(403) 793-6660,,,,,,,,,,,,,,,,,,,,,608 5 Ave,,,BASSANO,,,AB,,T0J 0B0,Canada,50.7892504,-112.4610623,,True
+BOW ISLAND HEALTH CENTRE,,,,,,(403) 545-3214,,,,,,,,,,,,(403) 545-3208,,,,,,,,,,,,,,,,,,,,,938 Centre St,PO Bag 3990,,BOW ISLAND,,,AB,,T0K 0G0,Canada,49.865624,-111.378438,,True
+BROOKS HEALTH CENTRE,,,,,,(403) 501-3362,,,,,,,,,,,,(403) 793-6660,,,,,,,,,,,,,,,,,,,,,440 Third St E,,,BROOKS,,,AB,,T1R 0X8,Canada,50.5684258,-111.8895766,,True
+BIG COUNTRY HOSPITAL,,,,,,N/A,,,,,,,,,,,,(403) 664-4309,,,,,,,,,,,,,,,,,,,,,312 3 Ave E,,,OYEN,,,AB,,T0J 2J0,Canada,51.3520208,-110.4785782,,True
+RIVERVIEW CARE CENTRE/CENTRAL PARK LODGE,,,,,,(403) 504-8759,,,,,,,,,,,,(403) 527-5531,,,,,,,,,,,,,,,,,,,,,603 Prospect Dr SW,,,MEDICINE HAT,,,AB,,T1A 4C2,Canada,50.0366421,-110.7021585,,True
+SUNNYSIDE CARE CENTRE (SOUTH COUNTRY VILLAGE),,,,,,(403) 529-9309,,,,,,,,,,,,(403) 527-3838,,,,,,,,,,,,,,,,,,,,,1720 Bell St SW,,,MEDICINE HAT,,,AB,,T1A 5G1,Canada,50.0247946,-110.7275018,,True
+THE VALLEYVIEW SUPPORTIVE LIVING,,,,,,N/A,,,,,,,,,,,,(403) 526-7000,,,,,,,,,,,,,,,,,,,,,65 Valleyview Dr SW,,,MEDICINE HAT,,,AB,,T1A 7K5,Canada,50.0362081,-110.7084215,,True
+BETHANY CARE CENTRE AIRDRIE,,,,,,(403) 671-8420,,,,,,,,,,,,(403) 948-8426,,,,,,,,,,,,,,,,,,,,,1736 1 Ave NW,,,AIRDRIE,,,AB,,T4B 2C4,Canada,51.2934533,-114.0360015,,True
+BETHANY CALGARY,,,,,,N/A,,,,,,,,,,,,(403) 210-4603,,,,,,,,,,,,,,,,,,,,,916 18A St NW,,,CALGARY,,,AB,,T2N 1C6,Canada,51.0604201,-114.1031077,Northwest Calgary,True
+BETHANY CARE CENTRE COCHRANE,,,,,,N/A,,,,,,,,,,,,(403) 932-8425,,,,,,,,,,,,,,,,,,,,,1000-32 Quigley Dr,,,COCHRANE,,,AB,,T4C 1X9,Canada,51.1928793,-114.4920932,,True
+BETHANY CARE CENTRE - HARVEST HILLS,,,,,,N/A,,,,,,,,,,,,(403) 226-8202,,,,,,,,,,,,,,,,,,,,,19 Harvest Gold Manor NE,,,CALGARY,,,AB,,T3K 4Y1,Canada,51.142289,-114.065763,Northeast Calgary,True
+BEVERLY CENTRE GLENMORE,,,,,,N/A,,,,,,,,,,,,(403) 640-8745,,,,,,,,,,,,,,,,,,,,,1729 90 Ave SW,,,CALGARY,,,AB,,T2V 4S1,Canada,50.971995,-114.101856,Southwest Calgary,True
+BEVERLY CENTRE LAKE MIDNAPORE/BEVERLY ESTATE,,,,,,N/A,,,,,,,,,,,,(403) 873-2603,,,,,,,,,,,,,,,,,,,,,500 Midpark Way SE,,,CALGARY,,,AB,,T2X 3S3,Canada,50.907614,-114.058148,Southeast Calgary,True
+CAREWEST COLONEL BELCHER,,,,,,N/A,,,,,,,,,,,,(403) 944-0118,,,,,,,,,,,,,,,,,,,,,1939 Veterans Way NW,,,CALGARY,,,AB,,T3B 5Y8,Canada,51.062757,-114.143139,Northwest Calgary,True
+HARDISTY HEALTH CENTRE,,,,,,N/A,,,,,,,,,,,,(780) 888-8302,,,,,,,,,,,,,,,,,,,,,4531 47 Ave,,,HARDISTY,,,AB,,T0B 1V0,Canada,52.6628011,-111.3129237,,True
+PROVOST HEALTH CENTRE,,,,,,(780) 753-2293,,,,,,,,,,,,(780) 753-2291,,,,,,,,,,,,,,,,,,,,,5002 54 Ave,,,PROVOST,,,AB,,T0B 3S0,Canada,52.357862,-110.264837,,True
+TWO HILLS HEALTH CENTRE,,,,,,(780) 657-2508,,,,,,,,,,,,(780) 657-3053,,,,,,,,,,,,,,,,,,,,,4401 53 Ave,,,TWO HILLS,,,AB,,T0B 4K0,Canada,53.7131841,-111.7343428,,True
+VERMILION HEALTH CENTRE,,,,,,N/A,,,,,,,,,,,,(780) 853-3207,,,,,,,,,,,,,,,,,,,,,5720 50 Ave,,,VERMILION,,,AB,,T9X 1K7,Canada,53.3549477,-110.8727762,,True
+GALAHAD CARE CENTRE,,,,,,N/A,,,,,,,,,,,,(780) 888-3742,,,,,,,,,,,,,,,,,,,,,102 Lady Helen Ave E,,,GALAHAD,,,AB,,T0B 1R0,Canada,52.5140398,-111.9267178,,True
+MANNVILLE CARE CENTRE,,,,,,(780) 763-3678,,,,,,,,,,,,(780) 763-3107,,,,,,,,,,,,,,,,,,,,,5007 46 St,,,MANNVILLE,,,AB,,T0B 2W0,Canada,53.33761,-111.1733444,,True
+TOFIELD HEALTH CENTRE,,,,,,N/A,,,,,,,,,,,,(780) 662-3930,,,,,,,,,,,,,,,,,,,,,5543 44 St,,,TOFIELD,,,AB,,T0B 4J0,Canada,53.3726572,-112.6510992,,True
+VEGREVILLE CARE CENTRE,,,,,,N/A,,,,,,,,,,,,(780) 603-4201,,,,,,,,,,,,,,,,,,,,,4525 50 St,,,VEGREVILLE,,,AB,,T9A 0A1,Canada,53.4911095,-112.0607185,,True
+WAINWRIGHT HEALTH CENTRE,,,,,,(780) 842-4290,,,,,,,,,,,,(780) 806-2003,,,,,,,,,,,,,,,,,,,,,530 6 Ave,,,WAINWRIGHT,,,AB,,T9W 1R6,Canada,52.840949,-110.865862,,True
+KILLAM HEALTH CARE CENTRE,,,,,,(780) 385-3901,,,,,,,,,,,,(780) 385-3291,,,,,,,,,,,,,,,,,,,,,5203 49 Ave,,,KILLAM,,,AB,,T0B 2L0,Canada,52.788934,-111.859543,,True
+BETHANY MEADOWS,,,,,,(780) 679-2001,,,,,,,,,,,,(780) 679-2008,,,,,,,,,,,,,,,,,,,,,4209 55 St,,,CAMROSE,,,AB,,T4V 1Y6,Canada,53.007501,-112.833704,,True
+LOUISE JENSEN CARE CENTRE,,,,,,(780) 679-2001,,,,,,,,,,,,(780) 679-2008,,,,,,,,,,,,,,,,,,,,,5400 46 Ave,,,CAMROSE,,,AB,,T4V 4P8,Canada,53.01468,-112.833139,,True
+ROSEHAVEN CARE CENTRE,,,,,,(780) 679-2001,,,,,,,,,,,,(780) 679-2008,,,,,,,,,,,,,,,,,,,,,4612 53 St,,,CAMROSE,,,AB,,T4V 1Y6,Canada,53.015253,-112.833517,,True
+BETHANY COLLEGESIDE,,,,,,(403) 341-5613,,,,,,,,,,,,(403) 357-3704,,,,,,,,,,,,,,,,,,,,,99 College Cir,,,RED DEER,,,AB,,T4R 0M3,Canada,52.249434,-113.829934,,True
+LAMONT HEALTH CARE CENTRE,,,,,,N/A,,,,,,,,,,,,(780) 895-2211,,,,,,,,,,,,,,,,,,,,,5216 53 St,,,LAMONT,,,AB,,T0B 2R0,Canada,53.761946,-112.788259,,True
+DR. COOKE EXTENDED CARE CENTRE,,,,,,N/A,,,,,,,,,,,,(780) 871-7904,,,,,,,,,,,,,,,,,,,,,3915 56 Ave,,,LLOYDMINSTER,,,AB,,T9V 1N9,Canada,53.272909,-110.0199654,,True
+MARY IMMACULATE CARE CENTRE,,,,,,(780) 603-4431,,,,,,,,,,,,(780) 764-3730,,,,,,,,,,,,,,,,,,,,,Polomark Drive and 53 St,,,MUNDARE,,,AB,,T0B 3H0,Canada,53.6001377,-112.3420718,,False
+ISLAY ASSISTED LIVING,,,,,,N/A,,,,,,,,,,,,(780) 853-3207,,,,,,,,,,,,,,,,,,,,,5016 53 St,,,ISLAY,,,AB,,T0B 2J0,Canada,53.3929956,-110.543434,,True
+EXTENDICARE VIKING,,,,,,N/A,,,,,,,,,,,,(780) 336-4790,,,,,,,,,,,,,,,,,,,,,5020 57 Ave,,,VIKING,,,AB,,T0B 4N0,Canada,53.0989468,-111.7741272,,True
+BENTLEY CARE CENTRE,,,,,,N/A,,,,,,,,,,,,(403) 748-4115,,,,,,,,,,,,,,,,,,,,,4834 52 Ave,,,BENTLEY,,,AB,,T0C 0J0,Canada,52.467744,-114.04616,,True
+BRETON HEALTH CENTRE,,,,,,N/A,,,,,,,,,,,,(780) 696-4725,,,,,,,,,,,,,,,,,,,,,4919 49 Ave,,,BRETON,,,AB,,T0C 0P0,Canada,53.1086468,-114.4708655,,True
+OUR LADY OF THE ROSARY HOSPITAL,,,,,,(403) 882-2751,,,,,,,,,,,,(403) 882-3434,,,,,,,,,,,,,,,,,,,,,5402 47 St,,,CASTOR,,,AB,,T0C 0X0,Canada,52.22347,-111.907034,,True
+CONSORT HOSPITAL AND CARE CENTRE,,,,,,N/A,,,,,,,,,,,,(403) 577-3555,,,,,,,,,,,,,,,,,,,,,5402 52 Ave,,,CONSORT,,,AB,,T0C 1B0,Canada,52.00984,-110.782018,,True
+CORONATION HOSPITAL AND CARE CENTRE,,,,,,(403) 578-3474,,,,,,,,,,,,(403) 578-3803,,,,,,,,,,,,,,,,,,,,,5000 Municipal Rd,,,CORONATION,,,AB,,T0C 1C0,Canada,52.095808,-111.457994,,True
+DRAYTON VALLEY HOSPITAL AND CARE CENTRE,,,,,,(780) 514-7179,,,,,,,,,,,,(780) 514-7181,,,,,,,,,,,,,,,,,,,,,4550 Madsen Ave,,,DRAYTON VALLEY,,,AB,,T7A 1N8,Canada,53.211841,-114.969193,,True
+DRUMHELLER HEALTH CENTRE,,,,,,(403) 820-7887,,,,,,,,,,,,(403) 820-7245,,,,,,,,,,,,,,,,,,,,,351 9 St NW,,,DRUMHELLER,,,AB,,T0J 0Y1,Canada,51.468706,-112.724003,,True
+HANNA HEALTH CENTRE,,,,,,(403) 854-3253,,,,,,,,,,,,(403) 854-3331,,,,,,,,,,,,,,,,,,,,,904 Centre St N,,,HANNA,,,AB,,T0J 1P0,Canada,51.650038,-111.926982,,True
+INNISFAIL HEALTH CENTRE,,,,,,(403) 227-7399,,,,,,,,,,,,(403) 227-7390,,,,,,,,,,,,,,,,,,,,,5023 42 St,,,INNISFAIL,,,AB,,T4G 1A9,Canada,52.019015,-113.9514399,,True
+LACOMBE HOSPITAL AND CARE CENTRE,,,,,,N/A,,,,,,,,,,,,(403) 786-4944,,,,,,,,,,,,,,,,,,,,,5430 47 Ave,,,LACOMBE,,,AB,,T4L 1G8,Canada,52.4606766,-113.7411041,,True
+WESTVIEW CARE COMMUNITY,,,,,,(403) 546-4061,,,,,,,,,,,,(403) 546-3966,,,,,,,,,,,,,,,,,,,,,PO Box 220,,,LINDEN,,,AB,,T0M 1J0,Canada,51.5906862,-113.4834338,,True
+OLDS HOSPITAL AND CARE CENTRE,,,,,,N/A,,,,,,,,,,,,(403) 507-8110,,,,,,,,,,,,,,,,,,,,,3901 57 Ave,,,OLDS,,,AB,,T4H 1T4,Canada,51.8015327,-114.1180147,,True
+PONOKA HOSPITAL AND CARE CENTRE,,,,,,(403) 704-8807,,,,,,,,,,,,(403) 704-8320,,,,,,,,,,,,,,,,,,,,,5800 57 Ave,,,PONOKA,,,AB,,T4J 1P1,Canada,52.684724,-113.589511,,True
+RIMBEY HOSPITAL AND CARE CENTRE,,,,,,(403) 843-2506,,,,,,,,,,,,(403) 843-7807,,,,,,,,,,,,,,,,,,,,,Box 440,,,RIMBEY,,,AB,,T0C 2J0,Canada,ERROR,ERROR,ERROR,True
+STETTLER HOSPITAL AND CARE CENTRE,,,,,,N/A,,,,,,,,,,,,(403) 740-8614,,,,,,,,,,,,,,,,,,,,,5912 47 Ave,,,STETTLER,,,AB,,T0C 2L0,Canada,52.32362,-112.723993,,True
+SUNDRE HOSPITAL AND CARE CENTRE,,,,,,(403) 636-6282,,,,,,,,,,,,(403) 636-6276,,,,,,,,,,,,,,,,,,,,,709 1 St NE,,,SUNDRE,,,AB,,T0M 1X0,Canada,51.807789,-114.635486,,True
+THREE HILLS HEALTH CENTRE,,,,,,N/A,,,,,,,,,,,,(403) 443-8011,,,,,,,,,,,,,,,,,,,,,1504 2 St N,,,THREE HILLS,,,AB,,T0M 2A0,Canada,51.707573,-113.2431242,,True
+ST. MARY'S HEALTH CARE CENTRE,,,,,,(403) 442-3945,,,,,,,,,,,,(403) 442-3955,,,,,,,,,,,,,,,,,,,,,451 Dechauney Ave,,,TROCHU,,,AB,,T0M 2C0,Canada,51.8199356,-113.2287613,,True
+WETASKIWIN HOSPITAL AND CARE CENTRE,,,,,,(780) 361-4066,,,,,,,,,,,,(780) 312-3721,,,,,,,,,,,,,,,,,,,,,6910 47 St,,,WETASKIWIN,,,AB,,T9A 3N3,Canada,52.986764,-113.367947,,True
+BETHANY SYLVAN LAKE,,,,,,N/A,,,,,,,,,,,,(403) 887-7741,,,,,,,,,,,,,,,,,,,,,4700 47 Ave,,,SYLVAN LAKE,,,AB,,T4S 2M3,Canada,52.3050875,-114.0924629,,True
+NORTHCOTT CARE CENTRE,,,,,,(403) 783-6420,,,,,,,,,,,,(403) 783-4764,,,,,,,,,,,,,,,,,,,,,4209 48 Ave,,,PONOKA,,,AB,,T5J 1P4,Canada,52.6743762,-113.5785651,,True
+EXTENDICARE VULCAN,,,,,,N/A,,,,,,,,,,,,(403) 485-2022,,,,,,,,,,,,,,,,,,,,,715 2 Ave S,,,VULCAN,,,AB,,T0L 2B0,Canada,50.3988343,-113.256108,,True
+BOW VIEW MANOR,,,,,,N/A,,,,,,,,,,,,(403) 288-4446,,,,,,,,,,,,,,,,,,,,,4628 Montgomery Blvd NW,,,CALGARY,,,AB,,T3B 0K7,Canada,51.068057,-114.162346,Northwest Calgary,True
+WENTWORTH MANOR - THE COURT,,,,,,(403) 686-8702,,,,,,,,,,,,(403) 686-8605,,,,,,,,,,,,,,,,,,,,,5709 14 Ave SW,,,CALGARY,,,AB,,T3H 3M2,Canada,51.0397866,-114.1715865,Southwest Calgary,True
+CAREWEST DR. VERNON FANNING CENTRE,,,,,,N/A,,,,,,,,,,,,(403) 944-0118,,,,,,,,,,,,,,,,,,,,,722 16th Ave NE,,,CALGARY,,,AB,,T2E 6V7,Canada,51.067541,-114.0458705,Northeast Calgary,True
+CAREWEST GEORGE BOYACK,,,,,,N/A,,,,,,,,,,,,(403) 944-0118,,,,,,,,,,,,,,,,,,,,,1203 Centre Ave NE,,,CALGARY,,,AB,,T2E 0A5,Canada,51.052197,-114.035226,Northeast Calgary,True
+CAREWEST ROYAL PARK,,,,,,N/A,,,,,,,,,,,,(403) 944-0118,,,,,,,,,,,,,,,,,,,,,4222 Sarcee Rd SW,,,CALGARY,,,AB,,T3E 7J8,Canada,51.0165149,-114.135726,Southwest Calgary,True
+CAREWEST SARCEE,,,,,,N/A,,,,,,,,,,,,(403) 944-0118,,,,,,,,,,,,,,,,,,,,,3504 Sarcee Rd SW,,,CALGARY,,,AB,,T3E 4T4,Canada,51.022042,-114.1270308,Southwest Calgary,True
+CAREWEST SIGNAL POINTE,,,,,,N/A,,,,,,,,,,,,(403) 944-0118,,,,,,,,,,,,,,,,,,,,,6363 Simcoe Rd SW,,,CALGARY,,,AB,,T3H 4M3,Canada,51.035083,-114.181201,Southwest Calgary,True
+BOW CREST CARE CENTRE,,,,,,N/A,,,,,,,,,,,,(403) 288-2373,,,,,,,,,,,,,,,,,,,,,5927 Bowness Rd NW,,,CALGARY,,,AB,,T3B 0C7,Canada,51.0819448,-114.1739057,Northwest Calgary,True
+MOUNT ROYAL CARE CENTRE,,,,,,(403) 244-5939,,,,,,,,,,,,(403) 244-8994,,,,,,,,,,,,,,,,,,,,,1813 9 St SW,,,CALGARY,,,AB,,T2T 3C2,Canada,51.0362449,-114.0845458,Southwest Calgary,True
+MCKENZIE TOWNE CONTINUING CARE CENTRE,,,,,,N/A,,,,,,,,,,,,(403) 508-9808,,,,,,,,,,,,,,,,,,,,,80 Promenade Way SE,,,CALGARY,,,AB,,T2Z 3R4,Canada,50.9141334,-113.9625163,Southeast Calgary,True
+EXTENDICARE CEDARS VILLA,,,,,,(403) 246-7561,,,,,,,,,,,,(403) 249-8915,,,,,,,,,,,,,,,,,,,,,3330 8 Ave SW,,,CALGARY,,,AB,,T3C 0E7,Canada,51.0455184,-114.1338787,Southwest Calgary,True
+VULCAN COMMUNITY HEALTH CENTRE,,,,,,N/A,,,,,,,,,,,,(403) 485-3303,,,,,,,,,,,,,,,,,,,,,610 Elizabeth St S,,,VULCAN,,,AB,,T0L 2B0,Canada,50.396607,-113.257855,,True
+EXTENDICARE HILLCREST,,,,,,(403) 485-2879,,,,,,,,,,,,(403) 485-2022,,,,,,,,,,,,,,,,,,,,,1512 8 Ave NW,,,CALGARY,,,AB,,T2N 1C1,Canada,51.0598389,-114.095287,Northwest Calgary,True
+FATHER LACOMBE CARE CENTRE,,,,,,(403) 254-6298,,,,,,,,,,,,(403) 254-6275,,,,,,,,,,,,,,,,,,,,,270 Providence Blvd SE,,,CALGARY,,,AB,,T2X 0V6,Canada,50.922269,-114.061645,Southeast Calgary,True
+CLIFTON MANOR,,,,,,N/A,,,,,,,,,,,,(403) 272-9831,,,,,,,,,,,,,,,,,,,,,4726 8 Ave SE,,,CALGARY,,,AB,,T2A 0A8,Canada,51.0457752,-113.9674315,Southeast Calgary,True
+CHINOOK CARE CENTRE,,,,,,(403) 253-0292,,,,,,,,,,,,(403) 252-0141,,,,,,,,,,,,,,,,,,,,,1261 Glenmore Trl SW,,,CALGARY,,,AB,,T2V 4Y8,Canada,50.9934207,-114.0896856,Southwest Calgary,True
+SOUTHWOOD CARE CENTRE,,,,,,N/A,,,,,,,,,,,,(403) 252-1194,,,,,,,,,,,,,,,,,,,,,211 Heritage Dr SE,,,CALGARY,,,AB,,T2H 1M9,Canada,50.9792053,-114.0660885,Southeast Calgary,True
+GLAMORGAN NURSING HOME,,,,,,N/A,,,,,,,,,,,,(403) 242-5911,,,,,,,,,,,,,,,,,,,,,105 Galbraith Dr SW,,,CALGARY,,,AB,,T3E 4Z5,Canada,51.0093663,-114.1454064,Southwest Calgary,True
+NEWPORT HARBOUR CARE CENTRE,,,,,,(403) 567-5105,,,,,,,,,,,,(403) 567-5102,,,,,,,,,,,,,,,,,,,,,10 Country Village Cove NE,,,CALGARY,,,AB,,T3K 6B4,Canada,51.155974,-114.05964,Northeast Calgary,True
+WING KEI CARE CENTRE,,,,,,(403) 230-3857,,,,,,,,,,,,(403) 277-7433,,,,,,,,,,,,,,,,,,,,,1212 Centre St NE,,,CALGARY,,,AB,,T2E 2R4,Canada,51.0625663,-114.0623187,Crescent Heights,True
+WILLOW CREEK CONTINUING CARE CENTRE,,,,,,N/A,,,,,,,,,,,,(403) 625-3361,,,,,,,,,,,,,,,,,,,,,4221 8 St W,,,CLARESHOLM,,,AB,,T0L 0T0,Canada,50.0184436,-113.5955322,,True
+ST. MARTHA'S PLACE/BANFF MINERAL SPRINGS HOSPITAL,,,,,,N/A,,,,,,,,,,,,(403) 760-7231,,,,,,,,,,,,,,,,,,,,,305 Lynx St,,,BANFF,,,AB,,T1L 1H7,Canada,51.179144,-115.574658,,True
+OILFIELDS GENERAL HOSPITAL (RISING SUN LTC),,,,,,N/A,,,,,,,,,,,,(403) 933-2222,,,,,,,,,,,,,,,,,,,,,717 Government Rd,,,BLACK DIAMOND,,,AB,,T0L 0H0,Canada,50.6780144,-114.2344127,,True
+CANMORE GENERAL HOSPITAL (GOLDEN EAGLE VIEW LTC),,,,,,N/A,,,,,,,,,,,,(403) 678-7188,,,,,,,,,,,,,,,,,,,,,1100 Hospital Pl,,,CANMORE,,,AB,,T1W 1N9,Canada,51.09358,-115.350966,,True
+DIDSBURY DISTRICT HEALTH SERVICES,,,,,,N/A,,,,,,,,,,,,(403) 335-7208,,,,,,,,,,,,,,,,,,,,,1210 20 Ave,,,DIDSBURY,,,AB,,T0M 0W0,Canada,51.661507,-114.123681,,True
+HIGH RIVER GENERAL HOSPITAL,,,,,,N/A,,,,,,,,,,,,(403) 601-1764,,,,,,,,,,,,,,,,,,,,,560 9 Ave SW,,,HIGH RIVER,,,AB,,T1V 1B3,Canada,50.575104,-113.879948,,True
+CENTRAL PEACE HEALTH COMPLEX,,,,,,(780) 864-3495,,,,,,,,,,,,(780) 864-4709,,,,,,,,,,,,,,,,,,,,,5010 45 Ave,,,SPIRIT RIVER,,,AB,,T0H 3G0,Canada,55.777152,-118.838752,,True
+FAIRVIEW HEALTH COMPLEX (CONTINUING CARE CENTRE),,,,,,N/A,,,,,,,,,,,,(780) 835-6161,,,,,,,,,,,,,,,,,,,,,10628 110 St,,,FAIRVIEW,,,AB,,T0H 1L0,Canada,56.0709645,-118.3848231,,True
+GRIMSHAW/BERWYN AND DISTRICT COMMUNITY HEALTH CENTRE,,,,,,N/A,,,,,,,,,,,,(780) 332-6545,,,,,,,,,,,,,,,,,,,,,5621 Wilcox Rd,,,GRIMSHAW,,,AB,,T0H 1W0,Canada,56.190388,-117.62725,,True
+HYTHE CONTINUING CARE CENTRE,,,,,,N/A,,,,,,,,,,,,(780) 356-3818,,,,,,,,,,,,,,,,,,,,,10307 100 St,,,HYTHE,,,AB,,T0H 2C0,Canada,55.3275443,-119.5519544,,True
+MANNING COMMUNITY HEALTH CENTRE,,,,,,N/A,,,,,,,,,,,,(780) 836-7400,,,,,,,,,,,,,,,,,,,,,600 2 St NE,,,MANNING,,,AB,,T0H 2M0,Canada,56.9267487,-117.6237718,,True
+PEACE RIVER COMMUNITY HEALTH CENTRE (SUTHERLAND PLACE),,,,,,(780) 624-7569,,,,,,,,,,,,(780) 618-3441,,,,,,,,,,,,,,,,,,,,,10101 68 St,,,PEACE RIVER,,,AB,,T8S 1T6,Canada,56.230433,-117.353291,,True
+VALLEYVIEW HEALTH CENTRE,,,,,,N/A,,,,,,,,,,,,(780) 524-3356,,,,,,,,,,,,,,,,,,,,,4802 Highway St E,,,VALLEYVIEW,,,AB,,T0H 3N0,Canada,55.066529,-117.2736293,,True
+MANOIR DU LAC,,,,,,(780) 324-2513,,,,,,,,,,,,(780) 324-2060,,,,,,,,,,,,,,,,,,,,,164 3 Ave NW,,,MCLENNAN,,,AB,,T0H 2L0,Canada,55.7119037,-116.9106322,,True
+ALLEN GRAY CONTINUING CARE,,,,,,(780) 465-2073,,,,,,,,,,,,(780) 469-9606,,,,,,,,,,,,,,,,,,,,,5005 28 Ave,,,EDMONTON,,,AB,,T6L 7G1,Canada,53.4587911,-113.4226032,Southeast Edmonton,True
+CAPITAL CARE DICKINSFIELD,,,,,,N/A,,,,,,,,,,,,(780) 371-6525,,,,,,,,,,,,,,,,,,,,,14225 94 St NW,,,EDMONTON,,,AB,,T5E 6C6,Canada,53.6050479,-113.484718,Northeast Edmonton,True
+CAPITAL CARE GRANDVIEW,,,,,,N/A,,,,,,,,,,,,(780) 496-7103,,,,,,,,,,,,,,,,,,,,,6215 124 St,,,EDMONTON,,,AB,,T6H 3V1,Canada,53.498715,-113.542954,Southwest Edmonton,True
+CAPITAL CARE LYNNWOOD,,,,,,N/A,,,,,,,,,,,,(780) 341-2301,,,,,,,,,,,,,,,,,,,,,8740 165 St,,,EDMONTON,,,AB,,T5R 2R8,Canada,53.521366,-113.610384,West Edmonton,True
+CAPITAL CARE NORWOOD,,,,,,(780) 474-9806,,,,,,,,,,,,(780) 496-3200,,,,,,,,,,,,,,,,,,,,,10410 111 Ave,,,EDMONTON,,,AB,,T5G 3A2,Canada,53.559774,-113.500217,North Central Edmonton,True
+CITADEL CARE CENTRE,,,,,,(780) 458-8563,,,,,,,,,,,,(780) 418-6141,,,,,,,,,,,,,,,,,,,,,25 Erin Ridge Rd,,,ST. ALBERT,,,AB,,T8N 7K8,Canada,53.657333,-113.626959,,True
+DEVON GENERAL HOSPITAL,,,,,,(780) 987-8232,,,,,,,,,,,,(780) 342-7005,,,,,,,,,,,,,,,,,,,,,101 Erie St S,,,DEVON,,,AB,,T9G 1A6,Canada,53.351493,-113.730785,,True
+DEVONSHIRE CARE CENTRE,,,,,,(780) 665-8051,,,,,,,,,,,,(780) 665-8050,,,,,,,,,,,,,,,,,,,,,1808 142 St,,,EDMONTON,,,AB,,T6R 3H2,Canada,53.4492778,-113.5656316,Southwest Edmonton,True
+EDMONTON CHINATOWN CARE CENTRE,,,,,,N/A,,,,,,,,,,,,(780) 429-0821,,,,,,,,,,,,,,,,,,,,,9539 102A Ave,,,EDMONTON,,,AB,,T5H 0G2,Canada,53.5455411,-113.4815352,North Central Edmonton,True
+EDMONTON GENERAL CONTINUING CARE,,,,,,N/A,,,,,,,,,,,,(780) 342-8496,,,,,,,,,,,,,,,,,,,,,11111 Jasper Ave,,,EDMONTON,,,AB,,T5K 0L4,Canada,53.5397144,-113.5130197,North Central Edmonton,True
+EXTENDICARE LEDUC,,,,,,(780) 986-0669,,,,,,,,,,,,(780) 986-2245,,,,,,,,,,,,,,,,,,,,,4309 50 St,,,LEDUC,,,AB,,T9E 6K6,Canada,53.2568832,-113.5508748,Corinthia Park,True
+EXTENDICARE HOLYROOD (SOUTH),,,,,,N/A,,,,,,,,,,,,(780) 469-1307,,,,,,,,,,,,,,,,,,,,,8008 95 Ave,,,EDMONTON,,,AB,,T6C 2T1,Canada,53.5328172,-113.4514253,Northeast Edmonton,True
+GOOD SAMARITAN SOCIETY DR. GERALD ZETTER,,,,,,N/A,,,,,,,,,,,,(780) 431-3602,,,,,,,,,,,,,,,,,,,,,9649 71 Ave NW,,,EDMONTON,,,AB,,T6E 5J2,Canada,53.5070778,-113.4775082,Southeast Edmonton,True
+GOOD SAMARITAN SOCIETY MILLWOODS CENTRE,,,,,,N/A,,,,,,,,,,,,(780) 413-3507,,,,,,,,,,,,,,,,,,,,,101 Youville Dr E,,,EDMONTON,,,AB,,T6L 7A4,Canada,53.4603153,-113.4255878,Southeast Edmonton,True
+GOOD SAMARITAN SOCIETY PEMBINA VILLAGE,,,,,,(780) 727-2410,,,,,,,,,,,,(780) 727-4441,,,,,,,,,,,,,,,,,,,,,5225 50 St,,,EVANSBURG,,,AB,,T0E 0T0,Canada,53.6045975,-115.0182502,,True
+GOOD SAMARITAN SOCIETY SOUTHGATE,,,,,,(780) 431-3898,,,,,,,,,,,,(780) 431-3840,,,,,,,,,,,,,,,,,,,,,4225 107 St NW,,,EDMONTON,,,AB,,T6C 4G8,Canada,53.480491,-113.506725,Southwest Edmonton,True
+SHEPHERD'S CARE KENSINGTON VILLAGE,,,,,,N/A,,,,,,,,,,,,(780) 447-3840,,,,,,,,,,,,,,,,,,,,,12603 135 Ave,,,EDMONTON,,,AB,,T5L 5B2,Canada,53.5961039,-113.539677,Northwest Edmonton,True
+HARDISTY CARE CENTRE,,,,,,(780) 465-9457,,,,,,,,,,,,(780) 466-9267,,,,,,,,,,,,,,,,,,,,,6420 101 Ave,,,EDMONTON,,,AB,,T6A 0H5,Canada,53.5418639,-113.430554,Northeast Edmonton,True
+JASPER PLACE CONTINUING CARE CENTRE,,,,,,(780) 489-5435,,,,,,,,,,,,(780) 489-4931,,,,,,,,,,,,,,,,,,,,,8903 168 St,,,EDMONTON,,,AB,,T5R 2V6,Canada,53.5244519,-113.611833,West Edmonton,True
+JUBILEE LODGE NURSING HOME,,,,,,(780) 458-8563,,,,,,,,,,,,(780) 418-6141,,,,,,,,,,,,,,,,,,,,,10333 76 St,,,EDMONTON,,,AB,,T6A 3A8,Canada,53.54576,-113.444031,Northeast Edmonton,True
+DIANE AND IRVING KIPNES CENTRE FOR VETERANS,,,,,,(780) 442-5711,,,,,,,,,,,,(780) 442-5701,,,,,,,,,,,,,,,,,,,,,4470 McCrae Ave,,,EDMONTON,,,AB,,T5E 6M6,Canada,53.6130933,-113.5137649,Northwest Edmonton,True
+MILLER CROSSING CONTINUING CARE,,,,,,(780) 478-2894,,,,,,,,,,,,(780) 478-9212,,,,,,,,,,,,,,,,,,,,,14251 50 St NW,,,EDMONTON,,,AB,,T5A 5J4,Canada,53.605582,-113.416488,Northeast Edmonton,True
+MILLWOODS SHEPHERD'S CARE CENTRE,,,,,,(780) 462-1643,,,,,,,,,,,,(780) 463-9810,,,,,,,,,,,,,,,,,,,,,6620C 28 Ave,,,EDMONTON,,,AB,,T6K 2R1,Canada,53.459297,-113.436066,Southeast Edmonton,True
+RIVERCREST CARE CENTRE,,,,,,(780) 458-8563,,,,,,,,,,,,(780) 418-6141,,,,,,,,,,,,,,,,,,,,,10104 101 Ave,,,FORT SASKATCHEWAN,,,AB,,T8L 2A5,Canada,53.713938,-113.215355,,True
+SALEM MANOR NURSING HOME,,,,,,(780) 986-4130,,,,,,,,,,,,(780) 986-8654,,,,,,,,,,,,,,,,,,,,,4419 46 St,,,LEDUC,,,AB,,T9E 6L2,Canada,53.2595142,-113.541479,South Telford,True
+SHERWOOD CARE,,,,,,(780) 449-1529,,,,,,,,,,,,(780) 467-2281,,,,,,,,,,,,,,,,,,,,,2020 Brentwood Blvd N,,,SHERWOOD PARK,,,AB,,T8A 0X1,Canada,53.5282649,-113.300857,,True
+SOUTH TERRACE CONTINUING CARE CENTRE,,,,,,(780) 436-4300,,,,,,,,,,,,(780) 434-1451,,,,,,,,,,,,,,,,,,,,,5905 112 St,,,EDMONTON,,,AB,,T6H 3J4,Canada,53.496569,-113.518142,Southwest Edmonton,True
+CAPITAL CARE STRATHCONA,,,,,,N/A,,,,,,,,,,,,(780) 417-4326,,,,,,,,,,,,,,,,,,,,,12 Brower Dr,,,SHERWOOD PARK,,,AB,,T8H 1V3,Canada,53.5437353,-113.2876746,,True
+ST. JOSEPH'S AUXILIARY HOSPITAL,,,,,,N/A,,,,,,,,,,,,(780) 431-5390,,,,,,,,,,,,,,,,,,,,,10707 29 Ave,,,EDMONTON,,,AB,,T6J 6W1,Canada,53.459748,-113.506062,Southwest Edmonton,True
+ST. MICHAEL'S LONG TERM CARE CENTRE,,,,,,(780) 472-4506,,,,,,,,,,,,(780) 472-4503,,,,,,,,,,,,,,,,,,,,,7404 139 Ave,,,EDMONTON,,,AB,,T5C 3H7,Canada,53.6021339,-113.4564118,Northeast Edmonton,True
+TOUCHMARK HEALTH SERVICES NEIGHBOURHOOD/TOUCHMARK AT WEDGEWOOD,,,,,,(780) 577-5299,,,,,,,,,,,,(780) 577-5000,,,,,,,,,,,,,,,,,,,,,18333 Lessard Rd,,,EDMONTON,,,AB,,T6M 2Y5,Canada,53.4837969,-113.6424288,West Edmonton,True
+VENTA CARE CENTRE,,,,,,(780) 476-6943,,,,,,,,,,,,(780) 377-4408,,,,,,,,,,,,,,,,,,,,,13525 102 St,,,EDMONTON,,,AB,,T5E 4K3,Canada,53.597985,-113.495122,Northwest Edmonton,True
+WESTVIEW HEALTH CENTRE,,,,,,N/A,,,,,,,,,,,,(780) 968-3658,,,,,,,,,,,,,,,,,,,,,4405 Southpark Dr,,,STONY PLAIN,,,AB,,T7Z 2M7,Canada,53.5374274,-113.9763663,,True
+YOUVILLE AUXILIARY HOSPITAL (GREY NUNS) OF ST. ALBERT,,,,,,N/A,,,,,,,,,,,,(780) 460-6901,,,,,,,,,,,,,,,,,,,,,9 St Vital Ave,,,ST. ALBERT,,,AB,,T8N 1K1,Canada,53.6377702,-113.6337737,,True
+CAPITAL CARE STRATHCONA,,,,,,N/A,,,,,,,,,,,,(780) 417-4326,,,,,,,,,,,,,,,,,,,,,12 Brower Dr,,,SHERWOOD PARK,,,AB,,T8H 1V3,Canada,53.5437353,-113.2876746,,True
+REDWATER HEALTH CENTRE,,,,,,(780) 942-2373,,,,,,,,,,,,(780) 942-6603,,,,,,,,,,,,,,,,,,,,,Box 39,,,REDWATER,,,AB,,T0A 2W0,Canada,ERROR,ERROR,ERROR,True
+IN AND OUT HOME CARE REHABILITATION LTD.  HOUSE #5,,,,,,(780) 984-8122,,,,,,,,,,,,(780) 997-0913,,,,,,,,,,,,,,,,,,,,,7548 152C Ave,,,EDMONTON,,,AB,,T5R 1K5,Canada,53.6154676,-113.4594739,Northeast Edmonton,True
+IN AND OUT HOME CARE REHABILITATION LTD. HOUSE #6,,,,,,(780) 984-8122,,,,,,,,,,,,(780) 997-0913,,,,,,,,,,,,,,,,,,,,,12228 151A Ave,,,EDMONTON,,,AB,,T6M 2H7,Canada,53.6139723,-113.535247,Northwest Edmonton,True
+IN AND OUT HOME CARE REHABILITATION LTD. HOUSE #7,,,,,,(780) 984-8122,,,,,,,,,,,,(780) 997-0913,,,,,,,,,,,,,,,,,,,,,2511 104 St,,,EDMONTON,,,AB,,T6J 4R1,Canada,53.456063,-113.495219,Southwest Edmonton,True
+BETHANY SYLVAN LAKE,,,,,,N/A,,,,,,,,,,,,(403) 887-7741,,,,,,,,,,,,,,,,,,,,,4700 47 Ave,,,SYLVAN LAKE,,,AB,,T4S 2M3,Canada,52.3050875,-114.0924629,,True
+CHARTWELL COUNTRY COTTAGE RETIREMENT RESIDENCE,,,,,,N/A,,,,,,,,,,,,(780) 449-0082,,,,,,,,,,,,,,,,,,,,,75 Cranford Way,,,SHERWOOD PARK,,,AB,,T8H 2B9,Canada,53.5432671,-113.2924421,,True
+DEWAR HOUSE - UNITS 4 AND 5,,,,,,N/A,,,,,,,,,,,,(403) 823-7292,,,,,,,,,,,,,,,,,,,,,914 Newcastle Trl,,,DRUMHELLER,,,AB,,T0J 0Y2,Canada,51.4636629,-112.72586,,True
+DARTS - UNIT 8,,,,,,N/A,,,,,,,,,,,,(403) 823-7822,,,,,,,,,,,,,,,,,,,,,725 3 Ave W,,,DRUMHELLER,,,AB,,T0J 0Y3,Canada,51.4636622,-112.7189854,,True
+GROVE MANOR,,,,,,N/A,,,,,,,,,,,,(780) 473-5621,,,,,,,,,,,,,,,,,,,,,600 King St,,,SPRUCE GROVE,,,AB,,T7X 4J8,Canada,53.556416,-113.89489,,True
+GOOD SAMARITAN SOCIETY 1603 WEDMAN VILLAGE (THE),,,,,,N/A,,,,,,,,,,,,(780) 413-3520,,,,,,,,,,,,,,,,,,,,,10525 19 Ave NW,,,EDMONTON,,,AB,,T6J 6X9,Canada,53.4475805,-113.5035608,Southwest Edmonton,True
+GOOD SAMARITAN SOCIETY 1601 WEDMAN VILLAGE (THE),,,,,,N/A,,,,,,,,,,,,(780) 413-3520,,,,,,,,,,,,,,,,,,,,,10525 19 Ave NW,,,EDMONTON,,,AB,,T6J 6X9,Canada,53.4475805,-113.5035608,Southwest Edmonton,True
+GOOD SAMARITAN SOCIETY 1609 WEDMAN VILLAGE (THE),,,,,,N/A,,,,,,,,,,,,(780) 413-3520,,,,,,,,,,,,,,,,,,,,,10525 19 Ave NW,,,EDMONTON,,,AB,,T6J 6X9,Canada,53.4475805,-113.5035608,Southwest Edmonton,True
+GOOD SAMARITAN SOCIETY WEDMAN HOUSE (THE),,,,,,N/A,,,,,,,,,,,,(780) 413-3520,,,,,,,,,,,,,,,,,,,,,10525 19 Ave NW,,,EDMONTON,,,AB,,T6J 6X9,Canada,53.4475805,-113.5035608,Southwest Edmonton,True
+LAGO LINDO,,,,,,N/A,,,,,,,,,,,,(780) 222-6535,,,,,,,,,,,,,,,,,,,,,16724 92 St,,,EDMONTON,,,AB,,T7Z 2W2,Canada,53.6298792,-113.4837979,Northeast Edmonton,True
+DENNY (LO-SE-CA FOUNDATION),,,,,,N/A,,,,,,,,,,,,(780) 460-1400,,,,,,,,,,,,,,,,,,,,,22 Denny Ct,,,ST. ALBERT,,,AB,,T8N 5T7,Canada,53.6541629,-113.639905,,True
+GLENWOOD (LO-SE-CA FOUNDATION),,,,,,N/A,,,,,,,,,,,,(780) 458-8580,,,,,,,,,,,,,,,,,,,,,96 Glenwood Cr,,,ST. ALBERT,,,AB,,T8N 1X5,Canada,53.6160281,-113.6340507,,True
+LAMONT HEALTH CARE CENTRE - MORLEY YOUNG MANOR,,,,,,N/A,,,,,,,,,,,,(780) 895-2211,,,,,,,,,,,,,,,,,,,,,5220 52 St,,,LAMONT,,,AB,,T0B 2R0,Canada,53.76285,-112.786473,,True
+MILLENNIUM PAVILION SENIORS LODGE,,,,,,N/A,,,,,,,,,,,,(780) 473-5621,,,,,,,,,,,,,,,,,,,,,7408 139 Ave,,,EDMONTON,,,AB,,T5C 3H7,Canada,53.6021267,-113.4565392,Northeast Edmonton,True
+MANOIR DU LAC,,,,,,(780) 324-2513,,,,,,,,,,,,(780) 324-2060,,,,,,,,,,,,,,,,,,,,,164 3 Ave NW,,,MCLENNAN,,,AB,,T0H 2L0,Canada,55.7119037,-116.9106322,,True
+SPRUCEWOOD PLACE HOUSING COMMUNITY PARTNERSHIP,,,,,,N/A,,,,,,,,,,,,(780) 983-2010,,,,,,,,,,,,,,,,,,,,,11418 97 St,,,EDMONTON,,,AB,,T5G 1X5,Canada,53.564857,-113.492157,North Central Edmonton,True
+CORONATION HOSPITAL AND CARE CENTRE,,,,,,N/A,,,,,,,,,,,,(403) 578-3803,,,,,,,,,,,,,,,,,,,,,5000 Municipal Rd,,,CORONATION,,,AB,,T0C 1C0,Canada,52.095808,-111.457994,,True
+MCCONNELL PLACE NORTH,,,,,,(780) 442-5711,,,,,,,,,,,,(780) 371-6525,,,,,,,,,,,,,,,,,,,,,9113 144 Ave,,,EDMONTON,,,AB,,T5E 6K2,Canada,53.605434,-113.480814,Northeast Edmonton,True
+MCCONNELL PLACE WEST,,,,,,N/A,,,,,,,,,,,,(780) 413-4772,,,,,,,,,,,,,,,,,,,,,8720 165 St,,,EDMONTON,,,AB,,T5R 5Y8,Canada,53.5203599,-113.6096618,West Edmonton,True
+LAURIER HOUSE LYNNWOOD,,,,,,N/A,,,,,,,,,,,,(780) 341-2301,,,,,,,,,,,,,,,,,,,,,16815 88 Ave,,,EDMONTON,,,AB,,T5R 5Y7,Canada,53.523345,-113.612855,West Edmonton,True
+DR. JAMES W. HEMSTOCK ASSISTED LIVING RESIDENCE,,,,,,N/A,,,,,,,,,,,,(780) 808-2161,,,,,,,,,,,,,,,,,,,,,4202 54 Ave,,,LLOYDMINSTER,,,AB,,T9V 2Z3,Canada,53.2775945,-110.0155052,,True
+CHINOOK VILLAGE,,,,,,N/A,,,,,,,,,,,,(403) 526-6951,,,,,,,,,,,,,,,,,,,,,2801 13 Ave SE,,,MEDICINE HAT,,,AB,,T1A 3R1,Canada,50.0129222,-110.6640019,,True
+PETER COYLE PLACE,,,,,,N/A,,,,,,,,,,,,(403) 252-5329,,,,,,,,,,,,,,,,,,,,,5700 3 St SW,,,CALGARY,,,AB,,T2H 3B4,Canada,51.0024472,-114.0697064,Southeast Calgary,True
+WEST COUNTRY HEARTH,,,,,,N/A,,,,,,,,,,,,(780) 418-3015,,,,,,,,,,,,,,,,,,,,,26504 SH 633,,,STURGEON COUNTY,,,AB,,T8T 1R9,Canada,53.6581556,-113.8124852,,True
+ASHBOURNE,,,,,,(450) 430-5801,,,,,,,,,,,,(780) 430-5802,,,,,,,,,,,,,,,,,,,,,11148 84 Ave,,,EDMONTON,,,AB,,T6G 0V8,Canada,53.520251,-113.520044,Garneau,True
+ROBIN HOOD ASSOCIATION RESIDENCE #18,,,,,,(780) 449-2028,,,,,,,,,,,,(780) 467-7140,,,,,,,,,,,,,,,,,,,,,27 Darlington Dr,,,SHERWOOD PARK,,,AB,,T8H 1R7,Canada,53.549441,-113.260904,,True
+RIVER RIDGE BY REVERA,,,,,,N/A,,,,,,,,,,,,(780) 470-3700,,,,,,,,,,,,,,,,,,,,,78C McKenney Ave,,,ST. ALBERT,,,AB,,T8N 7M3,Canada,53.639626,-113.634222,,True
+RUTHERFORD HEIGHTS RETIREMENT RESIDENCE,,,,,,N/A,,,,,,,,,,,,(780) 432-6900,,,,,,,,,,,,,,,,,,,,,949 Rutherford Rd,,,EDMONTON,,,AB,,T6W 0E5,Canada,53.4212474,-113.5225161,Southwest Edmonton,True
+HOPE HOMES INC. #1,,,,,,(403) 272-5744,,,,,,,,,,,,(403) 272-5506,,,,,,,,,,,,,,,,,,,,,132 Madeira Rd NE,,,CALGARY,,,AB,,T2A 4N6,Canada,51.061645,-113.949595,Northeast Calgary,True
+SUMMERWOOD VILLAGE RETIREMENT RESIDENCE,,,,,,N/A,,,,,,,,,,,,(780) 416-1912,,,,,,,,,,,,,,,,,,,,,4255 Clover Bar Rd,,,SHERWOOD PARK,,,AB,,T8H 0L9,Canada,53.5588732,-113.2740847,,True
+WESTVIEW LODGE,,,,,,N/A,,,,,,,,,,,,(403) 240-4920,,,,,,,,,,,,,,,,,,,,,5033 45 St SW,,,CALGARY,,,AB,,T3E 7H1,Canada,51.0094397,-114.1535465,Southwest Calgary,True
+VEGREVILLE MANOR,,,,,,N/A,,,,,,,,,,,,(780) 632-3540,,,,,,,,,,,,,,,,,,,,,5913 49 St,,,VEGREVILLE,,,AB,,T9C 1X4,Canada,53.5031331,-112.0451354,,True
+TED BRADSHAW HOME,,,,,,N/A,,,,,,,,,,,,(780) 462-8449,,,,,,,,,,,,,,,,,,,,,8516 89 St,,,EDMONTON,,,AB,,T6C 3K3,Canada,53.5215788,-113.464281,South Central Edmonton,True
+WILD ROSE COTTAGE,,,,,,N/A,,,,,,,,,,,,(780) 443-1234,,,,,,,,,,,,,,,,,,,,,9612 172 St,,,EDMONTON,,,AB,,T5T 6C7,Canada,53.5327457,-113.6196592,West Edmonton,True
+SUNRISE VILLAGE OLDS,,,,,,N/A,,,,,,,,,,,,(403) 556-3466,,,,,,,,,,,,,,,,,,,,,5600 Sunrise Cr,,,OLDS,,,AB,,T4H 1W4,Canada,51.800393,-114.119282,,True
+TOUCHMARK HEALTH SERVICES NEIGHBOURHOOD/TOUCHMARK AT WEDGEWOOD,,,,,,(780) 577-5299,,,,,,,,,,,,(780) 577-5009,,,,,,,,,,,,,,,,,,,,,18333 Lessard Rd,,,EDMONTON,,,AB,,T6M 2Y5,Canada,53.4837969,-113.6424288,West Edmonton,True
+SENIORS RESIDENCE AT THE COLONEL BELCHER (THE),,,,,,N/A,,,,,,,,,,,,(403) 283-3491,,,,,,,,,,,,,,,,,,,,,1945 Veterans Way NW,,,CALGARY,,,AB,,T3B 5Y7,Canada,51.0625742,-114.1447592,Northwest Calgary,True
+CHATEAU LAC STE. ANNE,,,,,,N/A,,,,,,,,,,,,(780) 967-0475,,,,,,,,,,,,,,,,,,,,,5123 49 Ave,,,ONOWAY,,,AB,,T0E 1V0,Canada,53.7021111,-114.1953707,,True
+MICHENER SERVICES - RESIDENTIAL SUPPORTS - 59 MICHENER CRESENT,,,,,,N/A,,,,,,,,,,,,(403) 340-5764,,,,,,,,,,,,,,,,,,,,,59 Michener Cr,,,RED DEER,,,AB,,T4P 1E7,Canada,52.2682739,-113.7840418,Michener Hill,True
+MICHENER SERVICES - RESIDENTIAL SUPPORTS - 107 MICHENER CRESCENT,,,,,,N/A,,,,,,,,,,,,(403) 340-7570,,,,,,,,,,,,,,,,,,,,,107 Michener Cr,,,RED DEER,,,AB,,T4P 1E9,Canada,52.2681273,-113.7837917,Michener Hill,True
+MICHENER SERVICES - RESIDENTIAL SUPPORTS - 111 MICHENER CRESCENT,,,,,,(403) 340-5872,,,,,,,,,,,,(403) 755-6112,,,,,,,,,,,,,,,,,,,,,111 Michener Cr,,,RED DEER,,,AB,,T4P 1E9,Canada,52.268115,-113.7837708,Michener Hill,True
+MICHENER SERVICES - RESIDENTIAL SUPPORTS - 115 MICHENER CRESCENT,,,,,,(403) 340-5872,,,,,,,,,,,,(403) 755-6112,,,,,,,,,,,,,,,,,,,,,115 Michener Cr,,,RED DEER,,,AB,,T4P 1E9,Canada,52.2681027,-113.7837499,Michener Hill,True
+MICHENER SERVICES - RESIDENTIAL SUPPORTS - 67 MICHENER GREEN,,,,,,N/A,,,,,,,,,,,,(403) 340-5762,,,,,,,,,,,,,,,,,,,,,67 Michener Green,,,RED DEER,,,AB,,T4P 1E8,Canada,52.2685998,-113.7838066,Michener Hill,False
+MICHENER SERVICES - RESIDENTIAL SUPPORTS - 71 MICHENER GREEN,,,,,,N/A,,,,,,,,,,,,(403) 340-7133,,,,,,,,,,,,,,,,,,,,,71 Michener Green,,,RED DEER,,,AB,,T4P 1E8,Canada,52.268681,-113.783509,Michener Hill,False
+MICHENER SERVICES - RESIDENTIAL SUPPORTS - 75 MICHENER GREEN,,,,,,N/A,,,,,,,,,,,,(403) 340-7133,,,,,,,,,,,,,,,,,,,,,75 Michener Green,,,RED DEER,,,AB,,T4P 1E8,Canada,52.2682257,-113.7839585,Michener Hill,False
+MICHENER SERVICES - RESIDENTIAL SUPPORTS - 79 MICHENER GREEN,,,,,,N/A,,,,,,,,,,,,(403) 340-7133,,,,,,,,,,,,,,,,,,,,,79 Michener Green,,,RED DEER,,,AB,,T4P 1E8,Canada,52.269011,-113.783514,Michener Hill,False
+MICHENER SERVICES - RESIDENTIAL SUPPORTS - 83 MICHENER GREEN,,,,,,N/A,,,,,,,,,,,,(403) 340-5848,,,,,,,,,,,,,,,,,,,,,83 Michener Green,,,RED DEER,,,AB,,T4P 1E8,Canada,52.2691498,-113.7837081,Michener Hill,False
+MICHENER SERVICES - RESIDENTIAL SUPPORTS - 87 MICHENER GREEN,,,,,,N/A,,,,,,,,,,,,(403) 340-5848,,,,,,,,,,,,,,,,,,,,,87 Michener Green,,,RED DEER,,,AB,,T4P 1E8,Canada,52.2681888,-113.7838959,Michener Hill,False
+MICHENER SERVICES - RESIDENTIAL SUPPORTS - 91 MICHENER GREEN,,,,,,N/A,,,,,,,,,,,,(403) 340-5848,,,,,,,,,,,,,,,,,,,,,91 Michener Green,,,RED DEER,,,AB,,T4P 1E8,Canada,52.269249,-113.784115,Michener Hill,False
+MICHENER SERVICES - RESIDENTIAL SUPPORTS - 95 MICHENER GREEN,,,,,,N/A,,,,,,,,,,,,(403) 340-7197,,,,,,,,,,,,,,,,,,,,,95 Michener Green,,,RED DEER,,,AB,,T4N 1E8,Canada,52.2681642,-113.7838542,Michener Hill,False
+MICHENER SERVICES - RESIDENTIAL SUPPORTS - 99 MICHENER GREEN,,,,,,N/A,,,,,,,,,,,,(403) 340-7197,,,,,,,,,,,,,,,,,,,,,99 Michener Green,,,RED DEER,,,AB,,T4P 1E8,Canada,52.2681519,-113.7838334,Michener Hill,False
+MICHENER SERVICES - RESIDENTIAL SUPPORTS - 103 MICHENER GREEN,,,,,,N/A,,,,,,,,,,,,(403) 340-7570,,,,,,,,,,,,,,,,,,,,,103 Michener Green,,,RED DEER,,,AB,,T4P 1E8,Canada,52.2688358,-113.7848649,Michener Hill,False
+MICHENER SERVICES - RESIDENTIAL SUPPORTS - 3807-50A STREET,,,,,,N/A,,,,,,,,,,,,(403) 340-5779,,,,,,,,,,,,,,,,,,,,,3807 50A St,,,RED DEER,,,AB,,T4P 1E4,Canada,52.2675489,-113.7856804,Michener Hill,True
+CATHOLIC SOCIAL SERVICES,,,,,,N/A,,,,,,,,,,,,(780) 842-9129,,,,,,,,,,,,,,,,,,,,,8815 99 St,,,EDMONTON,,,AB,,T6E 3V3,Canada,53.524238,-113.48568,South Central Edmonton,True
+MICHENER SERVICES - RESIDENTIAL SUPPORTS - 3819-50A STREET,,,,,,N/A,,,,,,,,,,,,(403) 340-5779,,,,,,,,,,,,,,,,,,,,,3819 50A St,,,RED DEER,,,AB,,T4P 1E4,Canada,52.2675265,-113.7867886,Michener Hill,True
+MICHENER SERVICES - RESIDENTIAL SUPPORTS - 3915-51A STREET,,,,,,N/A,,,,,,,,,,,,(403) 340-5764,,,,,,,,,,,,,,,,,,,,,3915 51A St,,,RED DEER,,,AB,,T4P 1H3,Canada,52.2691681,-113.7889669,Michener Hill,True
+MICHENER SERVICES - RESIDENTIAL SUPPORTS - 5029-38A AVENUE,,,,,,N/A,,,,,,,,,,,,(403) 340-5964,,,,,,,,,,,,,,,,,,,,,5029 38A Ave,,,RED DEER,,,AB,,T4P 1G1,Canada,52.2692434,-113.7860285,Michener Hill,True
+MICHENER SERVICES - RESIDENTIAL SUPPORTS - 22A1 MICHENER WAY,,,,,,N/A,,,,,,,,,,,,(403) 340-4829,,,,,,,,,,,,,,,,,,,,,22A1 Michener Way,,,RED DEER,,,AB,,T4P 0J9,Canada,ERROR,ERROR,ERROR,True
+MICHENER SERVICES - RESIDENTIAL SUPPORTS - 22A2 MICHENER WAY,,,,,,N/A,,,,,,,,,,,,(403) 340-4829,,,,,,,,,,,,,,,,,,,,,22A2 Michener Way,,,RED DEER,,,AB,,T4R 0J9,Canada,ERROR,ERROR,ERROR,True
+MICHENER SERVICES - RESIDENTIAL SUPPORTS - 11A1 MICHENER WAY,,,,,,N/A,,,,,,,,,,,,(403) 340-5879,,,,,,,,,,,,,,,,,,,,,11A1 Michener Way,,,RED DEER,,,AB,,T4P 0J9,Canada,ERROR,ERROR,ERROR,True
+CHURCHILL RETIREMENT COMMUNITY (THE),,,,,,N/A,,,,,,,,,,,,(780) 420-1222,,,,,,,,,,,,,,,,,,,,,10015 103 Ave,,,EDMONTON,,,AB,,T5J 0H1,Canada,53.5451776,-113.4917562,North Central Edmonton,True
+MICHENER SERVICES - RESIDENTIAL SUPPORTS - 11A2 MICHENER WAY,,,,,,N/A,,,,,,,,,,,,(403) 340-5876,,,,,,,,,,,,,,,,,,,,,11A2 Michener Way,,,RED DEER,,,AB,,T4R 0J9,Canada,ERROR,ERROR,ERROR,True
+MICHENER SERVICES - RESIDENTIAL SUPPORTS - 11A3 MICHENER WAY,,,,,,N/A,,,,,,,,,,,,(403) 340-5879,,,,,,,,,,,,,,,,,,,,,11A3 Michener Way,,,RED DEER,,,AB,,T4P 0J9,Canada,ERROR,ERROR,ERROR,True
+MICHENER SERVICES - RESIDENTIAL SUPPORTS - 11A4 MICHENER WAY,,,,,,N/A,,,,,,,,,,,,(403) 340-5876,,,,,,,,,,,,,,,,,,,,,11A4 Michener Way,,,RED DEER,,,AB,,T4N 0J9,Canada,ERROR,ERROR,ERROR,True
+MICHENER SERVICES - RESIDENTIAL SUPPORTS - MICHENER TERRACE EAST 2,,,,,,N/A,,,,,,,,,,,,(403) 340-5735,,,,,,,,,,,,,,,,,,,,,12 Michener Rd,,,RED DEER,,,AB,,T4R 0J9,Canada,52.2707438,-113.7866404,Michener Hill,True
+MICHENER SERVICES - RESIDENTIAL SUPPORTS - MICHENER TERRACE WEST 2,,,,,,N/A,,,,,,,,,,,,(403) 340-5886,,,,,,,,,,,,,,,,,,,,,12 Michener Rd,,,RED DEER,,,AB,,T4P 0J9,Canada,52.2707438,-113.7866404,Michener Hill,True
+MICHENER SERVICES - RESIDENTIAL SUPPORTS - MICHENER TERRACE WEST 3,,,,,,N/A,,,,,,,,,,,,(403) 340-5735,,,,,,,,,,,,,,,,,,,,,12 Michener Rd,,,RED DEER,,,AB,,T4P 0J9,Canada,52.2707438,-113.7866404,Michener Hill,True
+RIVER HOUSE,,,,,,N/A,,,,,,,,,,,,(403) 320-8888,,,,,,,,,,,,,,,,,,,,,1411 9th Ave S,,,LETHBRIDGE,,,AB,,T1J 1V7,Canada,49.686943,-112.82163,South Lethbridge,True
+LAKE BONAVISTA VILLAGE,,,,,,N/A,,,,,,,,,,,,(403) 258-1849,,,,,,,,,,,,,,,,,,,,,11800 Lake Fraser Dr SE,,,CALGARY,,,AB,,T2J 7G8,Canada,50.9473542,-114.0673193,Southeast Calgary,True
+LODGE AT VALLEY RIDGE (THE),,,,,,(403) 247-7094,,,,,,,,,,,,(403) 286-4414,,,,,,,,,,,,,,,,,,,,,11479 Valley Ridge Dr NW,,,CALGARY,,,AB,,T3B 5V5,Canada,51.0901488,-114.2522085,Northwest Calgary,True
+TRINITY LODGE RETIREMENT RESIDENCE,,,,,,N/A,,,,,,,,,,,,(403) 253-7576,,,,,,,,,,,,,,,,,,,,,1111 Glenmore Trl SW,,,CALGARY,,,AB,,T2V 4C9,Canada,50.9931283,-114.0866734,Southwest Calgary,True
+MANOR VILLAGE AT GARRISON WOODS (THE),,,,,,N/A,,,,,,,,,,,,(403) 240-3636,,,,,,,,,,,,,,,,,,,,,2400 Sorrel Mews SW,,,CALGARY,,,AB,,T2T 6H8,Canada,51.0218892,-114.1162508,Southwest Calgary,True
+MANOR VILLAGE AT HUNTINGTON HILLS (THE),,,,,,N/A,,,,,,,,,,,,(403) 275-5667,,,,,,,,,,,,,,,,,,,,,6700 Hunterview Dr NW,,,CALGARY,,,AB,,T2K 6K4,Canada,51.1113753,-114.0786011,Northwest Calgary,True
+STAYWELL MANOR VILLAGE,,,,,,N/A,,,,,,,,,,,,(403) 242-4688,,,,,,,,,,,,,,,,,,,,,174 Ypres Green SW,,,CALGARY,,,AB,,T2T 6M2,Canada,51.0165292,-114.116292,Southwest Calgary,True
+PEOPLE SUPPORT SERVICES (WILD ROSE),,,,,,N/A,,,,,,,,,,,,(780) 435-8336,,,,,,,,,,,,,,,,,,,,,3118 35A Ave,,,EDMONTON,,,AB,,T6T 1T5,Canada,53.4678659,-113.3901307,Southeast Edmonton,True
+PEOPLE SUPPORT SERVICES (JASPER PLACE),,,,,,N/A,,,,,,,,,,,,(780) 435-8336,,,,,,,,,,,,,,,,,,,,,9832 154 St,,,EDMONTON,,,AB,,T5P 2G8,Canada,53.5371636,-113.587226,West Edmonton,True
+DIDSBURY GROUP HOME,,,,,,(403) 556-4110,,,,,,,,,,,,(403) 556-4110,,,,,,,,,,,,,,,,,,,,,1709 15 Ave,,,DIDSBURY,,,AB,,T0M 0W0,Canada,51.6566442,-114.134099,,True
+ALBERTA LIFE CARE HOUSING FOUNDATION,,,,,,N/A,,,,,,,,,,,,(780) 435-2000,,,,,,,,,,,,,,,,,,,,,200 Falconer Ct NW,,,EDMONTON,,,AB,,T5R 2V9,Canada,53.467933,-113.5855809,Southwest Edmonton,True
+BEVERLY CENTRE LAKE MIDNAPORE/BEVERLY ESTATE,,,,,,N/A,,,,,,,,,,,,(403) 873-2603,,,,,,,,,,,,,,,,,,,,,500 Midpark Way SE,,,CALGARY,,,AB,,T2X 3S3,Canada,50.907614,-114.058148,Southeast Calgary,True
+51ST STREET RESIDENCE,,,,,,(780) 632-3882,,,,,,,,,,,,(780) 632-2418,,,,,,,,,,,,,,,,,,,,,5917 51 St,,,VEGREVILLE,,,AB,,T9C 1H9,Canada,53.503765,-112.050706,,True
+BOARDWALK RETIREMENT COMMUNITY,,,,,,N/A,,,,,,,,,,,,(780) 408-2666,,,,,,,,,,,,,,,,,,,,,10531 90 St,,,EDMONTON,,,AB,,T5H 4E7,Canada,53.5522915,-113.4738907,North Central Edmonton,True
+MANOR VILLAGE AT ROCKY RIDGE (THE),,,,,,N/A,,,,,,,,,,,,(403) 239-6400,,,,,,,,,,,,,,,,,,,,,450 Rocky Vista Gardens NW,,,CALGARY,,,AB,,T3G 5Y7,Canada,51.1391659,-114.2416603,Northwest Calgary,True
+MANOR VILLAGE AT SIGNATURE PARK (THE),,,,,,N/A,,,,,,,,,,,,(403) 249-7113,,,,,,,,,,,,,,,,,,,,,1858 Sirocco Dr SW,,,CALGARY,,,AB,,T3H 3P7,Canada,51.0372203,-114.1699856,Southwest Calgary,True
+RIVERBEND RETIREMENT RESIDENCE,,,,,,(780) 438-2888,,,,,,,,,,,,(780) 438-2777,,,,,,,,,,,,,,,,,,,,,103 Rabbit Hill Ct NW,,,EDMONTON,,,AB,,T6R 2V3,Canada,53.4705308,-113.5917258,Southwest Edmonton,True
+OTTEWELL MANOR,,,,,,N/A,,,,,,,,,,,,(780) 469-7482,,,,,,,,,,,,,,,,,,,,,6675 92 Ave,,,EDMONTON,,,AB,,T6B 0S3,Canada,53.52632,-113.42827,Northeast Edmonton,True
+SHEPHERD'S CARE SOUTHSIDE MANOR,,,,,,(780) 462-1643,,,,,,,,,,,,(780) 463-9810,,,,,,,,,,,,,,,,,,,,,10741 29 Ave,,,EDMONTON,,,AB,,T6J 5H6,Canada,53.459956,-113.507497,Southwest Edmonton,True
+SHEPHERD'S CARE GREENFIELD,,,,,,(780) 462-1643,,,,,,,,,,,,(780) 463-9810,,,,,,,,,,,,,,,,,,,,,3820 114 St,,,EDMONTON,,,AB,,T6J 1M5,Canada,53.474558,-113.5271351,Southwest Edmonton,True
+SHEPHERD'S CARE KENSINGTON VILLAGE,,,,,,N/A,,,,,,,,,,,,(780) 447-3840,,,,,,,,,,,,,,,,,,,,,12603 135 Ave,,,EDMONTON,,,AB,,T5L 5B2,Canada,53.5961039,-113.539677,Northwest Edmonton,True
+SHEPHERD'S CARE BARRHEAD,,,,,,N/A,,,,,,,,,,,,(780) 674-4249,,,,,,,,,,,,,,,,,,,,,5236 59 Ave,,,BARRHEAD,,,AB,,T7N 1L2,Canada,54.129852,-114.405835,,True
+ROSEDALE VILLA,,,,,,N/A,,,,,,,,,,,,(780) 425-1668,,,,,,,,,,,,,,,,,,,,,10107 111 St,,,EDMONTON,,,AB,,T5K 2Z1,Canada,53.5422439,-113.511709,North Central Edmonton,True
+ROSEDALE ON THE PARK,,,,,,N/A,,,,,,,,,,,,(780) 425-1668,,,,,,,,,,,,,,,,,,,,,10103 111 St,,,EDMONTON,,,AB,,T5K 2Y1,Canada,53.542557,-113.511129,North Central Edmonton,True
+ROSEDALE AT GRIESBACH,,,,,,N/A,,,,,,,,,,,,(780) 425-1668,,,,,,,,,,,,,,,,,,,,,4480 McCrae Ave,,,EDMONTON,,,AB,,T5E 0Y5,Canada,53.612435,-113.514773,Northwest Edmonton,True
+ROSEDALE ESTATES,,,,,,N/A,,,,,,,,,,,,(780) 425-1668,,,,,,,,,,,,,,,,,,,,,10101 111 St,,,EDMONTON,,,AB,,T5K 2W4,Canada,53.5418502,-113.5112349,North Central Edmonton,True
+ROSEDALE MANOR,,,,,,N/A,,,,,,,,,,,,(780) 425-1668,,,,,,,,,,,,,,,,,,,,,10053 111 St,,,EDMONTON,,,AB,,T5K 2H8,Canada,53.540556,-113.511743,North Central Edmonton,True
+ALBERTA LIFE CARE HOUSING FOUNDATION,,,,,,(780) 433-2335,,,,,,,,,,,,(780) 439-1023,,,,,,,,,,,,,,,,,,,,,4069 106 St,,,EDMONTON,,,AB,,T6J 2S3,Canada,53.477333,-113.5039895,Rideau Park,True
+ALBERTA LIFE CARE HOUSING FOUNDATION,,,,,,(780) 433-2335,,,,,,,,,,,,(780) 439-1023,,,,,,,,,,,,,,,,,,,,,17203 99 Ave,,,EDMONTON,,,AB,,T5T 6S5,Canada,53.5354081,-113.6199492,West Edmonton,True
+PEOPLE SUPPORT SERVICES (OZERNA),,,,,,N/A,,,,,,,,,,,,(780) 435-8336,,,,,,,,,,,,,,,,,,,,,6705 162A Ave,,,EDMONTON,,,AB,,T5Z 3C7,Canada,53.6239357,-113.4440459,Northeast Edmonton,True
+FAITH HOUSE,,,,,,(780) 679-2001,,,,,,,,,,,,(780) 679-2008,,,,,,,,,,,,,,,,,,,,,4832 54 St,,,CAMROSE,,,AB,,T4V 2A4,Canada,53.020604,-112.833929,,True
+BETHANY MEADOWS,,,,,,(780) 679-2001,,,,,,,,,,,,(780) 679-2008,,,,,,,,,,,,,,,,,,,,,4209 55 St,,,CAMROSE,,,AB,,T4V 1Y6,Canada,53.007501,-112.833704,,True
+VIEWPOINT,,,,,,(780) 679-2001,,,,,,,,,,,,(780) 679-2008,,,,,,,,,,,,,,,,,,,,,4503 48 St,,,CAMROSE,,,AB,,T4V 4Z7,Canada,53.0129919,-112.821222,,True
+CAREWEST NICKLE HOUSE,,,,,,N/A,,,,,,,,,,,,(403) 944-0118,,,,,,,,,,,,,,,,,,,,,950 Robert Rd NE,,,CALGARY,,,AB,,T2E 7T4,Canada,51.061701,-114.032482,Northeast Calgary,True
+HARBOURS OF NEWPORT RETIREMENT RESIDENCE (THE),,,,,,N/A,,,,,,,,,,,,(403) 226-4316,,,,,,,,,,,,,,,,,,,,,20 Country Village Cove NE,,,CALGARY,,,AB,,T3K 5T9,Canada,51.1566275,-114.0581105,Northeast Calgary,True
+ROYAL PARK RETIREMENT RESIDENCE,,,,,,(403) 703-0960,,,,,,,,,,,,(403) 242-9075,,,,,,,,,,,,,,,,,,,,,4315 Richardson Rd SW,,,CALGARY,,,AB,,T3E 7J7,Canada,51.0163782,-114.1354163,Southwest Calgary,True
+RIJAMO CARE HOMES INC.,,,,,,(403) 873-2633,,,,,,,,,,,,(403) 273-1287,,,,,,,,,,,,,,,,,,,,,39 Midland Cr SE,,,CALGARY,,,AB,,T2N 1N5,Canada,50.9088481,-114.0493094,Southeast Calgary,True
+COMMUNITY CARE COTTAGES - ASPEN COTTAGE,,,,,,(780) 249-9065,,,,,,,,,,,,(780) 996-9463,,,,,,,,,,,,,,,,,,,,,156 Dempsey St,,,RED DEER,,,AB,,T4R 2Y9,Canada,52.2632138,-113.7498372,Deer Park Northeast,True
+COMMUNITY CARE COTTAGES - MAPLE COTTAGE,,,,,,(780) 249-9065,,,,,,,,,,,,(780) 996-9463,,,,,,,,,,,,,,,,,,,,,152 Dempsey St,,,RED DEER,,,AB,,T4P 3P1,Canada,52.2633023,-113.7500564,Deer Park Northeast,True
+ALBERTA LIFE CARE HOUSING FOUNDATION,,,,,,(780) 433-2335,,,,,,,,,,,,(780) 439-1023,,,,,,,,,,,,,,,,,,,,,108 West Haven Dr,,,LEDUC,,,AB,,T9E 0R7,Canada,53.264475,-113.593088,West Haven,True
+EDMONTON CHINATOWN CARE CENTRE,,,,,,N/A,,,,,,,,,,,,(780) 429-0821,,,,,,,,,,,,,,,,,,,,,9539 102A Ave,,,EDMONTON,,,AB,,T5H 0G2,Canada,53.5455411,-113.4815352,North Central Edmonton,True
+NIHGI METIS SENIORS LODGE,,,,,,(780) 474-2441,,,,,,,,,,,,(780) 471-2443,,,,,,,,,,,,,,,,,,,,,11935 65 St,,,EDMONTON,,,AB,,T5L 0A2,Canada,53.5729154,-113.4411819,Northeast Edmonton,True
+STEPPING STONE SUPPORTIVE RESIDENCE,,,,,,N/A,,,,,,,,,,,,(780) 429-4274,,,,,,,,,,,,,,,,,,,,,9304 103A Ave,,,EDMONTON,,,AB,,T5H 4R4,Canada,53.5488108,-113.4775906,North Central Edmonton,True
+POINTS WEST LIVING,,,,,,N/A,,,,,,,,,,,,(780) 874-4300,,,,,,,,,,,,,,,,,,,,,4025 56 Ave,,,LLOYDMINSTER,,,AB,,T9V 1N9,Canada,53.2668978,-110.0202833,,True
+HOPE COTTAGE INC. -  RESIDENCE #6,,,,,,N/A,,,,,,,,,,,,(780) 760-3280,,,,,,,,,,,,,,,,,,,,,3569 McLay Cr,,,EDMONTON,,,AB,,T6R 3V2,Canada,53.4443512,-113.5647886,Southwest Edmonton,True
+HOPE COTTAGE INC. - RESIDENCE #7,,,,,,N/A,,,,,,,,,,,,(780) 760-3281,,,,,,,,,,,,,,,,,,,,,3908 MacNeil Bay,,,EDMONTON,,,AB,,T6R 0H5,Canada,53.4450981,-113.5595215,Southwest Edmonton,False
+ALPINE SUMMIT SENIORS LODGE,,,,,,N/A,,,,,,,,,,,,(780) 852-4881,,,,,,,,,,,,,,,,,,,,,509 Turret St,,,JASPER,,,AB,,T0E 1E0,Canada,52.876115,-118.0847625,,True
+VENTA MANOR,,,,,,(780) 476-6943,,,,,,,,,,,,(780) 377-4401,,,,,,,,,,,,,,,,,,,,,10120 135 Ave,,,EDMONTON,,,AB,,T5E 1P1,Canada,53.597189,-113.495063,Rosslyn,True
+WELLINGTON RETIREMENT RESIDENCE (THE),,,,,,N/A,,,,,,,,,,,,(403) 526-5762,,,,,,,,,,,,,,,,,,,,,1595 Southview Dr SE,,,MEDICINE HAT,,,AB,,T1B 0A1,Canada,50.009594,-110.659293,,True
+MARIGOLD ENTERPRISES REHABILITATION SERVICES SOCIETY (2004),,,,,,N/A,,,,,,,,,,,,(780) 523-4588,,,,,,,,,,,,,,,,,,,,,5101 55 Ave,,,HIGH PRAIRIE,,,AB,,T0G 1E0,Canada,55.4344617,-116.4984373,,True
+ONSTINE GROUP HOME,,,,,,N/A,,,,,,,,,,,,(780) 967-2740,,,,,,,,,,,,,,,,,,,,,13020 65 St NW,,,EDMONTON,,,AB,,T5A 1A1,Canada,53.5895189,-113.4416623,Northeast Edmonton,True
+ST. THERESE VILLA,,,,,,N/A,,,,,,,,,,,,(403) 332-5310,,,,,,,,,,,,,,,,,,,,,253 Southgate Blvd,,,LETHBRIDGE,,,AB,,T1K 2S1,Canada,49.661095,-112.780446,South Lethbridge,True
+DEVONSHIRE MANOR LTD.,,,,,,N/A,,,,,,,,,,,,(780) 433-1395,,,,,,,,,,,,,,,,,,,,,1718 Rabbit Hill Rd,,,EDMONTON,,,AB,,T6R 3N2,Canada,53.4483404,-113.5660305,Southwest Edmonton,True
+GARDENS AT EMERALD PARK (THE),,,,,,N/A,,,,,,,,,,,,(780) 539-5538,,,,,,,,,,,,,,,,,,,,,10402 111 St,,,GRANDE PRAIRIE,,,AB,,T8V 8G4,Canada,55.1737122,-118.8315083,Gateway,True
+EVERGREEN APPROVED HOME,,,,,,N/A,,,,,,,,,,,,(403) 663-8620,,,,,,,,,,,,,,,,,,,,,128 Evergreen Cir SW,,,CALGARY,,,AB,,T2Y 0C1,Canada,50.9182442,-114.1066412,Southwest Calgary,True
+BLACK ROCK TERRACE,,,,,,N/A,,,,,,,,,,,,(403) 328-3194,,,,,,,,,,,,,,,,,,,,,105 5 Ave S,,,LETHBRIDGE,,,AB,,T1J 0Z7,Canada,49.693151,-112.846154,South Lethbridge,True
+TUOI HAC - GOLDEN AGE MANOR,,,,,,N/A,,,,,,,,,,,,(780) 476-8038,,,,,,,,,,,,,,,,,,,,,12607 148 Ave,,,EDMONTON,,,AB,,T5X 0C2,Canada,53.610104,-113.539961,Northwest Edmonton,True
+PINECLIFF APPROVED HOME,,,,,,N/A,,,,,,,,,,,,(403) 590-9680,,,,,,,,,,,,,,,,,,,,,120 Pinecliff Way NE,,,CALGARY,,,AB,,T1Y 3X3,Canada,51.079643,-113.936412,Northeast Calgary,True
+GARRISON GREEN SENIORS COMMUNITY,,,,,,N/A,,,,,,,,,,,,(403) 685-7209,,,,,,,,,,,,,,,,,,,,,3028 Don Ethell Blvd SW,,,CALGARY,,,AB,,T3E 0C9,Canada,51.005042,-114.127745,Southwest Calgary,True
+LOVE AND CARE HOME,,,,,,(780) 478-8978,,,,,,,,,,,,(780) 478-8991,,,,,,,,,,,,,,,,,,,,,12217/12219 83 St,,,EDMONTON,,,AB,,T5B 3A1,Canada,53.5773115,-113.4687125,North Central Edmonton,True
+HAMLETS AT CEDARWOOD STATION,,,,,,(403) 945-0477,,,,,,,,,,,,(403) 945-2222,,,,,,,,,,,,,,,,,,,,,304 First Ave NW,,,AIRDRIE,,,AB,,T4B 0C4,Canada,51.2928444,-114.0182846,,True
+CAPITAL CARE ADULT DUPLEXES,,,,,,N/A,,,,,,,,,,,,(780) 371-6525,,,,,,,,,,,,,,,,,,,,,9935/39 178 Ave NW,,,EDMONTON,,,AB,,T5X 5X2,Canada,53.6407807,-113.4966804,Northwest Edmonton,True
+CAPITAL CARE ADULT DUPLEXES,,,,,,N/A,,,,,,,,,,,,(780) 371-6525,,,,,,,,,,,,,,,,,,,,,9943/47 178 Ave,,,EDMONTON,,,AB,,T5X 5X2,Canada,53.6409046,-113.49695,Northwest Edmonton,True
+DISCOVERY PLACE - THE HEIGHTS,,,,,,N/A,,,,,,,,,,,,(780) 987-6500,,,,,,,,,,,,,,,,,,,,,2 Highwood Blvd,,,DEVON,,,AB,,T9G 2G2,Canada,53.3519545,-113.7226452,,True
+CATHOLIC SOCIAL SERVICES,,,,,,N/A,,,,,,,,,,,,(780) 701-9474,,,,,,,,,,,,,,,,,,,,,8815 99th St,,,EDMONTON,,,AB,,T6E 3V3,Canada,53.524238,-113.48568,South Central Edmonton,True
+CITADEL MEWS WEST LTD.,,,,,,N/A,,,,,,,,,,,,(780) 431-5192,,,,,,,,,,,,,,,,,,,,,15 Erin Ridge Rd,,,ST. ALBERT,,,AB,,T8N 0G6,Canada,53.6570687,-113.6280739,,True
+BRIGHTMORNINGSTAR CARE HOMES,,,,,,N/A,,,,,,,,,,,,(403) 226-1193,,,,,,,,,,,,,,,,,,,,,4 Panatella Ln NW,,,CALGARY,,,AB,,T3K 6C4,Canada,51.166213,-114.072477,Northwest Calgary,True
+SHEPHERD'S GARDENS,,,,,,(780) 462-1643,,,,,,,,,,,,(780) 463-9810,,,,,,,,,,,,,,,,,,,,,6608 28 Ave,,,EDMONTON,,,AB,,T6K 2R1,Canada,53.459179,-113.435209,Southeast Edmonton,True
+ST. MARY'S HEALTH CARE CENTRE,,,,,,N/A,,,,,,,,,,,,(780) 690-2896,,,,,,,,,,,,,,,,,,,,,451 Dechauney Ave,,,TROCHU,,,AB,,T0M 2C0,Canada,51.8199356,-113.2287613,,True
+NORTH HILL,,,,,,N/A,,,,,,,,,,,,(403) 250-7333,,,,,,,,,,,,,,,,,,,,,2008 13 St NW,,,CALGARY,,,AB,,T2M 4R1,Canada,51.0703164,-114.0920952,Northwest Calgary,True
+"EXCEL RESOURCES SOCIETY, RESIDENCE #35 (LAUDERDALE)",,,,,,N/A,,,,,,,,,,,,(780) 414-0348,,,,,,,,,,,,,,,,,,,,,10109 132 Ave,,,EDMONTON,,,AB,,T5H 4E1,Canada,53.591887,-113.495161,Northwest Edmonton,True
+MCLEOD PERSONAL CARE,,,,,,N/A,,,,,,,,,,,,(780) 477-1452,,,,,,,,,,,,,,,,,,,,,11847 87 St,,,EDMONTON,,,AB,,T5B 3N1,Canada,53.5717985,-113.4739931,Eastwood,True
+INGLEWOOD,,,,,,(403) 346-1109,,,,,,,,,,,,(403) 346-1134,,,,,,,,,,,,,,,,,,,,,10 Inglewood Dr,,,RED DEER,,,AB,,T4R 0L2,Canada,52.236605,-113.77214,Inglewood East,True
+MEADOW'S PLACE - E4C,,,,,,N/A,,,,,,,,,,,,(780) 425-7927,,,,,,,,,,,,,,,,,,,,,10921 93 St,,,EDMONTON,,,AB,,T5H 1Z1,Canada,53.5576285,-113.4817304,McCauley,True
+APPROVED HOME,,,,,,(403) 245-3584,,,,,,,,,,,,(403) 235-6889,,,,,,,,,,,,,,,,,,,,,924 Maitland Way NE,,,CALGARY,,,AB,,T2A 5M9,Canada,51.0606135,-113.9371488,Northeast Calgary,True
+HOPE HOMES INC. #4,,,,,,(403) 272-5744,,,,,,,,,,,,(403) 272-5506,,,,,,,,,,,,,,,,,,,,,123 Maidstone Way NE,,,CALGARY,,,AB,,T2A 3Y6,Canada,51.056061,-113.955799,Northeast Calgary,True
+HILLVIEW LODGE,,,,,,(403) 823-2070,,,,,,,,,,,,(403) 823-3290,,,,,,,,,,,,,,,,,,,,,696 6 Ave E,,,DRUMHELLER,,,AB,,T0J 0Y5,Canada,51.4590579,-112.6978959,,True
+MEDI-HOME INDIVIDUALIZED SUPPORT SERVICES LTD. #10,,,,,,N/A,,,,,,,,,,,,(780) 903-3734,,,,,,,,,,,,,,,,,,,,,14908 16 St,,,EDMONTON,,,AB,,T5Y 3J1,Canada,53.6124448,-113.3670007,Northeast Edmonton,True
+MEDI-HOME INDIVIDUALIZED SUPPORT SERVICES LTD. #11,,,,,,N/A,,,,,,,,,,,,(780) 903-3734,,,,,,,,,,,,,,,,,,,,,1612 147 Ave,,,EDMONTON,,,AB,,T5Y 2X9,Canada,53.6100511,-113.3678533,Northeast Edmonton,True
+ROBIN HOOD ASSOCIATION RESIDENCE #9,,,,,,(780) 449-2028,,,,,,,,,,,,(780) 467-7140,,,,,,,,,,,,,,,,,,,,,797 Cottonwood Ave,,,SHERWOOD PARK,,,AB,,T8H 2A4,Canada,53.5152215,-113.3031113,,True
+MEADOW'S PLACE - E4C,,,,,,N/A,,,,,,,,,,,,(780) 425-7927,,,,,,,,,,,,,,,,,,,,,9419 110 Ave,,,EDMONTON,,,AB,,T5H 1H2,Canada,53.5582753,-113.4847588,McCauley,True
+SHARP FOUNDATION - BESWICK HOUSE (THE),,,,,,N/A,,,,,,,,,,,,(403) 272-2912,,,,,,,,,,,,,,,,,,,,,A023 5717 2 St SW,,,CALGARY,,,AB,,T2H 0A1,Canada,51.0032836,-114.0687937,Southeast Calgary,False
+SUNRISE VILLAGE PONOKA,,,,,,(403) 783-3324,,,,,,,,,,,,(403) 783-3373,,,,,,,,,,,,,,,,,,,,,4004 40 Street Close,,,PONOKA,,,AB,,T4J 0A3,Canada,52.6702762,-113.5627302,,True
+GOOD SAMARITAN SOCIETY CLEARWATER CENTRE,,,,,,N/A,,,,,,,,,,,,(403) 845-6033,,,,,,,,,,,,,,,,,,,,,Main Office 8861 75 St,,,EDMONTON,,,AB,,T6C 4G8,Canada,53.5237826,-113.4423693,Kenilworth,False
+THE GOOD SAMARITAN SOCIETY - PRAIRIE RIDGE,,,,,,N/A,,,,,,,,,,,,(403) 752-3441,,,,,,,,,,,,,,,,,,,,,328 Broadway S,,,RAYMOND,,,AB,,T0K 2S0,Canada,49.4548848,-112.6632234,,True
+HOME #11,,,,,,N/A,,,,,,,,,,,,(780) 645-3472,,,,,,,,,,,,,,,,,,,,,5125 51 Ave,,,ST. PAUL,,,AB,,T0A 3A1,Canada,53.992079,-111.301336,,True
+104 SCENIC BOW PLACE,,,,,,N/A,,,,,,,,,,,,(403) 284-1121,,,,,,,,,,,,,,,,,,,,,104 Scenic Bow Pl NW,,,CALGARY,,,AB,,T3L 1S4,Canada,51.1000445,-114.2126359,Northwest Calgary,True
+AGE CARE SUNRISE GARDENS,,,,,,N/A,,,,,,,,,,,,(403) 794-2105,,,,,,,,,,,,,,,,,,,,,1235 3 St W,,,BROOKS,,,AB,,T1R 0P7,Canada,50.583931,-111.9007,,True
+LUXSTONE MANOR,,,,,,N/A,,,,,,,,,,,,(403) 945-4700,,,,,,,,,,,,,,,,,,,,,2014 Luxstone Blvd SW,,,AIRDRIE,,,AB,,T4B 0L6,Canada,51.2717543,-114.0201584,,True
+RIJAMO CARE HOME INC. II,,,,,,N/A,,,,,,,,,,,,(403) 370-5604,,,,,,,,,,,,,,,,,,,,,15816 6 St SE,,,CALGARY,,,AB,,T2X 1J4,Canada,50.9127441,-114.0473415,Southeast Calgary,True
+SUNSET MANOR,,,,,,N/A,,,,,,,,,,,,(403) 227-8200,,,,,,,,,,,,,,,,,,,,,3312 52 Ave,,,INNISFAIL,,,AB,,T4G 0C3,Canada,52.0092656,-113.9556299,,True
+BALWIN,,,,,,N/A,,,,,,,,,,,,(780) 444-1960,,,,,,,,,,,,,,,,,,,,,12838 87 St,,,EDMONTON,,,AB,,T5E 3E1,Canada,53.5871619,-113.4748058,Killarney,True
+CAPITOL HILL,,,,,,N/A,,,,,,,,,,,,(403) 250-7333,,,,,,,,,,,,,,,,,,,,,2006 13 St NW,,,CALGARY,,,AB,,T2M 4R1,Canada,51.070187,-114.0921021,Northwest Calgary,True
+BOARDWALK RETIREMENT COMMUNITY AT VARSITY,,,,,,N/A,,,,,,,,,,,,(403) 508-0684,,,,,,,,,,,,,,,,,,,,,3524 31 St NW,,,CALGARY,,,AB,,T2L 2A4,Canada,51.0844904,-114.1288361,Northwest Calgary,True
+HOPE HOMES INC. #5,,,,,,(403) 272-5744,,,,,,,,,,,,(403) 272-5506,,,,,,,,,,,,,,,,,,,,,12523 Lake Geneva Rd SE,,,CALGARY,,,AB,,T2J 2S4,Canada,50.939098,-114.04024,Southeast Calgary,True
+HOPE COTTAGE INC. - RESIDENCE #8,,,,,,N/A,,,,,,,,,,,,(780) 249-0966,,,,,,,,,,,,,,,,,,,,,4355 McClung Cr,,,EDMONTON,,,AB,,T6R 0M8,Canada,53.4432301,-113.5552395,Southwest Edmonton,True
+RGC HEALTH CARE 3,,,,,,N/A,,,,,,,,,,,,(403) 202-3992,,,,,,,,,,,,,,,,,,,,,81 Shawbrooke Green SW,,,CALGARY,,,AB,,T2Y 3B8,Canada,50.905659,-114.096501,Southwest Calgary,True
+CORE ASSOCIATION - SOUTHRIDGE,,,,,,N/A,,,,,,,,,,,,(403) 529-2784,,,,,,,,,,,,,,,,,,,,,64 Southridge Dr,,,MEDICINE HAT,,,AB,,T1B 2N6,Canada,50.0088297,-110.6853577,,True
+AOMEGA LODGES VI (AOMEGA GROUP INC.),,,,,,N/A,,,,,,,,,,,,(403) 730-8442,,,,,,,,,,,,,,,,,,,,,14315 Evergreen St SW,,,CALGARY,,,AB,,T2Y 3B1,Canada,50.9242852,-114.0950999,Southwest Calgary,True
+URSA - BOB WARD,,,,,,N/A,,,,,,,,,,,,(403) 272-7722,,,,,,,,,,,,,,,,,,,,,111 5010 50 St SW,,,CALGARY,,,AB,,T3E 7R7,Canada,51.0098931,-114.1594229,Southwest Calgary,True
+URSA - ALICE BISSETE,,,,,,N/A,,,,,,,,,,,,(403) 272-7722,,,,,,,,,,,,,,,,,,,,,114 2990 17 St SE,,,CALGARY,,,AB,,T2G 0L5,Canada,51.0276644,-114.0184965,Southeast Calgary,True
+"CHAMPION'S CENTRE (THE), BROOKS",,,,,,N/A,,,,,,,,,,,,(403) 362-4440,,,,,,,,,,,,,,,,,,,,,416 3 Ave W,,,BROOKS,,,AB,,T1R 0B2,Canada,50.568045,-111.90092,,True
+EXCEL RESOURCES SOCIETY #24,,,,,,(780) 455-2589,,,,,,,,,,,,(780) 414-4718,,,,,,,,,,,,,,,,,,,,,9797 110 St NW,Suite 500,,EDMONTON,,,AB,,T5K 2L9,Canada,53.5360499,-113.5098991,North Central Edmonton,True
+ROSEDALE ST. ALBERT,,,,,,N/A,,,,,,,,,,,,(780) 425-1668,,,,,,,,,,,,,,,,,,,,,20 Hebert Rd,,,ST. ALBERT,,,AB,,T5W 4L8,Canada,53.624256,-113.604505,,True
+THE GOOD SAMARITAN SOCIETY LEE CREST,,,,,,N/A,,,,,,,,,,,,(403) 653-2034,,,,,,,,,,,,,,,,,,,,,989 1 St E,,,CARDSTON,,,AB,,T0K 0K0,Canada,49.1885933,-113.2989575,,True
+"THE GOOD SAMARITAN SOCIETY LEE CREST, COTTAGE 1",,,,,,N/A,,,,,,,,,,,,(403) 653-2034,,,,,,,,,,,,,,,,,,,,,980 1 St E,,,CARDSTON,,,AB,,T0K 0K0,Canada,49.1885933,-113.2989575,,True
+"THE GOOD SAMARITAN SOCIETY LEE CREST, COTTAGE 2",,,,,,N/A,,,,,,,,,,,,(403) 653-2034,,,,,,,,,,,,,,,,,,,,,985 1 St E,,,CARDSTON,,,AB,,T0K 0K0,Canada,49.1885933,-113.2989575,,True
+MCMAN YOUTH FAMILY AND COMMUNITY SERVICES,,,,,,(780) 712-7636,,,,,,,,,,,,(780) 712-7677,,,,,,,,,,,,,,,,,,,,,4926 1 Ave,,,EDSON,,,AB,,T7E 1V7,Canada,53.5811291,-116.428786,,True
+PROVERBIUM HOMES V,,,,,,N/A,,,,,,,,,,,,(403) 613-2889,,,,,,,,,,,,,,,,,,,,,282 Hawkville Close NW,,,CALGARY,,,AB,,T3G 3N3,Canada,51.1340287,-114.1842882,Northwest Calgary,True
+TOLUWA LODGES GROUP INC.,,,,,,N/A,,,,,,,,,,,,(403) 281-9156,,,,,,,,,,,,,,,,,,,,,12751 Bonaventure Dr SE,,,CALGARY,,,AB,,T2J 4X4,Canada,50.9370154,-114.0651205,Southeast Calgary,True
+MIRKACARE SERVICES (KING EDWARD PARK),,,,,,N/A,,,,,,,,,,,,(780) 435-8336,,,,,,,,,,,,,,,,,,,,,7219 78 Ave,,,EDMONTON,,,AB,,T6B 0B8,Canada,53.513874,-113.439579,Southeast Edmonton,True
+FISHING LAKE METIS SETTLEMENT SENIORS LODGE SOCIETY - VICTORIA LODGE,,,,,,N/A,,,,,,,,,,,,(780) 943-2633,,,,,,,,,,,,,,,,,,,,,General Delivery,,,FISHING LAKE,,,AB,,T0A 3G0,Canada,ERROR,ERROR,ERROR,False
+CAREWEST GARRISON GREEN,,,,,,N/A,,,,,,,,,,,,(403) 944-0118,,,,,,,,,,,,,,,,,,,,,3108 Don Ethell Blvd SW,,,CALGARY,,,AB,,T3E 6Z5,Canada,51.0048582,-114.1286401,Southwest Calgary,True
+BALWIN VILLA,,,,,,(780) 455-2589,,,,,,,,,,,,(780) 414-4718,,,,,,,,,,,,,,,,,,,,,6920 128 Ave NW,,,EDMONTON,,,AB,,T5C 1S7,Canada,53.5862192,-113.4478235,Northeast Edmonton,True
+LEGACY LODGE,,,,,,N/A,,,,,,,,,,,,(403) 942-8400,,,,,,,,,,,,,,,,,,,,,335 Lettice Perry Rd N,,,LETHBRIDGE,,,AB,,T1H 5V7,Canada,49.733968,-112.825419,North Lethbridge,True
+CATHOLIC SOCIAL SERVICES,,,,,,N/A,,,,,,,,,,,,(780) 701-9473,,,,,,,,,,,,,,,,,,,,,8815 99th St,,,EDMONTON,,,AB,,T6E 3V3,Canada,53.524238,-113.48568,South Central Edmonton,True
+ALLEN GRAY CONTINUING CARE,,,,,,(780) 465-2073,,,,,,,,,,,,(780) 469-9606,,,,,,,,,,,,,,,,,,,,,5005 28 Ave,,,EDMONTON,,,AB,,T6L 7G1,Canada,53.4587911,-113.4226032,Southeast Edmonton,True
+325129 ALBERTA LTD. O/A MADYSON MANOR,,,,,,N/A,,,,,,,,,,,,(780) 672-4136,,,,,,,,,,,,,,,,,,,,,5511 50 Ave,,,WETASKIWIN,,,AB,,T9A 0T4,Canada,52.9703916,-113.3870769,,True
+POINTS WEST LIVING WAINWRIGHT INC.,,,,,,(780) 845-2090,,,,,,,,,,,,(780) 845-2080,,,,,,,,,,,,,,,,,,,,,2710 11 Ave,,,WAINWRIGHT,,,AB,,T9W 0B1,Canada,52.8405853,-110.8312007,,True
+LACALTA LODGE,,,,,,N/A,,,,,,,,,,,,(780) 623-4364,,,,,,,,,,,,,,,,,,,,,9118 Beaverhill Rd,,,LAC LA BICHE,,,AB,,T0A 2C0,Canada,54.7722757,-111.9640217,,True
+EXTENDICARE MICHENER HILL,,,,,,(403) 346-0589,,,,,,,,,,,,(403) 348-0340,,,,,,,,,,,,,,,,,,,,,12 Michener Blvd,,,RED DEER,,,AB,,T4P 0M1,Canada,52.269912,-113.7803518,Michener Hill,True
+EXTENDICARE MICHENER HILL,,,,,,(403) 348-5970,,,,,,,,,,,,(403) 348-0340,,,,,,,,,,,,,,,,,,,,,12 Michener Blvd,,,RED DEER,,,AB,,T4P 0M1,Canada,52.269912,-113.7803518,Michener Hill,True
+665353 ALBERTA LTD,,,,,,N/A,,,,,,,,,,,,(403) 293-9601,,,,,,,,,,,,,,,,,,,,,36 Fallswater Cr NE,,,CALGARY,,,AB,,T3J 1B6,Canada,51.098648,-113.94117,Northeast Calgary,True
+COLLEGESIDE GARDENS,,,,,,N/A,,,,,,,,,,,,(403) 357-3700,,,,,,,,,,,,,,,,,,,,,87 College Cir,,,RED DEER,,,AB,,T4R 0M2,Canada,52.249437,-113.829126,,True
+KENTWOOD PLACE TRANSITIONAL HOUSING,,,,,,N/A,,,,,,,,,,,,(403) 340-4700,,,,,,,,,,,,,,,,,,,,,120 Kendrew Dr,,,RED DEER,,,AB,,T4P 3T8,Canada,52.311284,-113.832795,Kentwood West,True
+DALHOUSIE CARE CENTRE INC.,,,,,,N/A,,,,,,,,,,,,(403) 452-8089,,,,,,,,,,,,,,,,,,,,,233 Hidden Cir NW,,,CALGARY,,,AB,,T3A 5G7,Canada,51.145674,-114.113175,Northwest Calgary,True
+SISTERS CARE HOME,,,,,,(403) 293-5745,,,,,,,,,,,,(403) 293-0210,,,,,,,,,,,,,,,,,,,,,4708 60 St NE,,,CALGARY,,,AB,,T1Y 5E8,Canada,51.0931729,-113.9462476,Northeast Calgary,True
+SECURA CARE HOMES INC.,,,,,,N/A,,,,,,,,,,,,(403) 730-8442,,,,,,,,,,,,,,,,,,,,,1216 New Brighton Dr SE,,,CALGARY,,,AB,,T2Z 0W1,Canada,50.9203079,-113.9362032,Southeast Calgary,True
+SECURA CARE HOMES INC.,,,,,,N/A,,,,,,,,,,,,(403) 730-8442,,,,,,,,,,,,,,,,,,,,,1226 New Brighton Dr SE,,,CALGARY,,,AB,,T2Z 0W1,Canada,50.9200702,-113.9360965,Southeast Calgary,True
+SECURA CARE HOMES INC.,,,,,,N/A,,,,,,,,,,,,(403) 730-8442,,,,,,,,,,,,,,,,,,,,,1264 New Brighton Dr SE,,,CALGARY,,,AB,,T2Z 0W3,Canada,50.9195094,-113.9361284,Southeast Calgary,True
+SECURA CARE HOMES INC.,,,,,,N/A,,,,,,,,,,,,(403) 730-8442,,,,,,,,,,,,,,,,,,,,,1290 New Brighton Dr SE,,,CALGARY,,,AB,,T2Z 0W3,Canada,50.9190783,-113.9361884,Southeast Calgary,True
+SECURA CARE HOMES INC.,,,,,,N/A,,,,,,,,,,,,(403) 730-8442,,,,,,,,,,,,,,,,,,,,,9 Brightonwoods Green SE,,,CALGARY,,,AB,,T2Z 0W1,Canada,50.9207425,-113.9364115,Southeast Calgary,True
+ST. ANDREW'S CENTRE,,,,,,N/A,,,,,,,,,,,,(780) 452-4444,,,,,,,,,,,,,,,,,,,,,12720 111 Ave,,,EDMONTON,,,AB,,T5M 3X3,Canada,53.5594216,-113.5426548,Northwest Edmonton,True
+AOMEGA LODGES VII,,,,,,N/A,,,,,,,,,,,,(403) 730-8442,,,,,,,,,,,,,,,,,,,,,64 Evanspark Way NW,,,CALGARY,,,AB,,T3P 0E4,Canada,51.1720995,-114.1153682,Northwest Calgary,True
+ROSEHAVEN CARE CENTRE,,,,,,(780) 679-2001,,,,,,,,,,,,(780) 679-2008,,,,,,,,,,,,,,,,,,,,,4612 53 St,,,CAMROSE,,,AB,,T4V 1Y6,Canada,53.015253,-112.833517,,True
+PLEASANT VALLEY LODGE,,,,,,N/A,,,,,,,,,,,,(780) 675-2529,,,,,,,,,,,,,,,,,,,,,4102 50 St,,,ATHABASCA,,,AB,,T9S 0A6,Canada,54.7096673,-113.2845152,,True
+CATHOLIC SOCIAL SERVICES,,,,,,N/A,,,,,,,,,,,,(780) 701-9473,,,,,,,,,,,,,,,,,,,,,8815 99th St,,,EDMONTON,,,AB,,T6E 3V3,Canada,53.524238,-113.48568,South Central Edmonton,True
+CATHOLIC SOCIAL SERVICES,,,,,,N/A,,,,,,,,,,,,(780) 701-9473,,,,,,,,,,,,,,,,,,,,,8815 99th St,,,EDMONTON,,,AB,,T6E 3V3,Canada,53.524238,-113.48568,South Central Edmonton,True
+CASTLEWOOD CARE HOMES INC.,,,,,,(780) 477-7173,,,,,,,,,,,,(587) 521-3487,,,,,,,,,,,,,,,,,,,,,11704 174 Ave,,,EDMONTON,,,AB,,T5X 0A3,Canada,53.6366466,-113.5263336,Northwest Edmonton,True
+EXTENDICARE FAIRMONT PARK,,,,,,N/A,,,,,,,,,,,,(403) 320-0102,,,,,,,,,,,,,,,,,,,,,115 Fairmont Blvd S,,,LETHBRIDGE,,,AB,,T1K 5V2,Canada,49.668213,-112.785546,South Lethbridge,True
+GOOD SAMARITAN SOCIETY LINDEN VIEW,,,,,,N/A,,,,,,,,,,,,(403) 223-3341,,,,,,,,,,,,,,,,,,,,,4700 64 Ave,,,TABER,,,AB,,T1G 0C6,Canada,49.8001686,-112.1580423,,True
+OPERATION FRIENDSHIP SENIORS SOCIETY - SPARLING LODGE,,,,,,N/A,,,,,,,,,,,,(780) 408-2985,,,,,,,,,,,,,,,,,,,,,9540 110A Ave,,,EDMONTON,,,AB,,T5H 4L1,Canada,53.5587861,-113.488852,McCauley,True
+SALVATION ARMY ADDICTIONS AND RESIDENTIAL CENTRE,,,,,,(780) 426-5392,,,,,,,,,,,,(780) 429-4274,,,,,,,,,,,,,,,,,,,,,9611 102 Ave,,,EDMONTON,,,AB,,T5H 0E5,Canada,53.5443683,-113.4833194,North Central Edmonton,True
+URBAN MANOR HOUSING SOCIETY,,,,,,(780) 425-5903,,,,,,,,,,,,(780) 425-5901,,,,,,,,,,,,,,,,,,,,,9524 104 Ave,,,EDMONTON,,,AB,,T5H 0J2,Canada,53.548775,-113.482063,North Central Edmonton,True
+GLASTONBURY MEWS,,,,,,N/A,,,,,,,,,,,,(780) 341-2484,,,,,,,,,,,,,,,,,,,,,1585 Glastonbury Blvd,,,EDMONTON,,,AB,,T5T 2W5,Canada,53.497437,-113.6662747,West Edmonton,True
+24 HOUR SUPPORT FOR SPECIAL NEEDS,,,,,,N/A,,,,,,,,,,,,(403) 285-7747,,,,,,,,,,,,,,,,,,,,,359 Whiteview Rd NE,,,CALGARY,,,AB,,T1Y 1P7,Canada,51.0838163,-113.9664798,Northeast Calgary,True
+THE HEARTLAND RETIREMENT RESIDENCE,,,,,,N/A,,,,,,,,,,,,(403) 938-4448,,,,,,,,,,,,,,,,,,,,,47 Riverside Gate,,,OKOTOKS,,,AB,,T1S 0J2,Canada,50.7239013,-113.9797173,,False
+POINTS WEST LIVING GRANDE PRAIRIE,,,,,,(780) 357-5710,,,,,,,,,,,,(780) 357-5700,,,,,,,,,,,,,,,,,,,,,11460 104 Ave,,,GRANDE PRAIRIE,,,AB,,T8V 3G9,Canada,55.1738696,-118.8397393,Westgate,True
+POINTS WEST LIVING GRANDE PRAIRIE,,,,,,(780) 357-5710,,,,,,,,,,,,(780) 357-5700,,,,,,,,,,,,,,,,,,,,,11460 104 Ave,,,GRANDE PRAIRIE,,,AB,,T8V 3G9,Canada,55.1738696,-118.8397393,Westgate,True
+ELDER'S CARING SHELTER OF GRANDE PRAIRIE,,,,,,(780) 538-9164,,,,,,,,,,,,(780) 882-7242,,,,,,,,,,,,,,,,,,,,,9702 99 Ave,,,GRANDE PRAIRIE,,,AB,,T8V 0R2,Canada,55.1700624,-118.7856307,Railway Industrial,True
+PEACE HILLS LODGE,,,,,,N/A,,,,,,,,,,,,(780) 387-1904,,,,,,,,,,,,,,,,,,,,,4501 60 St,,,WETASKIWIN,,,AB,,T9A 1X7,Canada,52.965263,-113.400602,,True
+CHATEAU THREE HILLS,,,,,,N/A,,,,,,,,,,,,(403) 443-2121,,,,,,,,,,,,,,,,,,,,,920 Main St,,,THREE HILLS,,,AB,,T0M 2A0,Canada,51.7039664,-113.2596924,,True
+SUNRISE VILLAGE CAMROSE,,,,,,(780) 672-2985,,,,,,,,,,,,(780) 672-2746,,,,,,,,,,,,,,,,,,,,,6821 50 Ave,,,CAMROSE,,,AB,,T4V 5G5,Canada,53.0210607,-112.8590728,,True
+WHISPERING WINDS VILLAGE,,,,,,N/A,,,,,,,,,,,,(403) 627-1997,,,,,,,,,,,,,,,,,,,,,941 Elizabeth St,,,PINCHER CREEK,,,AB,,T0K 1W0,Canada,49.4924639,-113.9399852,,True
+EXTENDICARE EAUX CLAIRES,,,,,,N/A,,,,,,,,,,,,(780) 472-1106,,,,,,,,,,,,,,,,,,,,,16503 95 St,,,EDMONTON,,,AB,,T5Z 0G7,Canada,53.627025,-113.485909,Northeast Edmonton,True
+STONY PLAIN CARE CENTRE,,,,,,(780) 963-0795,,,,,,,,,,,,(780) 963-2261,,,,,,,,,,,,,,,,,,,,,4800 55 Ave,,,STONY PLAIN,,,AB,,T7Z 1P9,Canada,53.52356,-114.003068,,True
+MOUNT VIEW LODGE,,,,,,(403) 559-2333,,,,,,,,,,,,(403) 556-3603,,,,,,,,,,,,,,,,,,,,,5230 50 St,,,OLDS,,,AB,,T4H 1N7,Canada,51.793919,-114.111919,,True
+WESTCLIFF PLACE BY EXQUISICARE,,,,,,N/A,,,,,,,,,,,,(780) 757-9637,,,,,,,,,,,,,,,,,,,,,4003 Westcliff Pl,,,EDMONTON,,,AB,,T6W 0X9,Canada,53.4346695,-113.624836,Southwest Edmonton,True
+ROCKY RIDGE RETIREMENT COMMUNITY,,,,,,(403) 457-4847,,,,,,,,,,,,(403) 930-4848,,,,,,,,,,,,,,,,,,,,,10715 Rocky Ridge Blvd NW,,,CALGARY,,,AB,,T3G 4G1,Canada,51.1433472,-114.2428671,Northwest Calgary,True
+PLEASANT VIEW LODGE,,,,,,N/A,,,,,,,,,,,,(780) 786-2393,,,,,,,,,,,,,,,,,,,,,4407 42A Ave,,,MAYERTHORPE,,,AB,,T0E 1N0,Canada,53.9456849,-115.1360264,,True
+SUNSHINE VILLA,,,,,,N/A,,,,,,,,,,,,(780) 662-2490,,,,,,,,,,,,,,,,,,,,,5834 51 St,,,TOFIELD,,,AB,,T0B 4J0,Canada,53.3751521,-112.6661528,,True
+SAGEWOOD SENIORS COMMUNITY INC.,,,,,,N/A,,,,,,,,,,,,(403) 361-8001,,,,,,,,,,,,,,,,,,,,,140 Cambridge Glen Dr,,,STRATHMORE,,,AB,,T1P 1N3,Canada,51.0574401,-113.3799034,,True
+PINNACLE RESIDENCE,,,,,,N/A,,,,,,,,,,,,(780) 332-3367,,,,,,,,,,,,,,,,,,,,,178 Pinnacle Way,,,GRANDE PRAIRIE,,,AB,,T8W 2S9,Canada,55.1480801,-118.82965,Pinnacle Ridge,True
+OPERATION FRIENDSHIP SENIORS SOCIETY - MCCAULEY LODGE,,,,,,N/A,,,,,,,,,,,,(780) 408-2996,,,,,,,,,,,,,,,,,,,,,9520 108 Ave,,,EDMONTON,,,AB,,T5H 0N2,Canada,53.554913,-113.485365,North Central Edmonton,True
+SHEPHERD'S CARE VANGUARD,,,,,,N/A,,,,,,,,,,,,(780) 474-1798,,,,,,,,,,,,,,,,,,,,,10311 122 Ave,,,EDMONTON,,,AB,,T5G 0K8,Canada,53.5764994,-113.4989024,North Central Edmonton,True
+GLOBEAS LODGE,,,,,,(403) 338-0353,,,,,,,,,,,,(403) 554-1918,,,,,,,,,,,,,,,,,,,,,119 Evansdale Common NW,,,CALGARY,,,AB,,T3P 0E6,Canada,51.1755188,-114.1060626,Northwest Calgary,True
+ALBERTA HOME CARE (2009) LTD.,,,,,,N/A,,,,,,,,,,,,(403) 516-0630,,,,,,,,,,,,,,,,,,,,,21 Saddlelake Green NE,,,CALGARY,,,AB,,T3J 0M7,Canada,51.1288888,-113.9304189,Northeast Calgary,True
+ST. PAUL ABILITIES NETWORK - ASPEN HOUSE,,,,,,N/A,,,,,,,,,,,,(780) 646-6381,,,,,,,,,,,,,,,,,,,,,4606 48 Ave,,,ST. PAUL,,,AB,,T0A 3A3,Canada,53.989622,-111.286603,,True
+JANE'S HUMAN GROWTH SERVICES INC.,,,,,,(403) 239-4896,,,,,,,,,,,,(403) 547-2749,,,,,,,,,,,,,,,,,,,,,22 Sherwood Gardens NW,,,CALGARY,,,AB,,T3R 1M9,Canada,51.1608361,-114.1465351,Northwest Calgary,True
+JANE'S HUMAN GROWTH SERVICES INC,,,,,,(403) 239-4896,,,,,,,,,,,,(403) 547-2749,,,,,,,,,,,,,,,,,,,,,93 Arbour Ridge Cir NW,,,CALGARY,,,AB,,T3G 4Y9,Canada,51.139523,-114.1870342,Northwest Calgary,True
+JANE'S HUMAN GROWTH SERVICES INC,,,,,,(403) 239-4896,,,,,,,,,,,,(403) 547-2749,,,,,,,,,,,,,,,,,,,,,808 Raynard Cr SE,,,CALGARY,,,AB,,T2A 1X7,Canada,51.044857,-113.991898,Southeast Calgary,True
+ROBINS QUALITY CARE SERVICES - MARTINVIEW,,,,,,N/A,,,,,,,,,,,,(403) 293-4521,,,,,,,,,,,,,,,,,,,,,43 Martinview Cr NE,,,CALGARY,,,AB,,T3J 2S2,Canada,51.1111069,-113.961794,Northeast Calgary,True
+ROBINS QUALITY CARE SERVICES - TEMPLEWOOD,,,,,,N/A,,,,,,,,,,,,(403) 293-4521,,,,,,,,,,,,,,,,,,,,,248 Templewood Rd NE,,,CALGARY,,,AB,,T1Y 4H1,Canada,51.0901692,-113.953557,Northeast Calgary,True
+138223 ALBERTA LTD. O/A NEW HORIZON HOMES,,,,,,N/A,,,,,,,,,,,,(587) 899-1159,,,,,,,,,,,,,,,,,,,,,11456 Coventry Blvd NE,,,CALGARY,,,AB,,T3K 4B1,Canada,51.1573119,-114.0426803,Northeast Calgary,True
+MORE T'A LIFE HOMES,,,,,,N/A,,,,,,,,,,,,(403) 383-2644,,,,,,,,,,,,,,,,,,,,,110 Queensland Dr SE,,,CALGARY,,,AB,,T2J 3R7,Canada,50.932531,-114.026757,Southeast Calgary,True
+PROVERBIUM HOMES INC.,,,,,,N/A,,,,,,,,,,,,(403) 613-2889,,,,,,,,,,,,,,,,,,,,,276 Edgebrook Garden NW,,,CALGARY,,,AB,,T3A 4Z9,Canada,51.1331842,-114.1322713,Northwest Calgary,True
+DIANA DEBOW,,,,,,N/A,,,,,,,,,,,,(403) 272-4138,,,,,,,,,,,,,,,,,,,,,28 Erin Park Dr SE,,,CALGARY,,,AB,,T2B 2Z9,Canada,51.0234432,-113.9658991,Southeast Calgary,True
+MEDICINE HAT RETIREMENT VILLA,,,,,,N/A,,,,,,,,,,,,(403) 977-1363,,,,,,,,,,,,,,,,,,,,,530 4 St SE,,,MEDICINE HAT,,,AB,,T1A 0K8,Canada,50.0386047,-110.676539,,True
+CANTERBURY MANOR,,,,,,N/A,,,,,,,,,,,,(780) 930-3729,,,,,,,,,,,,,,,,,,,,,8311 142 St,,,EDMONTON,,,AB,,T5R 5Y5,Canada,53.5163122,-113.5655574,West Edmonton,True
+THE MUSTARD SEED,,,,,,N/A,,,,,,,,,,,,(403) 767-2420,,,,,,,,,,,,,,,,,,,,,102 11 Ave SE,,,CALGARY,,,AB,,T2G 0X5,Canada,51.0425382,-114.0630061,Beltline,True
+GRANDE PRAIRIE CARE CENTRE,,,,,,N/A,,,,,,,,,,,,(780) 532-3525,,,,,,,,,,,,,,,,,,,,,9705 94 Ave,,,GRANDE PRAIRIE,,,AB,,T8V 3A2,Canada,55.1648328,-118.7862918,Highland Place,True
+GRANDE PRAIRIE CARE CENTRE,,,,,,N/A,,,,,,,,,,,,(780) 532-3525,,,,,,,,,,,,,,,,,,,,,9705 94 Ave,,,GRANDE PRAIRIE,,,AB,,T8V 3A2,Canada,55.1648328,-118.7862918,Highland Place,True
+WALDEN HEIGHTS SENIORS COMMUNITY INC.,,,,,,N/A,,,,,,,,,,,,(403) 873-4701,,,,,,,,,,,,,,,,,,,,,250 Walden Dr SE,,,CALGARY,,,AB,,T2X 0V1,Canada,50.8746363,-114.0371554,Southeast Calgary,True
+TUDOR MANOR,,,,,,N/A,,,,,,,,,,,,(403) 995-6802,,,,,,,,,,,,,,,,,,,,,200 Sandstone Dr,,,OKOTOKS,,,AB,,T1S 1R1,Canada,50.731544,-113.98533,,True
+ADAPTACARE PERSONAL CARE HOMES INC. - CEDAR CREEK,,,,,,N/A,,,,,,,,,,,,(403) 329-3536,,,,,,,,,,,,,,,,,,,,,1821 13 St N,,,LETHBRIDGE,,,AB,,T1H 2V4,Canada,49.7213909,-112.823535,North Lethbridge,True
+HANNA LODGE,,,,,,N/A,,,,,,,,,,,,(403) 854-3288,,,,,,,,,,,,,,,,,,,,,603 Palliser Trl,,,HANNA,,,AB,,T0J 1P0,Canada,51.6421103,-111.942045,,True
+ROBIN HOOD ASSOCIATION UNIT #52,,,,,,(780) 449-2028,,,,,,,,,,,,(780) 467-7140,,,,,,,,,,,,,,,,,,,,,52 130 Crystal Ln,,,SHERWOOD PARK,,,AB,,T8H 2A4,Canada,53.54784,-113.294658,,True
+CASTLEWOOD CARE HOMES INC.,,,,,,(780) 477-7173,,,,,,,,,,,,(587) 521-3487,,,,,,,,,,,,,,,,,,,,,18929 99A Ave,,,EDMONTON,,,AB,,T5T 3M9,Canada,53.5353566,-113.6504945,West Edmonton,True
+EAST RESIDENCE,,,,,,N/A,,,,,,,,,,,,(780) 632-2418,,,,,,,,,,,,,,,,,,,,,5457 45 St,,,VEGREVILLE,,,AB,,T9C 1C9,Canada,53.4974165,-112.0378265,,True
+LAUREL HEIGHTS RETIREMENT RESIDENCE,,,,,,N/A,,,,,,,,,,,,(780) 432-6900,,,,,,,,,,,,,,,,,,,,,3110 22 Ave NW,,,EDMONTON,,,AB,,T6T 0R2,Canada,53.4533942,-113.3853596,Southeast Edmonton,True
+EDMONTON PEOPLE IN NEED SHELTER SOCIETY,,,,,,(780) 426-3002,,,,,,,,,,,,(780) 424-6733,,,,,,,,,,,,,,,,,,,,,9526 103 Ave,,,EDMONTON,,,AB,,T5H 0G9,Canada,53.5470236,-113.4812928,North Central Edmonton,True
+CLOVER LIVING,,,,,,N/A,,,,,,,,,,,,(403) 290-1088,,,,,,,,,,,,,,,,,,,,,120 2 Ave SW,,,CALGARY,,,AB,,T2P 3J9,Canada,51.0515618,-114.0637274,Downtown,True
+I HAVE A CHANCE SUPPORT SERVICES LTD. RES #9,,,,,,(780) 962-8668,,,,,,,,,,,,(780) 962-0433,,,,,,,,,,,,,,,,,,,,,7 Glenview Cr,,,STONY PLAIN,,,AB,,T7Z 1A7,Canada,53.52152,-114.007014,,True
+WESTVIEW CARE COMMUNITY,,,,,,(403) 546-4061,,,,,,,,,,,,(403) 546-3966,,,,,,,,,,,,,,,,,,,,,PO Box 220,,,LINDEN,,,AB,,T0M 1J0,Canada,51.5906862,-113.4834338,,True
+SUNRISE VILLAGE DRAYTON VALLEY,,,,,,N/A,,,,,,,,,,,,(780) 542-5572,,,,,,,,,,,,,,,,,,,,,3902 47 St,,,DRAYTON VALLEY,,,AB,,T7A 1W2,Canada,53.2107832,-114.9729215,,True
+COMPANIONATE HOMES LTD.,,,,,,(403) 288-2832,,,,,,,,,,,,(403) 288-1928,,,,,,,,,,,,,,,,,,,,,38 Arbour Ridge Cir NW,,,CALGARY,,,AB,,T3G 3Y9,Canada,51.1387866,-114.1880641,Northwest Calgary,True
+I HAVE A CHANCE SUPPORT SERVICES LTD. RES #4,,,,,,(780) 962-8668,,,,,,,,,,,,(780) 962-0433,,,,,,,,,,,,,,,,,,,,,3 Cavanagh Cr,,,STONY PLAIN,,,AB,,T7Z 1G3,Canada,53.528666,-113.993611,,True
+COPPER SKY LODGE,,,,,,N/A,,,,,,,,,,,,(780) 757-9134,,,,,,,,,,,,,,,,,,,,,100 McLaughlin Dr,,,SPRUCE GROVE,,,AB,,T7X 0N1,Canada,53.5457407,-113.9313447,,True
+ROBIN HOOD ASSOCIATION RESIDENCE 44,,,,,,N/A,,,,,,,,,,,,(780) 467-7140,,,,,,,,,,,,,,,,,,,,,3 Madison Ave,,,SHERWOOD PARK,,,AB,,T8H 0M9,Canada,53.5381896,-113.3016425,,True
+BIGSTONE HEALTH COMMISSION,,,,,,N/A,,,,,,,,,,,,(780) 891-2000,,,,,,,,,,,,,,,,,,,,,92 Bigstone Cree Nation Rd,,,WABASCA,,,AB,,T0G 2K0,Canada,55.976682,-113.876443,,True
+ACCREDITED SUPPORTIVE LIVING SERVICES LIMITED,,,,,,N/A,,,,,,,,,,,,(780) 332-3367,,,,,,,,,,,,,,,,,,,,,7401 96 St,,,PEACE RIVER,,,AB,,T8S 1R7,Canada,56.258229,-117.29528,,True
+DOREEN'S PLACE,,,,,,N/A,,,,,,,,,,,,(403) 340-2794,,,,,,,,,,,,,,,,,,,,,4302 47 St,,,RED DEER,,,AB,,T4N 1P5,Canada,52.2658312,-113.7961996,,True
+HOME #12,,,,,,N/A,,,,,,,,,,,,(780) 646-6411,,,,,,,,,,,,,,,,,,,,,5214 48 Ave,,,ST. PAUL,,,AB,,T0A 3A4,Canada,53.989592,-111.303249,,True
+POINTS WEST LIVING COLD LAKE INC.,,,,,,(780) 639-0834,,,,,,,,,,,,(780) 639-1260,,,,,,,,,,,,,,,,,,,,,512 25 St,,,COLD LAKE,,,AB,,T9M 1G6,Canada,54.467581,-110.2052951,,True
+MEADOWLARK SENIOR CARE HOMES,,,,,,N/A,,,,,,,,,,,,(403) 934-5294,,,,,,,,,,,,,,,,,,,,,203 Hillcrest Blvd,,,STRATHMORE,,,AB,,T1P 0A3,Canada,51.0657982,-113.4091274,,True
+AMANI HOUSE,,,,,,N/A,,,,,,,,,,,,(403) 328-3735,,,,,,,,,,,,,,,,,,,,,535 19 St S,,,LETHBRIDGE,,,AB,,T1J 3G6,Canada,49.691716,-112.8144679,South Lethbridge,True
+POINTS WEST LIVING STETTLER,,,,,,N/A,,,,,,,,,,,,(403) 740-7700,,,,,,,,,,,,,,,,,,,,,4501 70 St,,,STETTLER,,,AB,,T0C 2L3,Canada,52.3247352,-112.7396249,,True
+O'BRIEN II RESIDENCE,,,,,,N/A,,,,,,,,,,,,(780) 332-3367,,,,,,,,,,,,,,,,,,,,,6605 O'Brien Lake Dr,,,GRANDE PRAIRIE,,,AB,,T8W 2W4,Canada,55.1403397,-118.8261524,O'Brien Lake,True
+THE MUSTARD SEED,,,,,,N/A,,,,,,,,,,,,(403) 767-2420,,,,,,,,,,,,,,,,,,,,,1010 Centre St SE,,,CALGARY,,,AB,,T2G 0X5,Canada,51.0430821,-114.0628081,Victoria Park,True
+THE SHARP FOUNDATION,,,,,,N/A,,,,,,,,,,,,(403) 272-2912,,,,,,,,,,,,,,,,,,,,,A023 5717 2 St SW,,,CALGARY,,,AB,,T2H 0A1,Canada,51.0032836,-114.0687937,Southeast Calgary,False
+BASHAW MEADOWS,,,,,,(780) 679-2001,,,,,,,,,,,,(780) 679-2008,,,,,,,,,,,,,,,,,,,,,5502 56 Ave,,,BASHAW,,,AB,,T0B 0H0,Canada,52.591991,-112.9705751,,True
+AMICA AT ASPEN WOODS,,,,,,N/A,,,,,,,,,,,,(403) 240-4404,,,,,,,,,,,,,,,,,,,,,10 Aspenshire Dr SW,,,CALGARY,,,AB,,T3H 0T2,Canada,51.0492256,-114.2124726,Southwest Calgary,True
+POINTS WEST LIVING PEACE RIVER INC.,,,,,,N/A,,,,,,,,,,,,(780) 624-0700,,,,,,,,,,,,,,,,,,,,,11011 99 St,,,PEACE RIVER,,,AB,,T8S 1B3,Canada,56.222712,-117.283442,,True
+CORE ASSOCIATION - 13TH STREET SE,,,,,,N/A,,,,,,,,,,,,(403) 527-3302,,,,,,,,,,,,,,,,,,,,,122 13 St SE,,,MEDICINE HAT,,,AB,,T1A 1W5,Canada,50.027016,-110.6836051,,True
+CATHOLIC SOCIAL SERVICES,,,,,,N/A,,,,,,,,,,,,(780) 352-5535,,,,,,,,,,,,,,,,,,,,,3815 53 St,,,WETASKIWIN,,,AB,,T6E 3V3,Canada,52.9577274,-113.3807681,,True
+ST. MICHAEL'S HEALTH CENTRE (COVENANT HEALTH),,,,,,N/A,,,,,,,,,,,,(403) 382-6464,,,,,,,,,,,,,,,,,,,,,1400 9 Ave S,,,LETHBRIDGE,,,AB,,T1J 4V5,Canada,49.68595,-112.8225257,South Lethbridge,True
+COMMUNITY RESIDENCE #48,,,,,,N/A,,,,,,,,,,,,(587) 524-3619,,,,,,,,,,,,,,,,,,,,,9512 154 St,,,EDMONTON,,,AB,,T5P 0C2,Canada,53.5320899,-113.58751,West Edmonton,True
+SHALEM HAVEN,,,,,,(403) 242-3712,,,,,,,,,,,,(403) 240-2800,,,,,,,,,,,,,,,,,,,,,3008 51 St SW,,,CALGARY,,,AB,,T3E 7V9,Canada,51.0287571,-114.1608117,Southwest Calgary,True
+SAGEWOOD SENIORS COMMUNITY INC.,,,,,,N/A,,,,,,,,,,,,(403) 361-8001,,,,,,,,,,,,,,,,,,,,,140 Cambridge Glen Dr,,,STRATHMORE,,,AB,,T1P 1N3,Canada,51.0574401,-113.3799034,,True
+LEWIS ESTATES RETIREMENT RESIDENCE,,,,,,N/A,,,,,,,,,,,,(780) 452-2273,,,,,,,,,,,,,,,,,,,,,9310 211 St NW,,,EDMONTON,,,AB,,T5T 4N8,Canada,53.5288317,-113.6840896,West Edmonton,True
+VILLA MARIE,,,,,,N/A,,,,,,,,,,,,(403) 406-5700,,,,,,,,,,,,,,,,,,,,,10 Carrington Dr,,,RED DEER,,,AB,,T4P 0S3,Canada,52.2841518,-113.7677316,Clearview Ridge,True
+MAISON SENIOR LIVING,,,,,,(403) 775-0848,,,,,,,,,,,,(403) 476-8992,,,,,,,,,,,,,,,,,,,,,750 49 Ave SW,,,CALGARY,,,AB,,T2S 2A9,Canada,51.0098666,-114.0809771,Southwest Calgary,True
+BOWNESS 142,,,,,,(403) 273-7852,,,,,,,,,,,,(403) 272-7722,,,,,,,,,,,,,,,,,,,,,142 Scenic Bow Pl NW,,,CALGARY,,,AB,,T3L 1S3,Canada,51.1008519,-114.2129226,Northwest Calgary,True
+SUNRISE ENCORE OLDS,,,,,,(403) 556-2200,,,,,,,,,,,,(403) 556-2232,,,,,,,,,,,,,,,,,,,,,3300 57 Ave,,,OLDS,,,AB,,T4H 1C4,Canada,51.805348,-114.120618,,True
+SUNRISE VILLAGE HIGH RIVER,,,,,,N/A,,,,,,,,,,,,(403) 652-1581,,,,,,,,,,,,,,,,,,,,,660 7 St NW,,,HIGH RIVER,,,AB,,T1V 1S7,Canada,50.592348,-113.881777,,True
+COVENANT CARE HOLY CROSS MANOR,,,,,,(587) 230-2730,,,,,,,,,,,,(587) 230-2702,,,,,,,,,,,,,,,,,,,,,70 Evanspark Manor NW,,,CALGARY,,,AB,,T3P 0N4,Canada,51.174933,-114.1120985,Northwest Calgary,True
+EVANSTON GRAND VILLAGE,,,,,,N/A,,,,,,,,,,,,(403) 274-6416,,,,,,,,,,,,,,,,,,,,,40 Evanston Way NW,,,CALGARY,,,AB,,T3P 1C5,Canada,51.17426,-114.1059253,Northwest Calgary,True
+WAINWRIGHT ASSOCIATION FOR COMMUNITY LIVING,,,,,,N/A,,,,,,,,,,,,(780) 842-2666,,,,,,,,,,,,,,,,,,,,,1116B 1 Ave,,,WAINWRIGHT,,,AB,,T9W 1G9,Canada,52.831698,-110.858733,,True
+STONE BROOK,,,,,,N/A,,,,,,,,,,,,(780) 332-3367,,,,,,,,,,,,,,,,,,,,,4902 59 St,,,GRIMSHAW,,,AB,,T0H 1W0,Canada,56.196722,-117.60865,,True
+116-100 SCENIC BOW PLACE,,,,,,N/A,,,,,,,,,,,,(403) 284-1121,,,,,,,,,,,,,,,,,,,,,116-100 Scenic Bow Pl NW,,,CALGARY,,,AB,,T3L 1S4,Canada,51.1000445,-114.2126359,Northwest Calgary,True
+BETHANY DIDSBURY,,,,,,N/A,,,,,,,,,,,,(403) 335-4775,,,,,,,,,,,,,,,,,,,,,1201 15 Ave,,,DIDSBURY,,,AB,,T0M 0W0,Canada,51.6567898,-114.1220002,,True
+OLDS RESIDENCE 4,,,,,,(403) 556-4110,,,,,,,,,,,,(403) 556-4110,,,,,,,,,,,,,,,,,,,,,5627 42 St,,,OLDS,,,AB,,T4H 1C4,Canada,51.799068,-114.119197,,True
+MACKENZIE PLACE,,,,,,N/A,,,,,,,,,,,,(780) 538-7180,,,,,,,,,,,,,,,,,,,,,10409 98 St,,,GRANDE PRAIRIE,,,AB,,T8V 2E8,Canada,55.1752923,-118.786568,Hillside,True
+WING KEI GREENVIEW,,,,,,(403) 230-3857,,,,,,,,,,,,(403) 277-7433,,,,,,,,,,,,,,,,,,,,,307 35 Ave NE,,,CALGARY,,,AB,,T2E 2K6,Canada,51.0838732,-114.0566724,Highland Park,True
+CATHOLIC SOCIAL SERVICES,,,,,,N/A,,,,,,,,,,,,(780) 352-5535,,,,,,,,,,,,,,,,,,,,,5209 51 Ave,,,WETASKIWIN,,,AB,,T9A 0V4,Canada,52.97082,-113.3793418,,True
+CATHOLIC SOCIAL SERVICES,,,,,,N/A,,,,,,,,,,,,(780) 352-5535,,,,,,,,,,,,,,,,,,,,,5108 5110 56 Ave,,,WETASKIWIN,,,AB,,T9A 3N5,Canada,52.9747888,-113.3755124,,True
+AUBURN HEIGHTS RETIREMENT RESIDENCE,,,,,,N/A,,,,,,,,,,,,(780) 399-5049,,,,,,,,,,,,,,,,,,,,,21 Auburn Bay St SE,,,CALGARY,,,AB,,T3M 2A9,Canada,50.8846637,-113.9502821,Southeast Calgary,True
+MOUNTAIN PLAINS COMMUNITY SERVICES SOCIETY OF THE NORTH,,,,,,N/A,,,,,,,,,,,,(780) 539-9144,,,,,,,,,,,,,,,,,,,,,8854 104 Ave,,,GRANDE PRAIRIE,,,AB,,T8X 1L7,Canada,55.175703,-118.76039,Crystal Heights,True
+62ND AVENUE WEST,,,,,,N/A,,,,,,,,,,,,(780) 532-8436,,,,,,,,,,,,,,,,,,,,,8907 62 Ave,,,GRANDE PRAIRIE,,,AB,,T8W 2P4,Canada,55.1363404,-118.7602467,Countryside South,True
+LLOYDMINSTER CONTINUING CARE,,,,,,(780) 874-3949,,,,,,,,,,,,(780) 874-3929,,,,,,,,,,,,,,,,,,,,,7402 29 St,,,LLOYDMINSTER,,,AB,,T9V 3N1,Canada,53.26414,-110.0290142,,True
+KAHKIYOW KEYKANOW ELDERS CARE HOME,,,,,,N/A,,,,,,,,,,,,(780) 697-0150,,,,,,,,,,,,,,,,,,,,,Lots 7 & 8 Block 9 Plan 5642 NY,,,FORT CHIPEWYAN,,,AB,,T0P 1B0,Canada,ERROR,ERROR,ERROR,False
+"HUDSON LAKE, THE GOOD SAMARITAN SOCIETY",,,,,,N/A,,,,,,,,,,,,(780) 431-3723,,,,,,,,,,,,,,,,,,,,,13019 141A Ave,,,EDMONTON,,,AB,,T6V 1N4,Canada,53.6037467,-113.5494999,Northwest Edmonton,True
+SCHIZOPHRENIA SOCIETY OF ALBERTA,,,,,,N/A,,,,,,,,,,,,(780) 705-5565,,,,,,,,,,,,,,,,,,,,,8533 90 St,,,EDMONTON,,,AB,,T6C 3L4,Canada,53.522033,-113.465031,South Central Edmonton,True
+30 VILLAGE CRESCENT,,,,,,N/A,,,,,,,,,,,,(403) 342-6471,,,,,,,,,,,,,,,,,,,,,30 Village Cr,,,RED DEER,,,AB,,T4R 0N6,Canada,52.2338438,-113.7453012,,True
+MIRKACARE SERVICES - OZERNA II,,,,,,N/A,,,,,,,,,,,,(780) 435-8336,,,,,,,,,,,,,,,,,,,,,7120 163 Ave,,,EDMONTON,,,AB,,T5Z 3X7,Canada,53.6248175,-113.4521701,Northeast Edmonton,True
+NIGINAN HOUSING VENTURES,,,,,,N/A,,,,,,,,,,,,(780) 784-6150,,,,,,,,,,,,,,,,,,,,,9629 106 Ave NW,,,EDMONTON,,,AB,,T5H 0N5,Canada,53.550373,-113.486899,North Central Edmonton,True
+DR. TURNER LODGE,,,,,,N/A,,,,,,,,,,,,(780) 998-3321,,,,,,,,,,,,,,,,,,,,,9422 94 Ave,,,FORT SASKATCHEWAN,,,AB,,T8L 0T7,Canada,53.7021816,-113.2227424,,True
+WALDEN HEIGHTS SENIORS COMMUNITY INC.,,,,,,N/A,,,,,,,,,,,,(403) 873-4701,,,,,,,,,,,,,,,,,,,,,250 Walden Dr SE,,,CALGARY,,,AB,,T2X 0V1,Canada,50.8746363,-114.0371554,Southeast Calgary,True
+SAINT THOMAS HEALTH CENTRE - COVENANT CARE,,,,,,N/A,,,,,,,,,,,,(780) 450-2987,,,,,,,,,,,,,,,,,,,,,8411 91 St NW,,,EDMONTON,,,AB,,T6C 1Z9,Canada,53.5205203,-113.4672195,South Central Edmonton,True
+CAREWEST ROULEAU MANOR,,,,,,N/A,,,,,,,,,,,,(403) 944-0118,,,,,,,,,,,,,,,,,,,,,2208 2 St SW,,,CALGARY,,,AB,,T2S 3C3,Canada,51.0338146,-114.0687956,Southwest Calgary,True
+APPLEWOOD,,,,,,N/A,,,,,,,,,,,,(403) 207-5115,,,,,,,,,,,,,,,,,,,,,151 Applewood Way SE,,,CALGARY,,,AB,,T2A 7N2,Canada,51.0453369,-113.9295604,Southeast Calgary,True
+COVENANT CARE CHATEAU VITALINE,,,,,,N/A,,,,,,,,,,,,(780) 929-9000,,,,,,,,,,,,,,,,,,,,,5018 52 Ave,,,BEAUMONT,,,AB,,T4X 1P3,Canada,53.3545316,-113.4195284,,True
+SELKIRK (SRS),,,,,,N/A,,,,,,,,,,,,(403) 340-3487,,,,,,,,,,,,,,,,,,,,,15 Selkirk Blvd,,,RED DEER,,,AB,,T4N 0G1,Canada,52.2507016,-113.7997271,Sunnybrook,True
+POINTS WEST LIVING SLAVE LAKE INC.,,,,,,N/A,,,,,,,,,,,,(780) 982-2848,,,,,,,,,,,,,,,,,,,,,105 6 Ave NE,,,SLAVE LAKE,,,AB,,T0G 2A2,Canada,55.7104743,-116.8894315,,True
+THE SISTERS OF CHARITY OF PROVIDENCE OF WESTERN CANADA,,,,,,N/A,,,,,,,,,,,,(780) 701-1811,,,,,,,,,,,,,,,,,,,,,Providence Centre 3005 119 St NW,,,EDMONTON,,,AB,,T6J 5R5,Canada,53.4629574,-113.5343675,Southwest Edmonton,False
+MCMAN YOUTH FAMILY AND COMMUNITY SERVICES-BELMONT HOME,,,,,,N/A,,,,,,,,,,,,(780) 482-4010,,,,,,,,,,,,,,,,,,,,,2904/2906 132A Ave NW,,,EDMONTON,,,AB,,T5A 2Z3,Canada,53.5934334,-113.3868455,Northeast Edmonton,True
+CRYSTAL CARE GROUP INC.,,,,,,N/A,,,,,,,,,,,,(780) 720-5541,,,,,,,,,,,,,,,,,,,,,7815 160 St,,,EDMONTON,,,AB,,T5R 2G6,Canada,53.510608,-113.5980163,West Edmonton,True
+ORIGIN AT SPRING CREEK,,,,,,N/A,,,,,,,,,,,,(403) 678-2288,,,,,,,,,,,,,,,,,,,,,808 Spring Creek Dr,,,CANMORE,,,AB,,T1W 0K3,Canada,51.085497,-115.3485485,,True
+ST. MARGUERITE MANOR,,,,,,N/A,,,,,,,,,,,,(587) 230-5633,,,,,,,,,,,,,,,,,,,,,110 Evanspark Manor NW,,,CALGARY,,,AB,,T3P 0N4,Canada,51.174933,-114.1120985,Northwest Calgary,True
+CAMROSE ADULT RESIDENCE #12,,,,,,N/A,,,,,,,,,,,,(780) 672-0257,,,,,,,,,,,,,,,,,,,,,4604B 57 St,,,CAMROSE,,,AB,,T4V 2E7,Canada,53.014642,-112.838151,,True
+ROCKY FOUR,,,,,,N/A,,,,,,,,,,,,(403) 845-4080,,,,,,,,,,,,,,,,,,,,,5227 49 St,,,ROCKY MOUNTAIN HOUSE,,,AB,,T4T 1G6,Canada,52.378831,-114.917278,,True
+SRS EXETER,,,,,,N/A,,,,,,,,,,,,(403) 341-3301,,,,,,,,,,,,,,,,,,,,,3919 Exeter Cr,,,RED DEER,,,AB,,T4N 2V2,Canada,52.260585,-113.784643,,True
+MEADOW RIDGE SENIORS VILLAGE,,,,,,N/A,,,,,,,,,,,,(403) 504-8514,,,,,,,,,,,,,,,,,,,,,259 Park Meadows Dr,,,MEDICINE HAT,,,AB,,T1B 4E3,Canada,50.007958,-110.651243,,True
+COMMUNITY HOUSING PROJECT - NEWTON HOME,,,,,,N/A,,,,,,,,,,,,(780) 342-7711,,,,,,,,,,,,,,,,,,,,,5107 124 Ave,,,EDMONTON,,,AB,,T5W 1T9,Canada,53.578924,-113.420569,Newton,True
+BEIT HORIM OUR PARENTS HOME,,,,,,N/A,,,,,,,,,,,,(780) 431-5192,,,,,,,,,,,,,,,,,,,,,10112 119 St,,,EDMONTON,,,AB,,T5K 1Y9,Canada,53.541212,-113.527062,Oliver,True
+SETON SENIORS COMMUNITY INC.,,,,,,N/A,,,,,,,,,,,,(403) 349-8437,,,,,,,,,,,,,,,,,,,,,4963 Front St SE,,,CALGARY,,,AB,,T3M 2M3,Canada,50.8815879,-113.94608,Southeast Calgary,True
+CATHOLIC SOCIAL SERVICES - DISABILITY 1987,,,,,,N/A,,,,,,,,,,,,(780) 368-2088,,,,,,,,,,,,,,,,,,,,,4717B 4719B 49 Ave,,,WETASKIWIN,,,AB,,T9A 0P5,Canada,52.9680103,-113.3684732,,True
+WHEAT COUNTRY SPECIAL NEEDS SOCIETY - WHEAT COUNTRY HOMES,,,,,,N/A,,,,,,,,,,,,(403) 485-3029,,,,,,,,,,,,,,,,,,,,,638 1 St N,,,VULCAN,,,AB,,T0L 2B0,Canada,50.4000879,-113.2713118,,True
+UNITED ACTIVE LIVING COMMUNITIES FISH CREEK,,,,,,N/A,,,,,,,,,,,,(403) 890-6280,,,,,,,,,,,,,,,,,,,,,51 Providence Blvd SE,Fish Creek ,,CALGARY,,,AB,,T2X 0X2,Canada,50.920923,-114.0664401,Midnapore,True
+COTTONWOOD VILLAGE RETIREMENT RESIDENCE,,,,,,(403) 625-5219,,,,,,,,,,,,(403) 625-5520,,,,,,,,,,,,,,,,,,,,,4224 8 St W,,,CLARESHOLM,,,AB,,T0L 0T0,Canada,50.0114196,-113.5954156,,True
+PROVIDENCE CARE CENTRE,,,,,,(403) 254-6298,,,,,,,,,,,,(403) 254-6275,,,,,,,,,,,,,,,,,,,,,149 Providence Blvd SE,,,CALGARY,,,AB,,T2X 0X2,Canada,50.920821,-114.062285,Midnapore,True
+PROVIDENCE CARE CENTRE,,,,,,(403) 254-6298,,,,,,,,,,,,(403) 254-6275,,,,,,,,,,,,,,,,,,,,,149 Providence Blvd SE,,,CALGARY,,,AB,,T2X 0X2,Canada,50.920821,-114.062285,Midnapore,True
+UNIVERSAL REHABILITATION SERVICE AGENCY,,,,,,N/A,,,,,,,,,,,,(403) 272-7722,,,,,,,,,,,,,,,,,,,,,619 Copperpond Blvd SE,,,CALGARY,,,AB,,T2Z 0Z5,Canada,50.9239987,-113.9205321,Southeast Calgary,True
+SETON SENIORS COMMUNITY INC.,,,,,,N/A,,,,,,,,,,,,(403) 349-8437,,,,,,,,,,,,,,,,,,,,,4963 Front St SE,,,CALGARY,,,AB,,T3M 2M3,Canada,50.8815879,-113.94608,Southeast Calgary,True
+KINGSLAND TERRACE,,,,,,N/A,,,,,,,,,,,,(403) 291-0499,,,,,,,,,,,,,,,,,,,,,835 68 Ave SW,,,CALGARY,,,AB,,T2V 0N5,Canada,50.9921376,-114.0808129,Southwest Calgary,True
+FOYER LACOMBE,,,,,,N/A,,,,,,,,,,,,(587) 341-4579,,,,,,,,,,,,,,,,,,,,,1 St Vital Ave,,,ST. ALBERT,,,AB,,T8N 1K1,Canada,53.640761,-113.629008,,True
+COMMUNITY HOUSING PROJECT - MONTROSE HOME,,,,,,N/A,,,,,,,,,,,,(780) 342-7711,,,,,,,,,,,,,,,,,,,,,12015 60 St,,,EDMONTON,,,AB,,T5W 3Z6,Canada,53.573934,-113.433228,Northeast Edmonton,True
+PARK AVENUE AT CREEKSIDE,,,,,,N/A,,,,,,,,,,,,(780) 431-5192,,,,,,,,,,,,,,,,,,,,,5810 47 Ave,,,ROCKY MOUNTAIN HOUSE,,,AB,,T4T 0B5,Canada,52.3712749,-114.9181214,,True
+"ASSOCIATION SUPPORTING CHOICES OF PEOPLE, EDSON",,,,,,N/A,,,,,,,,,,,,(780) 723-6100,,,,,,,,,,,,,,,,,,,,,5012 11 Ave,,,EDSON,,,AB,,T7E 1E9,Canada,53.5886761,-116.4393301,,True
+ST. ALBERT RETIREMENT RESIDENCE,,,,,,N/A,,,,,,,,,,,,(780) 399-5049,,,,,,,,,,,,,,,,,,,,,125 Everitt Dr N,,,ST. ALBERT,,,AB,,T8N 7R9,Canada,53.669672,-113.6308321,,True
+SUMMERLEA 3,,,,,,N/A,,,,,,,,,,,,(780) 974-0678,,,,,,,,,,,,,,,,,,,,,8027 179 St,,,EDMONTON,,,AB,,T5T 0S5,Canada,53.5141907,-113.6308758,West Edmonton,True
+WINDERMERE MANOR BY EXQUISICARE,,,,,,N/A,,,,,,,,,,,,(780) 757-9637,,,,,,,,,,,,,,,,,,,,,3531 Watson Point,,,EDMONTON,,,AB,,T6W 0X9,Canada,53.4355254,-113.6289021,Southwest Edmonton,False
+SUNDRE SENIORS SUPPORTIVE LIVING FACILITY,,,,,,N/A,,,,,,,,,,,,(403) 636-4200,,,,,,,,,,,,,,,,,,,,,749 6 St SW,,,SUNDRE,,,AB,,T0M 1X0,Canada,51.7924108,-114.6508898,,True
+KIPOHTAKAWKAMIK SUPPORTIVE LIVING,,,,,,N/A,,,,,,,,,,,,(780) 939-5573,,,,,,,,,,,,,,,,,,,,,SE-3-56-27-W4 Band Building Number 80195,,,MORINVILLE,,,AB,,T8R 1S3,Canada,ERROR,ERROR,ERROR,True
+POINTS WEST LIVING RED DEER,,,,,,N/A,,,,,,,,,,,,(587) 457-9245,,,,,,,,,,,,,,,,,,,,,6950 Taylor Dr,,,RED DEER,,,AB,,T4P 4C3,Canada,52.2918269,-113.8387455,,True
+SWAN EVERGREEN VILLAGE BY ORIGIN,,,,,,N/A,,,,,,,,,,,,(587) 481-6638,,,,,,,,,,,,,,,,,,,,,2635 Eversyde Ave SW,,,CALGARY,,,AB,,T2Y 5G9,Canada,50.907578,-114.122264,Southwest Calgary,True
+FOURTH DIMENSION - ACCESSIBLE HOUSING,,,,,,N/A,,,,,,,,,,,,(403) 826-6473,,,,,,,,,,,,,,,,,,,,,Suites 001 103 204 206 208 210 248 258 260 262,,,CALGARY,,,AB,,T3E 7H1,Canada,51.0714173,-114.0007682,Northeast Calgary,True
+HAVILAND (LOSECA FOUNDATION),,,,,,N/A,,,,,,,,,,,,(780) 460-1400,,,,,,,,,,,,,,,,,,,,,15 Haviland Cr,,,ST. ALBERT,,,AB,,T8N 6P7,Canada,53.6110106,-113.6216875,,True
+CATHOLIC SOCIAL SERVICES,,,,,,(780) 434-0020,,,,,,,,,,,,(780) 701-9481,,,,,,,,,,,,,,,,,,,,,5211 105 St,,,EDMONTON,,,AB,,T6H 2M7,Canada,53.489637,-113.499808,Southwest Edmonton,True
+EDSON CONTINUING CARE,,,,,,N/A,,,,,,,,,,,,(780) 725-6193,,,,,,,,,,,,,,,,,,,,,3825 6 Ave,,,EDSON,,,AB,,T7E 0C5,Canada,53.5918149,-116.410293,,True
+ROSEDALE HERITAGE VALLEY,,,,,,N/A,,,,,,,,,,,,(780) 784-4111,,,,,,,,,,,,,,,,,,,,,944 James Mowatt Trl,,,EDMONTON,,,AB,,T6W 2B2,Canada,53.423763,-113.5182625,Southwest Edmonton,True
+"OLD COLONY MENNONITE CHURCH OF VAUXHALL ALBERTA, O/A OLD COLONY SENIORS LODGE",,,,,,N/A,,,,,,,,,,,,(403) 634-4064,,,,,,,,,,,,,,,,,,,,,316 Armstrong St,,,CARMANGAY,,,AB,,T0L 0N0,Canada,50.1245866,-113.1087348,,True
+EVANSTON SUMMIT,,,,,,N/A,,,,,,,,,,,,(587) 538-7511,,,,,,,,,,,,,,,,,,,,,150 Evanspark Manor NW,,,CALGARY,,,AB,,T3P 0N4,Canada,51.174933,-114.1120985,Northwest Calgary,True
+SAGE HILL RETIREMENT RESIDENCE,,,,,,N/A,,,,,,,,,,,,(403) 455-2273,,,,,,,,,,,,,,,,,,,,,6 Sage Hill Gardens NW,,,CALGARY,,,AB,,T3R 1J1,Canada,51.17115,-114.139066,Northwest Calgary,True
+SPRUCE COTTAGE,,,,,,(780) 249-9065,,,,,,,,,,,,(780) 996-9463,,,,,,,,,,,,,,,,,,,,,41207 Range Road 263,,,LACOMBE,,,AB,,T4L 2K4,Canada,52.5250527,-113.6736798,,True
+EDSON CONTINUING CARE,,,,,,N/A,,,,,,,,,,,,(780) 725-6193,,,,,,,,,,,,,,,,,,,,,3825 6 Ave,,,EDSON,,,AB,,T7E 0C5,Canada,53.5918149,-116.410293,,True
+1914969 ALBERTA INC.,,,,,,N/A,,,,,,,,,,,,(780) 906-7701,,,,,,,,,,,,,,,,,,,,,18435 121 Ave,,,EDMONTON,,,AB,,T5Z 3K8,Canada,53.5745464,-113.6408288,Northwest Edmonton,True
+I HAVE A CHANCE SUPPORT SERVICES LTD. RES #11,,,,,,(780) 962-8668,,,,,,,,,,,,(780) 962-0433,,,,,,,,,,,,,,,,,,,,,30 Brampton St,,,SPRUCE GROVE,,,AB,,T7X 1E9,Canada,53.552977,-113.886099,,True
+ALDRICH CARE,,,,,,(780) 435-8839,,,,,,,,,,,,(780) 893-8118,,,,,,,,,,,,,,,,,,,,,6512 134 Ave NW,,,EDMONTON,,,AB,,T5A 0M2,Canada,53.5955547,-113.4424786,Northeast Edmonton,True
+NORTH RIDGE LODGE,,,,,,N/A,,,,,,,,,,,,(780) 458-7445,,,,,,,,,,,,,,,,,,,,,21 Mont Clare Pl,,,ST. ALBERT,,,AB,,T8N 5Z4,Canada,53.638745,-113.634979,,True
+PEMBINA LODGE,,,,,,N/A,,,,,,,,,,,,(780) 349-3600,,,,,,,,,,,,,,,,,,,,,10247 104 St,,,WESTLOCK,,,AB,,T7P 1V4,Canada,54.155929,-113.851654,,True
+SPRUCE VIEW MANOR,,,,,,N/A,,,,,,,,,,,,(780) 939-3212,,,,,,,,,,,,,,,,,,,,,4539 49 St,,,GIBBONS,,,AB,,T0A 1N0,Canada,53.8237445,-113.3298447,,True
+HERITAGE PLACE LODGE,,,,,,N/A,,,,,,,,,,,,(780) 939-3212,,,,,,,,,,,,,,,,,,,,,10015 101 Ave,,,MORINVILLE,,,AB,,T8R 1M3,Canada,53.803341,-113.646004,,True
+DIAMOND SPRING LODGE,,,,,,N/A,,,,,,,,,,,,(780) 349-4123,,,,,,,,,,,,,,,,,,,,,4619 52 Ave,,,REDWATER,,,AB,,T0A 2W0,Canada,53.9537266,-113.108185,,True
+CHATEAU MISSION,,,,,,N/A,,,,,,,,,,,,(780) 458-7445,,,,,,,,,,,,,,,,,,,,,34 Mission Ave,,,ST. ALBERT,,,AB,,T8N 1H8,Canada,53.6352287,-113.6287564,,True
+CHATEAU STURGEON,,,,,,N/A,,,,,,,,,,,,(780) 349-4123,,,,,,,,,,,,,,,,,,,,,5320 46 St,,,LEGAL,,,AB,,T0G 1L0,Canada,53.9520629,-113.5889734,,True
+SMITHFIELD LODGE,,,,,,N/A,,,,,,,,,,,,(780) 349-4123,,,,,,,,,,,,,,,,,,,,,10203 97 St,,,WESTLOCK,,,AB,,T7P 2H1,Canada,54.1490867,-113.8530342,,True
+HEIMSTAED SENIORS LODGE,,,,,,N/A,,,,,,,,,,,,(780) 928-4348,,,,,,,,,,,,,,,,,,,,,9806 105 St,,,LA CRETE,,,AB,,T0H 2H0,Canada,58.1843992,-116.4178484,,True
+HARMONY CARE HOMES RD LTD.,,,,,,N/A,,,,,,,,,,,,(403) 506-6753,,,,,,,,,,,,,,,,,,,,,200 Inglewood Dr,,,RED DEER,,,AB,,T4R 3K9,Canada,52.233203,-113.784404,Inglewood West,True
+PRINCE OF PEACE HARBOUR,,,,,,N/A,,,,,,,,,,,,(403) 285-5080,,,,,,,,,,,,,,,,,,,,,243205 Garden Rd NE,,,CALGARY,,,AB,,T1X 1M9,Canada,51.062909,-113.889479,,True
+PRINCE OF PEACE MANOR,,,,,,N/A,,,,,,,,,,,,(403) 285-5080,,,,,,,,,,,,,,,,,,,,,285030 Luther Rose Blvd,,,CALGARY,,,AB,,T1X 1M9,Canada,51.062163,-113.892144,,True
+CHAMPION CENTRE,,,,,,N/A,,,,,,,,,,,,(403) 504-0342,,,,,,,,,,,,,,,,,,,,,435 North Railway St SE,,,MEDICINE HAT,,,AB,,T1A 2Z3,Canada,50.0394888,-110.6707126,,True
+THE HAMLETS AT DEER PARK RESIDENCE INC.,,,,,,N/A,,,,,,,,,,,,(403) 309-6333,,,,,,,,,,,,,,,,,,,,,6 Daykin St,,,RED DEER,,,AB,,T4R 3P9,Canada,52.2624358,-113.7465675,Deer Park Northeast,True
+RIVER RIDGE SENIORS VILLAGE,,,,,,N/A,,,,,,,,,,,,(403) 526-8338,,,,,,,,,,,,,,,,,,,,,4 River Ridge Dr NW,,,MEDICINE HAT,,,AB,,T1A 8V1,Canada,50.045702,-110.716376,Riverside,True
+RIVER RIDGE SENIORS VILLAGE,,,,,,N/A,,,,,,,,,,,,(403) 526-8338,,,,,,,,,,,,,,,,,,,,,4 River Ridge Dr NW,,,MEDICINE HAT,,,AB,,T1A 8V1,Canada,50.045702,-110.716376,Riverside,True
+ROBIN HOOD ASSOCIATION RESIDENCE #50,,,,,,(780) 449-2028,,,,,,,,,,,,(780) 467-7140,,,,,,,,,,,,,,,,,,,,,49 Starling Dr,,,SHERWOOD PARK,,,AB,,T8A 0A6,Canada,53.5263929,-113.2834571,,True
+MONTEREY SENIORS VILLAGE,,,,,,N/A,,,,,,,,,,,,(403) 568-3102,,,,,,,,,,,,,,,,,,,,,4288 Catalina Blvd NE,,,CALGARY,,,AB,,T1Y 7J5,Canada,51.0914661,-113.9343748,Northeast Calgary,True
+MILLRISE SENIORS VILLAGE,,,,,,N/A,,,,,,,,,,,,(403) 451-5142,,,,,,,,,,,,,,,,,,,,,14911 5 St SW,,,CALGARY,,,AB,,T2Y 5B9,Canada,50.9191781,-114.0734501,Southwest Calgary,True
+MILLRISE SENIORS VILLAGE,,,,,,N/A,,,,,,,,,,,,(403) 451-5142,,,,,,,,,,,,,,,,,,,,,14911 5 St SW,,,CALGARY,,,AB,,T2Y 5B9,Canada,50.9191781,-114.0734501,Southwest Calgary,True
+J.B. WOOD CONTINUING CARE CENTRE,,,,,,N/A,,,,,,,,,,,,(780) 324-3750,,,,,,,,,,,,,,,,,,,,,5101 38 St,,,HIGH PRAIRIE,,,AB,,T0G 1G0,Canada,55.4277342,-116.4536592,,True
+J.B. WOOD CONTINUING CARE CENTRE,,,,,,N/A,,,,,,,,,,,,(780) 324-3750,,,,,,,,,,,,,,,,,,,,,5101 38 St,,,HIGH PRAIRIE,,,AB,,T0G 1G0,Canada,55.4277342,-116.4536592,,True
+PARKLAND LODGE,,,,,,N/A,,,,,,,,,,,,(780) 723-3522,,,,,,,,,,,,,,,,,,,,,4716 5 Ave,,,EDSON,,,AB,,T7E 1S8,Canada,53.58643,-116.426981,,True
+ST. TERESA PLACE,,,,,,N/A,,,,,,,,,,,,(587) 619-7116,,,,,,,,,,,,,,,,,,,,,10 Redstone Pl,,,CALGARY,,,AB,,T3N 0S7,Canada,51.1740822,-113.9612875,Northeast Calgary,True
+ASPEN VILLAGE - RESIDENCE 42 - ROBIN HOOD ASSOCIATION,,,,,,N/A,,,,,,,,,,,,(780) 570-5566,,,,,,,,,,,,,,,,,,,,,922 Bison Way,,,SHERWOOD PARK,,,AB,,T8H 0M8,Canada,53.5502901,-113.301897,,True
+ASPEN VILLAGE - RESIDENCE 45 - ROBIN HOOD ASSOCIATION,,,,,,N/A,,,,,,,,,,,,(780) 570-5566,,,,,,,,,,,,,,,,,,,,,922 Bison Way,,,SHERWOOD PARK,,,AB,,T8H 0M8,Canada,53.5502901,-113.301897,,True
+ASPEN VILLAGE - RESIDENCE 46 - ROBIN HOOD ASSOCIATION,,,,,,N/A,,,,,,,,,,,,(780) 570-5566,,,,,,,,,,,,,,,,,,,,,922 Bison Way,,,SHERWOOD PARK,,,AB,,T8H 0M8,Canada,53.5502901,-113.301897,,True
+ASPEN VILLAGE - RESIDENCE 41 - ROBIN HOOD ASSOCIATION,,,,,,N/A,,,,,,,,,,,,(780) 570-5566,,,,,,,,,,,,,,,,,,,,,922 Bison Way,,,SHERWOOD PARK,,,AB,,T8H 0M8,Canada,53.5502901,-113.301897,,True
+CENTURY PARK LODGE,,,,,,N/A,,,,,,,,,,,,(403) 828-2006,,,,,,,,,,,,,,,,,,,,,4613 50 St,,,VEGREVILLE,,,AB,,T9C 0A1,Canada,53.4922858,-112.0547939,,True
+MICHENER SERVICES,,,,,,N/A,,,,,,,,,,,,(403) 340-5735,,,,,,,,,,,,,,,,,,,,,12 Michener Rd,East 3,,RED DEER,,,AB,,T4R 0J9,Canada,52.2707438,-113.7866404,Michener Hill,True
+SEASONS LETHBRIDGE GARDENS,,,,,,N/A,,,,,,,,,,,,(403) 317-3024,,,,,,,,,,,,,,,,,,,,,2641 Garry Dr W,,,LETHBRIDGE,,,AB,,T1J 5A3,Canada,49.691159,-112.8986805,West Lethbridge,True
+TIMBERSTONE MEWS,,,,,,N/A,,,,,,,,,,,,(780) 431-5192,,,,,,,,,,,,,,,,,,,,,42 Timberstone Way,,,RED DEER,,,AB,,T4P 0E5,Canada,52.2749983,-113.7558624,Timberstone Park,True
+PEACE RIVER 1 RESIDENCE - ACCREDITED SUPPORTIVE LIVING SERVICES LIMITED,,,,,,N/A,,,,,,,,,,,,(780) 618-6311,,,,,,,,,,,,,,,,,,,,,9702 89 Ave,,,PEACE RIVER,,,AB,,T8S 1R7,Canada,56.24471,-117.295644,,True
+S.P.A.N. ST. PAUL ABILITIES NETWORK (SOCIETY),,,,,,N/A,,,,,,,,,,,,(780) 646-9185,,,,,,,,,,,,,,,,,,,,,4801 46 St,,,ST. PAUL,,,AB,,T0A 3A3,Canada,53.9895784,-111.2872554,,True
+PIONEER HOUSE,,,,,,N/A,,,,,,,,,,,,(780) 875-0061,,,,,,,,,,,,,,,,,,,,,5725 51 St,,,LLOYDMINSTER,,,AB,,T9V 0R5,Canada,53.2841522,-110.0230061,,True
+ROBIN HOOD RESIDENCE 23,,,,,,(780) 449-2028,,,,,,,,,,,,(780) 467-7140,,,,,,,,,,,,,,,,,,,,,3 130 Crystal Ln,,,SHERWOOD PARK,,,AB,,T8H 1S2,Canada,53.54784,-113.294658,,True
+LAKEVIEW,,,,,,N/A,,,,,,,,,,,,(780) 539-1451,,,,,,,,,,,,,,,,,,,,,9432 113 Ave,,,CLAIRMONT,,,AB,,T0H 0W3,Canada,56.2589184,-120.84434,,True
+FOREST RIDGE PLACE,,,,,,(780) 963-0923,,,,,,,,,,,,(780) 963-2149,,,,,,,,,,,,,,,,,,,,,5303 47 St,,,STONY PLAIN,,,AB,,T7Z 1P1,Canada,53.527045,-113.999182,,True
+D.A.R.T.S. UNIT 2,,,,,,N/A,,,,,,,,,,,,(403) 823-2638,,,,,,,,,,,,,,,,,,,,,910 Newcastle Trl,,,DRUMHELLER,,,AB,,T0J 0Y2,Canada,51.46362,-112.725408,,True
+ACCESS SENIOR LIVING,,,,,,N/A,,,,,,,,,,,,(780) 952-9065,,,,,,,,,,,,,,,,,,,,,2148 27 St NW,,,EDMONTON,,,AB,,T6T 0Y5,Canada,53.5901428,-113.3843132,Northeast Edmonton,True
+I HAVE A CHANCE SUPPORT SERVICES LTD. RES #10,,,,,,(780) 962-8668,,,,,,,,,,,,(780) 962-0433,,,,,,,,,,,,,,,,,,,,,25 Glenhall Cr,,,STONY PLAIN,,,AB,,T7Z 1A9,Canada,53.5212826,-114.0040722,,True
+CATHOLIC SOCIAL SERVICES,,,,,,N/A,,,,,,,,,,,,(780) 701-9473,,,,,,,,,,,,,,,,,,,,,8815 99th St,,,EDMONTON,,,AB,,T6E 3V3,Canada,53.524238,-113.48568,South Central Edmonton,True
+THE MEADOWLANDS RETIREMENT RESIDENCE,,,,,,N/A,,,,,,,,,,,,(403) 504-5123,,,,,,,,,,,,,,,,,,,,,223 Park Meadows Dr SE,,,MEDICINE HAT,,,AB,,T1B 4K7,Canada,50.0068752,-110.6512365,,True
+EDMONTON PEOPLE IN NEED SHELTER SOCIETY,,,,,,(780) 426-3002,,,,,,,,,,,,(780) 424-6733,,,,,,,,,,,,,,,,,,,,,9518 102A Ave,,,EDMONTON,,,AB,,T5H 0G1,Canada,53.5461794,-113.4803693,North Central Edmonton,True
+FRIENDSHIP CORNER RESIDENCE,,,,,,N/A,,,,,,,,,,,,(780) 837-2007,,,,,,,,,,,,,,,,,,,,,220 2 St SE,,,FALHER,,,AB,,T0H 1M0,Canada,55.7347846,-117.1951829,,True
+HYTHE & DISTRICT PIONEER HOME,,,,,,N/A,,,,,,,,,,,,(780) 356-3077,,,,,,,,,,,,,,,,,,,,,10404 100 St,,,HYTHE,,,AB,,T0H 2C0,Canada,55.327765,-119.5521073,,True
+NORTHERN LIGHTS RANCH,,,,,,N/A,,,,,,,,,,,,(780) 978-1616,,,,,,,,,,,,,,,,,,,,,Box 552,,,HYTHE,,,AB,,T0H 2C0,Canada,55.209563,-119.428602,,True
+RIDGEVALLEY HOME,,,,,,N/A,,,,,,,,,,,,(780) 957-2372,,,,,,,,,,,,,,,,,,,,,RR 1,,,CROOKED CREEK,,,AB,,T0H 0Y0,Canada,55.166667,-117.866667,,True
+83RD AVENUE GROUP HOME #1,,,,,,N/A,,,,,,,,,,,,(780) 532-8436,,,,,,,,,,,,,,,,,,,,,10501 83 Ave,,,GRANDE PRAIRIE,,,AB,,T8W 2A4,Canada,55.1545779,-118.8133669,Mission Heights,True
+83RD AVENUE GROUP HOME #2,,,,,,N/A,,,,,,,,,,,,(780) 532-8436,,,,,,,,,,,,,,,,,,,,,10503 83 Ave,,,GRANDE PRAIRIE,,,AB,,T8W 2A4,Canada,55.1545949,-118.8134127,Mission Heights,True
+101 AVENUE RESIDENCE #1,,,,,,N/A,,,,,,,,,,,,(780) 532-8436,,,,,,,,,,,,,,,,,,,,,9036 101 Ave,,,GRANDE PRAIRIE,,,AB,,T8X 1G9,Canada,55.171614,-118.764609,Ivy Lake Estates,True
+107TH AVENUE RESIDENCE,,,,,,N/A,,,,,,,,,,,,(780) 532-8436,,,,,,,,,,,,,,,,,,,,,10324 107 Ave,,,GRANDE PRAIRIE,,,AB,,T8V 1M5,Canada,55.1773546,-118.8067948,South Avondale,True
+109 AVENUE RESIDENCE (HILLSIDE HOUSE),,,,,,N/A,,,,,,,,,,,,(780) 532-8436,,,,,,,,,,,,,,,,,,,,,9320 109 Ave,,,GRANDE PRAIRIE,,,AB,,T8V 1R1,Canada,55.17857,-118.775905,Mountview,True
+101 AVENUE RESIDENCE #2,,,,,,N/A,,,,,,,,,,,,(780) 532-8436,,,,,,,,,,,,,,,,,,,,,9038 101 Ave,,,GRANDE PRAIRIE,,,AB,,T8X 1G9,Canada,55.171614,-118.764767,Ivy Lake Estates,True
+90 AVENUE RESIDENCE,,,,,,N/A,,,,,,,,,,,,(780) 532-8436,,,,,,,,,,,,,,,,,,,,,9927 90 Ave,,,GRANDE PRAIRIE,,,AB,,T8V 0E6,Canada,55.1609772,-118.7918732,Highland Park,True
+HOME #3,,,,,,N/A,,,,,,,,,,,,(780) 645-6806,,,,,,,,,,,,,,,,,,,,,4606 47 St,,,ST. PAUL,,,AB,,T0A 3A0,Canada,53.987601,-111.289391,,True
+HOME #2,,,,,,N/A,,,,,,,,,,,,(780) 645-4366,,,,,,,,,,,,,,,,,,,,,5014/5016 54 Ave,,,ST. PAUL,,,AB,,T0A 3A1,Canada,53.995555,-111.297153,,True
+WHITE OAKS,,,,,,N/A,,,,,,,,,,,,(780) 645-2936,,,,,,,,,,,,,,,,,,,,,4617 42 St,,,ST. PAUL,,,AB,,T0A 3A2,Canada,53.988581,-111.272919,,True
+HOME #8,,,,,,N/A,,,,,,,,,,,,(780) 645-4245,,,,,,,,,,,,,,,,,,,,,4526 46 Ave,,,ST. PAUL,,,AB,,T0A 3A3,Canada,53.987617,-111.28459,,True
+RESIDENTIAL AND SUPPORT SERVICES - GLENWOOD,,,,,,(780) 422-1315,,,,,,,,,,,,(780) 422-1154,,,,,,,,,,,,,,,,,,,,,9739 157 St,,,EDMONTON,,,AB,,T5T 2P4,Canada,53.5357133,-113.5917613,West Edmonton,True
+RESIDENTIAL AND SUPPORT SERVICES - WOODVALE,,,,,,(780) 415-0092,,,,,,,,,,,,(780) 422-1584,,,,,,,,,,,,,,,,,,,,,6346 34A Ave,,,EDMONTON,,,AB,,T6L 1E4,Canada,53.4670651,-113.433239,Southeast Edmonton,True
+WINNIFRED STEWART ASSOCIATION RESIDENCE #1,,,,,,(780) 453-6709,,,,,,,,,,,,(780) 453-6707,,,,,,,,,,,,,,,,,,,,,11145 132 St,,,EDMONTON,,,AB,,T5M 1E6,Canada,53.559966,-113.548979,Northwest Edmonton,True
+COMMUNITY LIVING SUPPORT SERVICES,,,,,,(780) 964-5595,,,,,,,,,,,,(780) 454-9581,,,,,,,,,,,,,,,,,,,,,13035 102 St,,,EDMONTON,,,AB,,T5E 2J6,Canada,53.590483,-113.495218,Northwest Edmonton,True
+CAVANAGH HOME,,,,,,N/A,,,,,,,,,,,,(780) 968-8476,,,,,,,,,,,,,,,,,,,,,27 Cavanagh Cr,,,STONY PLAIN,,,AB,,T7Z 1G3,Canada,53.529349,-113.991261,,True
+"ASSOCIATION SUPPORTING CHOICES OF PEOPLE, EDSON (SCOPE)",,,,,,N/A,,,,,,,,,,,,(780) 723-6100,,,,,,,,,,,,,,,,,,,,,4926 17 Ave,,,EDSON,,,AB,,T7E 1G4,Canada,53.593187,-116.437899,,True
+GOOD SAMARITAN GROUP HOME #2 (ERMINESKIN),,,,,,(780) 431-3795,,,,,,,,,,,,(780) 431-3738,,,,,,,,,,,,,,,,,,,,,8861 75 St,,,EDMONTON,,,AB,,T6C 4G8,Canada,53.5239871,-113.4421178,Northeast Edmonton,True
+GOOD SAMARITAN GROUP HOME #4 (DUGGAN),,,,,,(780) 431-3795,,,,,,,,,,,,(780) 431-3738,,,,,,,,,,,,,,,,,,,,,8861 75 St,,,EDMONTON,,,AB,,T6C 4G8,Canada,53.5239871,-113.4421178,Northeast Edmonton,True
+EVERGLADES SPECIAL CARE LODGE,,,,,,(780) 968-8867,,,,,,,,,,,,(780) 968-8804,,,,,,,,,,,,,,,,,,,,,NW 1/4-13-53-2-W5,,,PARKLAND COUNTY,,,AB,,T7Y 0C5,Canada,53.5647428,-114.7320093,,True
+CATHOLIC SOCIAL SERVICES,,,,,,N/A,,,,,,,,,,,,(780) 701-9474,,,,,,,,,,,,,,,,,,,,,8815 99th St,,,EDMONTON,,,AB,,T6E 3V3,Canada,53.524238,-113.48568,South Central Edmonton,True
+GOOD SAMARITAN GROUP HOME #7 (PRIMROSE),,,,,,(780) 431-3795,,,,,,,,,,,,(780) 431-3738,,,,,,,,,,,,,,,,,,,,,8861 75 St,,,EDMONTON,,,AB,,T6C 4G8,Canada,53.5239871,-113.4421178,Northeast Edmonton,True
+EASTER SEALS MCQUEEN RESIDENCE,,,,,,N/A,,,,,,,,,,,,(780) 455-1050,,,,,,,,,,,,,,,,,,,,,14407 McQueen Rd,,,EDMONTON,,,AB,,T5N 3L3,Canada,53.552734,-113.570514,West Edmonton,True
+GOOD SAMARITAN GROUP HOME #6 (ROYAL GARDENS),,,,,,(780) 431-3795,,,,,,,,,,,,(780) 431-3738,,,,,,,,,,,,,,,,,,,,,8861 75 St,,,EDMONTON,,,AB,,T6C 4G8,Canada,53.5239871,-113.4421178,Northeast Edmonton,True
+CATHOLIC SOCIAL SERVICES,,,,,,N/A,,,,,,,,,,,,(780) 701-9478,,,,,,,,,,,,,,,,,,,,,8815 99th St,,,EDMONTON,,,AB,,T6E 3V3,Canada,53.524238,-113.48568,South Central Edmonton,True
+WINNIFRED STEWART ASSOCIATION RESIDENCE #2,,,,,,(780) 453-6709,,,,,,,,,,,,(780) 453-6707,,,,,,,,,,,,,,,,,,,,,11137 132 St,,,EDMONTON,,,AB,,T5M 1E6,Canada,53.5603089,-113.549115,Northwest Edmonton,True
+RESIDENTIAL AND SUPPORT SERVICES - JASPER PARK,,,,,,(780) 422-1572,,,,,,,,,,,,(780) 422-1514,,,,,,,,,,,,,,,,,,,,,9031 151 St,,,EDMONTON,,,AB,,T5R 1J4,Canada,53.5240878,-113.5811232,West Edmonton,True
+MENTAL HEALTH SERVICES - LADEEN JOHNSON,,,,,,N/A,,,,,,,,,,,,(780) 457-9076,,,,,,,,,,,,,,,,,,,,,3411 138 Ave,,,EDMONTON,,,AB,,T5Y 1Y5,Canada,53.6000742,-113.394006,Northeast Edmonton,True
+RESIDENTIAL AND SUPPORT SERVICES - KING EDWARD PARK,,,,,,(780) 422-3475,,,,,,,,,,,,(780) 422-1475,,,,,,,,,,,,,,,,,,,,,7127 79 Ave,,,EDMONTON,,,AB,,T6B 0C2,Canada,53.5149063,-113.4384271,Southeast Edmonton,True
+RESIDENTIAL AND SUPPORT SERVICES - BEVERLY,,,,,,(780) 422-1089,,,,,,,,,,,,(780) 422-1084,,,,,,,,,,,,,,,,,,,,,3641 112 Ave,,,EDMONTON,,,AB,,T5W 0M3,Canada,53.5648137,-113.3989619,Northeast Edmonton,True
+RESIDENTIAL AND SUPPORT SERVICES - MILLHURST,,,,,,(780) 422-1153,,,,,,,,,,,,(780) 422-1090,,,,,,,,,,,,,,,,,,,,,5110 19 Ave,,,EDMONTON,,,AB,,T6L 1T6,Canada,53.4503034,-113.4210768,Southeast Edmonton,True
+MENTAL HEALTH SERVICES - SHARON SETERA,,,,,,N/A,,,,,,,,,,,,(780) 476-6321,,,,,,,,,,,,,,,,,,,,,9220 128 Ave,,,EDMONTON,,,AB,,T5E 0H2,Canada,53.5862033,-113.4841938,Northeast Edmonton,True
+L'ARCHE ASSOCIATION - LA CRECHE,,,,,,N/A,,,,,,,,,,,,(780) 450-8077,,,,,,,,,,,,,,,,,,,,,8727 84 Ave,,,EDMONTON,,,AB,,T6C 1E1,Canada,53.519722,-113.462662,South Central Edmonton,True
+ROBIN HOOD RESIDENCE X,,,,,,(780) 449-2028,,,,,,,,,,,,(780) 467-7140,,,,,,,,,,,,,,,,,,,,,783 Alder Ave,,,SHERWOOD PARK,,,AB,,T8A 1V1,Canada,53.5141243,-113.3007985,,True
+L'ARCHE ASSOCIATION - SHALOM HOUSE,,,,,,N/A,,,,,,,,,,,,(780) 467-5701,,,,,,,,,,,,,,,,,,,,,20 Sandpiper Ct,,,SHERWOOD PARK,,,AB,,T8A 0C2,Canada,53.5256399,-113.2928723,,True
+ROBIN HOOD RESIDENCE VIII,,,,,,N/A,,,,,,,,,,,,(780) 467-7140,,,,,,,,,,,,,,,,,,,,,572 Sage Cr,,,SHERWOOD PARK,,,AB,,T8A 0N1,Canada,53.5180689,-113.29621,,True
+ROBIN HOOD RESIDENCES VI & VII,,,,,,N/A,,,,,,,,,,,,(780) 467-7140,,,,,,,,,,,,,,,,,,,,,21/23 Woodbine Ct,,,SHERWOOD PARK,,,AB,,T8A 4B1,Canada,53.528019,-113.323144,,True
+ROBIN HOOD RESIDENCE III,,,,,,N/A,,,,,,,,,,,,(780) 467-7140,,,,,,,,,,,,,,,,,,,,,36 Malvern Dr,,,SHERWOOD PARK,,,AB,,T8A 3W2,Canada,53.540232,-113.316873,,True
+ROBIN HOOD RESIDENCE II,,,,,,N/A,,,,,,,,,,,,(780) 467-7140,,,,,,,,,,,,,,,,,,,,,101 Pine St,,,SHERWOOD PARK,,,AB,,T8A 1G9,Canada,53.5205439,-113.2969943,,True
+VALLEY VIEW RESIDENCE,,,,,,N/A,,,,,,,,,,,,(780) 542-3113,,,,,,,,,,,,,,,,,,,,,4410 52 St,,,DRAYTON VALLEY,,,AB,,T7A 1L1,Canada,53.2161769,-114.9795155,,True
+UMBACH HOME,,,,,,N/A,,,,,,,,,,,,(780) 968-8476,,,,,,,,,,,,,,,,,,,,,67 Umbach Rd,,,STONY PLAIN,,,AB,,T7Z 1G1,Canada,53.530512,-113.988492,,True
+GOOD SAMARITAN GROUP HOME #1 (MEADOWLARK),,,,,,(780) 431-3795,,,,,,,,,,,,(780) 431-3738,,,,,,,,,,,,,,,,,,,,,8861 75 St,,,EDMONTON,,,AB,,T6C 4G8,Canada,53.5239871,-113.4421178,Northeast Edmonton,True
+RESIDENTIAL AND SUPPORT SERVICES - MCKERNAN,,,,,,(780) 415-0092,,,,,,,,,,,,(780) 422-1584,,,,,,,,,,,,,,,,,,,,,10920 74 Ave,,,EDMONTON,,,AB,,T6G 0E6,Canada,53.5105166,-113.5128149,Southwest Edmonton,True
+RESIDENTIAL AND SUPPORT SERVICES - CITYVIEW,,,,,,(780) 422-1153,,,,,,,,,,,,(780) 422-1090,,,,,,,,,,,,,,,,,,,,,12924 108 St,,,EDMONTON,,,AB,,T5E 4X3,Canada,53.5885846,-113.5068649,Lauderdale,True
+EDMONTON PEOPLE IN NEED SHELTER SOCIETY,,,,,,(780) 426-3002,,,,,,,,,,,,(780) 424-6733,,,,,,,,,,,,,,,,,,,,,10326 96 St,,,EDMONTON,,,AB,,T5H 2H3,Canada,53.546885,-113.483863,North Central Edmonton,True
+ROBIN HOOD RESIDENCE I,,,,,,N/A,,,,,,,,,,,,(780) 467-7140,,,,,,,,,,,,,,,,,,,,,1 Spruce Ave,,,SHERWOOD PARK,,,AB,,T8A 2B6,Canada,53.51729,-113.303038,,True
+RESIDENTIAL AND SUPPORT SERVICES - HOLYROOD,,,,,,(780) 422-3475,,,,,,,,,,,,(780) 422-1475,,,,,,,,,,,,,,,,,,,,,9654 79 St,,,EDMONTON,,,AB,,T6C 2R9,Canada,53.5355156,-113.4496401,Northeast Edmonton,True
+OUR PLACE,,,,,,N/A,,,,,,,,,,,,(780) 426-6466,,,,,,,,,,,,,,,,,,,,,9537 106 Ave,,,EDMONTON,,,AB,,T5H 0N3,Canada,53.5508118,-113.4837488,North Central Edmonton,True
+L'ARCHE ASSOCIATION - LITTLE FLOWER,,,,,,N/A,,,,,,,,,,,,(780) 464-1392,,,,,,,,,,,,,,,,,,,,,6 Sandpiper Ct,,,SHERWOOD PARK,,,AB,,T8A 0C2,Canada,53.525559,-113.2920368,,True
+EDMONTON PEOPLE IN NEED SHELTER SOCIETY,,,,,,(780) 426-3002,,,,,,,,,,,,(780) 424-6733,,,,,,,,,,,,,,,,,,,,,9536 103 Ave,,,EDMONTON,,,AB,,T5H 0G9,Canada,53.5469611,-113.4815913,North Central Edmonton,True
+CATHOLIC SOCIAL SERVICES,,,,,,N/A,,,,,,,,,,,,(780) 478-5885,,,,,,,,,,,,,,,,,,,,,8815 99 St,,,EDMONTON,,,AB,,T6E 3V3,Canada,53.524238,-113.48568,South Central Edmonton,True
+ROBIN HOOD RESIDENCE 24,,,,,,N/A,,,,,,,,,,,,(780) 467-7140,,,,,,,,,,,,,,,,,,,,,24 Deacon Dr,,,SHERWOOD PARK,,,AB,,T8H 1M8,Canada,53.549267,-113.268352,,True
+MEDI-HOME INDIVIDUALIZED SUPPORT SERVICES #1,,,,,,N/A,,,,,,,,,,,,(780) 903-3734,,,,,,,,,,,,,,,,,,,,,13632 24 St,,,EDMONTON,,,AB,,T5A 3V2,Canada,53.5994525,-113.379689,Northeast Edmonton,True
+GOOD SAMARITAN GROUP HOME (THE LIGHTHOUSE),,,,,,(780) 431-3795,,,,,,,,,,,,(780) 431-3738,,,,,,,,,,,,,,,,,,,,,8861 75 St,,,EDMONTON,,,AB,,T6C 4G8,Canada,53.5239871,-113.4421178,Northeast Edmonton,True
+GOOD SAMARITAN GROUP HOME #8 (DUNVEGAN),,,,,,(780) 431-3795,,,,,,,,,,,,(780) 431-3738,,,,,,,,,,,,,,,,,,,,,8861 75 St,,,EDMONTON,,,AB,,T6C 4G8,Canada,53.5239871,-113.4421178,Northeast Edmonton,True
+GOOD SAMARITAN GROUP HOME (CASTLEPARK),,,,,,(780) 431-3795,,,,,,,,,,,,(780) 431-3738,,,,,,,,,,,,,,,,,,,,,8861 75 St,,,EDMONTON,,,AB,,T6C 4G8,Canada,53.5239871,-113.4421178,Northeast Edmonton,True
+GOOD SAMARITAN GROUP HOME (JACKSON HEIGHTS),,,,,,(780) 431-3795,,,,,,,,,,,,(780) 431-3738,,,,,,,,,,,,,,,,,,,,,8861 75 St,,,EDMONTON,,,AB,,T6C 4G8,Canada,53.5239871,-113.4421178,Northeast Edmonton,True
+ROBIN HOOD ASSOCIATION RESIDENCE 17,,,,,,(780) 449-2028,,,,,,,,,,,,(780) 467-7140,,,,,,,,,,,,,,,,,,,,,413 Evergreen St,,,SHERWOOD PARK,,,AB,,T8A 1K2,Canada,53.5203911,-113.305442,,True
+WINNIFRED STEWART ASSOCIATION RESIDENCE #9,,,,,,(780) 453-6709,,,,,,,,,,,,(780) 453-6707,,,,,,,,,,,,,,,,,,,,,8723 185 St,,,EDMONTON,,,AB,,T5T 1W4,Canada,53.5224819,-113.642733,West Edmonton,True
+GOOD SAMARITAN SOCIETY (THE MEADOWS),,,,,,(780) 431-3795,,,,,,,,,,,,(780) 431-3738,,,,,,,,,,,,,,,,,,,,,8861 75 St,,,EDMONTON,,,AB,,T6C 4G8,Canada,53.5239871,-113.4421178,Northeast Edmonton,True
+GOOD SAMARITAN SOCIETY (MEADOWBROOK),,,,,,(780) 431-3795,,,,,,,,,,,,(780) 431-3738,,,,,,,,,,,,,,,,,,,,,8861 75 St,,,EDMONTON,,,AB,,T6C 4G8,Canada,53.5239871,-113.4421178,Northeast Edmonton,True
+GOOD SAMARITAN SOCIETY (FOUNTAIN LAKE),,,,,,(780) 431-3795,,,,,,,,,,,,(780) 431-3738,,,,,,,,,,,,,,,,,,,,,8861 75 St,,,EDMONTON,,,AB,,T6C 4G8,Canada,53.5239871,-113.4421178,Northeast Edmonton,True
+HOPE COTTAGE LTD.,,,,,,N/A,,,,,,,,,,,,(780) 431-0434,,,,,,,,,,,,,,,,,,,,,7428 182 St,,,EDMONTON,,,AB,,T5T 2G7,Canada,53.5081403,-113.637712,West Edmonton,True
+CATHOLIC SOCIAL SERVICES,,,,,,N/A,,,,,,,,,,,,(780) 701-9474,,,,,,,,,,,,,,,,,,,,,8815 99th St,,,EDMONTON,,,AB,,T6E 3V3,Canada,53.524238,-113.48568,South Central Edmonton,True
+EXCEL RESOURCES SOCIETY - HOUSE #5,,,,,,(780) 455-2589,,,,,,,,,,,,(780) 414-4718,,,,,,,,,,,,,,,,,,,,,9797 110 St NW,Suite 500,,EDMONTON,,,AB,,T5K 2L9,Canada,53.5360499,-113.5098991,North Central Edmonton,True
+EXCEL RESOURCES SOCIETY - HOUSE #7,,,,,,(780) 455-2589,,,,,,,,,,,,(780) 414-4718,,,,,,,,,,,,,,,,,,,,,9797 110 St NW,Suite 500,,EDMONTON,,,AB,,T5K 2L9,Canada,53.5360499,-113.5098991,North Central Edmonton,True
+MEDI-HOME INDIVIDUALIZED SUPPORT - HOUSE #3,,,,,,N/A,,,,,,,,,,,,(780) 903-3734,,,,,,,,,,,,,,,,,,,,,12121 42 St,,,EDMONTON,,,AB,,T5W 2N8,Canada,53.575956,-113.405526,Northeast Edmonton,True
+EXCEL RESOURCES SOCIETY - RESIDENCE #44 (NORWOOD),,,,,,N/A,,,,,,,,,,,,(780) 414-0348,,,,,,,,,,,,,,,,,,,,,11608 97 St,,,EDMONTON,,,AB,,T5G 1X9,Canada,53.5676371,-113.4922714,North Central Edmonton,True
+EXCEL RESOURCES SOCIETY - HOUSE #3,,,,,,(780) 455-2589,,,,,,,,,,,,(780) 414-4718,,,,,,,,,,,,,,,,,,,,,9797 110 St NW,Suite 500,,EDMONTON,,,AB,,T5K 2L9,Canada,53.5360499,-113.5098991,North Central Edmonton,True
+IN AND OUT HOME CARE REHABILITATION LTD. HOUSE #1,,,,,,(780) 984-8122,,,,,,,,,,,,(780) 997-0913,,,,,,,,,,,,,,,,,,,,,13804 26 St,,,EDMONTON,,,AB,,T5Y 1B4,Canada,53.600283,-113.382765,Northeast Edmonton,True
+IN AND OUT HOME CARE REHABILITATION LTD. HOUSE #4,,,,,,(780) 984-8122,,,,,,,,,,,,(780) 997-0913,,,,,,,,,,,,,,,,,,,,,4901 55 Ave,,,STONY PLAIN,,,AB,,T7Z 1B5,Canada,53.5244493,-114.0041592,,True
+EXCEL RESOURCES SOCIETY - HOUSE #4,,,,,,(780) 455-2589,,,,,,,,,,,,(780) 414-4718,,,,,,,,,,,,,,,,,,,,,9797 110 St NW,Suite 500,,EDMONTON,,,AB,,T5K 2L9,Canada,53.5360499,-113.5098991,North Central Edmonton,True
+EXCEL RESOURCES SOCIETY - HOUSE #20,,,,,,(780) 455-2589,,,,,,,,,,,,(780) 414-4718,,,,,,,,,,,,,,,,,,,,,9797 110 St NW,Suite 500,,EDMONTON,,,AB,,T5K 2L9,Canada,53.5360499,-113.5098991,North Central Edmonton,True
+CATHOLIC SOCIAL SERVICES,,,,,,N/A,,,,,,,,,,,,(780) 701-9474,,,,,,,,,,,,,,,,,,,,,8815 99th St,,,EDMONTON,,,AB,,T6E 3V3,Canada,53.524238,-113.48568,South Central Edmonton,True
+MEADOW'S PLACE,,,,,,N/A,,,,,,,,,,,,(780) 425-7927,,,,,,,,,,,,,,,,,,,,,10956 92 St,,,EDMONTON,,,AB,,T5H 1W3,Canada,53.558498,-113.482348,McCauley,True
+CATHOLIC SOCIAL SERVICES,,,,,,N/A,,,,,,,,,,,,(780) 701-9479,,,,,,,,,,,,,,,,,,,,,8815 99th St,,,EDMONTON,,,AB,,T6E 3V3,Canada,53.524238,-113.48568,South Central Edmonton,True
+EXCEL RESOURCES SOCIETY - HOUSE #15,,,,,,(780) 455-2589,,,,,,,,,,,,(780) 414-4718,,,,,,,,,,,,,,,,,,,,,9797 110 St NW,Suite 500,,EDMONTON,,,AB,,T5K 2L9,Canada,53.5360499,-113.5098991,North Central Edmonton,True
+EXCEL RESOURCES SOCIETY - HOUSE #17,,,,,,(780) 455-2589,,,,,,,,,,,,(780) 414-4718,,,,,,,,,,,,,,,,,,,,,9797 110 St NW,Suite 500,,EDMONTON,,,AB,,T5K 2L9,Canada,53.5360499,-113.5098991,North Central Edmonton,True
+ROBIN HOOD RESIDENCE #26,,,,,,N/A,,,,,,,,,,,,(780) 467-7140,,,,,,,,,,,,,,,,,,,,,300 Davenport Dr,,,SHERWOOD PARK,,,AB,,T8A 1W8,Canada,53.5549909,-113.2643361,,True
+CATHOLIC SOCIAL SERVICES,,,,,,N/A,,,,,,,,,,,,(780) 701-9473,,,,,,,,,,,,,,,,,,,,,8815 99th St,,,EDMONTON,,,AB,,T6E 3V3,Canada,53.524238,-113.48568,South Central Edmonton,True
+EXCEL RESOURCES SOCIETY - HOUSE #22,,,,,,(780) 455-2589,,,,,,,,,,,,(780) 414-4718,,,,,,,,,,,,,,,,,,,,,9797 110 St NW,Suite 500,,EDMONTON,,,AB,,T5K 2L9,Canada,53.5360499,-113.5098991,North Central Edmonton,True
+HOPE COTTAGE INC. - RESIDENCE #1,,,,,,N/A,,,,,,,,,,,,(780) 463-0277,,,,,,,,,,,,,,,,,,,,,3931 30 St,,,EDMONTON,,,AB,,T6T 1K4,Canada,53.475655,-113.385921,Southeast Edmonton,True
+EXCEL RESOURCES SOCIETY - HOUSE #19,,,,,,(780) 455-2589,,,,,,,,,,,,(780) 414-4718,,,,,,,,,,,,,,,,,,,,,9797 110 St NW,Suite 500,,EDMONTON,,,AB,,T5K 2L9,Canada,53.5360499,-113.5098991,North Central Edmonton,True
+EXCEL RESOURCES SOCIETY - HOUSE #18,,,,,,(780) 455-2589,,,,,,,,,,,,(780) 414-4718,,,,,,,,,,,,,,,,,,,,,9797 110 St NW,Suite 500,,EDMONTON,,,AB,,T5K 2L9,Canada,53.5360499,-113.5098991,North Central Edmonton,True
+EXCEL SOCIETY - RESIDENCE #45 (FOUNTAIN LAKE),,,,,,N/A,,,,,,,,,,,,(780) 455-2601,,,,,,,,,,,,,,,,,,,,,2803 39 Ave,,,EDMONTON,,,AB,,T6T 1L1,Canada,53.4758489,-113.3824314,Southeast Edmonton,True
+COMMUNITY CARE COTTAGES INC.,,,,,,(780) 249-9065,,,,,,,,,,,,(780) 996-9463,,,,,,,,,,,,,,,,,,,,,11528 9 Ave NW,,,EDMONTON,,,AB,,T6J 6T9,Canada,53.4382959,-113.5320299,Southwest Edmonton,True
+ROBIN HOOD RESIDENCE #25,,,,,,N/A,,,,,,,,,,,,(780) 467-7140,,,,,,,,,,,,,,,,,,,,,35 Ivy Cr,,,SHERWOOD PARK,,,AB,,T8A 1W3,Canada,53.513003,-113.296848,,True
+EXCEL RESOURCES SOCIETY - HOUSE #23,,,,,,(780) 455-2589,,,,,,,,,,,,(780) 414-4718,,,,,,,,,,,,,,,,,,,,,9797 110 St NW,Suite 500,,EDMONTON,,,AB,,T5K 2L9,Canada,53.5360499,-113.5098991,North Central Edmonton,True
+FIVE GABLES,,,,,,N/A,,,,,,,,,,,,(780) 968-8476,,,,,,,,,,,,,,,,,,,,,9905 152 St NW,,,EDMONTON,,,AB,,T5P 1X4,Canada,53.5380421,-113.5830174,West Edmonton,True
+"ASSOCIATION SUPPORTING CHOICES OF PEOPLE, EDSON #2 (SCOPE)",,,,,,N/A,,,,,,,,,,,,(780) 723-6100,,,,,,,,,,,,,,,,,,,,,724 48 St,,,EDSON,,,AB,,T7E 1K8,Canada,53.588,-116.430679,,True
+IN AND OUT HOME CARE REHABILITATION LTD. HOUSE #2,,,,,,(780) 984-8122,,,,,,,,,,,,(780) 997-0913,,,,,,,,,,,,,,,,,,,,,147 Blackburn Dr,,,EDMONTON,,,AB,,T6W 1B7,Canada,53.4306588,-113.5005722,Southwest Edmonton,True
+WINNIFRED STEWART ASSOCIATION RESIDENCE #4,,,,,,(780) 453-6709,,,,,,,,,,,,(780) 453-6707,,,,,,,,,,,,,,,,,,,,,12252 St Albert Trl,,,EDMONTON,,,AB,,T5L 4G6,Canada,53.6117643,-113.5915959,Northwest Edmonton,True
+L'ARCHE NOAH HOUSE,,,,,,N/A,,,,,,,,,,,,(780) 469-7858,,,,,,,,,,,,,,,,,,,,,8308 89 St,,,EDMONTON,,,AB,,T6C 3K2,Canada,53.5193431,-113.464658,South Central Edmonton,True
+ADVANCE SOCIETY INNISFAIL: SUPPORT FOR DEVELOPMENTALLY DISABLED,,,,,,N/A,,,,,,,,,,,,(403) 227-3747,,,,,,,,,,,,,,,,,,,,,4404 49 Ave,,,INNISFAIL,,,AB,,T4G 1M7,Canada,52.0220824,-113.9469446,,True
+BANKVIEW RESIDENCE,,,,,,N/A,,,,,,,,,,,,(403) 823-2788,,,,,,,,,,,,,,,,,,,,,710 Bankview Dr,,,DRUMHELLER,,,AB,,T0J 0Y6,Canada,51.458895,-112.71547,,True
+CAMROSE ADULT RESIDENCE #6-ERIK'S PLACE,,,,,,N/A,,,,,,,,,,,,(780) 672-0257,,,,,,,,,,,,,,,,,,,,,5413 43 Ave,,,CAMROSE,,,AB,,T4V 4J9,Canada,53.0090695,-112.8339765,,True
+CAMROSE ADULT RESIDENCE #2-SAM'S PLACE,,,,,,N/A,,,,,,,,,,,,(780) 672-0257,,,,,,,,,,,,,,,,,,,,,5911 47A Ave,,,CAMROSE,,,AB,,T4V 0H3,Canada,53.0162658,-112.8428521,,True
+CAMROSE ADULT RESIDENCE #7-PHYL'S PLACE,,,,,,N/A,,,,,,,,,,,,(780) 672-0257,,,,,,,,,,,,,,,,,,,,,5911 Marler Dr,,,CAMROSE,,,AB,,T4V 3E1,Canada,53.005299,-112.84421,,True
+BACHELOR PAD,,,,,,N/A,,,,,,,,,,,,(403) 845-4080,,,,,,,,,,,,,,,,,,,,,5423 51 Ave,,,ROCKY MOUNTAIN HOUSE,,,AB,,T4T 1E8,Canada,52.3757329,-114.926925,,True
+SERENITY HOUSE GROUP HOME,,,,,,N/A,,,,,,,,,,,,(780) 352-8732,,,,,,,,,,,,,,,,,,,,,4704 51 Ave,,,WETASKIWIN,,,AB,,T9A 0T5,Canada,52.969521,-113.3672316,,True
+NEWCASTLE RESIDENCE,,,,,,N/A,,,,,,,,,,,,(403) 823-5983,,,,,,,,,,,,,,,,,,,,,1415 4 Ave W,,,DRUMHELLER,,,AB,,T0J 0Y0,Canada,51.462712,-112.740663,,True
+OLDS RESIDENCE,,,,,,N/A,,,,,,,,,,,,(403) 556-4110,,,,,,,,,,,,,,,,,,,,,5117 49 St,,,OLDS,,,AB,,T4H 1H3,Canada,51.7933139,-114.1084125,,True
+OLDS RESIDENCE #3,,,,,,(403) 556-4110,,,,,,,,,,,,(403) 556-4110,,,,,,,,,,,,,,,,,,,,,5714 60 Ave,,,OLDS,,,AB,,T4H 1K3,Canada,51.7852317,-114.1239525,,True
+CHAD'S PLACE,,,,,,N/A,,,,,,,,,,,,(403) 347-0040,,,,,,,,,,,,,,,,,,,,,5333 46 Ave,,,RED DEER,,,AB,,T4N 3N3,Canada,52.273143,-113.802542,,True
+WELLS HOUSE,,,,,,N/A,,,,,,,,,,,,(403) 343-0940,,,,,,,,,,,,,,,,,,,,,21 & 23 Wells St,,,RED DEER,,,AB,,T4N 5Y2,Canada,ERROR,ERROR,ERROR,True
+WETASKIWIN ADULT RESIDENCE #1,,,,,,N/A,,,,,,,,,,,,(780) 352-2241,,,,,,,,,,,,,,,,,,,,,101 Centennial Dr,,,WETASKIWIN,,,AB,,T9A 2J7,Canada,52.9742393,-113.3786569,,True
+CATHOLIC SOCIAL SERVICES,,,,,,N/A,,,,,,,,,,,,(780) 352-5535,,,,,,,,,,,,,,,,,,,,,5206 51 Ave,,,WETASKIWIN,,,AB,,T9A 0V4,Canada,52.9711909,-113.3786896,,True
+WETASKIWIN ADULT RESIDENCE #3,,,,,,N/A,,,,,,,,,,,,(780) 352-2241,,,,,,,,,,,,,,,,,,,,,4715 56 Ave,,,WETASKIWIN,,,AB,,T9A 2C5,Canada,52.9741609,-113.3684535,,True
+CATHOLIC SOCIAL SERVICES,,,,,,N/A,,,,,,,,,,,,(780) 352-5535,,,,,,,,,,,,,,,,,,,,,5206 51 Ave,,,WESTASKIWIN,,,AB,,T9A 0V4,Canada,52.9711909,-113.3786896,,True
+CATHOLIC SOCIAL SERVICES,,,,,,N/A,,,,,,,,,,,,(780) 352-5535,,,,,,,,,,,,,,,,,,,,,5206 51 Ave,,,WESTASKIWIN,,,AB,,T9A 0V4,Canada,52.9711909,-113.3786896,,True
+WETASKIWIN ADULT RESIDENCE #2,,,,,,N/A,,,,,,,,,,,,(780) 352-2241,,,,,,,,,,,,,,,,,,,,,3726/28 54 St,,,WETASKIWIN,,,AB,,T9A 2L2,Canada,52.954547,-113.385861,,True
+THE WESTPARK LODGE,,,,,,(403) 343-3424,,,,,,,,,,,,(403) 343-7471,,,,,,,,,,,,,,,,,,,,,5715 41 Street Cr,,,RED DEER,,,AB,,T4N 1B3,Canada,52.2606459,-113.8306917,West Park,True
+CATHOLIC SOCIAL SERVICES,,,,,,N/A,,,,,,,,,,,,(780) 352-5535,,,,,,,,,,,,,,,,,,,,,5206 51 Ave,,,WETASKIWIN,,,AB,,T9A 0V4,Canada,52.9711909,-113.3786896,,True
+WETASKIWIN ADULT RESIDENCE #4,,,,,,N/A,,,,,,,,,,,,(780) 352-2241,,,,,,,,,,,,,,,,,,,,,4606 46 Ave,,,WETASKIWIN,,,AB,,T9A 0H2,Canada,52.9654749,-113.3631409,,True
+CATHOLIC SOCIAL SERVICES,,,,,,N/A,,,,,,,,,,,,(780) 352-5535,,,,,,,,,,,,,,,,,,,,,5209 51 Ave,,,WETASKIWIN,,,AB,,T9A 0V4,Canada,52.97082,-113.3793418,,True
+BEIL AVENUE GROUP HOME,,,,,,N/A,,,,,,,,,,,,(403) 284-1121,,,,,,,,,,,,,,,,,,,,,3304 33 St NW,,,CALGARY,,,AB,,T2L 2A6,Canada,51.0821984,-114.1326168,Northwest Calgary,True
+DALTON BAY RESIDENCE,,,,,,N/A,,,,,,,,,,,,(403) 284-1121,,,,,,,,,,,,,,,,,,,,,3304 33 St NW,,,CALGARY,,,AB,,T2L 2A6,Canada,51.0821984,-114.1326168,Northwest Calgary,True
+CHANCELLOR WAY RESIDENCE,,,,,,N/A,,,,,,,,,,,,(403) 284-1121,,,,,,,,,,,,,,,,,,,,,3304 33 St NW,,,CALGARY,,,AB,,T2L 2A6,Canada,51.0821984,-114.1326168,Northwest Calgary,True
+HARTFORD ROAD RESIDENCE,,,,,,N/A,,,,,,,,,,,,(403) 284-1121,,,,,,,,,,,,,,,,,,,,,3304 33 St NW,,,CALGARY,,,AB,,T2L 2A6,Canada,51.0821984,-114.1326168,Northwest Calgary,True
+BETHANY CALGARY,,,,,,N/A,,,,,,,,,,,,(403) 284-6013,,,,,,,,,,,,,,,,,,,,,916 18A St NW,,,CALGARY,,,AB,,T2N 1C6,Canada,51.0604201,-114.1031077,Northwest Calgary,True
+GRADUATED SUPPORTS,,,,,,N/A,,,,,,,,,,,,(403) 297-4649,,,,,,,,,,,,,,,,,,,,,220 200 Scenic Bow Pl NW,,,CALGARY,,,AB,,T3L 1S5,Canada,51.1003558,-114.2150139,Northwest Calgary,True
+L'ARCHE ASSOCIATION OF CALGARY - MARYMOUNT,,,,,,N/A,,,,,,,,,,,,(403) 253-3558,,,,,,,,,,,,,,,,,,,,,810 69 Ave SW,,,CALGARY,,,AB,,T2V 0P3,Canada,50.9916626,-114.0796672,Southwest Calgary,True
+L'ARCHE ASSOCIATION OF CALGARY ANNAPURNA,,,,,,N/A,,,,,,,,,,,,(403) 252-6844,,,,,,,,,,,,,,,,,,,,,419 52 Ave SW,,,CALGARY,,,AB,,T2B 0V1,Canada,51.0067619,-114.0726378,Southwest Calgary,True
+RESICARE SOCIETY OF CALGARY #1,,,,,,N/A,,,,,,,,,,,,(403) 286-3709,,,,,,,,,,,,,,,,,,,,,7625 35 Ave NW,,,CALGARY,,,AB,,T3B 1T4,Canada,51.0849136,-114.1978675,Northwest Calgary,True
+RESICARE SOCIETY OF CALGARY #3,,,,,,N/A,,,,,,,,,,,,(403) 286-3709,,,,,,,,,,,,,,,,,,,,,8931 36 Ave NW,,,CALGARY,,,AB,,T3B 1W5,Canada,51.0958673,-114.2181951,Northwest Calgary,True
+TAVENDER ROAD RESIDENCE,,,,,,N/A,,,,,,,,,,,,(403) 284-1121,,,,,,,,,,,,,,,,,,,,,3304 33 St NW,,,CALGARY,,,AB,,T2L 2A6,Canada,51.0821984,-114.1326168,Northwest Calgary,True
+31ST AVENUE GROUP HOME,,,,,,N/A,,,,,,,,,,,,(403) 272-7722,,,,,,,,,,,,,,,,,,,,,228 31 Ave NE,,,CALGARY,,,AB,,T2E 2E9,Canada,51.080766,-114.0584038,Northeast Calgary,True
+30TH AVENUE GROUP HOME,,,,,,N/A,,,,,,,,,,,,(403) 272-7722,,,,,,,,,,,,,,,,,,,,,414 30 Ave NW,,,CALGARY,,,AB,,T2M 2N4,Canada,51.0798794,-114.0683984,Northwest Calgary,True
+URSA 27TH AVENUE HOME,,,,,,N/A,,,,,,,,,,,,(403) 272-7722,,,,,,,,,,,,,,,,,,,,,523 27 Ave NE,,,CALGARY,,,AB,,T2E 2A7,Canada,51.0767244,-114.0519514,Northeast Calgary,True
+12TH AVENUE,,,,,,N/A,,,,,,,,,,,,(403) 284-1121,,,,,,,,,,,,,,,,,,,,,3304 33 St NW,,,CALGARY,,,AB,,T2L 2A6,Canada,51.0821984,-114.1326168,Northwest Calgary,True
+URSA 12TH AVENUE GROUP HOME,,,,,,N/A,,,,,,,,,,,,(403) 272-7722,,,,,,,,,,,,,,,,,,,,,2716 12 Ave SE,,,CALGARY,,,AB,,T2A 0G2,Canada,51.0422161,-113.9971053,Southeast Calgary,True
+GRADUATED SUPPORTS,,,,,,N/A,,,,,,,,,,,,(403) 297-4649,,,,,,,,,,,,,,,,,,,,,108 100 Scenic Bow Pl NW,,,CALGARY,,,AB,,T3L 1S4,Canada,51.1000445,-114.2126359,Northwest Calgary,True
+GRADUATED SUPPORTS,,,,,,N/A,,,,,,,,,,,,(403) 297-4649,,,,,,,,,,,,,,,,,,,,,130 100 Scenic Bow Pl NW,,,CALGARY,,,AB,,T3L 1S3,Canada,51.1001216,-114.2128631,Northwest Calgary,True
+L'ARCHE ASSOCIATION OF CALGARY - VILLA MARIA,,,,,,N/A,,,,,,,,,,,,(403) 255-7266,,,,,,,,,,,,,,,,,,,,,403 52 Ave SW,,,CALGARY,,,AB,,T2V 0B1,Canada,51.0067868,-114.0718249,Southwest Calgary,True
+VARSITY DRIVE GROUP HOME,,,,,,N/A,,,,,,,,,,,,(403) 284-1121,,,,,,,,,,,,,,,,,,,,,3304 33 St NW,,,CALGARY,,,AB,,T2L 2A6,Canada,51.0821984,-114.1326168,Northwest Calgary,True
+GRADUATED SUPPORTS,,,,,,N/A,,,,,,,,,,,,(403) 297-4649,,,,,,,,,,,,,,,,,,,,,134 100 Scenic Bow Pl NW,,,CALGARY,,,AB,,T3L 1S3,Canada,51.1004521,-114.213026,Northwest Calgary,True
+GRADUATED SUPPORTS,,,,,,N/A,,,,,,,,,,,,(403) 297-4649,,,,,,,,,,,,,,,,,,,,,138 100 Scenic Bow Pl NW,,,CALGARY,,,AB,,T3L 1S3,Canada,51.1006623,-114.212948,Northwest Calgary,True
+L'ARCHE ASSOCIATION OF CALGARY - HAEREMAI,,,,,,N/A,,,,,,,,,,,,(403) 259-5900,,,,,,,,,,,,,,,,,,,,,719 69 Ave SW,,,CALGARY,,,AB,,T2V 0P1,Canada,50.9914411,-114.0788879,Southwest Calgary,True
+RESICARE SOCIETY OF CALGARY #2,,,,,,N/A,,,,,,,,,,,,(403) 286-3709,,,,,,,,,,,,,,,,,,,,,4639 69 St NW,,,CALGARY,,,AB,,T3B 2K3,Canada,51.0943039,-114.1945103,Northwest Calgary,True
+BELL STREET RESIDENCE,,,,,,N/A,,,,,,,,,,,,(403) 284-1121,,,,,,,,,,,,,,,,,,,,,3304 33 St NW,,,CALGARY,,,AB,,T2L 2A6,Canada,51.0821984,-114.1326168,Northwest Calgary,True
+CALGARY SOCIETY FOR PERSONS WITH DISABILITIES #2,,,,,,N/A,,,,,,,,,,,,(403) 288-9221,,,,,,,,,,,,,,,,,,,,,4603 72 St NW,,,CALGARY,,,AB,,T3B 2L3,Canada,51.092509,-114.196266,Northwest Calgary,True
+APPROVED HOME,,,,,,N/A,,,,,,,,,,,,(403) 955-6994,,,,,,,,,,,,,,,,,,,,,1213 4 St SW,,,CALGARY,,,AB,,T2R 0X7,Canada,51.0411823,-114.0718091,Beltline,True
+35TH STREET GROUP HOME,,,,,,N/A,,,,,,,,,,,,(403) 272-7722,,,,,,,,,,,,,,,,,,,,,2418 35 St SE,,,CALGARY,,,AB,,T2B 0X3,Canada,51.0324383,-113.9827005,Southeast Calgary,True
+BETHANY CARE CENTRE AIRDRIE,,,,,,N/A,,,,,,,,,,,,(403) 948-8426,,,,,,,,,,,,,,,,,,,,,1736 1 Ave NW,,,AIRDRIE,,,AB,,T4B 2C4,Canada,51.2934533,-114.0360015,,True
+HORLICK APPROVED HOME,,,,,,N/A,,,,,,,,,,,,(403) 955-6994,,,,,,,,,,,,,,,,,,,,,1213 4 St SW,,,CALGARY,,,AB,,T2R 0X7,Canada,51.0411823,-114.0718091,Beltline,True
+BETHANY CARE CENTRE COCHRANE,,,,,,N/A,,,,,,,,,,,,(403) 932-8425,,,,,,,,,,,,,,,,,,,,,1000-32 Quigley Dr,,,COCHRANE,,,AB,,T4C 1X9,Canada,51.1928793,-114.4920932,,True
+REDI ENTERPRISES SOCIETY,,,,,,(403) 529-0462,,,,,,,,,,,,(403) 526-5742,,,,,,,,,,,,,,,,,,,,,33 12 St SW,,,MEDICINE HAT,,,AB,,T1A 4T4,Canada,50.0276205,-110.687856,,True
+ALFRED EGAN HOME,,,,,,N/A,,,,,,,,,,,,(403) 545-3202,,,,,,,,,,,,,,,,,,,,,941 1 St E,,,BOW ISLAND,,,AB,,T0K 0G0,Canada,49.8663393,-111.3776384,,True
+FORT MACLEOD HEALTH CARE CENTRE - SPECIAL DEVELOPMENT UNIT,,,,,,N/A,,,,,,,,,,,,(403) 553-5336,,,,,,,,,,,,,,,,,,,,,744 26 St,,,FORT MACLEOD,,,AB,,T0L 0Z0,Canada,49.726332,-113.3932472,,True
+HAVEN OF REST OF MEDICINE HAT,,,,,,(403) 527-4690,,,,,,,,,,,,(403) 526-2002,,,,,,,,,,,,,,,,,,,,,1720 Bell St SW,,,MEDICINE HAT,,,AB,,T1A 5G1,Canada,50.0247946,-110.7275018,,True
+ST. JOSEPH'S HOME,,,,,,N/A,,,,,,,,,,,,(403) 526-3818,,,,,,,,,,,,,,,,,,,,,156 3 St NE,,,MEDICINE HAT,,,AB,,T1A 5M1,Canada,50.0454406,-110.6836007,Riverside,True
+MADISON MANOR LTD.,,,,,,(403) 646-2825,,,,,,,,,,,,(403) 652-6428,,,,,,,,,,,,,,,,,,,,,2401 26 Ave,,,NANTON,,,AB,,T0L 1R0,Canada,50.340524,-113.7820546,,True
+LEISURE WAY COMMUNITY GROUP HOME & CONSULTING SERVICES INC.,,,,,,(403) 527-6104,,,,,,,,,,,,(403) 526-2536,,,,,,,,,,,,,,,,,,,,,PO Box 1267,,,MEDICINE HAT,,,AB,,T1A 7M9,Canada,50.0405486,-110.6764257,,True
+ALTERNATIVE GROUP HOME,,,,,,(403) 529-0462,,,,,,,,,,,,(403) 526-5742,,,,,,,,,,,,,,,,,,,,,714 8 St SE,,,MEDICINE HAT,,,AB,,T1A 1M5,Canada,50.0312771,-110.6686502,,True
+RESIDENTIAL AND SUPPORT SERVICES - NEW DELTON,,,,,,(780) 422-1089,,,,,,,,,,,,(780) 422-1084,,,,,,,,,,,,,,,,,,,,,12823 67 St,,,EDMONTON,,,AB,,T5C 0C2,Canada,53.586761,-113.4442886,Northeast Edmonton,True
+WINNIFRED STEWART ASSOCIATION RESIDENCE #7,,,,,,(780) 453-6709,,,,,,,,,,,,(780) 453-6707,,,,,,,,,,,,,,,,,,,,,11127 132 St,,,EDMONTON,,,AB,,T5M 1C1,Canada,53.559759,-113.549319,Northwest Edmonton,True
+ASPEN HOUSE,,,,,,N/A,,,,,,,,,,,,(780) 939-1279,,,,,,,,,,,,,,,,,,,,,9706 100 Ave,,,MORINVILLE,,,AB,,T8R 1T2,Canada,53.802071,-113.640351,,True
+AURORA ENTERPRISES INC.,,,,,,N/A,,,,,,,,,,,,(780) 449-6022,,,,,,,,,,,,,,,,,,,,,901 Cedar St,,,SHERWOOD PARK,,,AB,,T8A 2E8,Canada,53.5129898,-113.3131014,,True
+EXCEL RESOURCES SOCIETY - HOUSE #43,,,,,,(780) 455-2589,,,,,,,,,,,,(780) 414-4718,,,,,,,,,,,,,,,,,,,,,9797 110 St NW,Suite 500,,EDMONTON,,,AB,,T5K 2L9,Canada,53.5360499,-113.5098991,North Central Edmonton,True
+HOPE COTTAGE LTD. - RESIDENCE #2,,,,,,N/A,,,,,,,,,,,,(780) 431-0434,,,,,,,,,,,,,,,,,,,,,4203 25 Ave,,,EDMONTON,,,AB,,T6L 6B4,Canada,53.4557399,-113.4068774,Southeast Edmonton,True
+RUAH HOUSE,,,,,,N/A,,,,,,,,,,,,(403) 328-3735,,,,,,,,,,,,,,,,,,,,,2310 28 St S,,,LETHBRIDGE,,,AB,,T1K 2V8,Canada,49.669542,-112.8020331,Agnes Davidson,True
+HOPE COTTAGE LTD. - RESIDENCE #3,,,,,,N/A,,,,,,,,,,,,(780) 431-0434,,,,,,,,,,,,,,,,,,,,,4205 25 Ave,,,EDMONTON,,,AB,,T6L 6B4,Canada,53.4557237,-113.4069646,Southeast Edmonton,True
+ROBIN HOOD ASSOCIATION - RESIDENCE 28,,,,,,N/A,,,,,,,,,,,,(780) 467-7140,,,,,,,,,,,,,,,,,,,,,74 Foxboro Bay,,,SHERWOOD PARK,,,AB,,T8A 6B5,Canada,53.5231078,-113.2602097,,False
+GOLDEN KEY SUPPORTIVE LIVING - EDGEMONT HOME,,,,,,N/A,,,,,,,,,,,,(403) 560-0584,,,,,,,,,,,,,,,,,,,,,205 Edgedale Dr,,,CALGARY,,,AB,,T3A 2R8,Canada,51.1243089,-114.156876,Northwest Calgary,True
+ROSEWOOD VILLA,,,,,,N/A,,,,,,,,,,,,(403) 553-3921,,,,,,,,,,,,,,,,,,,,,120 Garrison Dr,,,FORT MACLEOD,,,AB,,T0L 0Z0,Canada,49.720852,-113.412688,,True
+ROBIN HOOD RESIDENCE #29,,,,,,(780) 449-2028,,,,,,,,,,,,(780) 467-7140,,,,,,,,,,,,,,,,,,,,,1022 Gillies Rd,,,SHERWOOD PARK,,,AB,,T8A 1C9,Canada,53.521993,-113.329253,,True
+MEDI-HOME INDIVIDUALIZED SUPPORT SERVICES LTD. #6,,,,,,N/A,,,,,,,,,,,,(780) 903-3734,,,,,,,,,,,,,,,,,,,,,13920 64 St,,,EDMONTON,,,AB,,T5A 1R9,Canada,53.602005,-113.440633,Northeast Edmonton,True
+WENTWORTH MANOR - THE COURT,,,,,,(403) 686-8702,,,,,,,,,,,,(403) 686-8605,,,,,,,,,,,,,,,,,,,,,5709 14 Ave SW,,,CALGARY,,,AB,,T3H 3M2,Canada,51.0397866,-114.1715865,Southwest Calgary,True
+IN AND OUT HOME CARE REHABILITATION LTD. HOUSE #3,,,,,,(780) 984-8122,,,,,,,,,,,,(780) 997-0913,,,,,,,,,,,,,,,,,,,,,219 Dunvegan Rd NW,,,EDMONTON,,,AB,,T5L 5C6,Canada,53.588332,-113.557147,Athlone,True
+LINDLEY APPROVED HOME,,,,,,N/A,,,,,,,,,,,,(403) 955-6994,,,,,,,,,,,,,,,,,,,,,1213 4 St SW,,,CALGARY,,,AB,,T2R 0X7,Canada,51.0411823,-114.0718091,Beltline,True
+APPROVED MENTAL WELLNESS HOMES - MACDONALD HOUSE,,,,,,N/A,,,,,,,,,,,,(780) 457-3675,,,,,,,,,,,,,,,,,,,,,Castledowns,,,EDMONTON,,,AB,,T5X 4Y8,Canada,53.6141653,-113.5166046,Northwest Edmonton,False
+MIRKACARE SERVICES INC.,,,,,,N/A,,,,,,,,,,,,(780) 435-8336,,,,,,,,,,,,,,,,,,,,,4123 29 St,,,EDMONTON,,,AB,,T6T 1M5,Canada,53.478248,-113.384556,Southeast Edmonton,True
+PROVERBIUM HOMES I,,,,,,N/A,,,,,,,,,,,,(403) 613-2889,,,,,,,,,,,,,,,,,,,,,84 Templegreen Rd NE,,,CALGARY,,,AB,,T1Y 4Y8,Canada,51.0869533,-113.9426591,Northeast Calgary,True
+MORE T'A LIFE HOMES,,,,,,N/A,,,,,,,,,,,,(403) 383-2644,,,,,,,,,,,,,,,,,,,,,13816 Parkside Dr SE,,,CALGARY,,,AB,,T2J 3Z1,Canada,50.92783,-114.037147,Southeast Calgary,True
+UNIVERSAL REHABILITATION SERVICE AGENCY (HOLLAND),,,,,,N/A,,,,,,,,,,,,(403) 272-7722,,,,,,,,,,,,,,,,,,,,,147/149 Holland St NW,,,CALGARY,,,AB,,T2K 2E8,Canada,51.0913449,-114.088442,Northwest Calgary,True
+SALVATION ARMY - GRACE MANOR,,,,,,N/A,,,,,,,,,,,,(780) 377-3801,,,,,,,,,,,,,,,,,,,,,12510 140 Ave,,,EDMONTON,,,AB,,T5X 6C4,Canada,53.60339,-113.536955,Northwest Edmonton,True
+CATHOLIC SOCIAL SERVICES,,,,,,N/A,,,,,,,,,,,,(780) 352-5535,,,,,,,,,,,,,,,,,,,,,5209 51 Ave,,,WETASKIWIN,,,AB,,T9A 0V4,Canada,52.97082,-113.3793418,,True
+BRAY BUNCH (THE),,,,,,N/A,,,,,,,,,,,,(403) 955-6994,,,,,,,,,,,,,,,,,,,,,1213 4 St SW,,,CALGARY,,,AB,,T2R 0X7,Canada,51.0411823,-114.0718091,Beltline,True
+SUMMERLEA INTERNATIONAL CARE HOMES INC.,,,,,,N/A,,,,,,,,,,,,(780) 974-0678,,,,,,,,,,,,,,,,,,,,,9211 177A St,,,EDMONTON,,,AB,,T5T 3H1,Canada,53.5272619,-113.6289248,West Edmonton,True
+MCKENZIE TOWNE RETIREMENT RESIDENCE,,,,,,(403) 470-5140,,,,,,,,,,,,(403) 257-9331,,,,,,,,,,,,,,,,,,,,,20 Promenade Park SE,,,CALGARY,,,AB,,T2Z 4A5,Canada,50.9140111,-113.9613116,Southeast Calgary,True
+HOPE COTTAGE LTD. - RESIDENCE #4,,,,,,N/A,,,,,,,,,,,,(780) 431-0434,,,,,,,,,,,,,,,,,,,,,1113 Lincoln Cr,,,EDMONTON,,,AB,,T6R 2Z3,Canada,53.4557505,-113.5680807,Southwest Edmonton,True
+EAU CLAIRE RETIREMENT RESIDENCE,,,,,,(403) 269-3148,,,,,,,,,,,,(403) 269-3114,,,,,,,,,,,,,,,,,,,,,301 7 St SW,,,CALGARY,,,AB,,T2P 1Y6,Canada,51.0504858,-114.0791145,Downtown,True
+RGC HEALTH CARE 1,,,,,,N/A,,,,,,,,,,,,(403) 202-3992,,,,,,,,,,,,,,,,,,,,,64 Citadel Vista Green NW,,,CALGARY,,,AB,,T3G 4W7,Canada,51.1441505,-114.1979866,Northwest Calgary,True
+PROVERBIUM HOMES II,,,,,,N/A,,,,,,,,,,,,(403) 613-2889,,,,,,,,,,,,,,,,,,,,,6540 22 Ave NE,,,CALGARY,,,AB,,T1Y 1P4,Canada,51.0727949,-113.9384027,Northeast Calgary,True
+EXCEL HOUSE SILVERBERRY,,,,,,(780) 455-2589,,,,,,,,,,,,(780) 414-4718,,,,,,,,,,,,,,,,,,,,,9797 110 St NW,Suite 500,,EDMONTON,,,AB,,T5K 2L9,Canada,53.5360499,-113.5098991,North Central Edmonton,True
+EDGEMONT RETIREMENT RESIDENCE (THE),,,,,,N/A,,,,,,,,,,,,(403) 241-8990,,,,,,,,,,,,,,,,,,,,,80 Edenwold Dr NW,,,CALGARY,,,AB,,T3A 5R9,Canada,51.12556,-114.1377493,Northwest Calgary,True
+WENTWORTH MANOR (THE RESIDENCE),,,,,,(403) 686-8702,,,,,,,,,,,,(403) 686-8605,,,,,,,,,,,,,,,,,,,,,5717 14 Ave SW,,,CALGARY,,,AB,,T3H 3M2,Canada,51.039623,-114.170262,Southwest Calgary,True
+AOMEGA LODGES II (AFFILIATED WITH AOMEGA GROUP INC.),,,,,,N/A,,,,,,,,,,,,(403) 730-8442,,,,,,,,,,,,,,,,,,,,,4935 Nelson Rd NW,,,CALGARY,,,AB,,T2K 2M1,Canada,51.097467,-114.089399,Northwest Calgary,True
+GOOD SAMARITAN SOCIETY GOOD SHEPHERD HOME,,,,,,N/A,,,,,,,,,,,,(780) 352-3628,,,,,,,,,,,,,,,,,,,,,4702 Northmount Dr,,,WETASKIWIN,,,AB,,T9A 3T3,Canada,52.9851768,-113.3674271,,True
+WAINWRIGHT ASSOCIATION FOR COMMUNITY LIVING #3,,,,,,N/A,,,,,,,,,,,,(780) 842-5302,,,,,,,,,,,,,,,,,,,,,708 1 Avenue Upstairs,,,WAINWRIGHT,,,AB,,T9W 1N7,Canada,ERROR,ERROR,ERROR,False
+CHATEAU RENOIR RETIREMENT RESIDENCE,,,,,,N/A,,,,,,,,,,,,(403) 255-2120,,,,,,,,,,,,,,,,,,,,,9229 16 St SW,,,CALGARY,,,AB,,T2V 5H3,Canada,50.9721626,-114.1004418,Southwest Calgary,True
+WINNIFRED STEWART ASSOCIATION RESIDENCE #8,,,,,,(780) 453-6709,,,,,,,,,,,,(780) 453-6707,,,,,,,,,,,,,,,,,,,,,11107 132 St,,,EDMONTON,,,AB,,T5M 1E6,Canada,53.5591791,-113.5493775,Northwest Edmonton,True
+ROBIN HOOD ASSOCIATION - RESIDENCE 31,,,,,,(780) 449-2028,,,,,,,,,,,,(780) 467-7140,,,,,,,,,,,,,,,,,,,,,48 Graham Rd,,,SHERWOOD PARK,,,AB,,T8A 3L8,Canada,53.5389598,-113.2920928,,True
+WHITEHORN VILLAGE RETIREMENT COMMUNITY,,,,,,(403) 271-2554,,,,,,,,,,,,(403) 271-2277,,,,,,,,,,,,,,,,,,,,,5200 44 Ave NE,,,CALGARY,,,AB,,T1Y 7L4,Canada,51.0914118,-113.9595865,Northeast Calgary,True
+HOME #10,,,,,,N/A,,,,,,,,,,,,(780) 645-3116,,,,,,,,,,,,,,,,,,,,,5854 46 Ave,,,ST. PAUL,,,AB,,T0A 3A4,Canada,53.987793,-111.322305,,True
+UNIVERSAL REHABILITATION SERVICE AGENCY (INGLEWOOD),,,,,,N/A,,,,,,,,,,,,(403) 272-7722,,,,,,,,,,,,,,,,,,,,,2232 9 Ave SE,,,CALGARY,,,AB,,T2G 5P7,Canada,51.032214,-114.012579,Southeast Calgary,True
+SERENITY HOUSE,,,,,,(780) 514-7179,,,,,,,,,,,,(780) 514-7181,,,,,,,,,,,,,,,,,,,,,4552 Madsen Ave,,,DRAYTON VALLEY,,,AB,,T7A 1T2,Canada,53.210958,-114.968493,,True
+EXCEL SOCIETY - RESIDENCE #46 (CRESTWOOD),,,,,,N/A,,,,,,,,,,,,(780) 414-0348,,,,,,,,,,,,,,,,,,,,,9823 142 St,,,EDMONTON,,,AB,,T5N 2N4,Canada,53.5368603,-113.5652984,West Edmonton,True
+SERVICE EXPANSION PROGRAM/CALGARY SCOPE SOCIETY,,,,,,N/A,,,,,,,,,,,,(403) 852-3771,,,,,,,,,,,,,,,,,,,,,112 Scenic Bow Pl NW,,,CALGARY,,,AB,,T3L 1S4,Canada,51.1000445,-114.2126359,Northwest Calgary,True
+HOPE HOMES INC. #3,,,,,,(403) 272-5744,,,,,,,,,,,,(403) 272-5506,,,,,,,,,,,,,,,,,,,,,10009 2 St SE,,,CALGARY,,,AB,,T2J 0W5,Canada,50.9609222,-114.0639904,Southeast Calgary,True
+EXCEL SOCIETY - MCCAULEY #41,,,,,,(780) 455-2589,,,,,,,,,,,,(780) 414-4718,,,,,,,,,,,,,,,,,,,,,9797 110 St NW,Suite 500,,EDMONTON,,,AB,,T5K 2L9,Canada,53.5360499,-113.5098991,North Central Edmonton,True
+SCENIC ACRES RETIREMENT RESIDENCE,,,,,,(403) 208-0537,,,,,,,,,,,,(403) 208-0338,,,,,,,,,,,,,,,,,,,,,150 Scotia Landing NW,,,CALGARY,,,AB,,T3L 2K7,Canada,51.123904,-114.213164,Northwest Calgary,True
+EXCEL SOCIETY INGLEWOOD,,,,,,(780) 455-2589,,,,,,,,,,,,(780) 414-4718,,,,,,,,,,,,,,,,,,,,,9797 110 St NW,Suite 500,,EDMONTON,,,AB,,T5K 2L9,Canada,53.5360499,-113.5098991,North Central Edmonton,True
+EXCEL SOCIETY - RESIDENCE #47 (WESTMOUNT),,,,,,N/A,,,,,,,,,,,,(780) 455-2601,,,,,,,,,,,,,,,,,,,,,10903 122 St,,,EDMONTON,,,AB,,T5M 0A7,Canada,53.554162,-113.532064,West Edmonton,True
+GOLDEN KEY SUPPORTIVE LIVING - BOWNESS,,,,,,N/A,,,,,,,,,,,,(403) 560-0584,,,,,,,,,,,,,,,,,,,,,6528/6530 36 Ave NW,,,CALGARY,,,AB,,T3B 4W8,Canada,51.0858457,-114.1858553,Northwest Calgary,True
+HOPE COTTAGE LTD. - RESIDENCE #5,,,,,,N/A,,,,,,,,,,,,(780) 431-0434,,,,,,,,,,,,,,,,,,,,,991 Hollingsworth Bend,,,EDMONTON,,,AB,,T6R 3G7,Canada,53.461135,-113.5581871,Southwest Edmonton,False
+AOMEGA LODGES III,,,,,,N/A,,,,,,,,,,,,(403) 730-8442,,,,,,,,,,,,,,,,,,,,,114 Evansmeade Close NW,,,CALGARY,,,AB,,T3P 1E3,Canada,51.1649495,-114.1103043,Northwest Calgary,True
+ALBERTA HOME CARE LTD.,,,,,,N/A,,,,,,,,,,,,(403) 516-0630,,,,,,,,,,,,,,,,,,,,,133 Tarawood Pl NE,,,CALGARY,,,AB,,T3J 5B4,Canada,51.1242022,-113.9353672,Northeast Calgary,True
+MEDI-HOME INDIVIDUALIZED SUPPORT SERVICES LTD. #7,,,,,,N/A,,,,,,,,,,,,(780) 903-3734,,,,,,,,,,,,,,,,,,,,,1616 148 Ave,,,EDMONTON,,,AB,,T5Y 3H9,Canada,53.612053,-113.367719,Northeast Edmonton,True
+SUNRISE VILLAGE LETHBRIDGE,,,,,,N/A,,,,,,,,,,,,(403) 320-2270,,,,,,,,,,,,,,,,,,,,,1730 10 Ave S,,,LETHBRIDGE,,,AB,,T1K 0B5,Canada,49.6834948,-112.81648,South Lethbridge,True
+COLUMBIA ASSISTED LIVING,,,,,,N/A,,,,,,,,,,,,(403) 394-4305,,,,,,,,,,,,,,,,,,,,,785 Columbia Blvd W,,,LETHBRIDGE,,,AB,,T1K 4T8,Canada,49.6669964,-112.8880316,West Lethbridge,True
+PROVERBIUM HOMES III,,,,,,N/A,,,,,,,,,,,,(403) 613-2889,,,,,,,,,,,,,,,,,,,,,117 Tuscarora Way NW,,,CALGARY,,,AB,,T3L 2G9,Canada,51.129418,-114.234912,Northwest Calgary,True
+WAVERLEY HOUSE PERSONAL CARE HOMES INC. #101,,,,,,(877) 856-6457,,,,,,,,,,,,(403) 241-5345,,,,,,,,,,,,,,,,,,,,,101 Taralake Terrace NE,,,CALGARY,,,AB,,T3J 0A3,Canada,51.1229029,-113.9330426,Northeast Calgary,True
+WAVERLEY HOUSE PERSONAL CARE HOMES INC. #109,,,,,,(877) 856-6457,,,,,,,,,,,,(403) 241-5345,,,,,,,,,,,,,,,,,,,,,109 Taralake Terrace NE,,,CALGARY,,,AB,,T3J 0A3,Canada,51.1231104,-113.9331404,Northeast Calgary,True
+WAVERLEY HOUSE PERSONAL CARE HOMES INC. #247,,,,,,(877) 856-6457,,,,,,,,,,,,(403) 241-5345,,,,,,,,,,,,,,,,,,,,,247 Taralake Terrace NE,,,CALGARY,,,AB,,T3J 0A2,Canada,51.1230425,-113.9337852,Northeast Calgary,True
+WAVERLEY HOUSE PERSONAL CARE HOMES INC. #259,,,,,,(877) 856-6457,,,,,,,,,,,,(403) 241-5345,,,,,,,,,,,,,,,,,,,,,259 Taralake Terrace NE,,,CALGARY,,,AB,,T3J 0A2,Canada,51.1227841,-113.9338049,Northeast Calgary,True
+WAVERLEY HOUSE PERSONAL CARE HOMES INC. #113,,,,,,(877) 856-6457,,,,,,,,,,,,(403) 241-5345,,,,,,,,,,,,,,,,,,,,,113 Taralake Terrace NE,,,CALGARY,,,AB,,T3J 0A3,Canada,51.1232019,-113.9331344,Northeast Calgary,True
+WAVERLEY HOUSE PERSONAL CARE HOMES INC. #121,,,,,,(877) 856-6457,,,,,,,,,,,,(403) 241-5345,,,,,,,,,,,,,,,,,,,,,121 Taralake Terrace NE,,,CALGARY,,,AB,,T3J 0A3,Canada,51.123379,-113.9331357,Northeast Calgary,True
+WAVERLEY HOUSE PERSONAL CARE HOMES INC. #129,,,,,,(877) 856-6457,,,,,,,,,,,,(403) 241-5345,,,,,,,,,,,,,,,,,,,,,129 Taralake Terrace NE,,,CALGARY,,,AB,,T3J 0A2,Canada,51.1235574,-113.9331497,Northeast Calgary,True
+COMPANIONATE HOMES LTD.,,,,,,(403) 288-2832,,,,,,,,,,,,(403) 288-1928,,,,,,,,,,,,,,,,,,,,,325 Scenic Acres Dr NW,,,CALGARY,,,AB,,T3L 1T6,Canada,51.1106877,-114.2179964,Northwest Calgary,True
+GOOD SAMARITAN SOCIETY SOUTH RIDGE VILLAGE (THE),,,,,,(403) 504-2520,,,,,,,,,,,,(403) 528-5050,,,,,,,,,,,,,,,,,,,,,550 Spruce Way SE,,,MEDICINE HAT,,,AB,,T1B 4P1,Canada,49.998254,-110.6749757,,True
+BETHESDA CARE HOME,,,,,,N/A,,,,,,,,,,,,(403) 732-5559,,,,,,,,,,,,,,,,,,,,,701 3A St S,,,PICTURE BUTTE,,,AB,,T0K 1V0,Canada,49.8698501,-112.7780048,,True
+UWAMS SUPPORTED LIVING #3,,,,,,N/A,,,,,,,,,,,,(403) 818-0211,,,,,,,,,,,,,,,,,,,,,48 Millside Rd SW,,,CALGARY,,,AB,,T2Y 2P8,Canada,50.919136,-114.075518,Southwest Calgary,True
+UWAMS SUPPORTED LIVING #2,,,,,,N/A,,,,,,,,,,,,(403) 818-0211,,,,,,,,,,,,,,,,,,,,,272 Acadia Dr SE,,,CALGARY,,,AB,,T2J 0A7,Canada,50.972462,-114.0568262,Southeast Calgary,True
+UWAMS SUPPORTED LIVING #4,,,,,,N/A,,,,,,,,,,,,(403) 818-0211,,,,,,,,,,,,,,,,,,,,,247 Allan Cr SE,,,CALGARY,,,AB,,T2J 0T3,Canada,50.968933,-114.06704,Southeast Calgary,True
+UWAMS SUPPORTED LIVING #1,,,,,,N/A,,,,,,,,,,,,(403) 616-6054,,,,,,,,,,,,,,,,,,,,,9504 2 St SE,,,CALGARY,,,AB,,T2J 0V9,Canada,50.9684503,-114.0648337,Southeast Calgary,True
+THE VALLEYVIEW SUPPORTIVE LIVING,,,,,,N/A,,,,,,,,,,,,(403) 526-7000,,,,,,,,,,,,,,,,,,,,,65 Valleyview Dr SW,,,MEDICINE HAT,,,AB,,T1A 7K5,Canada,50.0362081,-110.7084215,,True
+GOOD SAMARITAN SOCIETY PARK MEADOWS VILLAGE,,,,,,(403) 328-8208,,,,,,,,,,,,(403) 328-9404,,,,,,,,,,,,,,,,,,,,,4501 College Ave,,,LACOMBE,,,AB,,T4L 2M8,Canada,52.488385,-113.723954,,True
+GOOD SAMARITAN SOCIETY VISTA VILLAGE,,,,,,N/A,,,,,,,,,,,,(403) 627-3939,,,,,,,,,,,,,,,,,,,,,4501 College Ave,,,LACOMBE,,,AB,,T4L 2M8,Canada,52.488385,-113.723954,,True
+GOOD SAMARITAN SOCIETY WEST HIGHLAND CENTRE,,,,,,(403) 380-6732,,,,,,,,,,,,(403) 380-6275,,,,,,,,,,,,,,,,,,,,,2687 Garry Dr W,,,LETHBRIDGE,,,AB,,T1J 5A3,Canada,49.691825,-112.900618,West Lethbridge,True
+MEDI-HOME INDIVIDUALIZED SUPPORT SERVICES LTD. #8,,,,,,N/A,,,,,,,,,,,,(780) 903-3734,,,,,,,,,,,,,,,,,,,,,1615 150 Ave,,,EDMONTON,,,AB,,T5Y 3J1,Canada,53.6125098,-113.3677719,Fraser,True
+GOOD SAMARITAN SOCIETY CLEARWATER CENTRE,,,,,,N/A,,,,,,,,,,,,(403) 845-6033,,,,,,,,,,,,,,,,,,,,,Main Office 8861 75 St,,,EDMONTON,,,AB,,T6C 4G8,Canada,53.5237826,-113.4423693,Kenilworth,False
+ROYAL OAK MANOR,,,,,,N/A,,,,,,,,,,,,(403) 782-4523,,,,,,,,,,,,,,,,,,,,,4501 College Ave,,,LACOMBE,,,AB,,T4L 2M8,Canada,52.488385,-113.723954,,True
+"SAFE HAVEN SEARA SERVICES, INC.",,,,,,(780) 479-8343,,,,,,,,,,,,(780) 479-8343,,,,,,,,,,,,,,,,,,,,,8803 207 St,,,EDMONTON,,,AB,,T5T 6Y1,Canada,53.5228589,-113.675476,West Edmonton,True
+MARILYN ANDREWS APPROVED HOME,,,,,,N/A,,,,,,,,,,,,(780) 472-8133,,,,,,,,,,,,,,,,,,,,,15104 67 St,,,EDMONTON,,,AB,,T5C 0E1,Canada,53.6126801,-113.4443157,Northeast Edmonton,True
+PROSPECT VILLA I,,,,,,N/A,,,,,,,,,,,,(587) 409-4312,,,,,,,,,,,,,,,,,,,,,16447 62 St,,,EDMONTON,,,AB,,T5Y 3L5,Canada,53.627211,-113.436889,Northeast Edmonton,True
+PROSPECT VILLA II,,,,,,N/A,,,,,,,,,,,,(587) 409-4312,,,,,,,,,,,,,,,,,,,,,16524 63 St,,,EDMONTON,,,AB,,T5Y 3L5,Canada,53.6279929,-113.4396595,Northeast Edmonton,True
+CATHOLIC SOCIAL SERVICES,,,,,,N/A,,,,,,,,,,,,(780) 701-9474,,,,,,,,,,,,,,,,,,,,,8815 99th St,,,EDMONTON,,,AB,,T6E 3V3,Canada,53.524238,-113.48568,South Central Edmonton,True
+GOOD SAMARITAN SOCIETY (THE GREENS),,,,,,(780) 431-3795,,,,,,,,,,,,(780) 431-3738,,,,,,,,,,,,,,,,,,,,,8861 75 St,,,EDMONTON,,,AB,,T6C 4G8,Canada,53.5239871,-113.4421178,Northeast Edmonton,True
+GOOD SAMARITAN SOCIETY GARDEN VISTA,,,,,,(403) 634-5039,,,,,,,,,,,,(403) 458-6149,,,,,,,,,,,,,,,,,,,,,4501 College Ave,,,LACOMBE,,,AB,,T4L 2M8,Canada,52.488385,-113.723954,,True
+I HAVE A CHANCE SUPPORT SERVICES LTD. RES #6,,,,,,(780) 962-8668,,,,,,,,,,,,(780) 962-0433,,,,,,,,,,,,,,,,,,,,,522 19A,RR 13,,STONY PLAIN,,,AB,,T7Z 1X1,Canada,53.4887276,-113.9292948,,False
+ROBIN HOOD RESIDENCE 40,,,,,,N/A,,,,,,,,,,,,(780) 467-7140,,,,,,,,,,,,,,,,,,,,,47 Summerton St,,,SHERWOOD PARK,,,AB,,T8H 2V3,Canada,53.5575489,-113.2681193,,True
+ROBIN HOOD RESIDENCE 38,,,,,,N/A,,,,,,,,,,,,(780) 467-7140,,,,,,,,,,,,,,,,,,,,,387 Summerton Cr,,,SHERWOOD PARK,,,AB,,T8H 2V4,Canada,53.5570095,-113.2702087,,True
+ROBIN HOOD RESIDENCE 39,,,,,,N/A,,,,,,,,,,,,(780) 467-7140,,,,,,,,,,,,,,,,,,,,,43 Summerton St,,,SHERWOOD PARK,,,AB,,T8H 2V3,Canada,53.5575184,-113.2681093,,True
+ROBIN HOOD RESIDENCE 37,,,,,,N/A,,,,,,,,,,,,(780) 467-7140,,,,,,,,,,,,,,,,,,,,,391 Summerton Cr,,,SHERWOOD PARK,,,AB,,T8H 2V3,Canada,53.5570453,-113.2702314,,True
+CATHOLIC SOCIAL SERVICES,,,,,,N/A,,,,,,,,,,,,(780) 842-9129,,,,,,,,,,,,,,,,,,,,,8815 99 St,,,EDMONTON,,,AB,,T6E 3V3,Canada,53.524238,-113.48568,South Central Edmonton,True
+CATHOLIC SOCIAL SERVICES,,,,,,N/A,,,,,,,,,,,,(780) 701-9479,,,,,,,,,,,,,,,,,,,,,8815 99th St,,,EDMONTON,,,AB,,T6E 3V3,Canada,53.524238,-113.48568,South Central Edmonton,True
+EDMONTON PEOPLE IN NEED SHELTER SOCIETY,,,,,,(780) 426-3002,,,,,,,,,,,,(780) 424-6733,,,,,,,,,,,,,,,,,,,,,10303 96 St,,,EDMONTON,,,AB,,T5H 2H2,Canada,53.546626,-113.483209,North Central Edmonton,True
+ROCKY THREE GROUP HOME,,,,,,(403) 845-6951,,,,,,,,,,,,(403) 845-4080,,,,,,,,,,,,,,,,,,,,,5003 48 St,,,ROCKY MOUNTAIN HOUSE,,,AB,,T4T 1C1,Canada,52.3748405,-114.9158789,,True
+INNISFAIL COUNTRY MANOR,,,,,,N/A,,,,,,,,,,,,(403) 227-8200,,,,,,,,,,,,,,,,,,,,,3308 52 Ave,,,INNISFAIL,,,AB,,T4G 1W7,Canada,52.009185,-113.955699,,True
+ASPEN RIDGE,,,,,,N/A,,,,,,,,,,,,(403) 341-5522,,,,,,,,,,,,,,,,,,,,,3100 22 St,,,RED DEER,,,AB,,T4R 3N7,Canada,52.2383643,-113.7709299,Aspen Ridge,True
+EVERGREEN,,,,,,N/A,,,,,,,,,,,,(403) 201-3555,,,,,,,,,,,,,,,,,,,,,2220 162 Ave SW,,,CALGARY,,,AB,,T2Y 5E3,Canada,50.9076416,-114.1082445,Southwest Calgary,True
+EDMONTON PEOPLE IN NEED SHELTER SOCIETY,,,,,,(780) 426-3002,,,,,,,,,,,,(780) 424-6733,,,,,,,,,,,,,,,,,,,,,9559 103 Ave,,,EDMONTON,,,AB,,T5H 0G8,Canada,53.5464212,-113.4825127,North Central Edmonton,True
+EDMONTON PEOPLE IN NEED SHELTER SOCIETY,,,,,,(780) 426-3002,,,,,,,,,,,,(780) 424-6733,,,,,,,,,,,,,,,,,,,,,9539 103 Ave,,,EDMONTON,,,AB,,T5H 0G8,Canada,53.546531,-113.481619,North Central Edmonton,True
+RESIDENCE #5,,,,,,(780) 645-1885,,,,,,,,,,,,(780) 645-3441,,,,,,,,,,,,,,,,,,,,,5234 46 Ave,,,ST. PAUL,,,AB,,T0A 3A4,Canada,53.987581,-111.304405,,True
+WINNIFRED STEWART ASSOCIATION RESIDENCE 14 (ORMSBY),,,,,,(780) 453-6709,,,,,,,,,,,,(780) 453-6707,,,,,,,,,,,,,,,,,,,,,18504 66 Ave,,,EDMONTON,,,AB,,T5T 2M4,Canada,53.501074,-113.641542,West Edmonton,True
+WINNIFRED STEWART ASSOCIATION RESIDENCE 13,,,,,,(780) 453-6709,,,,,,,,,,,,(780) 453-6707,,,,,,,,,,,,,,,,,,,,,5707 185 St,,,EDMONTON,,,AB,,T6M 1Y3,Canada,53.492683,-113.642385,West Edmonton,True
+WINNIFRED STEWART ASSOCIATION RESIDENCE 16,,,,,,(780) 453-6709,,,,,,,,,,,,(780) 453-6707,,,,,,,,,,,,,,,,,,,,,11115 132 St,,,EDMONTON,,,AB,,T5M 1E6,Canada,53.5594187,-113.5492319,Northwest Edmonton,True
+MEDI-HOME INDIVIDUALIZED SUPPORT SERVICES LTD. RESIDENCE #9,,,,,,N/A,,,,,,,,,,,,(780) 903-3734,,,,,,,,,,,,,,,,,,,,,14912 16 St,,,EDMONTON,,,AB,,T5Y 3J1,Canada,53.6125473,-113.366854,Northeast Edmonton,True
+GOOD SAMARITAN SOCIETY GEORGE HENNIG PLACE,,,,,,N/A,,,,,,,,,,,,(780) 963-3133,,,,,,,,,,,,,,,,,,,,,4808 57 Ave,,,STONY PLAIN,,,AB,,T7Z 2J9,Canada,53.52015,-114.002856,,True
+GOOD SAMARITAN SOCIETY SPRUCE GROVE CENTRE,,,,,,(780) 962-3416,,,,,,,,,,,,(780) 962-3499,,,,,,,,,,,,,,,,,,,,,415 King St,,,SPRUCE GROVE,,,AB,,T7X 3Y8,Canada,53.545497,-113.901365,,True
+PRAIRIE ROSE LODGE,,,,,,N/A,,,,,,,,,,,,(403) 647-3531,,,,,,,,,,,,,,,,,,,,,117 3 Ave NW,,,MILK RIVER,,,AB,,T0K 1M0,Canada,49.1511269,-112.0888185,,True
+CONSORT LODGE,,,,,,N/A,,,,,,,,,,,,(403) 577-3832,,,,,,,,,,,,,,,,,,,,,4530 52 Ave,,,CONSORT,,,AB,,T0C 1B0,Canada,52.0123907,-110.7698685,,True
+OYEN LODGE,,,,,,N/A,,,,,,,,,,,,(403) 664-3661,,,,,,,,,,,,,,,,,,,,,310 2 St W,,,OYEN,,,AB,,T0J 2J0,Canada,51.3543705,-110.4896981,,True
+HILLCREST LODGE,,,,,,N/A,,,,,,,,,,,,(780) 674-2787,,,,,,,,,,,,,,,,,,,,,4321 52 Ave,,,BARRHEAD,,,AB,,T7N 1M6,Canada,54.120972,-114.390368,,True
+KLONDIKE PLACE,,,,,,N/A,,,,,,,,,,,,(780) 674-2787,,,,,,,,,,,,,,,,,,,,,4310 51 Ave,,,BARRHEAD,,,AB,,T7N 1P7,Canada,54.1197161,-114.3895993,,True
+BATTLE RIVER FOUNDATION,,,,,,(780) 842-6664,,,,,,,,,,,,(780) 842-3630,,,,,,,,,,,,,,,,,,,,,429 5 Ave,,,WAINWRIGHT,,,AB,,T9W 2R1,Canada,52.8405897,-110.8698072,,True
+HOLDEN LODGE,,,,,,N/A,,,,,,,,,,,,(780) 688-3817,,,,,,,,,,,,,,,,,,,,,4820 52 Ave,,,HOLDEN,,,AB,,T0B 2C0,Canada,53.2339798,-112.2294509,,True
+TOFIELD LODGE,,,,,,(780) 662-7624,,,,,,,,,,,,(780) 662-3477,,,,,,,,,,,,,,,,,,,,,5824 50 St,,,TOFIELD,,,AB,,T0B 4J0,Canada,53.3750715,-112.6644815,,True
+VIALTA LODGE,,,,,,(780) 336-3591,,,,,,,,,,,,(780) 336-3353,,,,,,,,,,,,,,,,,,,,,5128 57 Ave,,,VIKING,,,AB,,T0B 4N0,Canada,53.1005474,-111.7782796,,True
+ROSEALTA LODGE,,,,,,N/A,,,,,,,,,,,,(780) 679-0851,,,,,,,,,,,,,,,,,,,,,4318 53 St,,,CAMROSE,,,AB,,T4V 4G3,Canada,53.010102,-112.832681,,True
+BOW RIVER LODGE,,,,,,N/A,,,,,,,,,,,,(403) 678-5922,,,,,,,,,,,,,,,,,,,,,920 13 St,,,CANMORE,,,AB,,T1W 1W1,Canada,51.0936387,-115.3651186,,True
+SHANGRI-LA LODGE,,,,,,N/A,,,,,,,,,,,,(780) 542-2712,,,,,,,,,,,,,,,,,,,,,5208 47 Ave,,,DRAYTON VALLEY,,,AB,,T7A 1N7,Canada,53.2186049,-114.980115,,True
+PAINTEARTH LODGE,,,,,,N/A,,,,,,,,,,,,(403) 882-3244,,,,,,,,,,,,,,,,,,,,,4501 55 Ave,,,CASTOR,,,AB,,T0C 0X0,Canada,52.2250069,-111.9013524,,True
+WAINWRIGHT ASSOCIATION FOR COMMUNITY LIVING - LOWER LEVEL,,,,,,N/A,,,,,,,,,,,,(780) 842-5302,,,,,,,,,,,,,,,,,,,,,708 1 Avenue Lower Level,,,WAINWRIGHT,,,AB,,T9W 1N7,Canada,ERROR,ERROR,ERROR,False
+CHINOOK LODGE,,,,,,N/A,,,,,,,,,,,,(403) 653-4324,,,,,,,,,,,,,,,,,,,,,451 3 St W,,,CARDSTON,,,AB,,T0K 0K0,Canada,49.1968925,-113.3108611,,True
+DIAMOND WILLOW TERRACE LODGE,,,,,,N/A,,,,,,,,,,,,(403) 758-6866,,,,,,,,,,,,,,,,,,,,,130 Centre St S,,,MAGRATH,,,AB,,T0K 1J0,Canada,49.4144319,-112.8662718,,True
+ANDREW SENIOR CITIZENS' LODGE,,,,,,N/A,,,,,,,,,,,,(780) 764-3013,,,,,,,,,,,,,,,,,,,,,5034 53 Ave,,,ANDREW,,,AB,,T0B 0C0,Canada,53.8824613,-112.3354442,,True
+BEAVERHILL PIONEER LODGE,,,,,,N/A,,,,,,,,,,,,(780) 895-2573,,,,,,,,,,,,,,,,,,,,,5133 51 St,,,LAMONT,,,AB,,T0B 2R0,Canada,53.7613106,-112.7848222,,True
+FATHER FILAS MANOR,,,,,,N/A,,,,,,,,,,,,(780) 764-3013,,,,,,,,,,,,,,,,,,,,,5024 53 Ave,,,MUNDARE,,,AB,,T0B 3H0,Canada,53.59607,-112.337819,,True
+HEART HAVEN LODGE,,,,,,N/A,,,,,,,,,,,,(403) 742-9220,,,,,,,,,,,,,,,,,,,,,6011 50 Ave,,,STETTLER,,,AB,,T0C 2L2,Canada,52.3244251,-112.725878,,True
+WILLOW CREEK LODGE,,,,,,N/A,,,,,,,,,,,,(403) 742-2953,,,,,,,,,,,,,,,,,,,,,6020 47 Ave,,,STETTLER,,,AB,,T0C 2L1,Canada,52.323442,-112.726505,,True
+YORK CREEK LODGE,,,,,,N/A,,,,,,,,,,,,(403) 562-2102,,,,,,,,,,,,,,,,,,,,,1810 112 St,,,BLAIRMORE,,,AB,,T0K 0E0,Canada,49.61273,-114.4596772,Blairmore,True
+CYPRESS VIEW FOUNDATION,,,,,,N/A,,,,,,,,,,,,(403) 525-2228,,,,,,,,,,,,,,,,,,,,,722 Bassett Cr NW,,,MEDICINE HAT,,,AB,,T1A 7W8,Canada,50.0484335,-110.6979625,NW Crescent Heights,True
+SUNSHINE LODGE,,,,,,(403) 823-2070,,,,,,,,,,,,(403) 823-3290,,,,,,,,,,,,,,,,,,,,,698 6 Ave E,,,DRUMHELLER,,,AB,,T0J 0Y5,Canada,51.458891,-112.696269,,True
+EAGLE HILL LODGE,,,,,,N/A,,,,,,,,,,,,(780) 367-2717,,,,,,,,,,,,,,,,,,,,,5303 49 St,,,WILLINGDON,,,AB,,T0B 4R0,Canada,53.829513,-112.111686,,True
+EAGLE VIEW LODGE AND VILLA,,,,,,N/A,,,,,,,,,,,,(780) 366-3750,,,,,,,,,,,,,,,,,,,,,Box 280,,,MYRNAM,,,AB,,T0B 3K0,Canada,ERROR,ERROR,ERROR,True
+HILLSIDE LODGE,,,,,,N/A,,,,,,,,,,,,(780) 657-3559,,,,,,,,,,,,,,,,,,,,,4801 53 Ave,,,TWO HILLS,,,AB,,T0B 4K0,Canada,53.7133187,-111.7420178,,True
+BIG KNIFE LODGE,,,,,,(780) 582-3733,,,,,,,,,,,,(780) 582-3564,,,,,,,,,,,,,,,,,,,,,4401 47 St,,,FORESTBURG,,,AB,,T0B 1N0,Canada,52.580449,-112.057612,,True
+HIGH COUNTRY LODGE,,,,,,N/A,,,,,,,,,,,,(403) 933-4028,,,,,,,,,,,,,,,,,,,,,707 Government Rd,,,BLACK DIAMOND,,,AB,,T0L 0H0,Canada,50.6797769,-114.2346278,,True
+SANDSTONE LODGE,,,,,,N/A,,,,,,,,,,,,(403) 938-6404,,,,,,,,,,,,,,,,,,,,,101 Centre Ct,,,OKOTOKS,,,AB,,T1S 1Y4,Canada,50.728119,-113.9755001,,True
+PLEASANT VIEW LODGE,,,,,,N/A,,,,,,,,,,,,(403) 545-2161,,,,,,,,,,,,,,,,,,,,,1039 1 St E,,,BOW ISLAND,,,AB,,T0K 0G0,Canada,49.8647363,-111.3779585,,True
+HERITAGE LODGE,,,,,,N/A,,,,,,,,,,,,(780) 532-8712,,,,,,,,,,,,,,,,,,,,,10111 96 St,,,GRANDE PRAIRIE,,,AB,,T8V 1Z8,Canada,55.17199,-118.780723,Hillside,True
+PIONEER LODGE,,,,,,N/A,,,,,,,,,,,,(780) 532-2901,,,,,,,,,,,,,,,,,,,,,9508 100 Ave,,,GRANDE PRAIRIE,,,AB,,T8V 0T1,Canada,55.171184,-118.781311,Hillside,True
+PLEASANT VIEW LODGE,,,,,,N/A,,,,,,,,,,,,(780) 864-3766,,,,,,,,,,,,,,,,,,,,,5230 44 Ave,,,SPIRIT RIVER,,,AB,,T0H 3G0,Canada,55.7768375,-118.8476257,,True
+WILD ROSE MANOR,,,,,,(780) 539-5332,,,,,,,,,,,,(780) 538-1818,,,,,,,,,,,,,,,,,,,,,9358 70 Ave,,,GRANDE PRAIRIE,,,AB,,T8V 6L1,Canada,55.143803,-118.774441,South Patterson Place,True
+BEVERLY LODGE,,,,,,N/A,,,,,,,,,,,,(780) 479-4693,,,,,,,,,,,,,,,,,,,,,4410 117 Ave NW,,,EDMONTON,,,AB,,T5W 4Z8,Canada,53.569704,-113.409539,Northeast Edmonton,True
+KIWANIS PLACE LODGE,,,,,,N/A,,,,,,,,,,,,(780) 488-4205,,,,,,,,,,,,,,,,,,,,,10330 120 St NW,,,EDMONTON,,,AB,,T5K 2A6,Canada,53.5454801,-113.5292473,Oliver,True
+MCQUEEN PLACE LODGE,,,,,,N/A,,,,,,,,,,,,(780) 454-6350,,,,,,,,,,,,,,,,,,,,,10910 142 St NW,,,EDMONTON,,,AB,,T5N 2P9,Canada,53.554539,-113.566601,West Edmonton,True
+MEADOWLARK LODGE,,,,,,N/A,,,,,,,,,,,,(780) 484-0581,,,,,,,,,,,,,,,,,,,,,8609 161 St NW,,,EDMONTON,,,AB,,T5R 5X9,Canada,53.519037,-113.59911,West Edmonton,True
+OTTEWELL PLACE LODGE,,,,,,N/A,,,,,,,,,,,,(780) 469-7482,,,,,,,,,,,,,,,,,,,,,6207 92 Ave NW,,,EDMONTON,,,AB,,T6B 0S3,Canada,53.5266871,-113.4276197,Northeast Edmonton,True
+PLEASANTVIEW PLACE LODGE,,,,,,N/A,,,,,,,,,,,,(780) 437-7061,,,,,,,,,,,,,,,,,,,,,5210 110 St NW,,,EDMONTON,,,AB,,T6H 5K1,Canada,53.4901634,-113.5150848,Southwest Edmonton,True
+QUEEN ALEXANDRA LODGE,,,,,,N/A,,,,,,,,,,,,(780) 433-5165,,,,,,,,,,,,,,,,,,,,,10825 77 Ave NW,,,EDMONTON,,,AB,,T6E 6C5,Canada,53.5126234,-113.5108394,Southwest Edmonton,True
+ROSSLYN PLACE LODGE,,,,,,N/A,,,,,,,,,,,,(780) 473-2915,,,,,,,,,,,,,,,,,,,,,10915 134 Ave NW,,,EDMONTON,,,AB,,T5E 1G4,Canada,53.5947507,-113.50935,Northwest Edmonton,True
+VIRGINIA PARK LODGE,,,,,,N/A,,,,,,,,,,,,(780) 479-2403,,,,,,,,,,,,,,,,,,,,,11033 76 St NW,,,EDMONTON,,,AB,,T5B 4T2,Canada,53.5600702,-113.4559776,North Central Edmonton,True
+WILDROSE VILLA,,,,,,N/A,,,,,,,,,,,,(780) 689-3882,,,,,,,,,,,,,,,,,,,,,5002 Ball Ave,,,BOYLE,,,AB,,T0A 0M0,Canada,54.583768,-112.806804,,True
+ALBERTA ROSE LODGE,,,,,,N/A,,,,,,,,,,,,(403) 327-5745,,,,,,,,,,,,,,,,,,,,,2251 32 St S,,,LETHBRIDGE,,,AB,,T1K 4J9,Canada,49.6709699,-112.793953,South Lethbridge,True
+BLUE SKY LODGE,,,,,,N/A,,,,,,,,,,,,(403) 328-9422,,,,,,,,,,,,,,,,,,,,,1431 16 Ave N,,,LETHBRIDGE,,,AB,,T1H 4B9,Canada,49.7195664,-112.8208717,North Lethbridge,True
+GARDEN VIEW LODGE,,,,,,N/A,,,,,,,,,,,,(403) 308-9532,,,,,,,,,,,,,,,,,,,,,751 1 Ave S,,,LETHBRIDGE,,,AB,,T1J 4N7,Canada,49.698112,-112.835745,South Lethbridge,True
+GOLDEN ACRES LODGE,,,,,,N/A,,,,,,,,,,,,(403) 328-9422,,,,,,,,,,,,,,,,,,,,,1615 13 St N,,,LETHBRIDGE,,,AB,,T1H 2V2,Canada,49.7199925,-112.822628,North Lethbridge,True
+HERITAGE LODGE,,,,,,N/A,,,,,,,,,,,,(403) 327-1116,,,,,,,,,,,,,,,,,,,,,601 6 St S,,,LETHBRIDGE,,,AB,,T1J 2E4,Canada,49.6905908,-112.8375874,London Road,True
+PEMMICAN LODGE,,,,,,N/A,,,,,,,,,,,,(403) 328-4127,,,,,,,,,,,,,,,,,,,,,102 5 Ave S,,,LETHBRIDGE,,,AB,,T1J 0S9,Canada,49.6924009,-112.8456452,South Lethbridge,True
+PIYAMI LODGE / PIYAMI PLACE,,,,,,N/A,,,,,,,,,,,,(403) 915-7082,,,,,,,,,,,,,,,,,,,,,300 Rogers Ave,,,PICTURE BUTTE,,,AB,,T0K 1V0,Canada,49.8732575,-112.7773472,,True
+SUNNY SOUTH LODGE,,,,,,N/A,,,,,,,,,,,,(403) 345-5955,,,,,,,,,,,,,,,,,,,,,1112 20 Ave,,,COALDALE,,,AB,,T1M 1L4,Canada,49.727617,-112.60836,,True
+PLEASANTVIEW LODGE,,,,,,N/A,,,,,,,,,,,,(780) 523-3235,,,,,,,,,,,,,,,,,,,,,4600 Pleasant View Dr,,,HIGH PRAIRIE,,,AB,,T0G 1E0,Canada,55.4355594,-116.4827412,,True
+RED WILLOW LODGE,,,,,,N/A,,,,,,,,,,,,(780) 524-5554,,,,,,,,,,,,,,,,,,,,,5403 48 St,,,VALLEYVIEW,,,AB,,T0H 3N0,Canada,55.0742504,-117.2754207,,True
+VILLA BEAUSEJOUR,,,,,,N/A,,,,,,,,,,,,(780) 837-8377,,,,,,,,,,,,,,,,,,,,,302 2 St SE,,,FALHER,,,AB,,T0M 1M0,Canada,55.7341732,-117.1963229,,True
+GOLDEN HILLS LODGE,,,,,,N/A,,,,,,,,,,,,(403) 443-5333,,,,,,,,,,,,,,,,,,,,,814 1 St N,,,THREE HILLS,,,AB,,T0M 2A0,Canada,51.7060507,-113.2611421,,True
+SPRUCE VIEW LODGE AND HEIGHTS,,,,,,N/A,,,,,,,,,,,,(780) 778-5530,,,,,,,,,,,,,,,,,,,,,12 Sunset Blvd,,,WHITECOURT,,,AB,,T7S 1S9,Canada,54.130875,-115.675899,,True
+ECKVILLE MANOR HOUSE,,,,,,N/A,,,,,,,,,,,,(403) 746-2661,,,,,,,,,,,,,,,,,,,,,5111 51 Ave,,,ECKVILLE,,,AB,,T0M 0X0,Canada,52.3598958,-114.3714199,,True
+LACOMBE SENIOR CITIZENS LODGE,,,,,,N/A,,,,,,,,,,,,(403) 782-3811,,,,,,,,,,,,,,,,,,,,,4508 C & E Trl,,,LACOMBE,,,AB,,T4L 1V9,Canada,52.4599169,-113.7439146,,True
+BONNY LODGE (REG),,,,,,N/A,,,,,,,,,,,,(780) 826-3911,,,,,,,,,,,,,,,,,,,,,4712 47 Ave,,,BONNYVILLE,,,AB,,T9N 2E7,Canada,54.264646,-110.733492,,True
+COLD LAKE SENIOR CITIZENS LODGE,,,,,,N/A,,,,,,,,,,,,(780) 639-3495,,,,,,,,,,,,,,,,,,,,,303 12 St,,,COLD LAKE,,,AB,,T9M 1B9,Canada,54.4682692,-110.1799573,,True
+CLOVERLEAF MANOR,,,,,,N/A,,,,,,,,,,,,(780) 986-2814,,,,,,,,,,,,,,,,,,,,,5204 53 Ave,,,WARBURG,,,AB,,T0C 2T0,Canada,53.183876,-114.323275,,True
+PLANEVIEW PLACE,,,,,,N/A,,,,,,,,,,,,(780) 986-2814,,,,,,,,,,,,,,,,,,,,,5105 52 Ave,,,LEDUC,,,AB,,T9E 8P1,Canada,53.2658061,-113.5568077,Willow Park,True
+VANDERWELL HERITAGE PLACE,,,,,,(780) 849-5251,,,,,,,,,,,,(780) 849-2927,,,,,,,,,,,,,,,,,,,,,301 6 Ave NE,,,SLAVE LAKE,,,AB,,T0G 2A2,Canada,55.2864844,-114.7686124,,True
+PIONEER LODGE,,,,,,N/A,,,,,,,,,,,,(780) 875-3382,,,,,,,,,,,,,,,,,,,,,5722 50 St,,,LLOYDMINSTER,,,AB,,T9V 0N6,Canada,53.2839279,-110.0273271,,True
+HOMESTEAD SENIOR CITIZEN'S LODGE,,,,,,(780) 632-6231,,,,,,,,,,,,(780) 632-6211,,,,,,,,,,,,,,,,,,,,,5253 46 Ave,,,VEGREVILLE,,,AB,,T9C 1P9,Canada,53.4936849,-112.0644288,,True
+HERITAGE LODGE,,,,,,N/A,,,,,,,,,,,,(780) 724-4449,,,,,,,,,,,,,,,,,,,,,5338 50 Ave,,,ELK POINT,,,AB,,T0A 1A0,Canada,53.8969789,-110.9085264,,True
+SUNNYSIDE MANOR,,,,,,N/A,,,,,,,,,,,,(780) 645-3530,,,,,,,,,,,,,,,,,,,,,4522 47 Ave,,,ST. PAUL,,,AB,,T0A 3A3,Canada,53.988641,-111.283805,,True
+PETER DAWSON LODGE,,,,,,N/A,,,,,,,,,,,,(403) 485-2636,,,,,,,,,,,,,,,,,,,,,614 1 St N,,,VULCAN,,,AB,,T0L 2B0,Canada,50.4011886,-113.2694038,,True
+WHISPERING WATERS MANOR,,,,,,(780) 963-0923,,,,,,,,,,,,(780) 963-2149,,,,,,,,,,,,,,,,,,,,,5303 47 St,,,STONY PLAIN,,,AB,,T7Z 1P1,Canada,53.527045,-113.999182,,True
+ASPEN COMMUNITY,,,,,,(403) 970-6707,,,,,,,,,,,,(403) 265-2090,,,,,,,,,,,,,,,,,,,,,1171 Bow Valley Ln NE,,,CALGARY,,,AB,,T2E 8B1,Canada,51.0486294,-114.0357079,Northeast Calgary,True
+BEAVERDAM COMMUNITY,,,,,,N/A,,,,,,,,,,,,(403) 279-4623,,,,,,,,,,,,,,,,,,,,,2012 66 Ave SE,,,CALGARY,,,AB,,T2C 1X7,Canada,50.9945452,-114.0127016,,True
+BOW VALLEY COMMUNITY,,,,,,N/A,,,,,,,,,,,,(403) 264-6455,,,,,,,,,,,,,,,,,,,,,1020 Bow Valley Dr NE,,,CALGARY,,,AB,,T2E 6P9,Canada,51.0496039,-114.037845,Northeast Calgary,True
+CONFEDERATION PARK COMMUNITY,,,,,,N/A,,,,,,,,,,,,(403) 282-6060,,,,,,,,,,,,,,,,,,,,,1320 21 Ave NW,,,CALGARY,,,AB,,T2M 1L4,Canada,51.0718282,-114.0908451,Northwest Calgary,True
+JAMES SHOULDICE LODGE,,,,,,N/A,,,,,,,,,,,,(403) 282-6060,,,,,,,,,,,,,,,,,,,,,4730 19 Ave NW,,,CALGARY,,,AB,,T3B 4V2,Canada,51.0742516,-114.1601637,Northwest Calgary,True
+SHAWNESSY COMMUNITY,,,,,,N/A,,,,,,,,,,,,(403) 256-4036,,,,,,,,,,,,,,,,,,,,,30 Shannon Pl SW,,,CALGARY,,,AB,,T2Y 2B3,Canada,50.913158,-114.084331,Southwest Calgary,True
+SPRUCE COMMUNITY,,,,,,N/A,,,,,,,,,,,,(403) 266-2630,,,,,,,,,,,,,,,,,,,,,1055 Bow Valley Dr NE,,,CALGARY,,,AB,,T2E 8A9,Canada,51.0491459,-114.0383058,Northeast Calgary,True
+VALLEYVIEW COMMUNITY,,,,,,N/A,,,,,,,,,,,,(403) 248-1626,,,,,,,,,,,,,,,,,,,,,2736 19 Ave SE,,,CALGARY,,,AB,,T2B 0A3,Canada,51.036273,-113.993882,Southeast Calgary,True
+SILVER WILLOW LODGE,,,,,,N/A,,,,,,,,,,,,(403) 646-2660,,,,,,,,,,,,,,,,,,,,,2007 22 Ave,,,NANTON,,,AB,,T0L 1R0,Canada,50.346736,-113.775233,,True
+ASPEN RIDGE LODGE,,,,,,N/A,,,,,,,,,,,,(403) 335-9848,,,,,,,,,,,,,,,,,,,,,1100 20 Ave,,,DIDSBURY,,,AB,,T0M 0W0,Canada,51.6605909,-114.1223266,,True
+CHINOOK WINDS LODGE,,,,,,N/A,,,,,,,,,,,,(403) 337-2999,,,,,,,,,,,,,,,,,,,,,1401 Gough Rd,,,CARSTAIRS,,,AB,,T0M 0N0,Canada,51.56168,-114.104484,,True
+NEWBROOK LODGE,,,,,,N/A,,,,,,,,,,,,(403) 363-2401,,,,,,,,,,,,,,,,,,,,,500 3 St E,,,BROOKS,,,AB,,T1R 1P6,Canada,50.570084,-111.889454,,True
+PLAYFAIR LODGE,,,,,,N/A,,,,,,,,,,,,(403) 641-3000,,,,,,,,,,,,,,,,,,,,,Box 215,,,BASSANO,,,AB,,T0J 0B0,Canada,ERROR,ERROR,ERROR,True
+THORHILD LODGE,,,,,,N/A,,,,,,,,,,,,(780) 398-3556,,,,,,,,,,,,,,,,,,,,,302 2 Ave,,,THORHILD,,,AB,,T0A 3J0,Canada,54.1537889,-113.1277483,,True
+AUTUMN LODGE,,,,,,N/A,,,,,,,,,,,,(780) 338-3917,,,,,,,,,,,,,,,,,,,,,5217 51 Ave,,,BERWYN,,,AB,,T0H 0E0,Canada,56.1457788,-117.7390176,,True
+DEL-AIR LODGE,,,,,,N/A,,,,,,,,,,,,(780) 836-3325,,,,,,,,,,,,,,,,,,,,,202 1 Avenue SW,,,MANNING,,,AB,,T0H 2M0,Canada,56.9244703,-117.6345819,,True
+HARVEST LODGE,,,,,,N/A,,,,,,,,,,,,(780) 835-2862,,,,,,,,,,,,,,,,,,,,,10400 108 St,,,FAIRVIEW,,,AB,,T0H 1L0,Canada,56.0703975,-118.3795858,,True
+HERITAGE TOWER SENIOR CITIZENS COMPLEX,,,,,,N/A,,,,,,,,,,,,(780) 624-3919,,,,,,,,,,,,,,,,,,,,,10123 103 Ave,,,PEACE RIVER,,,AB,,T8S 1J8,Canada,56.230432,-117.286091,,True
+HOMESTEADER LODGE,,,,,,N/A,,,,,,,,,,,,(780) 494-3500,,,,,,,,,,,,,,,,,,,,,904 2 Ave E,,,HINES CREEK,,,AB,,T0H 2H0,Canada,56.2450273,-118.6022974,,True
+AUTUMN GLEN LODGE,,,,,,N/A,,,,,,,,,,,,(403) 227-3745,,,,,,,,,,,,,,,,,,,,,4045 50 Ave,,,INNISFAIL,,,AB,,T4G 1B2,Canada,52.018344,-113.951966,,True
+CRESTVIEW LODGE,,,,,,(403) 627-3302,,,,,,,,,,,,(403) 627-3833,,,,,,,,,,,,,,,,,,,,,PO Box 1058,PO Box 1058,,PINCHER CREEK,,,AB,,T0K 1W0,Canada,49.4863458,-113.9502549,,True
+PARKVALE LODGE,,,,,,N/A,,,,,,,,,,,,(403) 343-1066,,,,,,,,,,,,,,,,,,,,,4277 46A Ave,,,RED DEER,,,AB,,T4N 3M7,Canada,52.2620906,-113.8037758,,True
+PINES LODGE AND SUPPORTIVE LIVING,,,,,,N/A,,,,,,,,,,,,(403) 343-0656,,,,,,,,,,,,,,,,,,,,,52 Piper Dr,,,RED DEER,,,AB,,T4P 1H8,Canada,52.292681,-113.807854,,True
+PIPER CREEK LODGE,,,,,,N/A,,,,,,,,,,,,(403) 343-1066,,,,,,,,,,,,,,,,,,,,,4820 33 St,,,RED DEER,,,AB,,T4P 1H8,Canada,52.252764,-113.811387,,True
+PORCUPINE HILLS LODGE,,,,,,N/A,,,,,,,,,,,,(403) 625-3988,,,,,,,,,,,,,,,,,,,,,5312 5 St E,,,CLARESHOLM,,,AB,,T0L 0T0,Canada,50.0297705,-113.5717348,,True
+HILLCREST LODGE,,,,,,N/A,,,,,,,,,,,,(780) 753-2534,,,,,,,,,,,,,,,,,,,,,5428 51 St,,,PROVOST,,,AB,,T0B 3S0,Canada,52.3578827,-110.2672761,,True
+RIDGEVIEW LODGE,,,,,,N/A,,,,,,,,,,,,(403) 752-3683,,,,,,,,,,,,,,,,,,,,,227 East 100 S,,,RAYMOND,,,AB,,T0K 2S0,Canada,49.4595638,-112.6527318,,True
+GOLDEN LEISURE LODGE,,,,,,N/A,,,,,,,,,,,,(403) 783-3940,,,,,,,,,,,,,,,,,,,,,5608 57 Ave,,,PONOKA,,,AB,,T4J 1P2,Canada,52.683702,-113.587772,,True
+PARKLAND MANOR,,,,,,N/A,,,,,,,,,,,,(403) 843-2376,,,,,,,,,,,,,,,,,,,,,4906 54 Ave,,,RIMBEY,,,AB,,T0C 2J0,Canada,52.6439199,-114.2357909,,True
+WESTVIEW LODGE,,,,,,N/A,,,,,,,,,,,,(403) 845-3588,,,,,,,,,,,,,,,,,,,,,5427 52 Ave,,,ROCKY MOUNTAIN HOUSE,,,AB,,T4T 1S9,Canada,52.376906,-114.927255,,True
+BIG HILL LODGE,,,,,,N/A,,,,,,,,,,,,(403) 932-3355,,,,,,,,,,,,,,,,,,,,,98 Carolina Dr,,,COCHRANE,,,AB,,T4C 1X5,Canada,51.1889247,-114.4570212,,True
+ROCKY VIEW LODGE,,,,,,N/A,,,,,,,,,,,,(403) 946-5615,,,,,,,,,,,,,,,,,,,,,1220 Hammond Ave,,,CROSSFIELD,,,AB,,T0M 0S0,Canada,51.4296997,-114.0330256,,True
+WETASKIWIN MEADOWS,,,,,,N/A,,,,,,,,,,,,(780) 678-4989,,,,,,,,,,,,,,,,,,,,,5402 52 Ave,,,WETASKIWIN,,,AB,,T9A 0X9,Canada,52.972531,-113.384454,,True
+GOOD SAMARITAN GROUP HOME - WESTPARK,,,,,,(780) 431-3795,,,,,,,,,,,,(780) 431-3738,,,,,,,,,,,,,,,,,,,,,8861 75 St,,,EDMONTON,,,AB,,T6C 4G8,Canada,53.5239871,-113.4421178,Northeast Edmonton,True
+WEST PINE LODGE,,,,,,N/A,,,,,,,,,,,,(780) 682-3960,,,,,,,,,,,,,,,,,,,,,5 Avenue & 4 St,,,WINFIELD,,,AB,,T0C 2X0,Canada,52.9673452,-114.4213337,,True
+CLOVER BAR LODGE,,,,,,N/A,,,,,,,,,,,,(780) 467-7360,,,,,,,,,,,,,,,,,,,,,100 Fir St,,,SHERWOOD PARK,,,AB,,T8A 1Z7,Canada,53.514346,-113.316426,,True
+SILVER BIRCH LODGE,,,,,,N/A,,,,,,,,,,,,(780) 400-3601,,,,,,,,,,,,,,,,,,,,,910 Bison Way,,,SHERWOOD PARK,,,AB,,T8H 2C4,Canada,53.549855,-113.296866,,True
+SYLVAN LAKE LODGE,,,,,,N/A,,,,,,,,,,,,(403) 949-1077,,,,,,,,,,,,,,,,,,,,,100 4620 47 Ave,,,SYLVAN LAKE,,,AB,,T4S 1N2,Canada,52.30519,-114.091729,,True
+CLEARVIEW LODGE,,,,,,N/A,,,,,,,,,,,,(403) 223-2822,,,,,,,,,,,,,,,,,,,,,4730 50 Ave,,,TABER,,,AB,,T1G 2G9,Canada,49.785883,-112.154995,,True
+PINE VALLEY LODGE,,,,,,N/A,,,,,,,,,,,,(780) 865-7366,,,,,,,,,,,,,,,,,,,,,117 Boutin Ave,,,HINTON,,,AB,,T7V 2E3,Canada,53.4235395,-117.5400869,,True
+SUNSHINE PLACE LODGE,,,,,,N/A,,,,,,,,,,,,(780) 727-4482,,,,,,,,,,,,,,,,,,,,,5225 50 St,,,EVANSBURG,,,AB,,T0E 0T0,Canada,53.6045975,-115.0182502,,True
+WHISPERING PINES LODGE,,,,,,N/A,,,,,,,,,,,,(780) 827-5600,,,,,,,,,,,,,,,,,,,,,10210 Shand Ave,,,GRANDE CACHE,,,AB,,T0E 0Y0,Canada,53.8911557,-119.1200658,,True
+BAR V NOOK SUPPORTIVE LIVING,,,,,,N/A,,,,,,,,,,,,(780) 656-3951,,,,,,,,,,,,,,,,,,,,,4504/4524 52 Ave,,,SMOKY LAKE,,,AB,,T0A 3C0,Canada,54.1167894,-112.4677288,,True
+VILNA LODGE,,,,,,N/A,,,,,,,,,,,,(780) 636-3545,,,,,,,,,,,,,,,,,,,,,5404 50 St,,,VILNA,,,AB,,T0A 3L0,Canada,54.1204849,-111.9226599,,True
+VERMILION VALLEY LODGE,,,,,,N/A,,,,,,,,,,,,(780) 853-5706,,,,,,,,,,,,,,,,,,,,,4610 53 Ave,,,VERMILION,,,AB,,T9X 1G6,Canada,53.3572114,-110.8407679,,True
+WHEATLAND HOUSING MANAGEMENT BODY,,,,,,N/A,,,,,,,,,,,,(403) 934-3474,,,,,,,,,,,,,,,,,,,,,76 2 St,,,STRATHMORE,,,AB,,T1P 1J8,Canada,51.044925,-113.398286,,True
+ROTARY HOUSE,,,,,,(780) 791-1173,,,,,,,,,,,,(780) 791-1164,,,,,,,,,,,,,,,,,,,,,10116 Fraser Ave,,,FORT MCMURRAY,,,AB,,T9H 5E9,Canada,56.73134,-111.383775,,True
+CATHOLIC SOCIAL SERVICES,,,,,,N/A,,,,,,,,,,,,(780) 701-9474,,,,,,,,,,,,,,,,,,,,,8815 99th St,,,EDMONTON,,,AB,,T6E 3V3,Canada,53.524238,-113.48568,South Central Edmonton,True
+FOUNTAINS OF MISSION,,,,,,N/A,,,,,,,,,,,,(403) 244-0322,,,,,,,,,,,,,,,,,,,,,222 25 Ave SW,,,CALGARY,,,AB,,T2S 3E9,Canada,51.0307077,-114.068064,Southwest Calgary,True
+62ND AVENUE EAST RESIDENCE,,,,,,N/A,,,,,,,,,,,,(780) 532-8436,,,,,,,,,,,,,,,,,,,,,8903 62 Ave,,,GRANDE PRAIRIE,,,AB,,T8W 2P4,Canada,55.1362598,-118.7600465,Countryside South,True
+GRAND MANOR,,,,,,(780) 455-2589,,,,,,,,,,,,(780) 414-4718,,,,,,,,,,,,,,,,,,,,,9797 110 St NW,Suite 500,,EDMONTON,,,AB,,T5K 2L9,Canada,53.5360499,-113.5098991,North Central Edmonton,True

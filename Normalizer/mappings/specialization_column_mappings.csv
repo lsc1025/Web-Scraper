@@ -1,0 +1,13 @@
+normalized_column_name,description,type,mapped_column_names,nullable,note
+alzheimer_facility,Is or is not an Alzheimer Facility,boolean,ALZHEIMER_FACILITY,TRUE,
+supports_irreversable_dimentia_alzheimers,boolean,IRREVERSIBLE_DEMENTIA/ALZHEIMER'S,TRUE,
+supports_advanced_aged,,boolean,ADVANCED_AGED,,
+supports_alcohol_drug_dependent,,boolean,ALCOHOL/DRUG_DEPENDENT,,
+supports_developmentally_disabled,,boolean,DEVELOPMENTALLY_DISABLED,,
+supports_emotionally_disturbed_mental_illness,,boolean,EMOTIONALLY_DISTURBED/MENTAL_ILLNESS,,
+supports_phyically_disabled,,boolean,PHYSICALLY_DISABLED,,
+supports_pregnant_women,,boolean,PREGNANT_WOMEN/COUNSELLING,,
+supports_terminally_ill,,boolean,TERMINALLY_ILL,,
+supports_traumatic_brain_injury,,boolean,TRAUMATIC_BRAIN_INJURY,,
+specialty_programs,,list_of_str,SPECIALTY_PROGRAMS,,
+provides_nursing,,boolean,PROVIDES_NURSING,,

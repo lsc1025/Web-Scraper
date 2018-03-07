@@ -1,0 +1,35 @@
+name,contact_first_name,contact_last_name,contact_name,email,contact_email,fax,mailing_address_line_1,mailing_address_line_2,mailing_city,mailing_contact_first_name,mailing_contact_last_name,mailing_contact_name,mailing_country,mailing_county,mailing_postalcode,mailing_province,provider_name,primary_phone,secondary_phone,twitter,website,source,contact_occupation,dsgne_first_name,dsgne_last_name,admin_name,co_address_line_1,co_address_line_2,co_company,co_city,co_postalcode,co_province,ombudsman_phone,typeofcare,typeofcare2,low_high_rate,low_rate,high_rate,address_line_1,address_line_2,address_directions,city,municipality,region,province,state_id,postal_code,country,latitude,longitude,neighborhood,addr_valid
+Ashley,,,,,,,,,,,,,,,,,FL AND B dba THE PILLARS OF THE COMMUNITY,870-364-2474,,,,,,,,,,,,,,,,,Assisted Living,,,,400 MAIN St,,,CROSSETT,,,AR,,71635-1116,US,33.1305463,-91.96213499999999,,True
+Baxter,,,,,,,,,,,,,,,,,GOOD SAMARITAN SOCIETY,870-425-0557,,,,,,,,,,,,,,,,,Assisted Living,,,,200 GOOD SAMARITAN DR,,,MOUNTAIN HOME,,,AR,,72653-9325,US,36.3155093,-92.3533846,,False
+Baxter,,,,,,,,,,,,,,,,,RIVER LODGE ASSISTED LIVING AUTUMN HOME CARE FACILITIES INC. dba  AUTUMN,870-424-2336,,,,,,,,,,,,,,,,,Assisted Living,,,,2509 HWY 62 W,,,MOUNTAIN HOME,,,AR,,72653,US,36.3497739,-92.336211,,True
+Benton,,,,,,,,,,,,,,,,,PLACE AT OAK RIDGE,479-451-1800,,,,,,,,,,,,,,,,,Assisted Living,,,,103 WADE Ln,,,PEA RIDGE,,,AR,,72751-3309,US,36.432836,-94.117217,,True
+Benton,,,,,,,,,,,,,,,,,LEGACY VILLAGE GREENHOUSE ASSISTED LIVING FACILITY,479-271-2387,,,,,,,,,,,,,,,,,Assisted Living,,,,1303 NE LEGACY Pkwy,,,BENTONVILLE,,,AR,,72712-4940,US,36.3812302,-94.19282369999999,,True
+Benton,,,,,,,,,,,,,,,,,THE GARDENS AT OSAGE TERRACE,479-254-8759,,,,,,,,,,,,,,,,,Assisted Living,,,,"3317 SE ""L"" St",,,BENTONVILLE,,,AR,,72712-3793,US,36.3379589,-94.19358319999999,,True
+Carroll,,,,,,,,,,,,,,,,,"GREEN ACRE LODGE, INC.",479-253-6553,,,,,,,,,,,,,,,,,Assisted Living,,,,89 HILLSIDE Dr,,,HOLIDAY ISLAND,,,AR,,72631-0000,US,36.48653959999999,-93.7583073,,True
+Carroll,,,,,,,,,,,,,,,,,HOLLY HOUSE,479-253-9800,,,,,,,,,,,,,,,,,Assisted Living,,,,100 RIDGEVIEW Rd,,,EUREKA SPRINGS,,,AR,,72632-9358,US,36.3901147,-93.7051651,,True
+Clay,,,,,,,,,,,,,,,,,MAGNOLIA MANOR ASSISTED LIVING,870-598-1025,,,,,,,,,,,,,,,,,Assisted Living,,,,1200 GORDON DUCKWORTH DR,,,PIGGOTT,,,AR,,72454-1916,US,36.39212370000001,-90.20495939999999,,False
+Cleburne,,,,,,,,,,,,,,,,,SOUTHRIDGE VILLAGE RETIREMENT CENTER,5-1-362-7023,,,,,,,,,,,,,,,,,Assisted Living,,,,401 SOUTHRIDGE Pkwy,,,HEBER SPRINGS,,,AR,,72543-0000,US,35.4920171,-91.9963593,,True
+Columbia,,,,,,,,,,,,,,,,,DUDNEYWOOD ASSISTED LIVING,870-234-2800,,,,,,,,,,,,,,,,,Assisted Living,,,,2600 NORTH DUDNEY Rd,,,MAGNOLIA,,,AR,,71753-0000,US,33.294474,-93.2100648,,True
+Conway,,,,,,,,,,,,,,,,,THE CROSSING AT MALVERN,501-467-8488,,,,,,,,,,,,,,,,,Assisted Living,,,,720 North Walco Rd,,,Malvern,,,AR,,72104,US,34.3729181,-92.8273353,,True
+Crawford,,,,,,,,,,,,,,,,,"HOPE'S CREEK, INC.",479-471-1900,,,,,,,,,,,,,,,,,Assisted Living,,,,2502 FAYETTEVILLE Rd,,,VAN BUREN,,,AR,,72956-0000,US,35.4739037,-94.3553305,,True
+Crawford,,,,,,,,,,,,,,,,,EMERITUS at CHENAL HEIGHTS,479-471-9797,,,,,,,,,,,,,,,,,Assisted Living,,,,217 LAKEWOOD Rd,,,VAN BUREN,,,AR,,72956-8120,US,35.53426,-94.36856399999999,,True
+Crittenden,,,,,,,,,,,,,,,,,ALF PROPERTIES OF CRITTENDEN COUNTY dba POINTS OF LIGHT,870-394-9577,,,,,,,,,,,,,,,,,Assisted Living,,,,410 S AVALON St,,,WEST MEMPHIS,,,AR,,72301-4183,US,35.1427846,-90.1933822,,True
+Faulkner,,,,,,,,,,,,,,,,,PEACHTREE MENA,479-394-2600,,,,,,,,,,,,,,,,,Assisted Living,,,,1803 CORDIE DR,,,MENA,,,AR,,71953-9340,US,34.5710582,-94.2456224,,False
+Faulkner,,,,,,,,,,,,,,,,,SOUTHRIDGE VILLAGE ASSISTED LIVING,501-327-3030,,,,,,,,,,,,,,,,,Assisted Living,,,,1306 S DONAGHEY AVE,,,CONWAY,,,AR,,72034-6993,US,35.0619446,-92.4536748,,False
+Faulkner,,,,,,,,,,,,,,,,,"VILLAGE PARK OF CONWAY, INC.",501-327-6428,,,,,,,,,,,,,,,,,Assisted Living,,,,1622 SCOTT St,,,CONWAY,,,AR,,72034-5235,US,35.0864636,-92.4461839,,True
+Garland,,,,,,,,,,,,,,,,,GARRETT MANOR,501-525-1725,,,,,,,,,,,,,,,,,Assisted Living,,,,142 BRIGHTON TERRACE,,,HOT SPRINGS,,,AR,,71913-0000,US,34.450533,-93.088844,Hot Springs National Park,False
+Grant,,,,,,,,,,,,,,,,,CROWN POINT RETIREMENT CENTER LLC,870-942-4623,,,,,,,,,,,,,,,,,Assisted Living,,,,510 SOUTH ROSE,,,SHERIDAN,,,AR,,72150-0000,US,34.30257460000001,-92.4045763,,False
+Independence,,,,,,,,,,,,,,,,,EAGLE MOUNTAIN ASSISTED LIVING,870-612-8700,,,,,,,,,,,,,,,,,Assisted Living,,,,302 WOODMONT Cir,,,BATESVILLE,,,AR,,72501-0000,US,35.763181,-91.6121074,,True
+Jefferson,,,,,,,,,,,,,,,,,GARDEN POINTE LIVING CENTER,870-535-9283,,,,,,,,,,,,,,,,,Assisted Living,,,,7001 SOUTH HAZEL St,,,PINE BLUFF,,,AR,,71603-0000,US,34.1536995,-92.0239663,,True
+Jefferson,,,,,,,,,,,,,,,,,WHISPERING KNOLL,870-534-1583,,,,,,,,,,,,,,,,,Assisted Living,,,,6812 SOUTH HAZEL St,,,PINE BLUFF,,,AR,,71603-0000,US,34.1551312,-92.0278166,,True
+Jefferson,,,,,,,,,,,,,,,,,THE GARDENS AT WHISPERING KNOLL,870-850-2939,,,,,,,,,,,,,,,,,Assisted Living,,,,6814 SOUTH HAZEL St,,,PINE BLUFF,,,AR,,71603-0000,US,34.154439,-92.027914,,True
+Madison,,,,,,,,,,,,,,,,,"COUNTRYSIDE HEALTHCARE, INC. dba  COUNTRYSIDE ASSISTED LIVING FACILITY",479-738-1500,,,,,,,,,,,,,,,,,Assisted Living,,,,722 PHILLIPS Pl,,,HUNTSVILLE,,,AR,,72740-9517,US,36.0906954,-93.7424099,,True
+Montgomery,,,,,,,,,,,,,,,,,MONTGOMERY COUNTY ASSISTED LIVING,870-867-2159,,,,,,,,,,,,,,,,,Assisted Living,,,,147 SENIOR Dr,,,MOUNT IDA,,,AR,,71957-1208,US,34.5434006,-93.62853489999999,,True
+Pike,,,,,,,,,,,,,,,,,OAK PARK VILLAGE,870-356-4426,,,,,,,,,,,,,,,,,Assisted Living,,,,507 MOUNTAIN VIEW RD,,,GLENWOOD,,,AR,,71943-9011,US,34.33079800000001,-93.541635,,False
+Pope,,,,,,,,,,,,,,,,,FOX RIDGE ASSISTED LIVING,479-968-7930,,,,,,,,,,,,,,,,,Assisted Living,,,,PO BOX 9178,,,RUSSELLVILLE,,,AR,,72811,US,35.2784173,-93.1337856,,True
+Pulaski,,,,,,,,,,,,,,,,,EMERITUS at CHENAL HEIGHTS,501-821-1555,,,,,,,,,,,,,,,,,Assisted Living,,,,#1 CHENAL HEIGHTS Dr,,,LITTLE ROCK,,,AR,,72223-3910,US,34.7759965,-92.45249559999999,,False
+Pulaski,,,,,,,,,,,,,,,,,MADISON RESIDENTIAL CARE,501-888-4200,,,,,,,,,,,,,,,,,Assisted Living,,,,2821 W DIXON RD,,,LITTLE ROCK,,,AR,,72206-4256,US,34.65813070000001,-92.2871029,,False
+Saline,,,,,,,,,,,,,,,,,FOX RIDGE ASSISTED LIVING,501-847-3400,,,,,,,,,,,,,,,,,Assisted Living,,,,4216 FOX RIDGE,,,BENTON,,,AR,,72018-0000,US,34.6326121,-92.487867,,False
+Sebastian,,,,,,,,,,,,,,,,,MERCY CREST RETIREMENT CENTER,479-478-3000,,,,,,,,,,,,,,,,,Assisted Living,,,,1300 STROZIER Ln,,,BARLING,,,AR,,72923-0000,US,35.3364833,-94.310509,,True
+Van Buren,,,,,,,,,,,,,,,,,VILLAGE GARDENS; WHITE COUNTY MEDICAL CENTER dba,501-884-3210,,,,,,,,,,,,,,,,,Assisted Living,,,,265 DAVE CREEK Pkwy,,,FAIRFIELD BAY,,,AR,,72088-0000,US,35.61804899999999,-92.262112,,True
+White,,,,,,,,,,,,,,,,,RIVER OAKS VILLAGE ASSISTED LIVING,501-268-4169,,,,,,,,,,,,,,,,,Assisted Living,,,,3014 E MOORE Ave,,,SEARCY,,,AR,,72143-5069,US,35.253902,-91.7002361,,True

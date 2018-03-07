@@ -1,0 +1,877 @@
+name,contact_first_name,contact_last_name,contact_name,email,contact_email,fax,mailing_address_line_1,mailing_address_line_2,mailing_city,mailing_contact_first_name,mailing_contact_last_name,mailing_contact_name,mailing_country,mailing_county,mailing_postalcode,mailing_province,provider_name,primary_phone,secondary_phone,twitter,website,source,contact_occupation,dsgne_first_name,dsgne_last_name,admin_name,co_address_line_1,co_address_line_2,co_company,co_city,co_postalcode,co_province,ombudsman_phone,typeofcare,typeofcare2,low_high_rate,low_rate,high_rate,address_line_1,address_line_2,address_directions,city,municipality,region,province,state_id,postal_code,country,latitude,longitude,neighborhood,addr_valid
+ALTERNATIVE LIVING-FREDERICK,,,,,,,,,,,,,,,,,,Fayette (33),,,,,,,,,,,,,,,,,3-5 Bed RCF/ID/MI/DD,,,,205 N Frederick Ave,,,Oelwein,,,IA,,50662,US,42.6816365,-91.9129002,,True
+"ANCHOR HOMES, INC. - JAMES' JOURNEY",,,,,,,,,,,,,,,,,,Page (73),,,,,,,,,,,,,,,,,3-5 Bed RCF/ID/MI/DD,,,,215 N 19th St,,,Clarinda,,,IA,,51632,US,40.739958,-95.0420225,,True
+"ANCHOR HOMES, INC. - MICKEY'S MANSION",,,,,,,,,,,,,,,,,,Page (73),,,,,,,,,,,,,,,,,3-5 Bed RCF/ID/MI/DD,,,,501 N 15th St,,,Clarinda,,,IA,,51632,US,40.7423592,-95.0360828,,True
+ARCH I,,,,,,,,,,,,,,,,,,Clinton (23),,,,,,,,,,,,,,,,,3-5 Bed RCF/ID/MI/DD,,,,402 S 4th St,,,Clinton,,,IA,,52732,US,41.8420978,-90.1935779,,True
+ARCH II,,,,,,,,,,,,,,,,,,Clinton (23),,,,,,,,,,,,,,,,,3-5 Bed RCF/ID/MI/DD,,,,734 5th Ave S,PO BOX 0278,,Clinton,,,IA,,52732,US,41.8412891,-90.2035391,,True
+ARCH IV,,,,,,,,,,,,,,,,,,Clinton (23),,,,,,,,,,,,,,,,,3-5 Bed RCF/ID/MI/DD,,,,78 32nd Ave N,,,Clinton,,,IA,,52732,US,41.8826,-90.17456899999999,,True
+BEACON COMMUNITY LIVING HOME,,,,,,,,,,,,,,,,,,Dubuque (31),,,,,,,,,,,,,,,,,3-5 Bed RCF/ID/MI/DD,,,,2417 Beacon Hill Dr,,,Dubuque,,,IA,,52003,US,42.47820449999999,-90.7008043,,True
+BIRCH HOUSE,,,,,,,,,,,,,,,,,,Johnson (52),,,,,,,,,,,,,,,,,3-5 Bed RCF/ID/MI/DD,,,,745 Pepper Dr,,,Iowa City,,,IA,,52240,US,41.6355647,-91.52528319999999,Twain,True
+BUNKER COMMUNITY LIVING HOME,,,,,,,,,,,,,,,,,,Dubuque (31),,,,,,,,,,,,,,,,,3-5 Bed RCF/ID/MI/DD,,,,2085 Bunker Hill Rd,,,Dubuque,,,IA,,52001,US,42.5059186,-90.7010299,,True
+COMMUNITY NEURO REHAB - ASHWORTH,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,3-5 Bed RCF/ID/MI/DD,,,,5008 Ashworth Rd,,,West Des Moines,,,IA,,50266,US,41.584198,-93.771468,,True
+COMMUNITY NEURO REHAB-ONEIDA POINT,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,3-5 Bed RCF/ID/MI/DD,,,,3000 SW 37th St,,,Des Moines,,,IA,,50321,US,41.55735990000001,-93.66786189999999,Southwestern Hills,True
+COMMUNITY NEUROREHAB - GLEN OAKS,,,,,,,,,,,,,,,,,,Johnson (52),,,,,,,,,,,,,,,,,3-5 Bed RCF/ID/MI/DD,,,,2033 Glen Oaks Ridge,,,Coralville,,,IA,,52241,US,41.71022679999999,-91.5923388,Wickham,False
+CONCORD COMMUNITY LIVING HOME,,,,,,,,,,,,,,,,,,Dubuque (31),,,,,,,,,,,,,,,,,3-5 Bed RCF/ID/MI/DD,,,,2052 Concord Ct,,,Dubuque,,,IA,,52003,US,42.4890576,-90.6936429,,True
+FALEY REFLECTIONS HOUSE,,,,,,,,,,,,,,,,,,Dubuque (31),,,,,,,,,,,,,,,,,3-5 Bed RCF/ID/MI/DD,,,,2439 Wilbricht Ln,,,Dubuque,,,IA,,52001,US,42.5046911,-90.7023016,,True
+FLORA ADULT GROUP HOME,,,,,,,,,,,,,,,,,,Dubuque (31),,,,,,,,,,,,,,,,,3-5 Bed RCF/ID/MI/DD,,,,2535 Wilbricht Ln,,,Dubuque,,,IA,,52001,US,42.504813,-90.705016,,True
+KENNEDY COMMUNITY LIVING HOME,,,,,,,,,,,,,,,,,,Dubuque (31),,,,,,,,,,,,,,,,,3-5 Bed RCF/ID/MI/DD,,,,12488 John F Kennedy Rd,,,Dubuque,,,IA,,52002,US,42.536036,-90.730877,,True
+KEYWAY COMMUNITY LIVING HOME,,,,,,,,,,,,,,,,,,Dubuque (31),,,,,,,,,,,,,,,,,3-5 Bed RCF/ID/MI/DD,,,,2129 Key Way Dr,,,Dubuque,,,IA,,52002,US,42.50868800000001,-90.725487,,True
+MARYWOOD GROUP HOME,,,,,,,,,,,,,,,,,,Dubuque (31),,,,,,,,,,,,,,,,,3-5 Bed RCF/ID/MI/DD,,,,2671 Marywood Dr,,,Dubuque,,,IA,,52001,US,42.51801500000001,-90.7176999,,True
+NEURORESTORATIVE - ANKENY,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,3-5 Bed RCF/ID/MI/DD,,,,4102 NW 2nd Ct,,,Ankeny,,,IA,,50023,US,41.73250580000001,-93.65406759999999,,True
+NEURORESTORATIVE - CAVALIER,,,,,,,,,,,,,,,,,,Woodbury (97),,,,,,,,,,,,,,,,,3-5 Bed RCF/ID/MI/DD,,,,2021 Cavalier Way,,,Sioux City,,,IA,,51109,US,42.5142957,-96.4857651,,True
+NEURORESTORATIVE - CEDAR RAPIDS,,,,,,,,,,,,,,,,,,Linn (57),,,,,,,,,,,,,,,,,3-5 Bed RCF/ID/MI/DD,,,,6006 Beverly Rd SW,,,Cedar Rapids,,,IA,,52404,US,41.93920200000001,-91.749127,,True
+NEURORESTORATIVE - DEWITT,,,,,,,,,,,,,,,,,,Clinton (23),,,,,,,,,,,,,,,,,3-5 Bed RCF/ID/MI/DD,,,,2803 262nd St,,,DeWitt,,,IA,,52742,US,41.7986015,-90.5480454,,True
+NEURORESTORATIVE - FLORENCE,,,,,,,,,,,,,,,,,,Woodbury (97),,,,,,,,,,,,,,,,,3-5 Bed RCF/ID/MI/DD,,,,1126 Florence Ave,,,Sioux City,,,IA,,51109,US,42.5139497,-96.4823164,,True
+NEURORESTORATIVE - IOWA CITY,,,,,,,,,,,,,,,,,,Johnson (52),,,,,,,,,,,,,,,,,3-5 Bed RCF/ID/MI/DD,,,,4569 Jenn Ln NE,,,Iowa City,,,IA,,52240,US,41.710622,-91.486829,Shimek,True
+NEW VENTURE GROUP HOME,,,,,,,,,,,,,,,,,,Wayne (93),,,,,,,,,,,,,,,,,3-5 Bed RCF/ID/MI/DD,,,,401 S Washington St,,,Corydon,,,IA,,50060,US,40.754928,-93.31802599999999,,True
+SPIRES COMMUNITY LIVING HOME,,,,,,,,,,,,,,,,,,Dubuque (31),,,,,,,,,,,,,,,,,3-5 Bed RCF/ID/MI/DD,,,,969 Spires Dr,,,Dubuque,,,IA,,52001,US,42.51311199999999,-90.68794299999999,,True
+VIZALEEA HOUSE,,,,,,,,,,,,,,,,,,Dubuque (31),,,,,,,,,,,,,,,,,3-5 Bed RCF/ID/MI/DD,,,,1785 Vizaleea Dr,,,Dubuque,,,IA,,52002,US,42.5023512,-90.7300058,,True
+3801 Grand,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,ALP/D,,,,3801 Grand Ave,,,Des Moines,,,IA,,50312,US,41.5852402,-93.6684961,North of Grand,True
+Arbor Place,,,,,,,,,,,,,,,,,,Linn (57),,,,,,,,,,,,,,,,,ALP/D,,,,1140 K Ave NW,,,Cedar Rapids,,,IA,,52405,US,41.98434400000001,-91.688878,Northwest Area,True
+Arlington Place of Oelwein,,,,,,,,,,,,,,,,,,Fayette (33),,,,,,,,,,,,,,,,,ALP/D,,,,1101 3rd St SW,,,Oelwein,,,IA,,50662,US,42.6751983,-91.9310002,,True
+Arlington Place of Pocahontas,,,,,,,,,,,,,,,,,,Pocahontas (76),,,,,,,,,,,,,,,,,ALP/D,,,,101 NE 5th St,,,Pocahontas,,,IA,,50574,US,42.7340989,-94.66114909999999,,True
+Arlington Place of Red Oak,,,,,,,,,,,,,,,,,,Montgomery (69),,,,,,,,,,,,,,,,,ALP/D,,,,800 Ratliff Rd,,,Red Oak,,,IA,,51566,US,41.0312914,-95.2222784,,True
+Bickford Cottage Burlington,,,,,,,,,,,,,,,,,,Des Moines (29),,,,,,,,,,,,,,,,,ALP/D,,,,3301 Sterling Dr,,,Burlington,,,IA,,52601,US,40.7988746,-91.14337909999999,,True
+Bickford Cottage Clinton,,,,,,,,,,,,,,,,,,Clinton (23),,,,,,,,,,,,,,,,,ALP/D,,,,1150 13th Ave N,,,Clinton,,,IA,,52732,US,41.8594971,-90.2120474,,True
+Bickford Cottage Davenport,,,,,,,,,,,,,,,,,,Scott (82),,,,,,,,,,,,,,,,,ALP/D,,,,4040 E 55th St,,,Davenport,,,IA,,52807,US,41.5782697,-90.51522109999999,,True
+Bickford Cottage Fort Dodge,,,,,,,,,,,,,,,,,,Webster (94),,,,,,,,,,,,,,,,,ALP/D,,,,1536 20th Ave N,,,Fort Dodge,,,IA,,50501,US,42.52700550000001,-94.1763706,,True
+Bickford Cottage II Sioux City,,,,,,,,,,,,,,,,,,Woodbury (97),,,,,,,,,,,,,,,,,ALP/D,,,,4022 Indian Hills Dr,,,Sioux City,,,IA,,51108,US,42.5401301,-96.3739604,,True
+Bickford Cottage Iowa City,,,,,,,,,,,,,,,,,,Johnson (52),,,,,,,,,,,,,,,,,ALP/D,,,,3500 Lower West Branch Rd,,,Iowa City,,,IA,,52245,US,41.665228,-91.48221129999999,Lemme,True
+Bickford Cottage Marion,,,,,,,,,,,,,,,,,,Linn (57),,,,,,,,,,,,,,,,,ALP/D,,,,1100 Linden Dr,,,Marion,,,IA,,52302,US,42.0375474,-91.5764803,,True
+Bickford Cottage Marshalltown,,,,,,,,,,,,,,,,,,Marshall (64),,,,,,,,,,,,,,,,,ALP/D,,,,101 Newcastle Rd,,,Marshalltown,,,IA,,50158,US,42.0199915,-92.9111448,,True
+Bickford Cottage Muscatine,,,,,,,,,,,,,,,,,,Muscatine (70),,,,,,,,,,,,,,,,,ALP/D,,,,2807 Cedar St,,,Muscatine,,,IA,,52761,US,41.4369075,-91.07699389999999,,True
+Bickford Cottage Urbandale,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,ALP/D,,,,5915 Sutton Pl,,,Urbandale,,,IA,,50322,US,41.64905469999999,-93.70148160000001,,True
+Bickford Cottage WDM,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,ALP/D,,,,5050 Hawthorne Dr,,,West Des Moines,,,IA,,50265,US,41.5631855,-93.7724897,,True
+Bridges at Ankeny,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,ALP/D,,,,3510 NW Abilene Rd,,,Ankeny,,,IA,,50023,US,41.7562806,-93.628545,,True
+Calvin Community AL Services,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,ALP/D,,,,4210 Hickman Rd,,,Des Moines,,,IA,,50310,US,41.61450609999999,-93.6753852,Beaverdale,True
+Cedars of Madrid Homes,,,,,,,,,,,,,,,,,,Boone (08),,,,,,,,,,,,,,,,,ALP/D,,,,600 N Kennedy Ave,,,Madrid,,,IA,,50156,US,41.88429439999999,-93.8163254,,True
+Claremont's Ramsey Village,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,ALP/D,,,,1611 27th St,,,Des Moines,,,IA,,50310,US,41.60889309999999,-93.65272499999999,Drake,True
+Clover Ridge Place,,,,,,,,,,,,,,,,,,Jackson (49),,,,,,,,,,,,,,,,,ALP/D,,,,205 Ehlers Ln,,,Maquoketa,,,IA,,52060,US,42.0702436,-90.6861531,,True
+Cottage Grove Place,,,,,,,,,,,,,,,,,,Linn (57),,,,,,,,,,,,,,,,,ALP/D,,,,2115 1st Ave SE,,,Cedar Rapids,,,IA,,52402,US,41.9958922,-91.6363803,,True
+Country Manor Memory Care,,,,,,,,,,,,,,,,,,Scott (82),,,,,,,,,,,,,,,,,ALP/D,,,,900 W 46th St,,,Davenport,,,IA,,52806,US,41.5673523,-90.58597979999999,,True
+"Country Meadow Place, LLC",,,,,,,,,,,,,,,,,,Cerro Gordo (17),,,,,,,,,,,,,,,,,ALP/D,,,,17396 Kingbird Ave,,,Mason City,,,IA,,50401,US,43.145659,-93.2881419,,True
+CountryHouse Residence,,,,,,,,,,,,,,,,,,Pottawattamie (78),,,,,,,,,,,,,,,,,ALP/D,,,,1831 E Kanesville Blvd,,,Council Bluffs,,,IA,,51503,US,41.26979,-95.83497679999999,,True
+Courtyard Estates at Cedar Pointe,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,ALP/D,,,,6132 NE 12th Ave,,,Pleasant Hill,,,IA,,50327,US,41.60213389999999,-93.4903002,,True
+Courtyard Estates at Hawthorne Crossing,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,ALP/D,,,,601 Hawthorne Crossing Dr SE,,,Bondurant,,,IA,,50035,US,41.69710000000001,-93.4465939,,True
+Donald Lundak Assisted Living Center,,,,,,,,,,,,,,,,,,Howard (45),,,,,,,,,,,,,,,,,ALP/D,,,,21668 80th St,,,Cresco,,,IA,,52136,US,43.39946349999999,-92.14593529999999,,True
+Edencrest at Green Meadows,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,ALP/D,,,,6750 Corporate Dr,,,Johnston,,,IA,,50131,US,41.6649293,-93.7077683,,True
+Edencrest at Riverwoods Assisted Living,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,ALP/D,,,,2210 E Park Ave,,,Des Moines,,,IA,,50320,US,41.5557174,-93.5757965,,True
+Edencrest at Siena Hills,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,ALP/D,,,,455 SW Ankeny Rd,,,Ankeny,,,IA,,50023,US,41.7016674,-93.60417960000001,,True
+Edgewater Assisted Living,,,,,,,,,,,,,,,,,,Dallas (25),,,,,,,,,,,,,,,,,ALP/D,,,,9250 Edgeline Dr,,,West Des Moines,,,IA,,50266,US,41.5561064,-93.83202659999999,,True
+Emery Place,,,,,,,,,,,,,,,,,,Linn (57),,,,,,,,,,,,,,,,,ALP/D,,,,901 S Mentzer Rd,,,Robins,,,IA,,52328,US,42.0598432,-91.6582227,,True
+Fountain View Assisted Living,,,,,,,,,,,,,,,,,,Woodbury (97),,,,,,,,,,,,,,,,,ALP/D,,,,5501 Gordon Dr,,,Sioux City,,,IA,,51106,US,42.4772293,-96.3372811,,True
+Fountains Assisted Living,,,,,,,,,,,,,,,,,,Scott (82),,,,,,,,,,,,,,,,,ALP/D,,,,3752 Thunder Ridge Rd,,,Bettendorf,,,IA,,52722,US,41.580997,-90.48038199999999,,True
+Friesland AL and Zeeland Memory Support,,,,,,,,,,,,,,,,,,Marion (63),,,,,,,,,,,,,,,,,ALP/D,,,,1742 Main St,,,Pella,,,IA,,50219,US,41.42844499999999,-92.91569899999999,,True
+Garden View Senior Community,,,,,,,,,,,,,,,,,,Clayton (22),,,,,,,,,,,,,,,,,ALP/D,,,,800 Darby Dr,,,Monona,,,IA,,52159,US,43.05006539999999,-91.400571,,True
+Gardens at Luther Park,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,ALP/D,,,,2910 E 16th St,,,Des Moines,,,IA,,50316,US,41.621728,-93.5950685,Union Park,True
+Gardens of Cedar Rapids,,,,,,,,,,,,,,,,,,Linn (57),,,,,,,,,,,,,,,,,ALP/D,,,,5710 Dean Rd SW,,,Cedar Rapids,,,IA,,52404,US,41.94495469999999,-91.748358,,True
+Glenwood Place,,,,,,,,,,,,,,,,,,Marshall (64),,,,,,,,,,,,,,,,,ALP/D,,,,2907 S 6th St,,,Marshalltown,,,IA,,50158,US,42.01106910000001,-92.92337769999999,,True
+Grand Haven,,,,,,,,,,,,,,,,,,Scott (82),,,,,,,,,,,,,,,,,ALP/D,,,,201 E Franklin St,,,Eldridge,,,IA,,52748,US,41.656576,-90.5807449,,True
+Grand Meadows,,,,,,,,,,,,,,,,,,Dubuque (31),,,,,,,,,,,,,,,,,ALP/D,,,,5300 Grand Meadow Dr,,,Asbury,,,IA,,52002,US,42.5130116,-90.7545344,,True
+Hansen House,,,,,,,,,,,,,,,,,,Pottawattamie (78),,,,,,,,,,,,,,,,,ALP/D,,,,2331 Nash Blvd,,,Council Bluffs,,,IA,,51501,US,41.2743645,-95.8786688,,True
+Heritage at Northern Hills,,,,,,,,,,,,,,,,,,Woodbury (97),,,,,,,,,,,,,,,,,ALP/D,,,,4002 Teton Trace,,,Sioux City,,,IA,,51104,US,42.5386473,-96.3855882,,False
+Holy Spirit,,,,,,,,,,,,,,,,,,Woodbury (97),,,,,,,,,,,,,,,,,ALP/D,,,,1701 W 25th St,,,Sioux City,,,IA,,51103,US,42.5171268,-96.4330986,,True
+Homestead of Centerville,,,,,,,,,,,,,,,,,,Appanoose (04),,,,,,,,,,,,,,,,,ALP/D,,,,19999 Old Hwy 5,,,Centerville,,,IA,,52544,US,40.7533117,-92.8597174,,True
+Homestead of Creston Operations LLC,,,,,,,,,,,,,,,,,,Union (88),,,,,,,,,,,,,,,,,ALP/D,,,,1709 W Prairie St,,,Creston,,,IA,,50801,US,41.06798999999999,-94.382137,,True
+Homestead of Knoxville Memory Care Center,,,,,,,,,,,,,,,,,,Marion (63),,,,,,,,,,,,,,,,,ALP/D,,,,711 Willetts Dr,,,Knoxville,,,IA,,50138,US,41.31297300000001,-93.1184746,,True
+Homestead of Osceola,,,,,,,,,,,,,,,,,,Clarke (20),,,,,,,,,,,,,,,,,ALP/D,,,,334 N W View Dr,,,Osceola,,,IA,,50213,US,41.0360859,-93.78775519999999,,True
+Homestead of Oskaloosa,,,,,,,,,,,,,,,,,,Mahaska (62),,,,,,,,,,,,,,,,,ALP/D,,,,2102 S Market St,,,Oskaloosa,,,IA,,52577,US,41.276363,-92.643993,,True
+Jersey Ridge Place,,,,,,,,,,,,,,,,,,Scott (82),,,,,,,,,,,,,,,,,ALP/D,,,,5605 Jersey Ridge Rd,,,Davenport,,,IA,,52807,US,41.5777434,-90.5408446,,True
+John's Harbor Memory Loss Center,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,ALP/D,,,,3520 Grand Ave,,,Des Moines,,,IA,,50312,US,41.58339549999999,-93.66457609999999,Greenwood,True
+Journey Senior Living of Ankeny,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,ALP/D,,,,3602 NW 5th St,,,Ankeny,,,IA,,50023,US,41.7362072,-93.64666919999999,,True
+"Kensington, The",,,,,,,,,,,,,,,,,,Lee (56),,,,,,,,,,,,,,,,,ALP/D,,,,2210 Ave H,,,Fort Madison,,,IA,,52627,US,40.63206630000001,-91.3373817,,False
+Keystone Cedars,,,,,,,,,,,,,,,,,,Linn (57),,,,,,,,,,,,,,,,,ALP/D,,,,6325 Rockwell Dr NE,,,Cedar Rapids,,,IA,,52402,US,42.040856,-91.64957199999999,,True
+Keystone Place at Forevergreen,,,,,,,,,,,,,,,,,,Johnson (52),,,,,,,,,,,,,,,,,ALP/D,,,,1275 W Forevergreen Rd,,,North Liberty,,,IA,,52317,US,41.72316410000001,-91.6193285,,True
+Lakeside Village,,,,,,,,,,,,,,,,,,Guthrie (39),,,,,,,,,,,,,,,,,ALP/D,,,,2067 IA-4,,,Panora,,,IA,,50216,US,41.7087871,-94.3633973,,True
+Lakeview Lodge,,,,,,,,,,,,,,,,,,Blackhawk (07),,,,,,,,,,,,,,,,,ALP/D,,,,312 Southbrooke Dr,,,Waterloo,,,IA,,50702,US,42.45831409999999,-92.35043309999999,,True
+Legacy Gardens,,,,,,,,,,,,,,,,,,Johnson (52),,,,,,,,,,,,,,,,,ALP/D,,,,15 Silvercrest Pl,,,Iowa City,,,IA,,52240,US,41.64778099999999,-91.481759,Lucas,True
+Legacy Pointe,,,,,,,,,,,,,,,,,,Johnson (52),,,,,,,,,,,,,,,,,ALP/D,,,,1020 S Scott Blvd,,,Iowa City,,,IA,,52240,US,41.64925419999999,-91.4816555,Lucas,True
+Maple Memory Lane,,,,,,,,,,,,,,,,,,Fayette (33),,,,,,,,,,,,,,,,,ALP/D,,,,100 Bolger Dr,,,Fayette,,,IA,,52142,US,42.84185199999999,-91.809242,,True
+MeadowView Memory Care Village,,,,,,,,,,,,,,,,,,Linn (57),,,,,,,,,,,,,,,,,ALP/D,,,,3005 F Ave NW,,,Cedar Rapids,,,IA,,52405,US,41.9791468,-91.71192549999999,,True
+"Newton Village, Inc.",,,,,,,,,,,,,,,,,,Jasper (50),,,,,,,,,,,,,,,,,ALP/D,,,,122 N 5th Ave W,,,Newton,,,IA,,50208,US,41.703235,-93.0539108,,True
+Oak Park Place,,,,,,,,,,,,,,,,,,Dubuque (31),,,,,,,,,,,,,,,,,ALP/D,,,,1381 Oak Park Pl,,,Dubuque,,,IA,,52002,US,42.4968672,-90.73457570000001,,True
+Oaknoll AL,,,,,,,,,,,,,,,,,,Johnson (52),,,,,,,,,,,,,,,,,ALP/D,,,,1 Oaknoll Dr,,,Iowa City,,,IA,,52246,US,41.6512374,-91.5555969,Horn,True
+Oakwood Place AL,,,,,,,,,,,,,,,,,,Scott (82),,,,,,,,,,,,,,,,,ALP/D,,,,4126 Northwest Blvd,,,Davenport,,,IA,,52806,US,41.56350219999999,-90.5812098,,True
+Parker Place Retirement,,,,,,,,,,,,,,,,,,Butler (12),,,,,,,,,,,,,,,,,ALP/D,,,,707 IA-57,,,Parkersburg,,,IA,,50665,US,42.5704867,-92.7853274,,True
+Pioneer Place AL,,,,,,,,,,,,,,,,,,Johnson (52),,,,,,,,,,,,,,,,,ALP/D,,,,415 E Pioneer Rd,,,Lone Tree,,,IA,,52755,US,41.48150770000001,-91.4173079,,True
+Prairie Hills at Clinton,,,,,,,,,,,,,,,,,,Clinton (23),,,,,,,,,,,,,,,,,ALP/D,,,,1791-1625 13th Ave N,,,Clinton,,,IA,,52732,US,41.85927059999999,-90.2270968,,True
+Prairie Hills at Des Moines,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,ALP/D,,,,5815 SE 27th St,,,Des Moines,,,IA,,50320,US,41.53170470000001,-93.5646938,Bloomfield/Allen,True
+Prairie Hills at Independence,,,,,,,,,,,,,,,,,,Buchanan (10),,,,,,,,,,,,,,,,,ALP/D,,,,505 Enterprise Dr,,,Independence,,,IA,,50644,US,42.4501854,-91.898026,,True
+Prairie Hills at Ottumwa,,,,,,,,,,,,,,,,,,Wapello (90),,,,,,,,,,,,,,,,,ALP/D,,,,173 E Rochester Rd,,,Ottumwa,,,IA,,52501,US,41.0601505,-92.40559859999999,,True
+Prairie Hills at Penn Place,,,,,,,,,,,,,,,,,,Wapello (90),,,,,,,,,,,,,,,,,ALP/D,,,,2 Pennsylvania Pl,,,Ottumwa,,,IA,,52501,US,41.0275238,-92.3852826,,True
+Prairie Hills at Tipton,,,,,,,,,,,,,,,,,,Cedar (16),,,,,,,,,,,,,,,,,ALP/D,,,,219 S Cedar St,,,Tipton,,,IA,,52772,US,41.7623144,-91.1295303,,True
+Promise House,,,,,,,,,,,,,,,,,,Linn (57),,,,,,,,,,,,,,,,,ALP/D,,,,1320 Litchfield Dr,,,Hiawatha,,,IA,,52233,US,42.042489,-91.690934,,True
+QHC Madison Square LLC,,,,,,,,,,,,,,,,,,Madison (61),,,,,,,,,,,,,,,,,ALP/D,,,,209 W Jefferson St,,,Winterset,,,IA,,50273,US,41.335511,-94.01587699999999,,True
+QHC Villa Cottages,,,,,,,,,,,,,,,,,,Webster (94),,,,,,,,,,,,,,,,,ALP/D,,,,925 Martin Luther King Dr,,,Fort Dodge,,,IA,,50501,US,42.5138253,-94.16030839999999,,True
+Reflections Assisted Living,,,,,,,,,,,,,,,,,,Washington (92),,,,,,,,,,,,,,,,,ALP/D,,,,512 13th St,,,Wellman,,,IA,,52356,US,41.474849,-91.83476449999999,,True
+Risen Son Christian Village,,,,,,,,,,,,,,,,,,Pottawattamie (78),,,,,,,,,,,,,,,,,ALP/D,,,,3000 Risen Son Blvd,,,Council Bluffs,,,IA,,51503,US,41.23059140000001,-95.8011642,,True
+River Ridge & Gardens at Friendship Haven,,,,,,,,,,,,,,,,,,Webster (94),,,,,,,,,,,,,,,,,ALP/D,,,,420 Kenyon Rd,,,Fort Dodge,,,IA,,50501,US,42.4888372,-94.195821,,True
+Riverview Terrace,,,,,,,,,,,,,,,,,,Clay (21),,,,,,,,,,,,,,,,,ALP/D,,,,1501 St Luke Dr,,,Spencer,,,IA,,51301,US,43.1261079,-95.1257603,,True
+Rowley Masonic AL Community,,,,,,,,,,,,,,,,,,Dallas (25),,,,,,,,,,,,,,,,,ALP/D,,,,1300 28th St,,,Perry,,,IA,,50220,US,41.8398111,-94.0757395,,True
+Senior Star at Elmore Place ALPD,,,,,,,,,,,,,,,,,,Scott (82),,,,,,,,,,,,,,,,,ALP/D,,,,4504 Elmore Ave,,,Davenport,,,IA,,52807,US,41.5670464,-90.5246226,,True
+Shores at Pleasant Hill,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,ALP/D,,,,1500 Edgewater Dr,,,Pleasant Hill,,,IA,,50327,US,41.6034051,-93.52525279999999,,True
+Silvercrest at Woodlands Creek,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,ALP/D,,,,12605 Woodlands Pkwy,,,Clive,,,IA,,50325,US,41.6101068,-93.7903616,,True
+Silvercrest Garner Farms,,,,,,,,,,,,,,,,,,Scott (82),,,,,,,,,,,,,,,,,ALP/D,,,,1575 W 53rd St,,,Davenport,,,IA,,52806,US,41.5735041,-90.5965717,,True
+Sitler Center for Helpful Living,,,,,,,,,,,,,,,,,,Washington (92),,,,,,,,,,,,,,,,,ALP/D,,,,1015 S Iowa Ave,,,Washington,,,IA,,52353,US,41.289216,-91.692049,,True
+Spring Valley Senior AL,,,,,,,,,,,,,,,,,,Dallas (25),,,,,,,,,,,,,,,,,ALP/D,,,,501 12th St,,,Perry,,,IA,,50220,US,41.8330558,-94.0919993,,True
+Summit Pointe Senior Living Community,,,,,,,,,,,,,,,,,,Linn (57),,,,,,,,,,,,,,,,,ALP/D,,,,3505 English Glen Ave,,,Marion,,,IA,,52302,US,42.052418,-91.57305040000001,,True
+SunnyBrook of Burlington,,,,,,,,,,,,,,,,,,Des Moines (29),,,,,,,,,,,,,,,,,ALP/D,,,,5175 West Ave,,,Burlington,,,IA,,52601,US,40.79665620000001,-91.1691967,,True
+SunnyBrook of Carroll,,,,,,,,,,,,,,,,,,Carroll (14),,,,,,,,,,,,,,,,,ALP/D,,,,1214 E 18th St,,,Carroll,,,IA,,51401,US,42.077684,-94.849417,,True
+SunnyBrook of Fort Madison,,,,,,,,,,,,,,,,,,Lee (56),,,,,,,,,,,,,,,,,ALP/D,,,,5025 River Valley Rd,,,Fort Madison,,,IA,,52627,US,40.63248799999999,-91.37807099999999,,True
+SunnyBrook of Mt. Pleasant,,,,,,,,,,,,,,,,,,Henry (44),,,,,,,,,,,,,,,,,ALP/D,,,,1406 E Linden Dr,,,Mt Pleasant,,,IA,,52641,US,40.9484025,-91.53087599999999,,True
+SunnyBrook of Muscatine,,,,,,,,,,,,,,,,,,Muscatine (70),,,,,,,,,,,,,,,,,ALP/D,,,,3515 Diana Queen Dr,,,Muscatine,,,IA,,52761,US,41.44837,-91.077815,,True
+Sunset Park Place Company LLC,,,,,,,,,,,,,,,,,,Dubuque (31),,,,,,,,,,,,,,,,,ALP/D,,,,3730 Pennsylvania Ave,,,Dubuque,,,IA,,52002,US,42.500194,-90.7333661,,True
+Traditions at West Union,,,,,,,,,,,,,,,,,,Fayette (33),,,,,,,,,,,,,,,,,ALP/D,,,,609 IA-150,,,West Union,,,IA,,52175,US,42.96943900000001,-91.816031,,True
+Village Ridge,,,,,,,,,,,,,,,,,,Linn (57),,,,,,,,,,,,,,,,,ALP/D,,,,365 Marion Blvd,,,Marion,,,IA,,52302,US,42.0286628,-91.6143032,,True
+Vintage Hills at Prairie Trail,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,ALP/D,,,,1275 SW State St,,,Ankeny,,,IA,,50023,US,41.7175709,-93.61764459999999,Prairie Trail,True
+Vintage Hills Retirement Community,,,,,,,,,,,,,,,,,,Warren (91),,,,,,,,,,,,,,,,,ALP/D,,,,604 E Hillcrest Ave,,,Indianola,,,IA,,50125,US,41.38120949999999,-93.55271909999999,,True
+Vista Prairie at Fieldcrest AL,,,,,,,,,,,,,,,,,,O'Brien (71),,,,,,,,,,,,,,,,,ALP/D,,,,2501 E 6th St,,,Sheldon,,,IA,,51201,US,43.1823607,-95.82219719999999,,True
+Vista Prairie at Keelson Harbour,,,,,,,,,,,,,,,,,,Dickinson (30),,,,,,,,,,,,,,,,,ALP/D,,,,2810 Aurora Ave,,,Spirit Lake,,,IA,,51360,US,43.4135946,-95.1250298,,True
+Vriendschap Village ALP,,,,,,,,,,,,,,,,,,Marion (63),,,,,,,,,,,,,,,,,ALP/D,,,,2604 Fifield Rd,,,Pella,,,IA,,50219,US,41.40739,-92.9493693,,True
+Walnut Ridge Senior Community,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,ALP/D,,,,1701 Campus Dr,,,Clive,,,IA,,50325,US,41.6061014,-93.77175249999999,,True
+"Waukee Memory Care, LLC",,,,,,,,,,,,,,,,,,Dallas (25),,,,,,,,,,,,,,,,,ALP/D,,,,1505 SE Laurel St,,,Waukee,,,IA,,50263,US,41.6123456,-93.8425757,,True
+Whispering Creek,,,,,,,,,,,,,,,,,,Woodbury (97),,,,,,,,,,,,,,,,,ALP/D,,,,2607 Nicklaus Blvd,,,Sioux City,,,IA,,51106,US,42.4635297,-96.3143094,,True
+Whispering Willow AL,,,,,,,,,,,,,,,,,,Chickasaw (19),,,,,,,,,,,,,,,,,ALP/D,,,,601 Dawn Ave,,,Fredericksburg,,,IA,,50630,US,42.958582,-92.1951496,,True
+Willows (The),,,,,,,,,,,,,,,,,,Henry (44),,,,,,,,,,,,,,,,,ALP/D,,,,710 E Arbor Ln,,,Mt Pleasant,,,IA,,52641,US,40.9750206,-91.5445019,,True
+Windhaven Assisted Living Center,,,,,,,,,,,,,,,,,,Blackhawk (07),,,,,,,,,,,,,,,,,ALP/D,,,,5500 S Main St,,,Cedar Falls,,,IA,,50613,US,42.4884289,-92.44453299999999,,True
+Windsor Manor AL,,,,,,,,,,,,,,,,,,Emmet (32),,,,,,,,,,,,,,,,,ALP/D,,,,2015 3rd Ave N,,,Estherville,,,IA,,51334,US,43.4046153,-94.81519639999999,,True
+Windsor Manor Algona,,,,,,,,,,,,,,,,,,Kossuth (55),,,,,,,,,,,,,,,,,ALP/D,,,,512 N Finn Dr,,,Algona,,,IA,,50511,US,43.0735309,-94.2062803,,True
+Windsor Manor Grinnell,,,,,,,,,,,,,,,,,,Poweshiek (79),,,,,,,,,,,,,,,,,ALP/D,,,,229 Pearl St,,,Grinnell,,,IA,,50112,US,41.7343532,-92.7304355,,True
+Windsor Manor Indianola,,,,,,,,,,,,,,,,,,Warren (91),,,,,,,,,,,,,,,,,ALP/D,,,,608 S 15th St,,,Indianola,,,IA,,50125,US,41.35374789999999,-93.53853900000001,,True
+Windsor Manor Nevada,,,,,,,,,,,,,,,,,,Story (85),,,,,,,,,,,,,,,,,ALP/D,,,,1642 S G Ave,,,Nevada,,,IA,,50201,US,42.00473,-93.4389779,,True
+Windsor Manor Shenandoah,,,,,,,,,,,,,,,,,,Page (73),,,,,,,,,,,,,,,,,ALP/D,,,,601 Harrison St,,,Shenandoah,,,IA,,51601,US,40.7603099,-95.35774719999999,,True
+Windsor Manor Vinton,,,,,,,,,,,,,,,,,,Benton (06),,,,,,,,,,,,,,,,,ALP/D,,,,1807 W 5th St,,,Vinton,,,IA,,52349,US,42.166705,-92.04519599999999,,True
+Aase Haugen AL,,,,,,,,,,,,,,,,,,Winneshiek (96),,,,,,,,,,,,,,,,,ALP,,,,8 Ohio St,,,Decorah,,,IA,,52101,US,43.30305600000001,-91.8028341,,True
+Accura Healthcare of Cherokee,,,,,,,,,,,,,,,,,,Cherokee (18),,,,,,,,,,,,,,,,,ALP,,,,921 Riverview Dr,,,Cherokee,,,IA,,51012,US,42.75948,-95.536039,,True
+Accura Healthcare of Pomeroy,,,,,,,,,,,,,,,,,,Calhoun (13),,,,,,,,,,,,,,,,,ALP,,,,713 S Scuyler St,,,Pomeroy,,,IA,,50575,US,42.5434163,-94.6813298,,True
+Adel Assisted Living Apartments,,,,,,,,,,,,,,,,,,Dallas (25),,,,,,,,,,,,,,,,,ALP,,,,504 Van Fossen Ln,,,Adel,,,IA,,50003,US,41.6107025,-94.03439399999999,,True
+Afton Oaks AL,,,,,,,,,,,,,,,,,,Howard (45),,,,,,,,,,,,,,,,,ALP,,,,405 9th St,,,Elma,,,IA,,50628,US,43.2441182,-92.4465979,,True
+Allen Place,,,,,,,,,,,,,,,,,,Cass (15),,,,,,,,,,,,,,,,,ALP,,,,1406 E 19th St,,,Atlantic,,,IA,,50022,US,41.392293,-94.9929616,,True
+Amelia Place,,,,,,,,,,,,,,,,,,Pottawattamie (78),,,,,,,,,,,,,,,,,ALP,,,,57 W Ferndale Dr,,,Council Bluffs,,,IA,,51503,US,41.2598279,-95.7977305,,True
+Apple Valley AL,,,,,,,,,,,,,,,,,,Cerro Gordo (17),,,,,,,,,,,,,,,,,ALP,,,,405 27 Ave S,,,Clear Lake,,,IA,,50428,US,43.1104048,-93.3869898,,True
+Apple Valley Assisted Living,,,,,,,,,,,,,,,,,,Mitchell (66),,,,,,,,,,,,,,,,,ALP,,,,300 Lyndale Ave,,,Osage,,,IA,,50461,US,43.2704206,-92.8181824,,True
+Apple Valley Assisted Living Charles City,,,,,,,,,,,,,,,,,,Floyd (34),,,,,,,,,,,,,,,,,ALP,,,,801 Blunt St,# 39,,Charles City,,,IA,,50616,US,43.06853090000001,-92.67573680000001,,True
+Apple Valley Hampton,,,,,,,,,,,,,,,,,,Franklin (35),,,,,,,,,,,,,,,,,ALP,,,,1724 Central Ave E,,,Hampton,,,IA,,50441,US,42.7434547,-93.18361589999999,,True
+Arbor Heights at University,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,ALP,,,,233 University Ave,,,Des Moines,,,IA,,50314,US,41.6008029,-93.6210502,River Bend,True
+Arlin Falck AL,,,,,,,,,,,,,,,,,,Winneshiek (96),,,,,,,,,,,,,,,,,ALP,,,,911 Ridgewood Dr,,,Decorah,,,IA,,52101,US,43.294223,-91.777214,,True
+Arlington Place of Grundy Center,,,,,,,,,,,,,,,,,,Grundy (38),,,,,,,,,,,,,,,,,ALP,,,,95 D Ave,,,Grundy Center,,,IA,,50638,US,42.3643271,-92.76143760000001,,True
+Ashbrook Assisted Living,,,,,,,,,,,,,,,,,,Hardin (42),,,,,,,,,,,,,,,,,ALP,,,,1121 N Fremont St,,,Iowa Falls,,,IA,,50126,US,42.52697269999999,-93.26147259999999,,True
+Aspen Heights Assisted Living,,,,,,,,,,,,,,,,,,Sioux (84),,,,,,,,,,,,,,,,,ALP,,,,1410 Aspen St,,,Hull,,,IA,,51239,US,43.1935116,-96.1237991,,True
+Assisi Village Assisted Living,,,,,,,,,,,,,,,,,,Dubuque (31),,,,,,,,,,,,,,,,,ALP,,,,1001 Assisi Dr,,,Dubuque,,,IA,,52001,US,42.5328737,-90.6707496,,True
+Avoca Lodge AL,,,,,,,,,,,,,,,,,,Pottawattamie (78),,,,,,,,,,,,,,,,,ALP,,,,612 York Rd,,,Avoca,,,IA,,51521,US,41.5058679,-95.3860383,,True
+Ballard Creek Community,,,,,,,,,,,,,,,,,,Story (85),,,,,,,,,,,,,,,,,ALP,,,,908 US-69,,,Huxley,,,IA,,50124,US,41.9026725,-93.6081955,,True
+Bavarian Meadows,,,,,,,,,,,,,,,,,,Plymouth (75),,,,,,,,,,,,,,,,,ALP,,,,632 L14,,,Remsen,,,IA,,51050,US,42.8088922,-95.9586211,,True
+Belle Haven Independent and Assisted Living,,,,,,,,,,,,,,,,,,Wright (99),,,,,,,,,,,,,,,,,ALP,,,,815 Luick's Ln N,,,Belmond,,,IA,,50421,US,42.8537383,-93.60300029999999,,True
+Bethany Heights Assisted Living,,,,,,,,,,,,,,,,,,Pottawattamie (78),,,,,,,,,,,,,,,,,ALP,,,,11 Elliott St,,,Council Bluffs,,,IA,,51503,US,41.278721,-95.837435,,True
+Bickford Cottage Ames,,,,,,,,,,,,,,,,,,Story (85),,,,,,,,,,,,,,,,,ALP,,,,2418 Kent Ave,,,Ames,,,IA,,50010,US,42.0463225,-93.6393003,Somerset,True
+Bickford Cottage Cedar Falls,,,,,,,,,,,,,,,,,,Blackhawk (07),,,,,,,,,,,,,,,,,ALP,,,,5101 University Ave,,,Cedar Falls,,,IA,,50613,US,42.5082347,-92.4187456,,True
+Bickford Cottage I Sioux City,,,,,,,,,,,,,,,,,,Woodbury (97),,,,,,,,,,,,,,,,,ALP,,,,4020 Indian Hills Dr,,,Sioux City,,,IA,,51108,US,42.5394644,-96.37333869999999,,True
+Brown Deer Place,,,,,,,,,,,,,,,,,,Johnson (52),,,,,,,,,,,,,,,,,ALP,,,,1500 1st Ave,,,Coralville,,,IA,,52241,US,41.69339299999999,-91.567447,Wickham,True
+Bryhl Assisted Living,,,,,,,,,,,,,,,,,,Blackhawk (07),,,,,,,,,,,,,,,,,ALP,,,,7511 University Ave,,,Cedar Falls,,,IA,,50613,US,42.51163500000001,-92.449517,,True
+Cardinal Grove,,,,,,,,,,,,,,,,,,Hancock (41),,,,,,,,,,,,,,,,,ALP,,,,1355 Division St,,,Garner,,,IA,,50438,US,43.0920308,-93.6090133,,True
+Carlisle Center for AL,,,,,,,,,,,,,,,,,,Warren (91),,,,,,,,,,,,,,,,,ALP,,,,685 Cole St,,,Carlisle,,,IA,,50047,US,41.49578200000001,-93.4939594,,True
+Cedar Place Assisted Living,,,,,,,,,,,,,,,,,,Story (85),,,,,,,,,,,,,,,,,ALP,,,,812 Cedar St,,,Story City,,,IA,,50248,US,42.18285849999999,-93.5918748,,True
+Cedar Vale,,,,,,,,,,,,,,,,,,Chickasaw (19),,,,,,,,,,,,,,,,,ALP,,,,100 Poppe Ln,,,Nashua,,,IA,,50658,US,42.95591950000001,-92.532514,,True
+Char Mac AL of Lawton,,,,,,,,,,,,,,,,,,Woodbury (97),,,,,,,,,,,,,,,,,ALP,,,,200 E Char-Mac Dr,,,Lawton,,,IA,,51030,US,42.4751649,-96.1838398,,True
+CHAR-MAC AL OF HOLSTEIN/THE RIDGE,,,,,,,,,,,,,,,,,,Ida (47),,,,,,,,,,,,,,,,,ALP,,,,1500 S Kiel St,,,Holstein,,,IA,,51025,US,42.4762521,-95.5372551,,True
+Char-Mac of Manning,,,,,,,,,,,,,,,,,,Carroll (14),,,,,,,,,,,,,,,,,ALP,,,,203 11th St,,,Manning,,,IA,,51455,US,41.902601,-95.05693,,True
+Cherry Ridge,,,,,,,,,,,,,,,,,,Linn (57),,,,,,,,,,,,,,,,,ALP,,,,217 US-30,,,Mt Vernon,,,IA,,52314,US,41.916029,-91.41961959999999,,True
+Circle Terrace Lodge,,,,,,,,,,,,,,,,,,Worth (98),,,,,,,,,,,,,,,,,ALP,,,,155 Circle Terrace,,,Manly,,,IA,,50456,US,43.282906,-93.19641,,False
+Clarence Assisted Living,,,,,,,,,,,,,,,,,,Cedar (16),,,,,,,,,,,,,,,,,ALP,,,,408 2nd Ave,,,Clarence,,,IA,,52216,US,41.8855427,-91.06304899999999,,True
+Clearview Estates AL,,,,,,,,,,,,,,,,,,Ringgold (80),,,,,,,,,,,,,,,,,ALP,,,,500 W Columbus St,,,Mt Ayr,,,IA,,50854,US,40.718177,-94.2424956,,True
+Cobble Creek AL of Sheldon,,,,,,,,,,,,,,,,,,O'Brien (71),,,,,,,,,,,,,,,,,ALP,,,,980 Oak St,,,Sheldon,,,IA,,51201,US,43.1874911,-95.84396199999999,,True
+Cobble Creek AL of Spencer,,,,,,,,,,,,,,,,,,Clay (21),,,,,,,,,,,,,,,,,ALP,,,,2116 1st Ave E,,,Spencer,,,IA,,51301,US,43.1598316,-95.14359329999999,,True
+Cobblestone Court Assisted Living,,,,,,,,,,,,,,,,,,Bremer (09),,,,,,,,,,,,,,,,,ALP,,,,3187 140th St,,,Sumner,,,IA,,50674,US,42.8474026,-92.12350049999999,,True
+Colonial Estates,,,,,,,,,,,,,,,,,,Louisa (58),,,,,,,,,,,,,,,,,ALP,,,,815 Colonial Ave,,,Columbus Junction,,,IA,,52738,US,41.2730367,-91.37061179999999,,True
+Community Memorial AL,,,,,,,,,,,,,,,,,,O'Brien (71),,,,,,,,,,,,,,,,,ALP,,,,233 N 8th Ave W,,,Hartley,,,IA,,51346,US,43.1839643,-95.4868508,,True
+Cornerstone AL,,,,,,,,,,,,,,,,,,Cerro Gordo (17),,,,,,,,,,,,,,,,,ALP,,,,302 2nd St NE,,,Mason City,,,IA,,50401,US,43.153959,-93.19577799999999,,True
+Courtyard A.L.,,,,,,,,,,,,,,,,,,Cerro Gordo (17),,,,,,,,,,,,,,,,,ALP,,,,401 W 10th Ave N,,,Clear Lake,,,IA,,50428,US,43.1444273,-93.3896368,,True
+Courtyard Estates of Walcott,,,,,,,,,,,,,,,,,,Scott (82),,,,,,,,,,,,,,,,,ALP,,,,510 N Main St,,,Walcott,,,IA,,52773,US,41.5903374,-90.7755923,,True
+Courtyard Terrace,,,,,,,,,,,,,,,,,,Boone (08),,,,,,,,,,,,,,,,,ALP,,,,717 W 3rd St,,,Boone,,,IA,,50036,US,42.05950070000001,-93.9000059,,True
+Cresco Assisted Living,,,,,,,,,,,,,,,,,,Howard (45),,,,,,,,,,,,,,,,,ALP,,,,1004 N Elm St,,,Cresco,,,IA,,52136,US,43.383429,-92.113879,,True
+Crown Pointe,,,,,,,,,,,,,,,,,,Sioux (84),,,,,,,,,,,,,,,,,ALP,,,,1400 7th Ave SE,,,Sioux Center,,,IA,,51250,US,43.0609498,-96.16334160000001,,True
+Custom Care,,,,,,,,,,,,,,,,,,Linn (57),,,,,,,,,,,,,,,,,ALP,,,,1224 13th St NW,,,Cedar Rapids,,,IA,,52405,US,41.9860967,-91.6932319,,True
+Davenport Lutheran AL,,,,,,,,,,,,,,,,,,Scott (82),,,,,,,,,,,,,,,,,ALP,,,,1128 W 53rd St,,,Davenport,,,IA,,52806,US,41.57464170000001,-90.589261,,True
+Deer View Manor,,,,,,,,,,,,,,,,,,Keokuk (54),,,,,,,,,,,,,,,,,ALP,,,,1212 S Stuart St,,,Sigourney,,,IA,,52591,US,41.3233932,-92.20701679999999,,True
+Deerfield Place,,,,,,,,,,,,,,,,,,Franklin (35),,,,,,,,,,,,,,,,,ALP,,,,505 E Gilman St,,,Sheffield,,,IA,,50475,US,42.89317279999999,-93.2178902,,True
+"Deerfield Retirement Community, Inc.",,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,ALP,,,,13731 Hickman Rd,,,Urbandale,,,IA,,50323,US,41.61689399999999,-93.808145,,True
+Dunlap Assisted Living,,,,,,,,,,,,,,,,,,Harrison (43),,,,,,,,,,,,,,,,,ALP,,,,1405 Harrison Rd,,,Dunlap,,,IA,,51529,US,41.8487653,-95.58856809999999,,True
+Dutchman's Oaks Assisted LIving,,,,,,,,,,,,,,,,,,Butler (12),,,,,,,,,,,,,,,,,ALP,,,,921 3rd St,,,Dumont,,,IA,,50625,US,42.75032019999999,-92.976849,,True
+Eagle Pointe Place,,,,,,,,,,,,,,,,,,Dubuque (31),,,,,,,,,,,,,,,,,ALP,,,,2700 Matthew John Dr,,,Dubuque,,,IA,,52002,US,42.5214772,-90.73188569999999,,True
+Eagle Ridge Independent and Assisted Living,,,,,,,,,,,,,,,,,,Clayton (22),,,,,,,,,,,,,,,,,ALP,,,,1329 Acre St,,,Guttenberg,,,IA,,52052,US,42.78022259999999,-91.1060699,,True
+Eiler Place,,,,,,,,,,,,,,,,,,Page (73),,,,,,,,,,,,,,,,,ALP,,,,920 W Garfield St,,,Clarinda,,,IA,,51632,US,40.7341365,-95.0502113,,True
+Ellen Kennedy Living Center,,,,,,,,,,,,,,,,,,Dubuque (31),,,,,,,,,,,,,,,,,ALP,,,,1177 7th St SW,,,Dyersville,,,IA,,52040,US,42.4756642,-91.1334115,,True
+Elm Crest Retirement Comm,,,,,,,,,,,,,,,,,,Shelby (83),,,,,,,,,,,,,,,,,ALP,,,,2108 12th St,,,Harlan,,,IA,,51537,US,41.6477076,-95.3248208,,True
+Elm Springs AL Apts,,,,,,,,,,,,,,,,,,Butler (12),,,,,,,,,,,,,,,,,ALP,,,,900 7th St,,,Allison,,,IA,,50602,US,42.75583659999999,-92.8043838,,True
+Elms,,,,,,,,,,,,,,,,,,Grundy (38),,,,,,,,,,,,,,,,,ALP,,,,1007 3rd St,,,Reinbeck,,,IA,,50669,US,42.3239816,-92.60637179999999,,True
+"Elmwood PE, LLC",,,,,,,,,,,,,,,,,,Monona (67),,,,,,,,,,,,,,,,,ALP,,,,190 15th St,,,Onawa,,,IA,,51040,US,42.0375476,-96.1048661,,True
+Emerald Oaks,,,,,,,,,,,,,,,,,,Palo Alto (74),,,,,,,,,,,,,,,,,ALP,,,,2603 17th St,,,Emmetsburg,,,IA,,50536,US,43.10475729999999,-94.68458389999999,,True
+Emerson Point,,,,,,,,,,,,,,,,,,Johnson (52),,,,,,,,,,,,,,,,,ALP,,,,1355 Shannon Dr,,,Iowa City,,,IA,,52246,US,41.6467203,-91.5813642,Weber,True
+Estabrook Lodge Assisted Living,,,,,,,,,,,,,,,,,,Hardin (42),,,,,,,,,,,,,,,,,ALP,,,,2302 Rick Collins Way,,,Eldora,,,IA,,50627,US,42.357247,-93.111102,,True
+Faith Home Assisted Living,,,,,,,,,,,,,,,,,,Mitchell (66),,,,,,,,,,,,,,,,,ALP,,,,912 Davidson Dr,,,Osage,,,IA,,50461,US,43.27664350000001,-92.8084652,,True
+Floyd Place,,,,,,,,,,,,,,,,,,Woodbury (97),,,,,,,,,,,,,,,,,ALP,,,,403 C St,,,Sergeant Bluff,,,IA,,51054,US,42.40410910000001,-96.3630237,,True
+Forest Plaza AL,,,,,,,,,,,,,,,,,,Winnebago (95),,,,,,,,,,,,,,,,,ALP,,,,635 IA-9,,,Forest City,,,IA,,50436,US,43.27169999999999,-93.6280472,,True
+Franken Manor,,,,,,,,,,,,,,,,,,Sioux (84),,,,,,,,,,,,,,,,,ALP,,,,527 N Main Ave,,,Sioux Center,,,IA,,51250,US,43.08293099999999,-96.17635650000001,,True
+Gardens @ Cherokee,,,,,,,,,,,,,,,,,,Cherokee (18),,,,,,,,,,,,,,,,,ALP,,,,1610 IA-3,,,Cherokee,,,IA,,51012,US,42.7706962,-95.55117419999999,,True
+Gardens Assisted Living,,,,,,,,,,,,,,,,,,Greene (37),,,,,,,,,,,,,,,,,ALP,,,,1000 W Washington St,,,Jefferson,,,IA,,50129,US,42.017314,-94.38715099999999,,True
+Garnett Place,,,,,,,,,,,,,,,,,,Linn (57),,,,,,,,,,,,,,,,,ALP,,,,202 35th St Dr SE,,,Cedar Rapids,,,IA,,52403,US,42.01485,-91.6320269,,True
+Golden Horizons,,,,,,,,,,,,,,,,,,Ida (47),,,,,,,,,,,,,,,,,ALP,,,,Byron Godbersen Dr,,,Ida Grove,,,IA,,51445,US,42.3358532,-95.4633542,,False
+Good Samaritan Society - Timber Ridge,,,,,,,,,,,,,,,,,,Wapello (90),,,,,,,,,,,,,,,,,ALP,,,,2 Oak Ridge Rd,,,Ottumwa,,,IA,,52501,US,41.003602,-92.46095989999999,,True
+Grand JiVante,,,,,,,,,,,,,,,,,,Hardin (42),,,,,,,,,,,,,,,,,ALP,,,,1008 2nd Ave,,,Ackley,,,IA,,50601,US,42.5521992,-93.04840349999999,,True
+Greenfield Manor AL,,,,,,,,,,,,,,,,,,Adair (01),,,,,,,,,,,,,,,,,ALP,,,,615 SE Kent St,,,Greenfield,,,IA,,50849,US,41.30314799999999,-94.45034799999999,,True
+Griswold Care Center AL,,,,,,,,,,,,,,,,,,Cass (15),,,,,,,,,,,,,,,,,ALP,,,,106 Harrison St,,,Griswold,,,IA,,51535,US,41.2366773,-95.1339033,,True
+Hawkeye AL,,,,,,,,,,,,,,,,,,Dickinson (30),,,,,,,,,,,,,,,,,ALP,,,,1401 H Ave,,,Milford,,,IA,,51351,US,43.32889369999999,-95.15857419999999,,True
+Hawkeye AL - Bancroft,,,,,,,,,,,,,,,,,,Kossuth (55),,,,,,,,,,,,,,,,,ALP,,,,548 E Ramsey St,,,Bancroft,,,IA,,50517,US,43.29297379999999,-94.2092816,,True
+Heartland Care Center,,,,,,,,,,,,,,,,,,Cherokee (18),,,,,,,,,,,,,,,,,ALP,,,,604 E Fenton St,,,Marcus,,,IA,,51035,US,42.820181,-95.800412,,True
+Heartwood Heights,,,,,,,,,,,,,,,,,,Osceola (72),,,,,,,,,,,,,,,,,ALP,,,,409 9th Ave N,,,Sibley,,,IA,,51249,US,43.4050809,-95.741726,,True
+Heritage at Fox Run Assisted Living,,,,,,,,,,,,,,,,,,Pottawattamie (78),,,,,,,,,,,,,,,,,ALP,,,,3121 Macineery Dr,,,Council Bluffs,,,IA,,51501,US,41.2107701,-95.8956702,,True
+Heritage Court,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,ALP,,,,1499 Office Park Rd,,,West Des Moines,,,IA,,50265,US,41.5911996,-93.7237389,,True
+Heritage House,,,,,,,,,,,,,,,,,,Cass (15),,,,,,,,,,,,,,,,,ALP,,,,1200 Brookridge Cir,,,Atlantic,,,IA,,50022,US,41.3977464,-94.9992695,,True
+Highland Ridge,,,,,,,,,,,,,,,,,,Iowa (48),,,,,,,,,,,,,,,,,ALP,,,,100 Village View Cir,,,Williamsburg,,,IA,,52361,US,41.67147900000001,-92.00281199999999,,True
+Homestead Assisted Living,,,,,,,,,,,,,,,,,,Cerro Gordo (17),,,,,,,,,,,,,,,,,ALP,,,,2501 W State St,,,Mason City,,,IA,,50401,US,43.1517083,-93.2385281,,True
+Homestead of Albia,,,,,,,,,,,,,,,,,,Monroe (68),,,,,,,,,,,,,,,,,ALP,,,,6592 165 St,,,Albia,,,IA,,52531,US,41.0445089,-92.7980845,,True
+Homestead of Chariton,,,,,,,,,,,,,,,,,,Lucas (59),,,,,,,,,,,,,,,,,ALP,,,,1110 N 6th St,,,Chariton,,,IA,,50049,US,41.0272409,-93.300247,,True
+Homestead of Knoxville,,,,,,,,,,,,,,,,,,Marion (63),,,,,,,,,,,,,,,,,ALP,,,,908 S Park Ln Dr,,,Knoxville,,,IA,,50138,US,41.31125910000001,-93.11535359999999,,True
+Huskamp Haven,,,,,,,,,,,,,,,,,,Kossuth (55),,,,,,,,,,,,,,,,,ALP,,,,300 W Riverview Dr,,,Algona,,,IA,,50511,US,43.0641379,-94.2417413,,True
+Indian Creek Independent & Assisted Living Apts.,,,,,,,,,,,,,,,,,,Story (85),,,,,,,,,,,,,,,,,ALP,,,,100 6th St,,,Nevada,,,IA,,50201,US,42.0118062,-93.45437059999999,,True
+Irving Point,,,,,,,,,,,,,,,,,,Linn (57),,,,,,,,,,,,,,,,,ALP,,,,910 7th Ave SE,,,Cedar Rapids,,,IA,,52401,US,41.9772067,-91.65657800000001,Oakhill Jackson,True
+Kennybrook Village,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,ALP,,,,200 SW Brookside Dr,,,Grimes,,,IA,,50111,US,41.6865979,-93.8058444,,True
+Kensington Place,,,,,,,,,,,,,,,,,,Chickasaw (19),,,,,,,,,,,,,,,,,ALP,,,,504 Short Ave,,,New Hampton,,,IA,,50659,US,43.0544507,-92.304987,,True
+Kentucky Ridge Neighborhood AL,,,,,,,,,,,,,,,,,,Cerro Gordo (17),,,,,,,,,,,,,,,,,ALP,,,,2060 S Kentucky Ave,,,Mason City,,,IA,,50401,US,43.13316700000001,-93.18383399999999,,True
+Keystone Senior Suites,,,,,,,,,,,,,,,,,,Benton (06),,,,,,,,,,,,,,,,,ALP,,,,251 6th St,,,Keystone,,,IA,,52249,US,42.0044294,-92.2004245,,True
+Kingston Court,,,,,,,,,,,,,,,,,,Clayton (22),,,,,,,,,,,,,,,,,ALP,,,,118 Reimer St SW,,,Elkader,,,IA,,52043,US,42.8468345,-91.4063382,,True
+Kosgrove Estates,,,,,,,,,,,,,,,,,,Sioux (84),,,,,,,,,,,,,,,,,ALP,,,,4155 US-75,,,Sioux Center,,,IA,,51250,US,43.0443343,-96.1752262,,True
+Lakeside Assisted Living,,,,,,,,,,,,,,,,,,Palo Alto (74),,,,,,,,,,,,,,,,,ALP,,,,401 Lawler St,,,Emmetsburg,,,IA,,50536,US,43.1163248,-94.6830622,,True
+Lakeview Village,,,,,,,,,,,,,,,,,,Iowa (48),,,,,,,,,,,,,,,,,ALP,,,,3012 F Dr,,,Amana,,,IA,,52203,US,41.801332,-91.895107,,True
+Lamoni AL,,,,,,,,,,,,,,,,,,Decatur (27),,,,,,,,,,,,,,,,,ALP,,,,810 E 3rd St,,,Lamoni,,,IA,,50140,US,40.6212,-93.92711399999999,,True
+Landsmeer Ridge Retirement Comm,,,,,,,,,,,,,,,,,,Sioux (84),,,,,,,,,,,,,,,,,ALP,,,,1007 7th St NE,NE,,Orange City,,,IA,,51041,US,43.0136323,-96.0433422,,True
+Leahy Grove Independent and Assisted Living,,,,,,,,,,,,,,,,,,Franklin (35),,,,,,,,,,,,,,,,,ALP,,,,800 2nd St SE,,,Hampton,,,IA,,50441,US,42.7347045,-93.2047918,,True
+Leland Smith Assisted Living,,,,,,,,,,,,,,,,,,Muscatine (70),,,,,,,,,,,,,,,,,ALP,,,,309 Ovesen Dr,,,Wilton,,,IA,,52778,US,41.596549,-91.0144509,,True
+Lincolnway Villa AL,,,,,,,,,,,,,,,,,,Clinton (23),,,,,,,,,,,,,,,,,ALP,,,,322-300 Lincoln Hwy,,,Wheatland,,,IA,,52777,US,41.8337195,-90.84539730000002,,True
+Lincolnwood AL,,,,,,,,,,,,,,,,,,Delaware (28),,,,,,,,,,,,,,,,,ALP,,,,302 W Lincoln St,PO Box 189,,Edgewood,,,IA,,52042,US,42.6429982,-91.402986,,True
+Linden Place AL,,,,,,,,,,,,,,,,,,Bremer (09),,,,,,,,,,,,,,,,,ALP,,,,1802 5th Ave NW,,,Waverly,,,IA,,50677,US,42.7300938,-92.4932414,,True
+Lindens,,,,,,,,,,,,,,,,,,Story (85),,,,,,,,,,,,,,,,,ALP,,,,2355 Hamilton Dr,,,Ames,,,IA,,50014,US,42.0012818,-93.6476691,,True
+Linnwood Estates,,,,,,,,,,,,,,,,,,Mills (65),,,,,,,,,,,,,,,,,ALP,,,,700 N Linn St,,,Glenwood,,,IA,,51534,US,41.0527267,-95.7403398,,True
+Longview Retirement Apts,,,,,,,,,,,,,,,,,,Harrison (43),,,,,,,,,,,,,,,,,ALP,,,,1010 Longview Rd,,,Missouri Valley,,,IA,,51555,US,41.5669344,-95.88351449999999,,True
+Lutheran Home Apts,,,,,,,,,,,,,,,,,,Benton (06),,,,,,,,,,,,,,,,,ALP,,,,1413 2nd Ave,,,Vinton,,,IA,,52349,US,42.157918,-92.02336600000001,,True
+Maggie's House Assisted Living,,,,,,,,,,,,,,,,,,Clinton (23),,,,,,,,,,,,,,,,,ALP,,,,107 E 2nd St,,,DeWitt,,,IA,,52742,US,41.8169978,-90.5318425,,True
+Main Street Manor,,,,,,,,,,,,,,,,,,Kossuth (55),,,,,,,,,,,,,,,,,ALP,,,,207 3rd St N,,,Swea City,,,IA,,50590,US,43.38360269999999,-94.310255,,True
+Maple Grove Senior Living,,,,,,,,,,,,,,,,,,Appanoose (04),,,,,,,,,,,,,,,,,ALP,,,,1917 S 18th St,,,Centerville,,,IA,,52544,US,40.7144799,-92.86770899999999,,True
+Maple Manor Village,,,,,,,,,,,,,,,,,,Butler (12),,,,,,,,,,,,,,,,,ALP,,,,343 Parriott St,,,Aplington,,,IA,,50604,US,42.5830263,-92.8731025,,True
+Maple Ridge AL,,,,,,,,,,,,,,,,,,Ringgold (80),,,,,,,,,,,,,,,,,ALP,,,,1500 E South St,,,Mt Ayr,,,IA,,50854,US,40.7111026,-94.2284438,,True
+Maples Assisted Living,,,,,,,,,,,,,,,,,,Fayette (33),,,,,,,,,,,,,,,,,ALP,,,,98 Bolger Dr,,,Fayette,,,IA,,52142,US,42.8418612,-91.8091201,,True
+Martina Place,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,ALP,,,,5815 Winwood Dr,,,Johnston,,,IA,,50131,US,41.6688781,-93.70021159999999,,True
+Mayflower Home,,,,,,,,,,,,,,,,,,Poweshiek (79),,,,,,,,,,,,,,,,,ALP,,,,927 1st Ave,,,Grinnell,,,IA,,50112,US,41.7392204,-92.72367039999999,,True
+Meadows (The),,,,,,,,,,,,,,,,,,Delaware (28),,,,,,,,,,,,,,,,,ALP,,,,200 McCarren Dr,,,Manchester,,,IA,,52057,US,42.4868193,-91.439165,,True
+Meadows Assisted Living,,,,,,,,,,,,,,,,,,Butler (12),,,,,,,,,,,,,,,,,ALP,,,,528 N Kelly St,,,Shell Rock,,,IA,,50670,US,42.7133658,-92.57183669999999,,True
+Meadows Assisted Living,,,,,,,,,,,,,,,,,,Wright (99),,,,,,,,,,,,,,,,,ALP,,,,1302 S Main St,,,Clarion,,,IA,,50525,US,42.72127899999999,-93.73319509999999,,True
+Melrose Meadows Retirement Community,,,,,,,,,,,,,,,,,,Johnson (52),,,,,,,,,,,,,,,,,ALP,,,,350 Dublin Dr,,,Iowa City,,,IA,,52246,US,41.65599220000001,-91.58484399999999,Weber,True
+Mica Hill Estates,,,,,,,,,,,,,,,,,,Sioux (84),,,,,,,,,,,,,,,,,ALP,,,,2121 Ave L,,,Hawarden,,,IA,,51023,US,43.0095609,-96.48106419999999,,False
+Mill Pond AL,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,ALP,,,,1201 SE Mill Pond Ct,,,Ankeny,,,IA,,50021,US,41.72450529999999,-93.57822220000001,,True
+Mills Harbour Independent/Assisted Living,,,,,,,,,,,,,,,,,,Winnebago (95),,,,,,,,,,,,,,,,,ALP,,,,311 S 10th Ave E,,,Lake Mills,,,IA,,50450,US,43.4112313,-93.5292851,,True
+MJ Estates,,,,,,,,,,,,,,,,,,Audubon (05),,,,,,,,,,,,,,,,,ALP,,,,411 S Carthage St,,,Exira,,,IA,,50076,US,41.5868314,-94.8775472,,True
+Mulberry Place,,,,,,,,,,,,,,,,,,Davis (26),,,,,,,,,,,,,,,,,ALP,,,,11 Deborah Dr,,,Bloomfield,,,IA,,52537,US,40.7611366,-92.41643839999999,,True
+Murphy Place Assisted Living,,,,,,,,,,,,,,,,,,Wayne (93),,,,,,,,,,,,,,,,,ALP,,,,620 E Monroe St,,,Corydon,,,IA,,50060,US,40.7549191,-93.3123224,,True
+New Homestead,,,,,,,,,,,,,,,,,,Guthrie (39),,,,,,,,,,,,,,,,,ALP,,,,2306 State St,,,Guthrie Center,,,IA,,50115,US,41.68009199999999,-94.48499699999999,,True
+Northridge Village,,,,,,,,,,,,,,,,,,Story (85),,,,,,,,,,,,,,,,,ALP,,,,3300 George Washington Carver Ave,,,Ames,,,IA,,50014,US,42.0561994,-93.65083519999999,,True
+Northwood Pines,,,,,,,,,,,,,,,,,,Worth (98),,,,,,,,,,,,,,,,,ALP,,,,700 10th St N,North,,Northwood,,,IA,,50459,US,43.4511963,-93.2185588,,True
+Oak Estates,,,,,,,,,,,,,,,,,,Grundy (38),,,,,,,,,,,,,,,,,ALP,,,,110 N Alice St,,,Conrad,,,IA,,50621,US,42.2252029,-92.8682661,,True
+Oakhill Assisted Living Home,,,,,,,,,,,,,,,,,,Sioux (84),,,,,,,,,,,,,,,,,ALP,,,,1126 Oakhill Dr,,,Hawarden,,,IA,,51023,US,43.011724,-96.478292,,True
+Oakland Heights,,,,,,,,,,,,,,,,,,Pottawattamie (78),,,,,,,,,,,,,,,,,ALP,,,,904 N Scenic Dr,,,Oakland,,,IA,,51560,US,41.31608019999999,-95.3864193,,True
+Oaks at Parkview Care Center,,,,,,,,,,,,,,,,,,Jefferson (51),,,,,,,,,,,,,,,,,ALP,,,,2235 US-34,,,Fairfield,,,IA,,52556,US,41.0025319,-91.86614689999999,,True
+Odebolt Assisted Living,,,,,,,,,,,,,,,,,,Sac (81),,,,,,,,,,,,,,,,,ALP,,,,799 S Des Moines St,,,Odebolt,,,IA,,51458,US,42.3048009,-95.24527479999999,,True
+Oneota Village,,,,,,,,,,,,,,,,,,Winneshiek (96),,,,,,,,,,,,,,,,,ALP,,,,5 Ohio St,,,Decorah,,,IA,,52101,US,43.3037258,-91.8028329,,True
+Otsego Place,,,,,,,,,,,,,,,,,,Buena Vista (11),,,,,,,,,,,,,,,,,ALP,,,,520 Otsego St,,,Storm Lake,,,IA,,50588,US,42.6434493,-95.20670539999999,,True
+Panora AL,,,,,,,,,,,,,,,,,,Guthrie (39),,,,,,,,,,,,,,,,,ALP,,,,807 E Main St,,,Panora,,,IA,,50216,US,41.69212289999999,-94.3529921,,True
+Park Centre,,,,,,,,,,,,,,,,,,Jasper (50),,,,,,,,,,,,,,,,,ALP,,,,500 1st St N,,,Newton,,,IA,,50208,US,41.7033376,-93.05288499999999,,True
+Park Place Estates,,,,,,,,,,,,,,,,,,Plymouth (75),,,,,,,,,,,,,,,,,ALP,,,,900 Lincoln St NE,,,Le Mars,,,IA,,51031,US,42.7984928,-96.152935,,True
+Park Place Independent & Assisted Living,,,,,,,,,,,,,,,,,,Sac (81),,,,,,,,,,,,,,,,,ALP,,,,551 Park Ave,,,Sac City,,,IA,,50583,US,42.4207227,-94.97729240000001,,True
+Parkview Assisted Living,,,,,,,,,,,,,,,,,,Carroll (14),,,,,,,,,,,,,,,,,ALP,,,,210 Park St,,,Coon Rapids,,,IA,,50058,US,41.8719028,-94.6736081,,True
+Parkview Assisted Living,,,,,,,,,,,,,,,,,,Buchanan (10),,,,,,,,,,,,,,,,,ALP,,,,114 Forest St,,,Fairbank,,,IA,,50629,US,42.64023460000001,-92.0502916,,True
+Pennington Square,,,,,,,,,,,,,,,,,,Jones (53),,,,,,,,,,,,,,,,,ALP,,,,502 Pinehaven Dr,,,Monticello,,,IA,,52310,US,42.2285313,-91.18560260000001,,True
+Perry Lutheran Home AL,,,,,,,,,,,,,,,,,,Dallas (25),,,,,,,,,,,,,,,,,ALP,,,,2323 Willis Ave,,,Perry,,,IA,,50220,US,41.8380818,-94.0903925,,True
+Petersen Commons,,,,,,,,,,,,,,,,,,Scott (82),,,,,,,,,,,,,,,,,ALP,,,,1607 W 12th St,,,Davenport,,,IA,,52804,US,41.531409,-90.5977104,,True
+Pleasant View Assisted Living,,,,,,,,,,,,,,,,,,Monona (67),,,,,,,,,,,,,,,,,ALP,,,,200 Shannon Dr,,,Whiting,,,IA,,51063,US,42.1255086,-96.15922049999999,,True
+Prairie Creek Assisted Living,,,,,,,,,,,,,,,,,,Palo Alto (74),,,,,,,,,,,,,,,,,ALP,,,,301 4th St,,,West Bend,,,IA,,50597,US,43.0258769,-94.5281097,,True
+Prairie Hills at Cedar Rapids,,,,,,,,,,,,,,,,,,Linn (57),,,,,,,,,,,,,,,,,ALP,,,,2903 F Ave NW,,,Cedar Rapids,,,IA,,52405,US,41.9792223,-91.7107286,,True
+Prairie View Inn,,,,,,,,,,,,,,,,,,O'Brien (71),,,,,,,,,,,,,,,,,ALP,,,,610 Eastern St,,,Sanborn,,,IA,,51248,US,43.18452699999999,-95.643969,,True
+Prairie Vista Village,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,ALP,,,,2785 1st Ave S,,,Altoona,,,IA,,50009,US,41.6266962,-93.4634263,,True
+Prime Assisted Living,,,,,,,,,,,,,,,,,,Plymouth (75),,,,,,,,,,,,,,,,,ALP,,,,108 1st Ave NW,,,Le Mars,,,IA,,51031,US,42.7946226,-96.16752869999999,,True
+Prime Assisted Living,,,,,,,,,,,,,,,,,,Woodbury (97),,,,,,,,,,,,,,,,,ALP,,,,725 Pearl St,,,Sioux City,,,IA,,51101,US,42.4978594,-96.4083939,,True
+Primrose Retirement Community,,,,,,,,,,,,,,,,,,Pottawattamie (78),,,,,,,,,,,,,,,,,ALP,,,,1801 E Kanesville Blvd,,,Council Bluffs,,,IA,,51503,US,41.2749722,-95.8223685,,True
+Reed Place,,,,,,,,,,,,,,,,,,Crawford (24),,,,,,,,,,,,,,,,,ALP,,,,2506 3rd Ave N,,,Denison,,,IA,,51442,US,42.0205328,-95.3376249,,True
+Regency Assisted Living,,,,,,,,,,,,,,,,,,Warren (91),,,,,,,,,,,,,,,,,ALP,,,,815 High Rd,,,Norwalk,,,IA,,50211,US,41.4834568,-93.678168,,True
+RidgeView Assisted Living,,,,,,,,,,,,,,,,,,Linn (57),,,,,,,,,,,,,,,,,ALP,,,,2975 F Ave NW,,,Cedar Rapids,,,IA,,52405,US,41.9791166,-91.71136539999999,,True
+River Bend Retirement Community,,,,,,,,,,,,,,,,,,Dubuque (31),,,,,,,,,,,,,,,,,ALP,,,,813 Tyler St NE,,,Cascade,,,IA,,52033,US,42.307734,-91.014793,,True
+River Hills Village,,,,,,,,,,,,,,,,,,Lee (56),,,,,,,,,,,,,,,,,ALP,,,,20 Village Cir,,,Keokuk,,,IA,,52632,US,40.43199449999999,-91.4123779,,True
+River Living Center,,,,,,,,,,,,,,,,,,Clayton (22),,,,,,,,,,,,,,,,,ALP,,,,831 US-52,,,Guttenberg,,,IA,,52052,US,42.7762012,-91.10019299999999,,True
+Riverside Senior Living,,,,,,,,,,,,,,,,,,Floyd (34),,,,,,,,,,,,,,,,,ALP,,,,209 Park Dr,,,Charles City,,,IA,,50616,US,43.0700379,-92.6873306,,True
+"Rock Rapids PE, LLC",,,,,,,,,,,,,,,,,,Lyon (60),,,,,,,,,,,,,,,,,ALP,,,,1510 S Carroll St,,,Rock Rapids,,,IA,,51246,US,43.4150904,-96.1727616,,True
+Rock Ridge Assisted Living,,,,,,,,,,,,,,,,,,Benton (06),,,,,,,,,,,,,,,,,ALP,,,,400 Canton St NW,,,Shellsburg,,,IA,,52332,US,42.0968224,-91.87317589999999,,True
+Rose of Ames,,,,,,,,,,,,,,,,,,Story (85),,,,,,,,,,,,,,,,,ALP,,,,1315 Coconino Rd,,,Ames,,,IA,,50014,US,42.01116010000001,-93.67698299999999,,True
+Rose of Council Bluffs,,,,,,,,,,,,,,,,,,Pottawattamie (78),,,,,,,,,,,,,,,,,ALP,,,,2306 Sherwood Dr,,,Council Bluffs,,,IA,,51503,US,41.28004389999999,-95.812692,,True
+Rose of Des Moines,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,ALP,,,,1330 19th St,,,Des Moines,,,IA,,50314,US,41.60372390000001,-93.6432987,Evelyn Davis Park,True
+Rose of Dubuque,,,,,,,,,,,,,,,,,,Dubuque (31),,,,,,,,,,,,,,,,,ALP,,,,3390 Lake Ridge Dr,,,Dubuque,,,IA,,52003,US,42.4852908,-90.7196376,,True
+Rose of East Des Moines,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,ALP,,,,1331 Idaho St,,,Des Moines,,,IA,,50316,US,41.6032817,-93.598626,Martin Luther King Jr. Park,True
+Rose of Waterloo,,,,,,,,,,,,,,,,,,Blackhawk (07),,,,,,,,,,,,,,,,,ALP,,,,421 Oak Ave,,,Waterloo,,,IA,,50703,US,42.50532080000001,-92.34149500000001,,True
+Rose Vista Assisted Living,,,,,,,,,,,,,,,,,,Harrison (43),,,,,,,,,,,,,,,,,ALP,,,,1108 Park St,Po Box 6,,Woodbine,,,IA,,51579,US,41.743403,-95.7098714,,True
+Rosebush Gardens,,,,,,,,,,,,,,,,,,Des Moines (29),,,,,,,,,,,,,,,,,ALP,,,,4925 West Ave,,,Burlington,,,IA,,52601,US,40.7994475,-91.15791879999999,,True
+Ruthven Community Care Center,,,,,,,,,,,,,,,,,,Palo Alto (74),,,,,,,,,,,,,,,,,ALP,,,,2701 Mitchell St,,,Ruthven,,,IA,,51358,US,43.127774,-94.888954,,True
+Senior Star at Elmore Place Assisted Living,,,,,,,,,,,,,,,,,,Scott (82),,,,,,,,,,,,,,,,,ALP,,,,4500 Elmore Ave,,,Davenport,,,IA,,52807,US,41.56631650000001,-90.5268802,,True
+Senior Suites of Urbandale,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,ALP,,,,4700 84th St,,,Urbandale,,,IA,,50322,US,41.6456781,-93.7341149,,True
+Sigourney AL,,,,,,,,,,,,,,,,,,Keokuk (54),,,,,,,,,,,,,,,,,ALP,,,,810 S Stone St,,,Sigourney,,,IA,,52591,US,41.3271591,-92.20830819999999,,True
+Silver Pond Assisted Living,,,,,,,,,,,,,,,,,,Washington (92),,,,,,,,,,,,,,,,,ALP,,,,516 13th St,,,Wellman,,,IA,,52356,US,41.47540190000001,-91.8342381,,True
+"Silveridge, An Eventide Community, LLC",,,,,,,,,,,,,,,,,,Crawford (24),,,,,,,,,,,,,,,,,ALP,,,,222 S 20th St,,,Denison,,,IA,,51442,US,42.0134899,-95.3431639,,True
+Solon Assisted Living Village,,,,,,,,,,,,,,,,,,Johnson (52),,,,,,,,,,,,,,,,,ALP,,,,623 E 5th St,,,Solon,,,IA,,52333,US,41.8021046,-91.49040370000002,,True
+SOUTHCREST MANOR II,,,,,,,,,,,,,,,,,,Allamakee (03),,,,,,,,,,,,,,,,,ALP,,,,602 2nd St SW,,,Waukon,,,IA,,52172,US,43.2618523,-91.47818009999999,,True
+Southfield Wellness Community AL,,,,,,,,,,,,,,,,,,Hamilton (40),,,,,,,,,,,,,,,,,ALP,,,,2414 Des Moines St,,,Webster City,,,IA,,50595,US,42.45194240000001,-93.8199592,,True
+Spring Creek Independent and Assisted Living,,,,,,,,,,,,,,,,,,Emmet (32),,,,,,,,,,,,,,,,,ALP,,,,110 2nd Ave,,,Armstrong,,,IA,,50514,US,43.3981928,-94.4861928,,True
+Springvale Assisted Living,,,,,,,,,,,,,,,,,,Humboldt (46),,,,,,,,,,,,,,,,,ALP,,,,1050 15th St,,,Humboldt,,,IA,,50548,US,42.7326841,-94.2302364,,True
+"Stanard Family Assisted Living Center, Inc.",,,,,,,,,,,,,,,,,,Blackhawk (07),,,,,,,,,,,,,,,,,ALP,,,,420 E 11th St,,,Cedar Falls,,,IA,,50613,US,42.52911530000001,-92.4409589,,True
+Stoney Brook Village,,,,,,,,,,,,,,,,,,Fayette (33),,,,,,,,,,,,,,,,,ALP,,,,705 S Pine St,,,West Union,,,IA,,52175,US,42.95000659999999,-91.8035735,,True
+Suites of Ankeny,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,ALP,,,,420 NW Ash Dr,,,Ankeny,,,IA,,50023,US,41.7338683,-93.6099721,,True
+Summit Heights,,,,,,,,,,,,,,,,,,Floyd (34),,,,,,,,,,,,,,,,,ALP,,,,8 Summit Ave,,,Nora Springs,,,IA,,50458,US,43.1429112,-93.0168795,,True
+Summit House Assisted Living,,,,,,,,,,,,,,,,,,Hancock (41),,,,,,,,,,,,,,,,,ALP,,,,600 1st St NW,,,Britt,,,IA,,50423,US,43.097887,-93.80909,,True
+SunnyBrook of Fairfield,,,,,,,,,,,,,,,,,,Jefferson (51),,,,,,,,,,,,,,,,,ALP,,,,3000 W Madison Ave,,,Fairfield,,,IA,,52556,US,41.0019888,-91.99851330000001,,True
+Sunrise Assisted Living Suites,,,,,,,,,,,,,,,,,,Tama (86),,,,,,,,,,,,,,,,,ALP,,,,599 Taylor St,,,Traer,,,IA,,50675,US,42.18891120000001,-92.45956149999999,,True
+Sunrise Villa,,,,,,,,,,,,,,,,,,Jackson (49),,,,,,,,,,,,,,,,,ALP,,,,308 N 12th St,,,Bellevue,,,IA,,52031,US,42.257287,-90.4376418,,True
+Swales Assisted Living,,,,,,,,,,,,,,,,,,Clayton (22),,,,,,,,,,,,,,,,,ALP,,,,313 Elkader St,,,Strawberry Point,,,IA,,52076,US,42.6878125,-91.5342574,,True
+Swan Place,,,,,,,,,,,,,,,,,,Carroll (14),,,,,,,,,,,,,,,,,ALP,,,,1024 E 12th St,,,Carroll,,,IA,,51401,US,42.07133839999999,-94.8508586,,True
+"Terrace AL of Hillcrest Home, Inc.",,,,,,,,,,,,,,,,,,Bremer (09),,,,,,,,,,,,,,,,,ALP,,,,915 W 1st St,,,Sumner,,,IA,,50674,US,42.847339,-92.109034,,True
+Terrace Park Sr Living,,,,,,,,,,,,,,,,,,Decatur (27),,,,,,,,,,,,,,,,,ALP,,,,201 SW Lorraine St,,,Leon,,,IA,,50144,US,40.7396327,-93.7610267,,True
+Thornton Heights Assisted Living,,,,,,,,,,,,,,,,,,Allamakee (03),,,,,,,,,,,,,,,,,ALP,,,,1329 Main St,,,Lansing,,,IA,,52151,US,43.360156,-91.2345945,,True
+Timberland Village,,,,,,,,,,,,,,,,,,Story (85),,,,,,,,,,,,,,,,,ALP,,,,725 Timberland Dr,,,Story City,,,IA,,50248,US,42.1890933,-93.574919,,True
+Tower Living Center,,,,,,,,,,,,,,,,,,Clayton (22),,,,,,,,,,,,,,,,,ALP,,,,103 E Centre St,Box 477,,Garnavillo,,,IA,,52049,US,42.8690648,-91.2352999,,True
+Turner Pointe Assisted Living,,,,,,,,,,,,,,,,,,Clayton (22),,,,,,,,,,,,,,,,,ALP,,,,1203 Buell Ave,,,McGregor,,,IA,,52157,US,43.0207839,-91.1899241,,True
+Valley Lodge AL,,,,,,,,,,,,,,,,,,Woodbury (97),,,,,,,,,,,,,,,,,ALP,,,,1118 US-20,,,Correctionville,,,IA,,51016,US,42.481597,-95.7769058,,True
+Valley View Assisted Living,,,,,,,,,,,,,,,,,,Iowa (48),,,,,,,,,,,,,,,,,ALP,,,,150 W Washington St,Po Box 430,,North English,,,IA,,52316,US,41.5183892,-92.078582,,True
+Valley View Manor AL,,,,,,,,,,,,,,,,,,Muscatine (70),,,,,,,,,,,,,,,,,ALP,,,,2421 Lutheran Dr,,,Muscatine,,,IA,,52761,US,41.4186702,-91.0964924,,True
+Village Assisted Living,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,ALP,,,,2555 Guthrie Ave,,,Des Moines,,,IA,,50317,US,41.6139889,-93.56976999999999,Fairmont Park,True
+Village at Legacy Pointe,,,,,,,,,,,,,,,,,,Dallas (25),,,,,,,,,,,,,,,,,ALP,,,,1654 SE Holiday Crest Cir,,,Waukee,,,IA,,50263,US,41.611439,-93.839282,,True
+Village Terrace AL,,,,,,,,,,,,,,,,,,Van Buren (89),,,,,,,,,,,,,,,,,ALP,,,,302 Franklin St,,,Keosauqua,,,IA,,52565,US,40.73637859999999,-91.95949960000002,,True
+Vintage Park Apartments,,,,,,,,,,,,,,,,,,Taylor (87),,,,,,,,,,,,,,,,,ALP,,,,810 E Van Buren St,,,Lenox,,,IA,,50851,US,40.885425,-94.5560817,,True
+Waterford at Ames Assisted Living,,,,,,,,,,,,,,,,,,Story (85),,,,,,,,,,,,,,,,,ALP,,,,1325 Coconino Rd,Ste 300,,Ames,,,IA,,50014,US,42.0104149,-93.6774801,,True
+Welcov Assisted Living at Alta,,,,,,,,,,,,,,,,,,Buena Vista (11),,,,,,,,,,,,,,,,,ALP,,,,705 W 7th St,,,Alta,,,IA,,51002,US,42.668788,-95.312015,,True
+Welcov at Spirit Lake,,,,,,,,,,,,,,,,,,Dickinson (30),,,,,,,,,,,,,,,,,ALP,,,,1819 23rd St,,,Spirit Lake,,,IA,,51360,US,43.4174938,-95.1169353,,True
+Wellington Place,,,,,,,,,,,,,,,,,,Winneshiek (96),,,,,,,,,,,,,,,,,ALP,,,,2475 River Rd,,,Decorah,,,IA,,52101,US,43.3021883,-91.7404488,,True
+Wesley Acres Central AL,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,ALP,,,,3520 Grand Ave,,,Des Moines,,,IA,,50312,US,41.58339549999999,-93.66457609999999,Greenwood,True
+Wesley the Village,,,,,,,,,,,,,,,,,,Warren (91),,,,,,,,,,,,,,,,,ALP,,,,1203 N E St,,,Indianola,,,IA,,50125,US,41.373214,-93.57073799999999,,True
+West Liberty AL Residences,,,,,,,,,,,,,,,,,,Muscatine (70),,,,,,,,,,,,,,,,,ALP,,,,1000 N Miller St,,,West Liberty,,,IA,,52776,US,41.57817419999999,-91.2584092,,True
+Westhaven Community,,,,,,,,,,,,,,,,,,Boone (08),,,,,,,,,,,,,,,,,ALP,,,,112 W 4th St,,,Boone,,,IA,,50036,US,42.0602578,-93.8932834,,True
+Westside AL Suites,,,,,,,,,,,,,,,,,,Butler (12),,,,,,,,,,,,,,,,,ALP,,,,110 S Ely St,,,Clarksville,,,IA,,50619,US,42.78422090000001,-92.6748375,,True
+White Oak Estates,,,,,,,,,,,,,,,,,,Mahaska (62),,,,,,,,,,,,,,,,,ALP,,,,914 N 12th St,,,Oskaloosa,,,IA,,52577,US,41.3024155,-92.6305718,,True
+Willow Dale Independent & Assisted Living,,,,,,,,,,,,,,,,,,Ida (47),,,,,,,,,,,,,,,,,ALP,,,,118 N Ida St,,,Battle Creek,,,IA,,51006,US,42.31667339999999,-95.5981357,,True
+Willows (The),,,,,,,,,,,,,,,,,,Guthrie (39),,,,,,,,,,,,,,,,,ALP,,,,324 SW 6th St,,,Stuart,,,IA,,50250,US,41.4982321,-94.32450850000001,,True
+Winding Creek Meadows,,,,,,,,,,,,,,,,,,Buchanan (10),,,,,,,,,,,,,,,,,ALP,,,,1044 9th St,,,Jesup,,,IA,,50648,US,42.4727656,-92.0588032,,True
+AASE HAUGEN HOME,,,,,,,,,,,,,,,,,,Winneshiek (96),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,4 Ohio St,,,Decorah,,,IA,,52101,US,43.30303819999999,-91.80283419999999,,True
+ABCM REHABILITATION CENTER OF INDEPENDENCE WEST CAMPUS,,,,,,,,,,,,,,,,,,Buchanan (10),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1610 3rd St NE,,,Independence,,,IA,,50644,US,42.4719278,-91.8743556,,True
+ABCM REHABILITATION CENTERS OF INDEPENDENCE EAST CAMPUS,,,,,,,,,,,,,,,,,,Buchanan (10),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1700 3rd St NE,,,Independence,,,IA,,50644,US,42.47200969999999,-91.87260889999999,,True
+"ACCORDIUS HEALTH AT ST. MARY, LLC",,,,,,,,,,,,,,,,,,Scott (82),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,800 E Rusholme St,,,Davenport,,,IA,,52803,US,41.543365,-90.5630192,,True
+"ACCURA HEALTHCARE OF AMES, LLC",,,,,,,,,,,,,,,,,,Story (85),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,3440 Grand Ave,,,Ames,,,IA,,50010,US,42.0552039,-93.6195012,,True
+"ACCURA HEALTHCARE OF BAXTER, LLC",,,,,,,,,,,,,,,,,,Jasper (50),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,407 Southeast Ave,,,Baxter,,,IA,,50028,US,41.82081299999999,-93.1440946,,True
+"ACCURA HEALTHCARE OF CHEROKEE, LLC",,,,,,,,,,,,,,,,,,Cherokee (18),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,921 Riverview Dr,,,Cherokee,,,IA,,51012,US,42.75948,-95.536039,,True
+"ACCURA HEALTHCARE OF KNOXVILLE, LLC",,,,,,,,,,,,,,,,,,Marion (63),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,606 N 7th St,,,Knoxville,,,IA,,50138,US,41.3241109,-93.0923725,,True
+"ACCURA HEALTHCARE OF NEWTON EAST, LLC",,,,,,,,,,,,,,,,,,Jasper (50),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1743 S 8th Ave E,,,Newton,,,IA,,50208,US,41.691775,-93.03119,,True
+"ACCURA HEALTHCARE OF NEWTON WEST, LLC",,,,,,,,,,,,,,,,,,Jasper (50),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2130 W 18th St S,,,Newton,,,IA,,50208,US,41.6797805,-93.07409969999999,,True
+"ACCURA HEALTHCARE OF OGDEN, LLC",,,,,,,,,,,,,,,,,,Boone (08),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,625 E Oak St,,,Ogden,,,IA,,50212,US,42.0373947,-94.0188486,,True
+"ACCURA HEALTHCARE OF PLEASANTVILLE, LLC",,,,,,,,,,,,,,,,,,Marion (63),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,909 N State St,,,Pleasantville,,,IA,,50225,US,41.3941685,-93.2723492,,True
+"ACCURA HEALTHCARE OF POMEROY, LLC",,,,,,,,,,,,,,,,,,Calhoun (13),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,303 E 7th St,,,Pomeroy,,,IA,,50575,US,42.5429419,-94.680701,,True
+"ACCURA HEALTHCARE OF SIOUX CITY, LLC",,,,,,,,,,,,,,,,,,Woodbury (97),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,3800 Indian Hills Dr,,,Sioux City,,,IA,,51104,US,42.53593679999999,-96.3744816,,True
+ACCURA HEALTHCARE OF STANTON,,,,,,,,,,,,,,,,,,Montgomery (69),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,213 Halland Ave,,,Stanton,,,IA,,51573,US,40.977363,-95.0990777,,True
+ADEL ACRES,,,,,,,,,,,,,,,,,,Dallas (25),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1919 Greene St,,,Adel,,,IA,,50003,US,41.6121849,-94.033721,,True
+AFTON CARE CENTER,,,,,,,,,,,,,,,,,,Union (88),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,508 W Pearl St,,,Afton,,,IA,,50830,US,41.0345904,-94.2024016,,True
+"AKRON CARE CENTER, INC.",,,,,,,,,,,,,,,,,,Plymouth (75),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,991 IA-3,,,Akron,,,IA,,51001,US,42.8194109,-96.54954839999999,,True
+ALGONA MANOR CARE CENTER,,,,,,,,,,,,,,,,,,Kossuth (55),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2221 E McGregor St,,,Algona,,,IA,,50511,US,43.06777599999999,-94.2094556,,True
+ALTOONA NURSING AND REHABILITATION,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,200 7th Ave SW,,,Altoona,,,IA,,50009,US,41.6498833,-93.47329959999999,,True
+ANAMOSA CARE CENTER,,,,,,,,,,,,,,,,,,Jones (53),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1209 E 3rd St,,,Anamosa,,,IA,,52205,US,42.1037931,-91.2705254,,True
+ARBOR COURT,,,,,,,,,,,,,,,,,,Henry (44),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,701 E Maple Leaf Dr,,,Mt Pleasant,,,IA,,52641,US,40.97456030000001,-91.5437682,,True
+ATLANTIC SPECIALTY CARE,,,,,,,,,,,,,,,,,,Cass (15),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1300 E 19th St,,,Atlantic,,,IA,,50022,US,41.39229629999999,-94.99477739999999,,True
+AVOCA SPECIALTY CARE,,,,,,,,,,,,,,,,,,Pottawattamie (78),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,610 York Rd,,,Avoca,,,IA,,51521,US,41.50307929999999,-95.33341349999999,,True
+BEDFORD SPECIALTY CARE,,,,,,,,,,,,,,,,,,Taylor (87),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1005 Pearl St,,,Bedford,,,IA,,50833,US,40.6690481,-94.7252163,,True
+BELLE PLAINE SPECIALTY CARE,,,,,,,,,,,,,,,,,,Benton (06),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1505 Sunset Dr,,,Belle Plaine,,,IA,,52208,US,41.899648,-92.265142,,True
+BETHANY HOME,,,,,,,,,,,,,,,,,,Dubuque (31),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1005 Lincoln Ave,,,Dubuque,,,IA,,52001,US,42.5194937,-90.66224700000001,,True
+BETHANY LIFE,,,,,,,,,,,,,,,,,,Story (85),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,212 Lafayette Ave,,,Story City,,,IA,,50248,US,42.18153299999999,-93.59180490000001,,True
+BETHANY LUTHERAN HOME,,,,,,,,,,,,,,,,,,Pottawattamie (78),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,7 Elliott St,,,Council Bluffs,,,IA,,51503,US,41.27863579999999,-95.8364592,,True
+BETTENDORF HEALTH CARE CENTER,,,,,,,,,,,,,,,,,,Scott (82),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2730 Crow Creek Rd,,,Bettendorf,,,IA,,52722,US,41.5699264,-90.4941444,,True
+BISHOP DRUMM RETIREMENT CENTER,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,5837 Winwood Dr,,,Johnston,,,IA,,50131,US,41.669571,-93.699927,,True
+BLACK HAWK LIFE CARE CENTER,,,,,,,,,,,,,,,,,,Sac (81),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,73 W 5th St,,,Lake View,,,IA,,51450,US,42.3079401,-95.05673209999999,,True
+BLAIR HOUSE,,,,,,,,,,,,,,,,,,Des Moines (29),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1212 Indian Hills Dr,,,West Burlington,,,IA,,52655,US,40.79512099999999,-91.16662300000002,,True
+BLOOMFIELD CARE CENTER,,,,,,,,,,,,,,,,,,Davis (26),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,800 N Davis St,,,Bloomfield,,,IA,,52537,US,40.76042419999999,-92.41827990000002,,True
+BRIARWOOD HEALTHCARE CENTER,,,,,,,,,,,,,,,,,,Johnson (52),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,605 Greenwood Dr,,,Iowa City,,,IA,,52246,US,41.651787,-91.54666499999999,Horn,True
+BROOKLYN COMMUNITY ESTATES,,,,,,,,,,,,,,,,,,Poweshiek (79),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,406 North St,,,Brooklyn,,,IA,,52211,US,41.7395477,-92.4418239,,True
+BURLINGTON CARE CENTER,,,,,,,,,,,,,,,,,,Des Moines (29),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2610 S 5th St,,,Burlington,,,IA,,52601,US,40.778485,-91.102862,,True
+CALVIN COMMUNITY,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,4210 Hickman Rd,,,Des Moines,,,IA,,50310,US,41.61450609999999,-93.6753852,Beaverdale,True
+CAREAGE HILLS REHABILITATION AND HEALTHCARE,,,,,,,,,,,,,,,,,,Cherokee (18),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,725 N 2nd St,,,Cherokee,,,IA,,51012,US,42.7567449,-95.55236699999999,,True
+CARING ACRES NURSING & REHAB CENTER,,,,,,,,,,,,,,,,,,Cass (15),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1000 Hillcrest Dr,,,Anita,,,IA,,50020,US,41.4364845,-94.7665926,,True
+CARLISLE CENTER FOR WELLNESS & REHAB,,,,,,,,,,,,,,,,,,Warren (91),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,680 Cole St,,,Carlisle,,,IA,,50047,US,41.4956293,-93.4927015,,True
+CASA DE PAZ HEALTH CARE CENTER,,,,,,,,,,,,,,,,,,Woodbury (97),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2121 W 19th St,,,Sioux City,,,IA,,51103,US,42.5111883,-96.435959,,True
+CEDAR FALLS HEALTH CARE CENTER,,,,,,,,,,,,,,,,,,Blackhawk (07),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1728 W 8th St,,,Cedar Falls,,,IA,,50613,US,42.53081700000001,-92.46639599999999,,True
+CEDAR HEALTH,,,,,,,,,,,,,,,,,,Floyd (34),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,807 5th St,,,Charles City,,,IA,,50616,US,43.0603901,-92.68351849999999,,True
+CEDAR MANOR NURSING HOME,,,,,,,,,,,,,,,,,,Cedar (16),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1200 Mulberry St,,,Tipton,,,IA,,52772,US,41.7775986,-91.1237695,,True
+CENTERVILLE SPECIALTY CARE,,,,,,,,,,,,,,,,,,Appanoose (04),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1208 E Cross St,,,Centerville,,,IA,,52544,US,40.74047700000001,-92.86251399999999,,True
+CHARITON SPECIALTY CARE,,,,,,,,,,,,,,,,,,Lucas (59),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1214 N 7th St,,,Chariton,,,IA,,50049,US,41.0289215,-93.3021665,,True
+CHAUTAUQUA GUEST HOME #2 (11th St.),,,,,,,,,,,,,,,,,,Floyd (34),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,602 11th St,,,Charles City,,,IA,,50616,US,43.05198600000001,-92.67837829999999,,True
+CHAUTAUQUA GUEST HOME #3 (9th St.),,,,,,,,,,,,,,,,,,Floyd (34),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,302 9th St,,,Charles City,,,IA,,50616,US,43.0551141,-92.6757153,,True
+CHEROKEE SPECIALTY CARE,,,,,,,,,,,,,,,,,,Cherokee (18),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1011 N Roosevelt Ave,,,Cherokee,,,IA,,51012,US,42.762611,-95.54455709999999,,True
+CLARENCE NURSING HOME,,,,,,,,,,,,,,,,,,Cedar (16),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,402 2nd Ave,,,Clarence,,,IA,,52216,US,41.8861491,-91.06273519999999,,True
+CLARION WELLNESS AND REHABILITATION CENTER,,,,,,,,,,,,,,,,,,Wright (99),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,110 13th Ave SW,,,Clarion,,,IA,,50525,US,42.72038339999999,-93.734461,,True
+CLARKSVILLE SKILLED NURSING AND REHABILITATION CENTER,,,,,,,,,,,,,,,,,,Butler (12),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,115 N Hilton St,,,Clarksville,,,IA,,50619,US,42.78521689999999,-92.6735289,,True
+CLEARVIEW HOME CLRFLD,,,,,,,,,,,,,,,,,,Taylor (87),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,202 Jefferson St,,,Clearfield,,,IA,,50840,US,40.80352500000001,-94.4768663,,True
+CLEARVIEW HOME MT AYR,,,,,,,,,,,,,,,,,,Ringgold (80),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,406 W Washington,,,Mt Ayr,,,IA,,50854,US,40.7182825,-94.2421866,,False
+COLONIAL MANOR OF AMANA,,,,,,,,,,,,,,,,,,Iowa (48),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,3207 220th Trl,,,Amana,,,IA,,52203,US,41.799113,-91.89469000000001,,True
+COLONIAL MANOR OF ELMA,,,,,,,,,,,,,,,,,,Howard (45),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,407 9th St,,,Elma,,,IA,,50628,US,43.2441169,-92.44659659999999,,True
+COLONIAL MANORS OF COLUMBUS COMMUNITY,,,,,,,,,,,,,,,,,,Louisa (58),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,814 Springer Ave,,,Columbus Junction,,,IA,,52738,US,41.27165309999999,-91.3711471,,True
+COMMUNITY CARE CENTER,,,,,,,,,,,,,,,,,,Adair (01),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,325 SW 7th St,,,Stuart,,,IA,,50250,US,41.49741270000001,-94.32233810000001,,True
+COMMUNITY MEMORIAL HEALTH CENTER,,,,,,,,,,,,,,,,,,O'Brien (71),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,231 N 8th Ave W,,,Hartley,,,IA,,51346,US,43.1839399,-95.4868508,,True
+CONCORD CARE CENTER,,,,,,,,,,,,,,,,,,Hancock (41),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,490 W Lyons St,,,Garner,,,IA,,50438,US,43.0904678,-93.60804549999999,,True
+CORNING SPECIALTY CARE,,,,,,,,,,,,,,,,,,Adams (02),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1614 Northgate Dr,PO BOX 479,,Corning,,,IA,,50841,US,40.999178,-94.732328,,True
+CORRECTIONVILLE SPECIALTY CARE,,,,,,,,,,,,,,,,,,Woodbury (97),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1115 US-20 BOX H,,,Correctionville,,,IA,,51016,US,42.4827454,-95.88499189999999,,False
+CORYDON SPECIALTY CARE,,,,,,,,,,,,,,,,,,Wayne (93),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,745 E South St,BOX 387,,Corydon,,,IA,,50060,US,40.754318,-93.309196,,True
+COUNTRY VIEW MANOR INC.,,,,,,,,,,,,,,,,,,Osceola (72),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,100 Cedar Ln,,,Sibley,,,IA,,51249,US,43.4095922,-95.744474,,True
+COUNTRY VIEW NF/SNF,,,,,,,,,,,,,,,,,,Blackhawk (07),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1410 W Dunkerton Rd,,,Waterloo,,,IA,,50703,US,42.571656,-92.36542999999999,,True
+COUNTRYSIDE HEALTH CARE CENTER,,,,,,,,,,,,,,,,,,Woodbury (97),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,6120 Morningside Ave,,,Sioux City,,,IA,,51106,US,42.4602938,-96.3277306,,True
+CREST HAVEN CARE CENTRE,,,,,,,,,,,,,,,,,,Union (88),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1000 E Howard St,,,Creston,,,IA,,50801,US,41.0609025,-94.34983249999999,,True
+CRESTON SPECIALTY CARE,,,,,,,,,,,,,,,,,,Union (88),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1001 Cottonwood Rd,,,Creston,,,IA,,50801,US,41.0693147,-94.38532,,True
+CRESTRIDGE CARE CENTER,,,,,,,,,,,,,,,,,,Jackson (49),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1015 Wesley Dr,,,Maquoketa,,,IA,,52060,US,42.0657923,-90.6800726,,True
+CRESTVIEW ACRES,,,,,,,,,,,,,,,,,,Linn (57),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1485 Grand Ave,,,Marion,,,IA,,52302,US,42.01976510000001,-91.5943047,,True
+CRESTVIEW NURSING & REHAB,,,,,,,,,,,,,,,,,,Hamilton (40),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2401 Des Moines St,,,Webster City,,,IA,,50595,US,42.4512434,-93.82117869999999,,True
+CRESTVIEW SPECIALTY CARE,,,,,,,,,,,,,,,,,,Cedar (16),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,451 W Orange St,,,West Branch,,,IA,,52358,US,41.67564350000001,-91.3532261,,True
+CRYSTAL HEIGHTS CARE CENTER,,,,,,,,,,,,,,,,,,Mahaska (62),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1514 High Ave W,,,Oskaloosa,,,IA,,52577,US,41.295209,-92.661523,,True
+DANVILLE CARE CENTER,,,,,,,,,,,,,,,,,,Des Moines (29),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,401 S Birch St,,,Danville,,,IA,,52623,US,40.862451,-91.3162569,,True
+DAVENPORT LUTHERAN HOME,,,,,,,,,,,,,,,,,,Scott (82),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1130 W 53rd St,,,Davenport,,,IA,,52806,US,41.576189,-90.5884839,,True
+DENISON CARE CENTER,,,,,,,,,,,,,,,,,,Crawford (24),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1202 Ridge Rd,,,Denison,,,IA,,51442,US,42.0316597,-95.3362935,,True
+DENVER SUNSET HOME,,,,,,,,,,,,,,,,,,Bremer (09),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,235 N Mill St,,,Denver,,,IA,,50622,US,42.674524,-92.33478799999999,,True
+DONNELLSON HEALTH CENTER,,,,,,,,,,,,,,,,,,Lee (56),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,901 State St,,,Donnellson,,,IA,,52625,US,40.64688499999999,-91.56980899999999,,True
+DUBUQUE SPECIALTY CARE,,,,,,,,,,,,,,,,,,Dubuque (31),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2935 Kaufmann Ave,,,Dubuque,,,IA,,52001,US,42.5149487,-90.70750749999999,,True
+DUMONT WELLNESS CENTER,,,,,,,,,,,,,,,,,,Butler (12),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,921 3rd St,,,Dumont,,,IA,,50625,US,42.75032019999999,-92.976849,,True
+DUNLAP SPECIALTY CARE,,,,,,,,,,,,,,,,,,Harrison (43),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1403 Harrison Rd,,,Dunlap,,,IA,,51529,US,41.8486412,-95.58867219999999,,True
+EAGLE POINT HEALTH CARE CENTER,,,,,,,,,,,,,,,,,,Clinton (23),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,801 28th Ave N,,,Clinton,,,IA,,52732,US,41.877789,-90.1897777,,True
+EASTERN STAR MASONIC HOME,,,,,,,,,,,,,,,,,,Boone (08),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,715 W 3rd St,,,Boone,,,IA,,50036,US,42.059323,-93.90193889999999,,True
+EDGEWATER A WESLEY ACTIVE LIFE COMMUNITY LLC,,,,,,,,,,,,,,,,,,Dallas (25),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,9225 Cascade Ave,,,West Des Moines,,,IA,,50266,US,41.5557228,-93.8332076,,True
+EDGEWOOD CONVALESCENT HOME,,,,,,,,,,,,,,,,,,Delaware (28),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,513 S Bell St,,,Edgewood,,,IA,,52042,US,42.6427598,-91.4034152,,True
+ELDORA SPECIALTY CARE,,,,,,,,,,,,,,,,,,Hardin (42),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1510 22nd St,,,Eldora,,,IA,,50627,US,42.35757679999999,-93.11109139999999,,True
+ELKADER CARE CENTER,,,,,,,,,,,,,,,,,,Clayton (22),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,116 Reimer St SW,,,Elkader,,,IA,,52043,US,42.84727640000001,-91.4068786,,True
+ELM CREST RETIREMENT COMMUNITY,,,,,,,,,,,,,,,,,,Shelby (83),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2104 12th St,,,Harlan,,,IA,,51537,US,41.648206,-95.32480100000001,,True
+ELM HEIGHTS CARE CENTER,,,,,,,,,,,,,,,,,,Page (73),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1203 S Elm St,,,Shenandoah,,,IA,,51601,US,40.7551581,-95.37325109999999,,True
+ELMWOOD CARE CENTER,,,,,,,,,,,,,,,,,,Monona (67),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,222 15th St,,,Onawa,,,IA,,51040,US,42.0364708,-96.10486829999999,,True
+EMBASSY HEALTHCARE COMMUNITY,,,,,,,,,,,,,,,,,,Woodbury (97),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,206 Port Neal Rd,,,Sergeant Bluff,,,IA,,51054,US,42.3972545,-96.3542039,,True
+EMMETSBURG CARE CENTER,,,,,,,,,,,,,,,,,,Palo Alto (74),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2405 21st St,,,Emmetsburg,,,IA,,50536,US,43.1017714,-94.6823221,,True
+ENGLISH VALLEY NURSING CARE CENTER,,,,,,,,,,,,,,,,,,Iowa (48),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,150 W Washington St,,,North English,,,IA,,52316,US,41.5183892,-92.078582,,True
+ENNOBLE SKILLED NURSING AND REHABILITATION CENTER,,,,,,,,,,,,,,,,,,Dubuque (31),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2000 Pasadena Dr,,,Dubuque,,,IA,,52001,US,42.5044878,-90.71774160000001,,True
+EVANS MEMORIAL HOME,,,,,,,,,,,,,,,,,,Howard (45),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1010 N Elm St,,,Cresco,,,IA,,52136,US,43.3835377,-92.1138514,,True
+EVENTIDE LUTHERAN HOME,,,,,,,,,,,,,,,,,,Crawford (24),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,114 S 20th St,,,Denison,,,IA,,51442,US,42.01385649999999,-95.341895,,True
+EXIRA CARE CENTER,,,,,,,,,,,,,,,,,,Audubon (05),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,409 S Carthage St,,,Exira,,,IA,,50076,US,41.5868405,-94.8775477,,True
+FAITH LUTHERAN HOME,,,,,,,,,,,,,,,,,,Mitchell (66),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,914 Davidson Dr,,,Osage,,,IA,,50461,US,43.27664370000001,-92.8084414,,True
+FELLOWSHIP VILLAGE,,,,,,,,,,,,,,,,,,Lyon (60),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,300 E Jefferson St,,,Inwood,,,IA,,51240,US,43.30716,-96.42910649999999,,True
+FLEUR HEIGHTS CENTER FOR WELLNESS & REHAB,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,4911 SW 19th St,,,Des Moines,,,IA,,50315,US,41.53908,-93.642004,Greater South Side,True
+FONDA SPECIALTY CARE,,,,,,,,,,,,,,,,,,Pocahontas (76),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,607 Queen St,,,Fonda,,,IA,,50540,US,42.5859896,-94.84266149999999,,True
+FORT DODGE HEALTH AND REHABILITATION,,,,,,,,,,,,,,,,,,Webster (94),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,728 14th Ave N,,,Fort Dodge,,,IA,,50501,US,42.5197067,-94.1925516,,True
+FOUNTAIN WEST HEALTH CENTER,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1501 Office Park Rd,,,West Des Moines,,,IA,,50265,US,41.5925538,-93.7247172,,True
+FRIENDSHIP HAVEN,,,,,,,,,,,,,,,,,,Webster (94),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,420 Kenyon Rd,,,Fort Dodge,,,IA,,50501,US,42.4888372,-94.195821,,True
+FRIENDSHIP HOME ASSOCIATION,,,,,,,,,,,,,,,,,,Audubon (05),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,714 N Division St,,,Audubon,,,IA,,50025,US,41.7248689,-94.9292979,,True
+FRIENDSHIP VILLAGE RETIREMENT CENTER,,,,,,,,,,,,,,,,,,Blackhawk (07),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,600 Park Ln,,,Waterloo,,,IA,,50702,US,42.4624899,-92.3504758,,True
+GARDEN VIEW CARE CENTER,,,,,,,,,,,,,,,,,,Page (73),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1200 W Nishna Rd,,,Shenandoah,,,IA,,51601,US,40.7565893,-95.38151219999999,,True
+GENESIS SENIOR LIVING CENTER,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,5608 SW 9th St,,,Des Moines,,,IA,,50315,US,41.5330862,-93.6264147,Greater South Side,True
+GLEN HAVEN HOME,,,,,,,,,,,,,,,,,,Mills (65),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,302 6th St,,,Glenwood,,,IA,,51534,US,41.052412,-95.741177,,True
+GOLDEN AGE CARE CENTER,,,,,,,,,,,,,,,,,,Appanoose (04),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1915 S 18th St,,,Centerville,,,IA,,52544,US,40.7151053,-92.8667852,,True
+GOLDENROD MANOR,,,,,,,,,,,,,,,,,,Page (73),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,225 W Laperla Dr,,,Clarinda,,,IA,,51632,US,40.724596,-95.039538,,True
+GOOD NEIGHBOR HOME,,,,,,,,,,,,,,,,,,Delaware (28),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,105 McCarren Dr,,,Manchester,,,IA,,52057,US,42.4849121,-91.4378369,,True
+GOOD SAMARITAN SOCIETY - ALGONA,,,,,,,,,,,,,,,,,,Kossuth (55),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,412 W Kennedy,,,Algona,,,IA,,50511,US,43.06490669999999,-94.2402759,,False
+GOOD SAMARITAN SOCIETY - DAVENPORT,,,,,,,,,,,,,,,,,,Scott (82),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,700 Waverly Rd,,,Davenport,,,IA,,52804,US,41.5254529,-90.62352969999999,,True
+GOOD SAMARITAN SOCIETY - ESTHERVILLE,,,,,,,,,,,,,,,,,,Emmet (32),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1646 5th Ave N,,,Estherville,,,IA,,51334,US,43.408321,-94.8205426,,True
+GOOD SAMARITAN SOCIETY - FONTANELLE,,,,,,,,,,,,,,,,,,Adair (01),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,326 Summerset St,,,Fontanelle,,,IA,,50846,US,41.2944123,-94.56369869999999,,True
+GOOD SAMARITAN SOCIETY - FOREST CITY,,,,,,,,,,,,,,,,,,Winnebago (95),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,606 S 7th St,,,Forest City,,,IA,,50436,US,43.2585339,-93.6412314,,True
+GOOD SAMARITAN SOCIETY - GEORGE,,,,,,,,,,,,,,,,,,Lyon (60),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,324 1st Ave N,,,George,,,IA,,51237,US,43.34873609999999,-95.9950435,,True
+GOOD SAMARITAN SOCIETY - HOLSTEIN,,,,,,,,,,,,,,,,,,Ida (47),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,505 W 2nd St,,,Holstein,,,IA,,51025,US,42.4886077,-95.55098939999999,,True
+GOOD SAMARITAN SOCIETY - INDIANOLA,,,,,,,,,,,,,,,,,,Warren (91),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,708 S Jefferson Way,,,Indianola,,,IA,,50125,US,41.35384429999999,-93.5572596,,True
+GOOD SAMARITAN SOCIETY - LE MARS,,,,,,,,,,,,,,,,,,Plymouth (75),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1140 Lincoln St NE,,,Le Mars,,,IA,,51031,US,42.7998144,-96.1492768,,True
+GOOD SAMARITAN SOCIETY - MANSON,,,,,,,,,,,,,,,,,,Calhoun (13),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1402 Main St,,,Manson,,,IA,,50563,US,42.5344702,-94.53484569999999,,True
+GOOD SAMARITAN SOCIETY - NEWELL,,,,,,,,,,,,,,,,,,Buena Vista (11),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,415 IA-7 BOX 395,,,Newell,,,IA,,50568,US,42.6029608,-95.0079947,,True
+GOOD SAMARITAN SOCIETY - OTTUMWA,,,,,,,,,,,,,,,,,,Wapello (90),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2035 Chester Ave,,,Ottumwa,,,IA,,52501,US,41.00511230000001,-92.4587136,,True
+GOOD SAMARITAN SOCIETY - POSTVILLE,,,,,,,,,,,,,,,,,,Allamakee (03),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,400 Hardin Dr,,,Postville,,,IA,,52162,US,43.0821507,-91.55876429999999,,True
+GOOD SAMARITAN SOCIETY - RED OAK,,,,,,,,,,,,,,,,,,Montgomery (69),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,201 Alix St,,,Red Oak,,,IA,,51566,US,41.0235325,-95.2312354,,True
+GOOD SAMARITAN SOCIETY - SAINT ANSGAR,,,,,,,,,,,,,,,,,,Mitchell (66),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,701 E 4th St,,,St Ansgar,,,IA,,50472,US,43.3790519,-92.91016959999999,,True
+GOOD SAMARITAN SOCIETY - VILLISCA,,,,,,,,,,,,,,,,,,Montgomery (69),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,202 Central Ave,,,Villisca,,,IA,,50864,US,40.9346627,-94.9824774,,True
+GOOD SAMARITAN SOCIETY - WAUKON,,,,,,,,,,,,,,,,,,Allamakee (03),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,21 E Main St,,,Waukon,,,IA,,52172,US,43.2685766,-91.4739609,,True
+GOOD SAMARITAN SOCIETY - WEST UNION,,,,,,,,,,,,,,,,,,Fayette (33),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,201 Hall St,,,West Union,,,IA,,52175,US,42.9704778,-91.8112628,,True
+GOOD SHEPHERD HEALTH CENTER,,,,,,,,,,,,,,,,,,Cerro Gordo (17),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,302 2nd St NE,,,Mason City,,,IA,,50401,US,43.153959,-93.19577799999999,,True
+GRAND JI VANTE,,,,,,,,,,,,,,,,,,Hardin (42),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,502 Butler St,,,Ackley,,,IA,,50601,US,42.5521792,-93.04661689999999,,True
+GRANDVIEW HEALTH CARE CENTER,,,,,,,,,,,,,,,,,,Webster (94),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,508 2nd St NE,,,Dayton,,,IA,,50530,US,42.267154,-94.065384,,True
+GRANDVIEW HEALTHCARE CENTER,,,,,,,,,,,,,,,,,,Fayette (33),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,800 5th St SE,,,Oelwein,,,IA,,50662,US,42.6708471,-91.9018529,,True
+GRANDVIEW HEIGHTS,,,,,,,,,,,,,,,,,,Marshall (64),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,910 E Olive St,,,Marshalltown,,,IA,,50158,US,42.0293286,-92.897627,,True
+GRANGER NURSING AND REHABILITATION CENTER,,,,,,,,,,,,,,,,,,Dallas (25),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2001 Kennedy St,,,Granger,,,IA,,50109,US,41.7629312,-93.8298411,,True
+GREAT RIVER CARE CENTER,,,,,,,,,,,,,,,,,,Clayton (22),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1400 W Main St,,,McGregor,,,IA,,52157,US,43.0201263,-91.1931291,,True
+GREEN HILLS HEALTH CARE CENTER,,,,,,,,,,,,,,,,,,Story (85),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2200 Hamilton Dr,SUITE 100,,Ames,,,IA,,50014,US,42.002432,-93.64604399999999,,True
+GREENFIELD REHABILITATION & HEALTH CARE CENTER,,,,,,,,,,,,,,,,,,Adair (01),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,615 SE Kent St,,,Greenfield,,,IA,,50849,US,41.30314799999999,-94.45034799999999,,True
+GRISWOLD REHABILITATION & HEALTH CARE CENTER,,,,,,,,,,,,,,,,,,Cass (15),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,106 Harrison St,,,Griswold,,,IA,,51535,US,41.2366773,-95.1339033,,True
+GRUNDY CARE CENTER,,,,,,,,,,,,,,,,,,Grundy (38),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,102 E J Ave,,,Grundy Center,,,IA,,50638,US,42.3582528,-92.7625678,,True
+GUTTENBERG CARE CENTER,,,,,,,,,,,,,,,,,,Clayton (22),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1315 Acre St,,,Guttenberg,,,IA,,52052,US,42.7796873,-91.1049943,,True
+HALCYON HOUSE,,,,,,,,,,,,,,,,,,Washington (92),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1015 S Iowa Ave,,,Washington,,,IA,,52353,US,41.289216,-91.692049,,True
+HALLMARK CARE CENTER MV,,,,,,,,,,,,,,,,,,Linn (57),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,215 US-30,,,Mt Vernon,,,IA,,52314,US,41.9160289,-91.4196466,,True
+HAPPY SIESTA NURSING HOME,,,,,,,,,,,,,,,,,,Plymouth (75),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,423 Roosevelt St,,,Remsen,,,IA,,51050,US,42.8094474,-95.9669619,,True
+HARMONY HOUSE HEALTH CARE CENTER NF/SNF,,,,,,,,,,,,,,,,,,Blackhawk (07),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2950 W Shaulis Rd,,,Waterloo,,,IA,,50701,US,42.4435068,-92.4152883,,True
+HAWKEYE CARE CENTER BANCROFT,,,,,,,,,,,,,,,,,,Kossuth (55),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,546 E Ramsey St,,,Bancroft,,,IA,,50517,US,43.2929742,-94.2093822,,True
+HAWKEYE CARE CENTER CARROLL,,,,,,,,,,,,,,,,,,Carroll (14),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2241 N West St,,,Carroll,,,IA,,51401,US,42.0844142,-94.8699887,,True
+HAWKEYE CARE CENTER CRESCO,,,,,,,,,,,,,,,,,,Howard (45),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,701 Vernon Rd,,,Cresco,,,IA,,52136,US,43.36568399999999,-92.124432,,True
+HAWKEYE CARE CENTER DUBUQUE,,,,,,,,,,,,,,,,,,Dubuque (31),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,4885 Asbury Rd,,,Dubuque,,,IA,,52002,US,42.5146765,-90.7459174,,True
+HAWKEYE CARE CENTER MARSHALLTOWN,,,,,,,,,,,,,,,,,,Marshall (64),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2401 S 2nd St,,,Marshalltown,,,IA,,50158,US,42.0172093,-92.9165761,,True
+HAWKEYE CARE CENTER MILFORD,,,,,,,,,,,,,,,,,,Dickinson (30),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1600 13th St,,,Milford,,,IA,,51351,US,43.32876259999999,-95.1591912,,True
+HAWKEYE CARE CENTER SIOUX RAPIDS,,,,,,,,,,,,,,,,,,Buena Vista (11),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,702 Blake St,,,Sioux Rapids,,,IA,,50585,US,42.8945678,-95.14385050000001,,True
+HAWKEYE CARE CENTER SPIRIT LAKE,,,,,,,,,,,,,,,,,,Dickinson (30),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1912 Zenith Ave,,,Spirit Lake,,,IA,,51360,US,43.42158860000001,-95.1225328,,True
+HEARTLAND CARE CENTER,,,,,,,,,,,,,,,,,,Cherokee (18),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,604 E Fenton St,,,Marcus,,,IA,,51035,US,42.820181,-95.800412,,True
+HERITAGE CARE &  REHABILTATION CENTER,,,,,,,,,,,,,,,,,,Cerro Gordo (17),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,501 S Kentucky Ave,,,Mason City,,,IA,,50401,US,43.14700559999999,-93.1802768,,True
+HERITAGE CARE CENTER,,,,,,,,,,,,,,,,,,Hardin (42),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2320 Washington Ave,,,Iowa Falls,,,IA,,50126,US,42.52057,-93.28609999999999,,True
+HERITAGE HOUSE,,,,,,,,,,,,,,,,,,Cass (15),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1200 Brookridge Cir,,,Atlantic,,,IA,,50022,US,41.3977464,-94.9992695,,True
+HERITAGE SPECIALTY CARE,,,,,,,,,,,,,,,,,,Linn (57),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,200 Clive Dr SW,,,Cedar Rapids,,,IA,,52404,US,41.9665808,-91.723129,Cedar Hills,True
+HIAWATHA CARE CENTER,,,,,,,,,,,,,,,,,,Linn (57),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,405 N 15th Ave,,,Hiawatha,,,IA,,52233,US,42.04283360000001,-91.69223079999999,,True
+"HIGHLAND RIDGE CARE CENTER, LLC",,,,,,,,,,,,,,,,,,Iowa (48),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,102 S Highland St,,,Williamsburg,,,IA,,52361,US,41.6650166,-92.00732939999999,,True
+HILLCREST HEALTH CARE CENTER,,,,,,,,,,,,,,,,,,Sioux (84),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2121 Ave L,,,Hawarden,,,IA,,51023,US,43.0095609,-96.48106419999999,,False
+"HILLCREST HOME, INC.",,,,,,,,,,,,,,,,,,Bremer (09),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,915 W 1st St,,,Sumner,,,IA,,50674,US,42.847339,-92.109034,,True
+HOLY SPIRIT RETIREMENT HOME,,,,,,,,,,,,,,,,,,Woodbury (97),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1701 W 25th St,,,Sioux City,,,IA,,51103,US,42.5171268,-96.4330986,,True
+HUBBARD CARE CENTER,,,,,,,,,,,,,,,,,,Hardin (42),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,403 S State St,,,Hubbard,,,IA,,50122,US,42.300657,-93.291764,,True
+IOOF HOME AND COMMUNITY THERAPY CENTER,,,,,,,,,,,,,,,,,,Cerro Gordo (17),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1037 19th St SW,,,Mason City,,,IA,,50401,US,43.13267,-93.218273,,True
+IOWA CITY REHAB & HEALTH CARE CENTER,,,,,,,,,,,,,,,,,,Johnson (52),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,3661 Rochester Ave,,,Iowa City,,,IA,,52245,US,41.66816789999999,-91.4792973,Longfellow,True
+IOWA JEWISH SENIOR LIFE CENTER,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,900 Polk Blvd,,,Des Moines,,,IA,,50312,US,41.593539,-93.68293,Waveland Park,True
+IOWA MASONIC HEALTH FACILITIES,,,,,,,,,,,,,,,,,,Scott (82),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2500 Grant St,PO BOX 70,,Bettendorf,,,IA,,52722,US,41.52778,-90.497917,,True
+JEFFERSON PLACE,,,,,,,,,,,,,,,,,,Marion (63),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,413 Jefferson St,,,Pella,,,IA,,50219,US,41.4122978,-92.9114702,,True
+KAHL HOME FOR AGED & INFIRM,,,,,,,,,,,,,,,,,,Scott (82),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,6701 Jersey Ridge Rd,,,Davenport,,,IA,,52807,US,41.59028989999999,-90.53623909999999,,True
+KANAWHA COMMUNITY HOME,,,,,,,,,,,,,,,,,,Hancock (41),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,130 W 6th St,,,Kanawha,,,IA,,50447,US,42.93870690000001,-93.7937613,,True
+KAREN ACRES HEALTHCARE CENTER,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,3605 Elm Dr,,,Urbandale,,,IA,,50322,US,41.6279996,-93.72396359999999,,True
+KENNYBROOK VILLAGE,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,200 SW Brookside Dr,,,Grimes,,,IA,,50111,US,41.6865979,-93.8058444,,True
+KEOSAUQUA HEALTH CARE CENTER,,,,,,,,,,,,,,,,,,Van Buren (89),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,819 Country Rd,,,Keosauqua,,,IA,,52565,US,40.73664249999999,-91.968058,,True
+KEOTA HEALTH CARE CENTER,,,,,,,,,,,,,,,,,,Keokuk (54),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,204 Keokuk-Washington Rd,,,Keota,,,IA,,52248,US,41.3670548,-91.9466815,,True
+KEYSTONE NURSING CARE CENTER,,,,,,,,,,,,,,,,,,Benton (06),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,250 5th St E,,,Keystone,,,IA,,52249,US,42.00392,-92.1980409,,True
+KINGSLEY SPECIALTY CARE,,,,,,,,,,,,,,,,,,Plymouth (75),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,Kingsley,,,Kingsley,,,IA,,51028,US,42.58832399999999,-95.9675165,,False
+LAKE MILLS CARE CENTER,,,,,,,,,,,,,,,,,,Winnebago (95),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,406 S 10th Ave E,,,Lake Mills,,,IA,,50450,US,43.4108074,-93.5284037,,True
+LAKESIDE LUTHERAN HOME,,,,,,,,,,,,,,,,,,Palo Alto (74),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,301 Lawler St,,,Emmetsburg,,,IA,,50536,US,43.1171808,-94.6830763,,True
+LAMONI SPECIALTY CARE,,,,,,,,,,,,,,,,,,Decatur (27),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,215 S Oak St,,,Lamoni,,,IA,,50140,US,40.622024,-93.92354399999999,,True
+LANTERN PARK SPECIALTY CARE,,,,,,,,,,,,,,,,,,Johnson (52),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2200 Oakdale Rd,,,Coralville,,,IA,,52241,US,41.7038255,-91.5941818,Wickham,True
+LAPORTE CITY SPECIALTY CARE,,,,,,,,,,,,,,,,,,Blackhawk (07),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,US-218,BOX 175,,La Porte City,,,IA,,50651,US,42.314911,-92.1919518,,True
+LAURENS CARE CENTER,,,,,,,,,,,,,,,,,,Pocahontas (76),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,304 E Veterans Rd,,,Laurens,,,IA,,50554,US,42.84264340000001,-94.846112,,True
+LENOX CARE CENTER,,,,,,,,,,,,,,,,,,Taylor (87),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,111 E Van Buren St,,,Lenox,,,IA,,50851,US,40.8854175,-94.5587487,,True
+LEXINGTON SQUARE,,,,,,,,,,,,,,,,,,Lee (56),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,500 Messenger Rd,,,Keokuk,,,IA,,52632,US,40.42203300000001,-91.394779,,True
+LINN HAVEN REHAB & HEALTHCARE,,,,,,,,,,,,,,,,,,Chickasaw (19),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,530 S Linn Ave,,,New Hampton,,,IA,,50659,US,43.0488271,-92.31707139999999,,True
+LINN MANOR CARE CENTER,,,,,,,,,,,,,,,,,,Linn (57),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1140 Elim Dr,,,Marion,,,IA,,52302,US,42.0196986,-91.6025239,,True
+LITTLE FLOWER HAVEN,,,,,,,,,,,,,,,,,,Shelby (83),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,736 IA-37,PO BOX 288,,Earling,,,IA,,51530,US,41.775495,-95.426041,,True
+LIVING CENTER EAST,,,,,,,,,,,,,,,,,,Linn (57),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1220 5th Ave SE,,,Cedar Rapids,,,IA,,52403,US,41.982272,-91.6536871,Wellington Heights,True
+LIVING CENTER WEST,,,,,,,,,,,,,,,,,,Linn (57),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1050 4th Ave SE,,,Cedar Rapids,,,IA,,52403,US,41.9822121,-91.65609839999999,Wellington Heights,True
+LONE TREE HEALTH CARE CENTER INC,,,,,,,,,,,,,,,,,,Johnson (52),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,501 E Pioneer Rd,,,Lone Tree,,,IA,,52755,US,41.480887,-91.42185099999999,,True
+LONGHOUSE-NORTHSHIRE LTD,,,,,,,,,,,,,,,,,,Clay (21),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,711 W 11th St,,,Spencer,,,IA,,51301,US,43.1491664,-95.1560346,,True
+"LONGVIEW HOME, INC.",,,,,,,,,,,,,,,,,,Harrison (43),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1010 Longview Rd,,,Missouri Valley,,,IA,,51555,US,41.5669344,-95.88351449999999,,True
+LUTHER MANOR RETIREMENT HOME,,,,,,,,,,,,,,,,,,Dubuque (31),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,3131 Hillcrest Rd,,,Dubuque,,,IA,,52001,US,42.50475619999999,-90.7162543,,True
+LUTHERAN LIVING SENIOR CAMPUS,,,,,,,,,,,,,,,,,,Muscatine (70),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2421 Lutheran Dr,,,Muscatine,,,IA,,52761,US,41.4186702,-91.0964924,,True
+LUTHERAN RETIREMENT HOME,,,,,,,,,,,,,,,,,,Worth (98),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,701 9th St N,,,Northwood,,,IA,,50459,US,43.4518617,-93.21961139999999,,True
+LYON SPECIALTY CARE,,,,,,,,,,,,,,,,,,Lyon (60),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1010 S Union St,BOX 268,,Rock Rapids,,,IA,,51246,US,43.42054599999999,-96.174883,,True
+MADRID HOME FOR THE AGING,,,,,,,,,,,,,,,,,,Boone (08),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,613 W North St,,,Madrid,,,IA,,50156,US,41.8782559,-93.8274356,,True
+MANILLA MANOR,,,,,,,,,,,,,,,,,,Crawford (24),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,146 5th St,,,Manilla,,,IA,,51454,US,41.895356,-95.2320972,,True
+MANLY SPECIALTY CARE,,,,,,,,,,,,,,,,,,Worth (98),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,601 E South St,,,Manly,,,IA,,50456,US,43.2840678,-93.1944681,,True
+MANOR HOUSE CARE CENTER,,,,,,,,,,,,,,,,,,Keokuk (54),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1212 S Stuart St,,,Sigourney,,,IA,,52591,US,41.3233932,-92.20701679999999,,True
+MANORCARE HEALTH SERVICES OF CEDAR RAPIDS,,,,,,,,,,,,,,,,,,Linn (57),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1940 1st Ave NE,,,Cedar Rapids,,,IA,,52402,US,41.99397889999999,-91.643255,Mound View,True
+MANORCARE HEALTH SERVICES OF DAVENPORT,,,,,,,,,,,,,,,,,,Scott (82),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,815 E Locust St,,,Davenport,,,IA,,52803,US,41.5378629,-90.5631365,,True
+MANORCARE HEALTH SERVICES OF DUBUQUE,,,,,,,,,,,,,,,,,,Dubuque (31),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,901 W 3rd St,,,Dubuque,,,IA,,52001,US,42.4946993,-90.67403809999999,,True
+MANORCARE HEALTH SERVICES OF WATERLOO,,,,,,,,,,,,,,,,,,Blackhawk (07),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,201 W Ridgeway Ave,,,Waterloo,,,IA,,50701,US,42.4685664,-92.3584338,,True
+MANORCARE HEALTH SERVICES-UTICA RIDGE,,,,,,,,,,,,,,,,,,Scott (82),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,3800 Commerce Blvd,,,Davenport,,,IA,,52807,US,41.5688183,-90.5206695,,True
+MANORCARE HEALTH SERVICES-WEST DES MOINES,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,5010 Grand Ridge Dr,,,West Des Moines,,,IA,,50265,US,41.5426688,-93.76643589999999,,True
+MAPLE CREST MANOR,,,,,,,,,,,,,,,,,,Fayette (33),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,100 Bolger Dr,,,Fayette,,,IA,,52142,US,42.84185199999999,-91.809242,,True
+MAPLE HEIGHTS NURSING HOME,,,,,,,,,,,,,,,,,,Monona (67),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2 Sunrise Ave,,,Mapleton,,,IA,,51034,US,42.1632879,-95.7801176,,True
+MAPLE MANOR VILLAGE,,,,,,,,,,,,,,,,,,Butler (12),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,345 Parriott St,,,Aplington,,,IA,,50604,US,42.5830727,-92.87404939999999,,True
+MAQUOKETA CARE CENTER,,,,,,,,,,,,,,,,,,Jackson (49),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1202 German St,,,Maquoketa,,,IA,,52060,US,42.0721559,-90.6812819,,True
+MARIAN HOME,,,,,,,,,,,,,,,,,,Webster (94),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2400 6th Ave N,,,Fort Dodge,,,IA,,50501,US,42.5124821,-94.1656055,,True
+"MARTIN HEALTH CENTER, INC.",,,,,,,,,,,,,,,,,,Blackhawk (07),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,420 E 11th St,,,Cedar Falls,,,IA,,50613,US,42.52911530000001,-92.4409589,,True
+MAYFLOWER HOME,,,,,,,,,,,,,,,,,,Poweshiek (79),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,616 Broad St,,,Grinnell,,,IA,,50112,US,41.73959989999999,-92.7232884,,True
+MECHANICSVILLE SPECIALTY CARE,,,,,,,,,,,,,,,,,,Cedar (16),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,104 E 4th St,BOX 430,,Mechanicsville,,,IA,,52306,US,41.908354,-91.25331600000001,,True
+MERCY LIVING CENTER-NORTH,,,,,,,,,,,,,,,,,,Clinton (23),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,600 14th Ave N,,,Clinton,,,IA,,52732,US,41.86087149999999,-90.1904361,,True
+METH WICK HEALTH CENTER,,,,,,,,,,,,,,,,,,Linn (57),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1625 Brendelwood Dr,,,Cedar Rapids,,,IA,,52405,US,41.9867599,-91.694985,,True
+METHODIST MANOR RETIREMENT COMMUNITY,,,,,,,,,,,,,,,,,,Buena Vista (11),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1206 W 4th St,,,Storm Lake,,,IA,,50588,US,42.6420658,-95.21634759999999,,True
+MIDLANDS LIVING CENTER L L C,,,,,,,,,,,,,,,,,,Pottawattamie (78),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2452 N Broadway,,,Council Bluffs,,,IA,,51503,US,41.2871466,-95.83660429999999,,True
+MILL POND,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1201 SE Mill Pond Ct,,,Ankeny,,,IA,,50021,US,41.72450529999999,-93.57822220000001,,True
+MILL VALLEY CARE CENTER,,,,,,,,,,,,,,,,,,Jackson (49),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1201 Park St,,,Bellevue,,,IA,,52031,US,42.257273,-90.437647,,True
+MONROE CARE CENTER,,,,,,,,,,,,,,,,,,Monroe (68),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,120 N 13th St,,,Albia,,,IA,,52531,US,41.0283234,-92.7931773,,True
+MONTEZUMA SPECIALTY CARE,,,,,,,,,,,,,,,,,,Poweshiek (79),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,316 Meadow Ln Dr,PO BOX 790,,Montezuma,,,IA,,50171,US,41.583009,-92.53721,,True
+MONTICELLO NURSING & REHAB CENTER,,,,,,,,,,,,,,,,,,Jones (53),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,500 Pinehaven Dr,,,Monticello,,,IA,,52310,US,42.2282604,-91.1833383,,True
+MONTROSE HEALTH  CENTER INC,,,,,,,,,,,,,,,,,,Lee (56),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,400 S 7th St,,,Montrose,,,IA,,52639,US,40.52617900000001,-91.419004,,True
+MORNING SUN CARE CENTER,,,,,,,,,,,,,,,,,,Louisa (58),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,200 N Washington St,,,Morning Sun,,,IA,,52640,US,41.0933012,-91.2581956,,True
+MORNINGSIDE HEALTHCARE COMMUNITY,,,,,,,,,,,,,,,,,,Ida (47),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,600 Morningside St,,,Ida Grove,,,IA,,51445,US,42.34065109999999,-95.46382489999999,,True
+MOUNT AYR HEALTH CARE CENTER,,,,,,,,,,,,,,,,,,Ringgold (80),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1504 E South St,,,Mt Ayr,,,IA,,50854,US,40.7111026,-94.2284438,,True
+NELSON MANOR,,,,,,,,,,,,,,,,,,Jasper (50),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1500 1st Ave E,,,Newton,,,IA,,50208,US,41.699954,-93.03349299999999,,True
+NEW HAMPTON NURSING  & REHAB CENTER,,,,,,,,,,,,,,,,,,Chickasaw (19),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,703 S 4th Ave,,,New Hampton,,,IA,,50659,US,43.055071,-92.3045176,,True
+NEW LONDON SPECIALTY CARE,,,,,,,,,,,,,,,,,,Henry (44),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,100 Care Cir,,,New London,,,IA,,52645,US,40.9173642,-91.40873529999999,,True
+NEWALDAYA LIFESCAPES,,,,,,,,,,,,,,,,,,Blackhawk (07),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,7511 University Ave,,,Cedar Falls,,,IA,,50613,US,42.51163500000001,-92.449517,,True
+NEWTON HEALTH CARE CENTER,,,,,,,,,,,,,,,,,,Jasper (50),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,200 S 8th Ave E,,,Newton,,,IA,,50208,US,41.6932115,-93.0521894,,True
+NEWTON VILLAGE HEALTH CARE CENTER,,,,,,,,,,,,,,,,,,Jasper (50),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,114 N 5th Ave W,,,Newton,,,IA,,50208,US,41.70323570000001,-93.0538112,,True
+NORA SPRINGS CARE CENTER,,,,,,,,,,,,,,,,,,Floyd (34),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,907 W Congress St,,,Nora Springs,,,IA,,50458,US,43.1433775,-93.0173976,,True
+NORTH CREST LIVING CENTER,,,,,,,,,,,,,,,,,,Pottawattamie (78),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,34 Northcrest Dr,,,Council Bluffs,,,IA,,51503,US,41.2726563,-95.8296641,,True
+NORTHBROOK MANOR CARE CENTER,,,,,,,,,,,,,,,,,,Linn (57),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,6420 Council St NE,,,Cedar Rapids,,,IA,,52402,US,42.0425339,-91.6572922,,True
+NORTHCREST SPECIALTY CARE,,,,,,,,,,,,,,,,,,Blackhawk (07),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2001 Heath St,,,Waterloo,,,IA,,50703,US,42.53204400000001,-92.34035,,True
+NORTHERN MAHASKA SPECIALTY CARE,,,,,,,,,,,,,,,,,,Mahaska (62),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2401 Crestview Dr,,,Oskaloosa,,,IA,,52577,US,41.31513890000001,-92.6446335,,True
+NORTHGATE CARE CENTER,,,,,,,,,,,,,,,,,,Allamakee (03),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,960 4th St NW,,,Waukon,,,IA,,52172,US,43.2803209,-91.4805222,,True
+NORTHRIDGE VILLAGE,,,,,,,,,,,,,,,,,,Story (85),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,3300 George Washington Carver Ave,,,Ames,,,IA,,50014,US,42.0561994,-93.65083519999999,,True
+NORWALK NURSING AND REHABILITATION CENTER,,,,,,,,,,,,,,,,,,Warren (91),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,921 Sunset Dr,,,Norwalk,,,IA,,50211,US,41.4767823,-93.68216129999999,,True
+OAKLAND MANOR,,,,,,,,,,,,,,,,,,Pottawattamie (78),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,737 N Hwy St,,,Oakland,,,IA,,51560,US,41.3172022,-95.3874204,,True
+OAKNOLL RETIREMENT RESIDENCE,,,,,,,,,,,,,,,,,,Johnson (52),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1 Oaknoll Dr,,,Iowa City,,,IA,,52246,US,41.6512374,-91.5555969,Horn,True
+OAKVIEW HOME,,,,,,,,,,,,,,,,,,Grundy (38),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,511 E Center St,,,Conrad,,,IA,,50621,US,42.2239713,-92.8676795,,True
+OAKWOOD CARE CENTER,,,,,,,,,,,,,,,,,,Cerro Gordo (17),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,400 US-18,,,Clear Lake,,,IA,,50428,US,43.14371,-93.392118,,True
+OAKWOOD SPECIALTY CARE,,,,,,,,,,,,,,,,,,Monroe (68),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,200 16th Ave E,,,Albia,,,IA,,52531,US,41.013299,-92.80279999999999,,True
+ODEBOLT SPECIALTY CARE,,,,,,,,,,,,,,,,,,Sac (81),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,801 S Des Moines St,,,Odebolt,,,IA,,51458,US,42.304215,-95.24429339999999,,True
+OELWEIN HEALTH CARE CENTER,,,,,,,,,,,,,,,,,,Fayette (33),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,600 7th St SE,,,Oelwein,,,IA,,50662,US,42.6686513,-91.90560049999999,,True
+ON WITH LIFE,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,715 SW Ankeny Rd,,,Ankeny,,,IA,,50023,US,41.6982629,-93.60875419999999,,True
+ON WITH LIFE AT GLENWOOD,,,,,,,,,,,,,,,,,,Mills (65),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,714 Lacey St,SUITE 100,,Glenwood,,,IA,,51534,US,41.04007,-95.7364731,,True
+OSAGE REHAB & HEALTH CARE CENTER,,,,,,,,,,,,,,,,,,Mitchell (66),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,830 S 5th St,,,Osage,,,IA,,50461,US,43.27596229999999,-92.8140624,,True
+OSKALOOSA CARE CENTER,,,,,,,,,,,,,,,,,,Mahaska (62),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,605 State Hwy 432,,,Oskaloosa,,,IA,,52577,US,41.3019195,-92.6682163,,True
+OSSIAN SENIOR HOSPICE,,,,,,,,,,,,,,,,,,Winneshiek (96),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,114 Fisher Ave,,,Ossian,,,IA,,52161,US,43.1469919,-91.7681447,,True
+PANORA SPECIALTY CARE,,,,,,,,,,,,,,,,,,Guthrie (39),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,805 E Main St,BOX 69,,Panora,,,IA,,50216,US,41.69291279999999,-94.3535787,,True
+PARK VIEW REHABILITATION CENTER,,,,,,,,,,,,,,,,,,Sac (81),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,601 Park Ave,,,Sac City,,,IA,,50583,US,42.42052599999999,-94.9749585,,True
+PARKRIDGE SPECIALTY CARE,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,5800 NE 12th Ave,,,Pleasant Hill,,,IA,,50327,US,41.60077810000001,-93.49472519999999,,True
+PARKVIEW CARE CENTER,,,,,,,,,,,,,,,,,,Jefferson (51),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2237 US-34,,,Fairfield,,,IA,,52556,US,41.0025321,-91.8661614,,True
+PARKVIEW HOME,,,,,,,,,,,,,,,,,,Henry (44),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,102 N Jackson St,,,Wayland,,,IA,,52654,US,41.1471771,-91.6664864,,True
+PARKVIEW MANOR,,,,,,,,,,,,,,,,,,Washington (92),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,516 13th St,,,Wellman,,,IA,,52356,US,41.47540190000001,-91.8342381,,True
+PARKVIEW MANOR CARE CENTER,,,,,,,,,,,,,,,,,,Grundy (38),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1009 3rd St,,,Reinbeck,,,IA,,50669,US,42.3244195,-92.6072547,,True
+PATTY ELWOOD CENTER,,,,,,,,,,,,,,,,,,Howard (45),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,21668 80th St,,,Cresco,,,IA,,52136,US,43.39946349999999,-92.14593529999999,,True
+PEARL VALLEY REHABILITATION AND HEALTH CENTER OF MUSCATINE,,,,,,,,,,,,,,,,,,Muscatine (70),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2002 Cedar St,,,Muscatine,,,IA,,52761,US,41.435294,-91.065901,,True
+PEARL VALLEY REHABILITATION AND HEALTHCARE CENTER OF WASHINGTON,,,,,,,,,,,,,,,,,,Washington (92),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,601 E Polk St,,,Washington,,,IA,,52353,US,41.2884621,-91.68666499999999,,True
+"PEARL VALLEY REHABILITATION AND NURSING AT ESTERVILLE, LLC",,,,,,,,,,,,,,,,,,Emmet (32),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2001 1st Ave N,,,Estherville,,,IA,,51334,US,43.40297,-94.81542879999999,,True
+"PEARL VALLEY REHABILITATION AND NURSING AT GOWRIE, LLC",,,,,,,,,,,,,,,,,,Webster (94),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1808 Main St,,,Gowrie,,,IA,,50543,US,42.28319,-94.29970399999999,,True
+"PEARL VALLEY REHABILITATION AND NURSING AT LAKE PARK, LLC",,,,,,,,,,,,,,,,,,Dickinson (30),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1304 S Market St,,,Lake Park,,,IA,,51347,US,43.4407405,-95.324733,,True
+"PEARL VALLEY REHABILITATION AND NURSING AT PERRY, LLC",,,,,,,,,,,,,,,,,,Dallas (25),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2625 Iowa St,,,Perry,,,IA,,50220,US,41.8342917,-94.0851606,,True
+"PEARL VALLEY REHABILITATION AND NURSING AT PRIMGHAR, LLC",,,,,,,,,,,,,,,,,,O'Brien (71),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,735 N Rerick Ave,,,Primghar,,,IA,,51245,US,43.0924159,-95.62425669999999,,True
+"PEARL VALLEY REHABILITATION AND NURSING AT SUTHERLAND, LLC",,,,,,,,,,,,,,,,,,O'Brien (71),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,506 E 4th St,,,Sutherland,,,IA,,51058,US,42.9716189,-95.4912185,,True
+PERRY LUTHERAN HOME,,,,,,,,,,,,,,,,,,Dallas (25),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2323 Willis Ave,,,Perry,,,IA,,50220,US,41.8380818,-94.0903925,,True
+PINNACLE SPECIALTY CARE,,,,,,,,,,,,,,,,,,Blackhawk (07),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1223 Prairie View Rd,,,Cedar Falls,,,IA,,50613,US,42.4906116,-92.4324415,,True
+PIONEER VALLEY LIVING AND REHAB,,,,,,,,,,,,,,,,,,Woodbury (97),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,400 Sergeant Square Dr,,,Sergeant Bluff,,,IA,,51054,US,42.3944381,-96.3633016,,True
+PLEASANT ACRES CARE CENTER,,,,,,,,,,,,,,,,,,Sioux (84),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,309 Railroad St,,,Hull,,,IA,,51239,US,43.1873161,-96.14345540000001,,True
+PLEASANT MANOR CARE CENTER,,,,,,,,,,,,,,,,,,Henry (44),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,413 N Broadway St,,,Mt Pleasant,,,IA,,52641,US,40.9713157,-91.5557348,,True
+PLEASANT VIEW CARE CENTER,,,,,,,,,,,,,,,,,,Monona (67),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,200 Shannon Dr,,,Whiting,,,IA,,51063,US,42.1255086,-96.15922049999999,,True
+PLEASANT VIEW HOME,,,,,,,,,,,,,,,,,,Buena Vista (11),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,410 Spruce St,,,Albert City,,,IA,,50510,US,42.773136,-94.952438,,True
+PLEASANTVIEW HOME,,,,,,,,,,,,,,,,,,Washington (92),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,811 3rd St,,,Kalona,,,IA,,52247,US,41.4904403,-91.7110581,,True
+PLYMOUTH MANOR CARE CENTER,,,,,,,,,,,,,,,,,,Plymouth (75),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,954 7th Ave SE,,,Le Mars,,,IA,,51031,US,42.78145079999999,-96.15466479999999,,True
+POCAHONTAS MANOR,,,,,,,,,,,,,,,,,,Pocahontas (76),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,700 NW 7th St,,,Pocahontas,,,IA,,50574,US,42.7407987,-94.6788265,,True
+POLK CITY NURSING AND REHABILITATION,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1002 W Washington Ave,,,Polk City,,,IA,,50226,US,41.77238979999999,-93.72270089999999,,True
+PRAIRIE RIDGE CARE & REHABILITATION,,,,,,,,,,,,,,,,,,Des Moines (29),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,608 Prairie St,,,Mediapolis,,,IA,,52637,US,41.0038291,-91.16343549999999,,True
+PRAIRIE RIDGE CARE CENTER,,,,,,,,,,,,,,,,,,Sioux (84),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1005 7th St NE,,,Orange City,,,IA,,51041,US,43.0142079,-96.0456742,,True
+PRAIRIE VIEW HOME,,,,,,,,,,,,,,,,,,O'Brien (71),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,610 Eastern St,,,Sanborn,,,IA,,51248,US,43.18452699999999,-95.643969,,True
+PRAIRIE VISTA VILLAGE,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2785 1st Ave S,,,Altoona,,,IA,,50009,US,41.6266962,-93.4634263,,True
+PREMIER ESTATES OF MUSCATINE,,,,,,,,,,,,,,,,,,Muscatine (70),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,3440 Mulberry Ave,,,Muscatine,,,IA,,52761,US,41.446424,-91.08486599999999,,True
+PREMIER ESTATES OF TOLEDO,,,,,,,,,,,,,,,,,,Tama (86),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,403 Grandview Dr,,,Toledo,,,IA,,52342,US,41.9867286,-92.5876593,,True
+"QHC FORT DODGE VILLA, LLC",,,,,,,,,,,,,,,,,,Webster (94),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2721 10th Ave N,,,Fort Dodge,,,IA,,50501,US,42.5149347,-94.1599669,,True
+"QHC HUMBOLDT NORTH, LLC",,,,,,,,,,,,,,,,,,Humboldt (46),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1111 11th Ave N,,,Humboldt,,,IA,,50548,US,42.733492,-94.224564,,True
+"QHC HUMBOLDT SOUTH, LLC",,,,,,,,,,,,,,,,,,Humboldt (46),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,800 13th St S,,,Humboldt,,,IA,,50548,US,42.712465,-94.22758999999999,,True
+"QHC MITCHELLVILLE, LLC",,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,114 Carter St SW,,,Mitchellville,,,IA,,50169,US,41.66188319999999,-93.3594111,,True
+"QHC WINTERSET NORTH, LLC",,,,,,,,,,,,,,,,,,Madison (61),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,411 E Lane St,,,Winterset,,,IA,,50273,US,41.341088,-94.009923,,True
+RAMSEY VILLAGE,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1611 27th St,,,Des Moines,,,IA,,50310,US,41.60889309999999,-93.65272499999999,Drake,True
+RAVENWOOD SPECIALTY CARE,,,,,,,,,,,,,,,,,,Blackhawk (07),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2651 St Francis Dr,,,Waterloo,,,IA,,50702,US,42.4618941,-92.34300089999999,,True
+RED OAK HEALTHCARE COMMUNITY,,,,,,,,,,,,,,,,,,Montgomery (69),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1600 E Summit St,,,Red Oak,,,IA,,51566,US,41.0156847,-95.2127239,,True
+REGENCY CARE CENTER,,,,,,,,,,,,,,,,,,Warren (91),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,815 High Rd,,,Norwalk,,,IA,,50211,US,41.4834568,-93.678168,,True
+REGENCY PARK NURSING AND REHABILITATION CENTER,,,,,,,,,,,,,,,,,,Greene (37),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,100 Ram Dr,,,Jefferson,,,IA,,50129,US,42.0032097,-94.3743461,,True
+REGENCY PARK NURSING AND REHABILITATION CENTER OF CARROLL,,,,,,,,,,,,,,,,,,Carroll (14),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,500 Valley Dr,,,Carroll,,,IA,,51401,US,42.052779,-94.863832,,True
+REHABILITATION CENTER OF ALLISON,,,,,,,,,,,,,,,,,,Butler (12),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,900 7th St,,,Allison,,,IA,,50602,US,42.75583659999999,-92.8043838,,True
+REHABILITATION CENTER OF BELMOND,,,,,,,,,,,,,,,,,,Wright (99),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1107 7th St NE,,,Belmond,,,IA,,50421,US,42.8529326,-93.6029526,,True
+REHABILITATION CENTER OF DES MOINES,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,701 Riverview St,,,Des Moines,,,IA,,50316,US,41.6034919,-93.6098373,Capitol Park,True
+REHABILITATION CENTER OF HAMPTON,,,,,,,,,,,,,,,,,,Franklin (35),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,700 2nd St SE,,,Hampton,,,IA,,50441,US,42.73524500000001,-93.204523,,True
+RICEVILLE FAMILY CARE AND THERAPY CENTER,,,,,,,,,,,,,,,,,,Mitchell (66),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,915 Woodland Ave,,,Riceville,,,IA,,50466,US,43.354802,-92.5548201,,True
+RIDGECREST VILLAGE,,,,,,,,,,,,,,,,,,Scott (82),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,4130 Northwest Blvd,,,Davenport,,,IA,,52806,US,41.56337070000001,-90.5845554,,True
+RIDGEWOOD SPECIALTY CARE,,,,,,,,,,,,,,,,,,Wapello (90),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1977 Albia Rd,,,Ottumwa,,,IA,,52501,US,41.009818,-92.455568,,True
+RISEN SON CHRISTIAN VILLAGE,,,,,,,,,,,,,,,,,,Pottawattamie (78),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,3000 Risen Son Blvd,,,Council Bluffs,,,IA,,51503,US,41.23059140000001,-95.8011642,,True
+RIVER HILLS VILLAGE,,,,,,,,,,,,,,,,,,Lee (56),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,20 Village Cir,,,Keokuk,,,IA,,52632,US,40.43199449999999,-91.4123779,,True
+"RIVERVIEW MANOR HEALTHCARE, LLC",,,,,,,,,,,,,,,,,,Scott (82),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,17990 S Spencer Rd,,,Bettendorf,,,IA,,52722,US,41.5677499,-90.42218600000001,,True
+ROCK RAPIDS HEALTH CENTRE,,,,,,,,,,,,,,,,,,Lyon (60),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,703 S Union St,,,Rock Rapids,,,IA,,51246,US,43.4249205,-96.17633409999999,,True
+ROCKWELL COMMUNITY NURSING HOME,,,,,,,,,,,,,,,,,,Cerro Gordo (17),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,707 Elm St E,,,Rockwell,,,IA,,50469,US,42.988107,-93.1831,,True
+ROLLING GREEN VILLAGE,,,,,,,,,,,,,,,,,,Story (85),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,100 6th St,,,Nevada,,,IA,,50201,US,42.0118062,-93.45437059999999,,True
+ROSE HAVEN NURSING HOME,,,,,,,,,,,,,,,,,,Iowa (48),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1500 Franklyn Ave,,,Marengo,,,IA,,52301,US,41.80413900000001,-92.071761,,True
+ROSE VISTA HOME,,,,,,,,,,,,,,,,,,Harrison (43),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1109 Normal St,,,Woodbine,,,IA,,51579,US,41.74420140000001,-95.7090291,,True
+ROTARY SENIOR LIVING,,,,,,,,,,,,,,,,,,Wright (99),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,500 S Blaine Ave,,,Eagle Grove,,,IA,,50533,US,42.6600504,-93.8930986,,True
+ROWLEY MEMORIAL MASONIC HOME,,,,,,,,,,,,,,,,,,Dallas (25),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,3000 Willis Ave,,,Perry,,,IA,,50220,US,41.8386471,-94.0760421,,True
+RUTHVEN COMMUNITY CARE CENTER,,,,,,,,,,,,,,,,,,Palo Alto (74),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2701 Mitchell St BOX D,,,Ruthven,,,IA,,51358,US,43.127774,-94.888954,,False
+SALEM LUTHERAN HOME,,,,,,,,,,,,,,,,,,Shelby (83),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2027 College St,,,Elk Horn,,,IA,,51531,US,41.5938168,-95.05957149999999,,True
+SCENIC MANOR,,,,,,,,,,,,,,,,,,Hardin (42),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1409 N Fremont St,,,Iowa Falls,,,IA,,50126,US,42.52904849999999,-93.2610749,,True
+SCOTTISH RITE PARK HEALTH CARE CENTER,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2909 Woodland Ave,,,Des Moines,,,IA,,50312,US,41.5888092,-93.65560099999999,Woodland Heights,True
+SHADY OAKS CARE CENTER,,,,,,,,,,,,,,,,,,Calhoun (13),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1409 W Main St,,,Lake City,,,IA,,51449,US,42.264406,-94.750502,,True
+SHADY REST CARE CENTER,,,,,,,,,,,,,,,,,,Dubuque (31),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,701 Johnson St NW,,,Cascade,,,IA,,52033,US,42.3023782,-91.0212267,,True
+SHEFFIELD CARE CENTER,,,,,,,,,,,,,,,,,,Franklin (35),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,100 Bennett Dr,,,Sheffield,,,IA,,50475,US,42.893907,-93.20629699999999,,True
+SHELL ROCK SENIOR LIVING,,,,,,,,,,,,,,,,,,Butler (12),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,920 N Cherry St,,,Shell Rock,,,IA,,50670,US,42.7141169,-92.5704992,,True
+SIBLEY SPECIALTY CARE,,,,,,,,,,,,,,,,,,Osceola (72),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,700 9th Ave N,,,Sibley,,,IA,,51249,US,43.41089789999999,-95.74123060000001,,True
+SIGOURNEY HEALTH CARE,,,,,,,,,,,,,,,,,,Keokuk (54),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,900 S Stone St,,,Sigourney,,,IA,,52591,US,41.3265633,-92.2082867,,True
+SIMPSON MEMORIAL HOME,,,,,,,,,,,,,,,,,,Muscatine (70),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1000 N Miller St,,,West Liberty,,,IA,,52776,US,41.57817419999999,-91.2584092,,True
+SOLON NURSING CARE CENTER,,,,,,,,,,,,,,,,,,Johnson (52),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,523 E 5th St,,,Solon,,,IA,,52333,US,41.8010853,-91.4899849,,True
+SOUTHERN HILLS SPECIALTY CARE,,,,,,,,,,,,,,,,,,Clarke (20),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,444 Northwest Blvd,,,Ashton,,,IA,,51232,US,43.3160001,-95.783388,,True
+SOUTHFIELD WELLNESS COMMUNITY,,,,,,,,,,,,,,,,,,Hamilton (40),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2416 Des Moines St,,,Webster City,,,IA,,50595,US,42.4511057,-93.82007929999999,,True
+SOUTHRIDGE SPECIALTY CARE,,,,,,,,,,,,,,,,,,Marshall (64),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,309 W Merle Hibbs Blvd,,,Marshalltown,,,IA,,50158,US,42.013386,-92.9183237,,True
+SPURGEON MANOR,,,,,,,,,,,,,,,,,,Dallas (25),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1204 Linden St,,,Dallas Center,,,IA,,50063,US,41.679747,-93.95890999999999,,True
+ST FRANCIS MANOR,,,,,,,,,,,,,,,,,,Poweshiek (79),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2021 4th Ave,,,Grinnell,,,IA,,50112,US,41.74401019999999,-92.70543099999999,,True
+ST LUKE LUTHERAN NURSING HOME,,,,,,,,,,,,,,,,,,Clay (21),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1301 St Luke Dr,,,Spencer,,,IA,,51301,US,43.124384,-95.126345,,True
+STACYVILLE COMMUNITY NURSING HOME,,,,,,,,,,,,,,,,,,Mitchell (66),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,413 S Broad St,,,Stacyville,,,IA,,50476,US,43.43344949999999,-92.7822984,,True
+STATE CENTER SPECIALTY CARE,,,,,,,,,,,,,,,,,,Marshall (64),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,702 3rd St NW,,,State Center,,,IA,,50247,US,42.0180005,-93.1733533,,True
+STONEHILL CARE CENTER,,,,,,,,,,,,,,,,,,Dubuque (31),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,3485 Windsor Ave,,,Dubuque,,,IA,,52001,US,42.53174029999999,-90.67052819999999,,True
+STRATFORD SPECIALTY CARE,,,,,,,,,,,,,,,,,,Hamilton (40),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1200 IA-175 BOX 260,,,Stratford,,,IA,,50249,US,42.2671608,-93.92215999999999,,True
+STRAWBERRY POINT LUTHERAN HOME,,,,,,,,,,,,,,,,,,Clayton (22),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,313 Elkader St,,,Strawberry Point,,,IA,,52076,US,42.6878125,-91.5342574,,True
+SUNNY BROOK LIVING CARE CENTER,,,,,,,,,,,,,,,,,,Jefferson (51),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,400 Highland St,,,Fairfield,,,IA,,52556,US,41.0037717,-91.9529993,,True
+SUNNY HILL CARE CENTER,,,,,,,,,,,,,,,,,,Tama (86),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1708 Harding St,,,Tama,,,IA,,52339,US,41.9759049,-92.5816449,,True
+SUNNY KNOLL CARE CENTRE,,,,,,,,,,,,,,,,,,Calhoun (13),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,135 Warner St,,,Rockwell City,,,IA,,50579,US,42.3975041,-94.62004089999999,,True
+SUNNY VIEW CARE CENTER,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,410 NW Ash Dr,,,Ankeny,,,IA,,50023,US,41.735305,-93.6111366,,True
+SUNNYCREST MANOR,,,,,,,,,,,,,,,,,,Dubuque (31),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2375 Roosevelt St,,,Dubuque,,,IA,,52001,US,42.5322872,-90.6541917,,True
+SUNNYCREST NURSING CENTER,,,,,,,,,,,,,,,,,,Tama (86),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,401 Crisman St,,,Dysart,,,IA,,52224,US,42.1702418,-92.30813429999999,,True
+SUNRISE HILL CARE CENTER,,,,,,,,,,,,,,,,,,Tama (86),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,909 6th St,,,Traer,,,IA,,50675,US,42.18878279999999,-92.4602914,,True
+SUNRISE RETIREMENT COMMUNITY,,,,,,,,,,,,,,,,,,Woodbury (97),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,5501 Gordon Dr,,,Sioux City,,,IA,,51106,US,42.4772293,-96.3372811,,True
+SUNRISE TERRACE NURSING & REHABILITATION CENTER,,,,,,,,,,,,,,,,,,Henry (44),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,706 W Central Ave,,,Winfield,,,IA,,52659,US,41.1267764,-91.44673449999999,,True
+SUNSET KNOLL CARE AND REHAB CENTER,,,,,,,,,,,,,,,,,,Cherokee (18),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,401 W 5th St,,,Aurelia,,,IA,,51005,US,42.71603589999999,-95.4407851,,True
+TABOR MANOR CARE CENTER,,,,,,,,,,,,,,,,,,Fremont (36),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,209 Main St,,,Tabor,,,IA,,51653,US,40.89129659999999,-95.67132699999999,,True
+THE ALVERNO HEALTH CARE FACILITY,,,,,,,,,,,,,,,,,,Clinton (23),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,849 13th Ave N,,,Clinton,,,IA,,52732,US,41.85850069999999,-90.2046148,,True
+THE AMBASSADOR SIDNEY INC,,,,,,,,,,,,,,,,,,Fremont (36),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,115 S Main St,,,Sidney,,,IA,,51652,US,40.7362951,-95.64697969999999,,True
+THE BRIDGES AT ANKENY,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,3510 NW Abilene Rd,,,Ankeny,,,IA,,50023,US,41.7562806,-93.628545,,True
+THE COTTAGES,,,,,,,,,,,,,,,,,,Marion (63),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1742 Main St,,,Pella,,,IA,,50219,US,41.42844499999999,-92.91569899999999,,True
+THE MADISON,,,,,,,,,,,,,,,,,,Lee (56),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1702 41st St,,,Fort Madison,,,IA,,52627,US,40.62243899999999,-91.3648429,,True
+THE NEW HOMESTEAD CARE CENTER,,,,,,,,,,,,,,,,,,Guthrie (39),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2306 State St,,,Guthrie Center,,,IA,,50115,US,41.68009199999999,-94.48499699999999,,True
+THE VILLAGE,,,,,,,,,,,,,,,,,,Warren (91),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1203 N E St,,,Indianola,,,IA,,50125,US,41.373214,-93.57073799999999,,True
+THE VILLAGE AT LEGACY POINTE NURSING FACILITY,,,,,,,,,,,,,,,,,,Dallas (25),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1645 SE Holiday Crest Cir,,,Waukee,,,IA,,50263,US,41.612992,-93.8400101,,True
+THE VINTON LUTHERAN HOME,,,,,,,,,,,,,,,,,,Benton (06),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1301 2nd Ave,,,Vinton,,,IA,,52349,US,42.15867799999999,-92.02360399999999,,True
+THOMAS REST HAVEN,,,,,,,,,,,,,,,,,,Carroll (14),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,217 Main St,,,Coon Rapids,,,IA,,50058,US,41.871393,-94.674127,,True
+THORNTON MANOR CARE CENTER,,,,,,,,,,,,,,,,,,Allamakee (03),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1329 Main St,,,Lansing,,,IA,,52151,US,43.360156,-91.2345945,,True
+TIMELY MISSION NURSING HOME,,,,,,,,,,,,,,,,,,Winnebago (95),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,109 Mission Dr,,,Buffalo Center,,,IA,,50424,US,43.3887026,-93.95308910000001,,True
+TITONKA CARE CENTER,,,,,,,,,,,,,,,,,,Kossuth (55),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,312 1st Ave NW,,,Titonka,,,IA,,50480,US,43.2359979,-94.04501929999999,,True
+TOUCHSTONE HEALTHCARE COMMUNITY,,,,,,,,,,,,,,,,,,Woodbury (97),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1800 Indian Hills Dr,,,Sioux City,,,IA,,51104,US,42.533748,-96.38675660000001,,True
+TRINITY CENTER AT LUTHER PARK,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1555 Hull Ave,,,Des Moines,,,IA,,50316,US,41.621601,-93.59556669999999,Union Park,True
+TRIPOLI NURSING & REHAB,,,,,,,,,,,,,,,,,,Bremer (09),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,604 3rd St SW,,,Tripoli,,,IA,,50676,US,42.8039187,-92.262408,,True
+TRU REHAB OF GRINNELL,,,,,,,,,,,,,,,,,,Poweshiek (79),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,415 6th Ave W,,,Grinnell,,,IA,,50112,US,41.7461578,-92.7429087,,True
+TWILIGHT ACRES,,,,,,,,,,,,,,,,,,Sac (81),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,600 W 6th St,,,Wall Lake,,,IA,,51466,US,42.2761429,-95.0974066,,True
+UNION PARK HEALTH SERVICES,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2401 E 8th St,,,Des Moines,,,IA,,50316,US,41.6167317,-93.60718039999999,Union Park,True
+UNITED PRESBYTERIAN HOME,,,,,,,,,,,,,,,,,,Washington (92),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1203 E Washington St,,,Washington,,,IA,,52353,US,41.2980211,-91.6783356,,True
+UNIVERSITY PARK NURSING AND REHABILITATION CENTER,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,233 University Ave,,,Des Moines,,,IA,,50314,US,41.6008029,-93.6210502,River Bend,True
+URBANDALE HEALTH CARE CENTER,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,4614 NW 84th St,,,Johnston,,,IA,,50131,US,41.656481,-93.73436769999999,,True
+VALLEY VIEW COMMUNITY,,,,,,,,,,,,,,,,,,Butler (12),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,108 S High St,,,Greene,,,IA,,50636,US,42.89136999999999,-92.80765439999999,,True
+VALLEY VIEW SPECIALTY CARE,,,,,,,,,,,,,,,,,,Hardin (42),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2313 15th Ave,,,Eldora,,,IA,,50627,US,42.358353,-93.113449,,True
+VALLEY VIEW VILLAGE,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2555 Guthrie Ave,,,Des Moines,,,IA,,50317,US,41.6139889,-93.56976999999999,Fairmont Park,True
+VALLEY VUE CARE CENTER,,,,,,,,,,,,,,,,,,Emmet (32),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,108 2nd Ave,BOX 200,,Armstrong,,,IA,,50514,US,43.396888,-94.4864211,,True
+VISTA WOODS CARE CENTER,,,,,,,,,,,,,,,,,,Wapello (90),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,3 Pennsylvania Pl,,,Ottumwa,,,IA,,52501,US,41.0275261,-92.38545189999999,,True
+WAPELLO SPECIALTY CARE,,,,,,,,,,,,,,,,,,Louisa (58),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,601 US-61,,,Wapello,,,IA,,52653,US,41.1716467,-91.18890379999999,,True
+WELLINGTON PLACE,,,,,,,,,,,,,,,,,,Winneshiek (96),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2479 River Rd,,,Decorah,,,IA,,52101,US,43.300197,-91.746498,,True
+WESLEY ACRES,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,3520 Grand Ave,,,Des Moines,,,IA,,50312,US,41.58339549999999,-93.66457609999999,Greenwood,True
+WESLEY PARK CENTRE,,,,,,,,,,,,,,,,,,Jasper (50),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,500 1st St N,,,Newton,,,IA,,50208,US,41.7033376,-93.05288499999999,,True
+WEST BEND HEALTH AND REHABILITATION,,,,,,,,,,,,,,,,,,Palo Alto (74),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,203 4th St N,,,West Bend,,,IA,,50597,US,42.9663768,-94.4486494,,True
+WEST BRIDGE CARE & REHABILITATION,,,,,,,,,,,,,,,,,,Madison (61),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1015 W Summit St,,,Winterset,,,IA,,50273,US,41.33027379999999,-94.0255901,,True
+WEST POINT CARE CENTER,,,,,,,,,,,,,,,,,,Lee (56),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,607 6th St,,,West Point,,,IA,,52656,US,40.721872,-91.45058859999999,,True
+WEST RIDGE SPECIALTY CARE,,,,,,,,,,,,,,,,,,Marion (63),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1904 W Howard St,,,Knoxville,,,IA,,50138,US,41.3111767,-93.11658659999999,,True
+WESTBROOK ACRES,,,,,,,,,,,,,,,,,,Tama (86),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,605 Garfield St,,,Gladbrook,,,IA,,50635,US,42.183298,-92.7203973,,True
+WESTHAVEN COMMUNITY,,,,,,,,,,,,,,,,,,Boone (08),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,112 W 4th St,,,Boone,,,IA,,50036,US,42.0602578,-93.8932834,,True
+WESTMONT HEALTHCARE COMMUNITY,,,,,,,,,,,,,,,,,,Harrison (43),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,314 S Elm Ave,,,Logan,,,IA,,51546,US,41.6404198,-95.7940103,,True
+WESTRIDGE QUALITY CARE & REHABILITATION,,,,,,,,,,,,,,,,,,Page (73),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,600 Manor Dr,,,Clarinda,,,IA,,51632,US,40.7301576,-95.0452803,,True
+WESTVIEW ACRES CARE CENTER,,,,,,,,,,,,,,,,,,Decatur (27),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,203 SW Lorraine St,,,Leon,,,IA,,50144,US,40.7396146,-93.7610273,,True
+WESTVIEW CARE CENTER,,,,,,,,,,,,,,,,,,Hancock (41),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,445 8th Ave SW,,,Britt,,,IA,,50423,US,43.09286910000001,-93.81205849999999,,True
+WESTVIEW OF INDIANOLA CARE CENTER,,,,,,,,,,,,,,,,,,Warren (91),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1900 W 3rd Pl,,,Indianola,,,IA,,50125,US,41.35756419999999,-93.5865532,,True
+WESTWING PLACE,,,,,,,,,,,,,,,,,,Clinton (23),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1118 11th St,,,DeWitt,,,IA,,52742,US,41.8259131,-90.5466292,,True
+WESTWOOD SPECIALTY CARE,,,,,,,,,,,,,,,,,,Woodbury (97),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,4201 Fieldcrest Dr,,,Sioux City,,,IA,,51103,US,42.5055726,-96.46208159999999,,True
+WHEATLAND MANOR,,,,,,,,,,,,,,,,,,Clinton (23),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,316 E Lincoln Way,,,Wheatland,,,IA,,52777,US,41.8335212,-90.83191839999999,,True
+WILLOW DALE WELLNESS VILLAGE,,,,,,,,,,,,,,,,,,Ida (47),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,404 1st St,,,Ida Grove,,,IA,,51445,US,42.3456265,-95.4705427,,True
+WILLOW GARDENS CARE CENTER,,,,,,,,,,,,,,,,,,Linn (57),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,455 31st St,,,Marion,,,IA,,52302,US,42.03099159999999,-91.578722,,True
+WILTON RETIREMENT COMMUNITY,,,,,,,,,,,,,,,,,,Muscatine (70),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,307 Ovesen Dr,,,Wilton,,,IA,,52778,US,41.5960694,-91.01390769999999,,True
+WINDMILL MANOR,,,,,,,,,,,,,,,,,,Johnson (52),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,2332 Liberty Dr,,,Coralville,,,IA,,52241,US,41.6990474,-91.6208934,,True
+WINSLOW HOUSE CARE CENTER,,,,,,,,,,,,,,,,,,Linn (57),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,3456 Indian Creek Rd,,,Marion,,,IA,,52302,US,42.0552588,-91.5893732,,True
+WOODLAND TERRACE,,,,,,,,,,,,,,,,,,Bremer (09),,,,,,,,,,,,,,,,,Free Standing NF/SNF,,,,1922 5th Ave NW,,,Waverly,,,IA,,50677,US,42.73120399999999,-92.49301439999999,,True
+CHILDSERVE HABILITATION CENTER-NF,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,Free Standing NF,,,,5900 Pioneer Pkwy,,,Johnston,,,IA,,50131,US,41.660943,-93.699798,,True
+GRAND MEADOWS,,,,,,,,,,,,,,,,,,Dubuque (31),,,,,,,,,,,,,,,,,Free Standing NF,,,,5300 Grand Meadow Dr,,,Asbury,,,IA,,52002,US,42.5130116,-90.7545344,,True
+IOWA VETERANS HOME,,,,,,,,,,,,,,,,,,Marshall (64),,,,,,,,,,,,,,,,,Free Standing NF,,,,1301 Summit St,,,Marshalltown,,,IA,,50158,US,42.05478909999999,-92.93333,,True
+MANNING REGIONAL HEALTH CARE CENTER NF,,,,,,,,,,,,,,,,,,Carroll (14),,,,,,,,,,,,,,,,,Free Standing NF,,,,402 Main St,,,Manning,,,IA,,51455,US,41.90792099999999,-95.06491199999999,,True
+REHABILITATION CENTER OF LISBON,,,,,,,,,,,,,,,,,,Linn (57),,,,,,,,,,,,,,,,,Free Standing NF,,,,905 W Main St,,,Lisbon,,,IA,,52253,US,41.9225116,-91.39453639999999,,True
+ADELINE COMMUNITY LIVING HOME,,,,,,,,,,,,,,,,,,Dubuque (31),,,,,,,,,,,,,,,,,RCF/ID,,,,1251 Adeline St,,,Dubuque,,,IA,,52003,US,42.4836699,-90.6765238,,True
+ALTERNATIVE LIVING-CURTIS,,,,,,,,,,,,,,,,,,Fayette (33),,,,,,,,,,,,,,,,,RCF/ID,,,,303 N Frederick Ave,,,Oelwein,,,IA,,50662,US,42.6824172,-91.9133426,,True
+CAMELOT SQUARE GROUP HOME,,,,,,,,,,,,,,,,,,Crawford (24),,,,,,,,,,,,,,,,,RCF/ID,,,,1011 5th Ave N,,,Denison,,,IA,,51442,US,42.0218301,-95.35901980000001,,True
+EAGLE GROVE GROUP HOME,,,,,,,,,,,,,,,,,,Wright (99),,,,,,,,,,,,,,,,,RCF/ID,,,,605 E Broadway St,,,Eagle Grove,,,IA,,50533,US,42.66437619999999,-93.89444929999999,,True
+EMERSON HOUSE,,,,,,,,,,,,,,,,,,Blackhawk (07),,,,,,,,,,,,,,,,,RCF/ID,,,,2009 Coachman Dr,,,Waterloo,,,IA,,50701,US,42.5045632,-92.3913748,,True
+FAIRWAY GROUP HOME,,,,,,,,,,,,,,,,,,Blackhawk (07),,,,,,,,,,,,,,,,,RCF/ID,,,,2221 Fairway Ln,,,Waterloo,,,IA,,50701,US,42.48076859999999,-92.3798486,,True
+GUGELER GROUP HOME,,,,,,,,,,,,,,,,,,Des Moines (29),,,,,,,,,,,,,,,,,RCF/ID,,,,2205 Northern Dr,,,Burlington,,,IA,,52601,US,40.832362,-91.14787729999999,,True
+HANDICAPPED DEVELOPMENT CENTER #7,,,,,,,,,,,,,,,,,,Scott (82),,,,,,,,,,,,,,,,,RCF/ID,,,,4109 White Pines Dr,,,Davenport,,,IA,,52804,US,41.529607,-90.63599169999999,,True
+HANDICAPPED DEVELOPMENT CENTER #8,,,,,,,,,,,,,,,,,,Scott (82),,,,,,,,,,,,,,,,,RCF/ID,,,,3518 Hillandale Rd,,,Davenport,,,IA,,52806,US,41.55704679999999,-90.6203127,,True
+HANDICAPPED DEVELOPMENT CENTER #9,,,,,,,,,,,,,,,,,,Scott (82),,,,,,,,,,,,,,,,,RCF/ID,,,,1815 W 59th St,,,Davenport,,,IA,,52806,US,41.58094349999999,-90.6030666,,True
+HARRISON HOUSE,,,,,,,,,,,,,,,,,,Greene (37),,,,,,,,,,,,,,,,,RCF/ID,,,,204 E Harrison St,,,Jefferson,,,IA,,50129,US,42.0144996,-94.3724191,,True
+HIGHLAND PARK GROUP HOME,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,RCF/ID,,,,3417 5th Ave,,,Des Moines,,,IA,,50313,US,41.6265848,-93.6232138,Highland Park,True
+HORIZONS UNLIMITED,,,,,,,,,,,,,,,,,,Palo Alto (74),,,,,,,,,,,,,,,,,RCF/ID,,,,2201 21st St,,,Emmetsburg,,,IA,,50536,US,43.101396,-94.67948000000001,,True
+MASON CITY GROUP HOME,,,,,,,,,,,,,,,,,,Cerro Gordo (17),,,,,,,,,,,,,,,,,RCF/ID,,,,695 S Illinois Ave,,,Mason City,,,IA,,50401,US,43.14420430000001,-93.1704468,,True
+MEADOWS GROUP HOME,,,,,,,,,,,,,,,,,,Franklin (35),,,,,,,,,,,,,,,,,RCF/ID,,,,420 8th Ave SW,,,Hampton,,,IA,,50441,US,42.7340603,-93.2130688,,True
+NEW HAMPTON GROUP HOME,,,,,,,,,,,,,,,,,,Chickasaw (19),,,,,,,,,,,,,,,,,RCF/ID,,,,841 W Main St,,,New Hampton,,,IA,,50659,US,43.0606917,-92.3279922,,True
+NINTH STREET GROUP HOME,,,,,,,,,,,,,,,,,,Floyd (34),,,,,,,,,,,,,,,,,RCF/ID,,,,310 9th St,,,Charles City,,,IA,,50616,US,43.05518590000001,-92.67664239999999,,True
+NORTHSIDE COURT,,,,,,,,,,,,,,,,,,Sioux (84),,,,,,,,,,,,,,,,,RCF/ID,,,,1111 7th St,,,Hull,,,IA,,51239,US,43.1952036,-96.1319652,,True
+O'BRIANT HOUSE,,,,,,,,,,,,,,,,,,Appanoose (04),,,,,,,,,,,,,,,,,RCF/ID,,,,501 E Cross St,,,Centerville,,,IA,,52544,US,40.7408449,-92.8674674,,True
+OAK STREET GROUP HOME,,,,,,,,,,,,,,,,,,Montgomery (69),,,,,,,,,,,,,,,,,RCF/ID,,,,100 E Oak St,,,Red Oak,,,IA,,51566,US,41.0167013,-95.23146299999999,,True
+OPPORTUNITY VILLAGE - RALPH SCHROEDER GROUP HOME,,,,,,,,,,,,,,,,,,Cerro Gordo (17),,,,,,,,,,,,,,,,,RCF/ID,,,,1020 Buddy Holly Pl,,,Clear Lake,,,IA,,50428,US,43.14507510000001,-93.3881653,,True
+OSAGE GROUP HOME,,,,,,,,,,,,,,,,,,Mitchell (66),,,,,,,,,,,,,,,,,RCF/ID,,,,818 N 7th St,,,Osage,,,IA,,50461,US,43.29158829999999,-92.8111649,,True
+PAIGE GROUP HOME,,,,,,,,,,,,,,,,,,Blackhawk (07),,,,,,,,,,,,,,,,,RCF/ID,,,,3845 Paige Dr,,,Waterloo,,,IA,,50702,US,42.4595534,-92.3395398,,True
+PALMER HOUSE,,,,,,,,,,,,,,,,,,Palo Alto (74),,,,,,,,,,,,,,,,,RCF/ID,,,,1501 Palmer St,,,Emmetsburg,,,IA,,50536,US,43.1062137,-94.6818321,,True
+PLEASANT HOUSE,,,,,,,,,,,,,,,,,,Palo Alto (74),,,,,,,,,,,,,,,,,RCF/ID,,,,1901 Pleasant St,,,Emmetsburg,,,IA,,50536,US,43.10269199999999,-94.6754524,,True
+REDWOOD COURT,,,,,,,,,,,,,,,,,,Sioux (84),,,,,,,,,,,,,,,,,RCF/ID,,,,1705 19th St,,,Rock Valley,,,IA,,51247,US,43.2091752,-96.29347779999999,,True
+RINGGOLD COUNTY GROUP HOME,,,,,,,,,,,,,,,,,,Ringgold (80),,,,,,,,,,,,,,,,,RCF/ID,,,,111 Ringgold St,,,Mt Ayr,,,IA,,50854,US,40.713212,-94.24856899999999,,True
+RISE LIMITED GROUP HOME,,,,,,,,,,,,,,,,,,Clayton (22),,,,,,,,,,,,,,,,,RCF/ID,,,,107 Maxie Ave,,,Elkader,,,IA,,52043,US,42.86038990000001,-91.3980455,,True
+SYSTEMS UNLIMITED #11,,,,,,,,,,,,,,,,,,Johnson (52),,,,,,,,,,,,,,,,,RCF/ID,,,,1801 High St,,,Iowa City,,,IA,,52245,US,41.65761,-91.51055590000001,Hoover,True
+WALTON GROUP HOME,,,,,,,,,,,,,,,,,,Des Moines (29),,,,,,,,,,,,,,,,,RCF/ID,,,,2101 Northern Dr,,,Burlington,,,IA,,52601,US,40.83100020000001,-91.14840699999999,,True
+WEST 4TH STREET GROUP HOME,,,,,,,,,,,,,,,,,,Blackhawk (07),,,,,,,,,,,,,,,,,RCF/ID,,,,3341 W 4th St,,,Waterloo,,,IA,,50701,US,42.4706792,-92.37994049999999,,True
+EYERLY BALL RESIDENTIAL - CUMMINS HOUSE,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,RCF/PMI,,,,940 Cummins Pkwy,,,Des Moines,,,IA,,50312,US,41.5949966,-93.70246979999999,Waveland Woods,True
+EYERLY BALL RESIDENTIAL - FRANCIS HOUSE,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,RCF/PMI,,,,5631 Francis Ave,,,Des Moines,,,IA,,50310,US,41.6140835,-93.69582249999999,Merle Hay,True
+FREMONT GROUP HOME,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,RCF/PMI,,,,704 Fremont St,,,Des Moines,,,IA,,50316,US,41.5988111,-93.60967459999999,Capitol Park,True
+HILLCREST FAMILY SERVICES - RCF/PMI,,,,,,,,,,,,,,,,,,Dubuque (31),,,,,,,,,,,,,,,,,RCF/PMI,,,,1160 Seippel Rd,,,Dubuque,,,IA,,52002,US,42.4861985,-90.7784657,,True
+"IMAGINE THE POSSIBILITIES, INC - ANDREW JACKSON CARE",,,,,,,,,,,,,,,,,,Jackson (49),,,,,,,,,,,,,,,,,RCF/PMI,,,,18720 250th Ave,,,Bellevue,,,IA,,52031,US,42.1983425,-90.61224279999999,,True
+NORTH IOWA TRANSITION CENTER,,,,,,,,,,,,,,,,,,Cerro Gordo (17),,,,,,,,,,,,,,,,,RCF/PMI,,,,408 1st St NW,,,Mason City,,,IA,,50401,US,43.15286950000001,-93.207763,,True
+OAKLAND HOUSE,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,RCF/PMI,,,,1812 Oakland Ave,,,Des Moines,,,IA,,50314,US,41.6105762,-93.62432580000001,River Bend,True
+PARK PLACE,,,,,,,,,,,,,,,,,,Cass (15),,,,,,,,,,,,,,,,,RCF/PMI,,,,1307 Sunnyside Ln,,,Atlantic,,,IA,,50022,US,41.3976984,-95.029815,,True
+VERA FRENCH PINE MEADOWS,,,,,,,,,,,,,,,,,,Scott (82),,,,,,,,,,,,,,,,,RCF/PMI,,,,4656 W Kimberly Rd,,,Davenport,,,IA,,52806,US,41.569956,-90.64018399999999,,True
+BREES REST HOME,,,,,,,,,,,,,,,,,,Monroe (68),,,,,,,,,,,,,,,,,RCF,,,,210 Washington Ave E,,,Albia,,,IA,,52531,US,41.0260093,-92.80531700000002,,True
+BROOKDALE SIOUX CITY,,,,,,,,,,,,,,,,,,Woodbury (97),,,,,,,,,,,,,,,,,RCF,,,,2562 Pierce St,,,Sioux City,,,IA,,51104,US,42.5166776,-96.40442689999999,,True
+CALHOUN HOUSE,,,,,,,,,,,,,,,,,,Story (85),,,,,,,,,,,,,,,,,RCF,,,,3911 Calhoun Ave,,,Ames,,,IA,,50010,US,42.0592143,-93.62438019999999,,True
+CARE UNIT A,,,,,,,,,,,,,,,,,,Union (88),,,,,,,,,,,,,,,,,RCF,,,,500 Opal St,,,Afton,,,IA,,50830,US,41.03555799999999,-94.2014535,,True
+CARE UNIT B,,,,,,,,,,,,,,,,,,Union (88),,,,,,,,,,,,,,,,,RCF,,,,500 Opal St,,,Afton,,,IA,,50830,US,41.03555799999999,-94.2014535,,True
+CEDAR VALLEY RANCH,,,,,,,,,,,,,,,,,,Benton (06),,,,,,,,,,,,,,,,,RCF,,,,2591 61st St Ln,,,Vinton,,,IA,,52349,US,42.1520284,-91.99152079999999,,True
+CENTER VILLAGE OF TENCO,,,,,,,,,,,,,,,,,,Van Buren (89),,,,,,,,,,,,,,,,,RCF,,,,19248 Maple Ave,,,Keosauqua,,,IA,,52565,US,40.75920310000001,-91.9485196,,True
+CHATHAM OAKS,,,,,,,,,,,,,,,,,,Johnson (52),,,,,,,,,,,,,,,,,RCF,,,,4515 Melrose Ave,,,Iowa City,,,IA,,52246,US,41.65637109999999,-91.6021507,Weber,True
+COTTONWOOD RESIDENTIAL CARE FACILITY,,,,,,,,,,,,,,,,,,Des Moines (29),,,,,,,,,,,,,,,,,RCF,,,,910 Cottonwood Ct,SUITE 1002,,Burlington,,,IA,,52601,US,40.82183189999999,-91.13674689999999,,True
+COUNTRY CARE CENTER,,,,,,,,,,,,,,,,,,Shelby (83),,,,,,,,,,,,,,,,,RCF,,,,725 US-59,,,Harlan,,,IA,,51537,US,41.607936,-95.33226599999999,,True
+COUNTRYSIDE HEALTH CARE CENTER,,,,,,,,,,,,,,,,,,Woodbury (97),,,,,,,,,,,,,,,,,RCF,,,,6120 Morningside Ave,,,Sioux City,,,IA,,51106,US,42.4602938,-96.3277306,,True
+DEERFIELD RETIREMENT COMMUNITY,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,RCF,,,,13731 Hickman Rd,,,Urbandale,,,IA,,50323,US,41.61689399999999,-93.808145,,True
+DIAMOND LIFE HEALTH CARE,,,,,,,,,,,,,,,,,,Poweshiek (79),,,,,,,,,,,,,,,,,RCF,,,,4912 Barnes City Rd,BOX 820,,Montezuma,,,IA,,50171,US,41.572468,-92.52072240000001,,True
+DULUTH HOUSE,,,,,,,,,,,,,,,,,,Story (85),,,,,,,,,,,,,,,,,RCF,,,,620 Duluth Driveway,,,Ames,,,IA,,50010,US,41.98717919999999,-93.6030328,,False
+EASTERN STAR MASONIC HOME,,,,,,,,,,,,,,,,,,Boone (08),,,,,,,,,,,,,,,,,RCF,,,,715 W 3rd St,,,Boone,,,IA,,50036,US,42.059323,-93.90193889999999,,True
+EPIC HOUSE,,,,,,,,,,,,,,,,,,Blackhawk (07),,,,,,,,,,,,,,,,,RCF,,,,1210 Idaho St,,,Waterloo,,,IA,,50703,US,42.4996314,-92.3074098,,True
+EVERGREEN ESTATES I,,,,,,,,,,,,,,,,,,Linn (57),,,,,,,,,,,,,,,,,RCF,,,,3410 12th Ave SW,,,Cedar Rapids,,,IA,,52404,US,41.9659305,-91.7166737,Cedar Hills,True
+EVERGREEN ESTATES II,,,,,,,,,,,,,,,,,,Linn (57),,,,,,,,,,,,,,,,,RCF,,,,307 Edgewood Rd SW,,,Cedar Rapids,,,IA,,52404,US,41.966149,-91.71555699999999,,True
+EVERGREEN ESTATES III,,,,,,,,,,,,,,,,,,Linn (57),,,,,,,,,,,,,,,,,RCF,,,,2204 Johnson Ave NW,,,Cedar Rapids,,,IA,,52405,US,41.97508000000001,-91.70393399999999,,True
+HAZEL HOUSE,,,,,,,,,,,,,,,,,,Story (85),,,,,,,,,,,,,,,,,RCF,,,,124 S Hazel Ave,,,Ames,,,IA,,50010,US,42.02183649999999,-93.6264216,,True
+HERITAGE RESIDENCE,,,,,,,,,,,,,,,,,,Chickasaw (19),,,,,,,,,,,,,,,,,RCF,,,,2275 S Linn Ave,,,New Hampton,,,IA,,50659,US,43.0258906,-92.318598,,True
+HIGLEY MANSION CARE CENTER,,,,,,,,,,,,,,,,,,Linn (57),,,,,,,,,,,,,,,,,RCF,,,,860 17th St SE,,,Cedar Rapids,,,IA,,52403,US,41.97769780000001,-91.6456303,Wellington Heights,True
+HILLCREST FAMILY SERVICES - RCF,,,,,,,,,,,,,,,,,,Dubuque (31),,,,,,,,,,,,,,,,,RCF,,,,1160 Seippel Rd,,,Dubuque,,,IA,,52002,US,42.4861985,-90.7784657,,True
+IOWA VETERANS HOME,,,,,,,,,,,,,,,,,,Marshall (64),,,,,,,,,,,,,,,,,RCF,,,,1301 Summit St,,,Marshalltown,,,IA,,50158,US,42.05478909999999,-92.93333,,True
+KATHLEENS RESIDENTIAL CARE,,,,,,,,,,,,,,,,,,Palo Alto (74),,,,,,,,,,,,,,,,,RCF,,,,1505 5th St,,,Emmetsburg,,,IA,,50536,US,43.1162566,-94.6708251,,True
+"KNOXVILLE RESIDENTIAL, LLC",,,,,,,,,,,,,,,,,,Marion (63),,,,,,,,,,,,,,,,,RCF,,,,205 N Iowa St,,,Knoxville,,,IA,,50138,US,41.3201396,-93.105554,,True
+LEGACY HOUSE,,,,,,,,,,,,,,,,,,Warren (91),,,,,,,,,,,,,,,,,RCF,,,,207 E Salem Ave,,,Indianola,,,IA,,50125,US,41.3600301,-93.5590849,,True
+LONGHOUSE-NORTHSHIRE LTD,,,,,,,,,,,,,,,,,,Clay (21),,,,,,,,,,,,,,,,,RCF,,,,711 W 11th St,,,Spencer,,,IA,,51301,US,43.1491664,-95.1560346,,True
+MARION COUNTY CARE FACILITY OF TENCO,,,,,,,,,,,,,,,,,,Marion (63),,,,,,,,,,,,,,,,,RCF,,,,1111 Newbold St,,,Knoxville,,,IA,,50138,US,41.3003335,-93.1351045,,True
+MAYFLOWER HOME,,,,,,,,,,,,,,,,,,Poweshiek (79),,,,,,,,,,,,,,,,,RCF,,,,616 Broad St,,,Grinnell,,,IA,,50112,US,41.73959989999999,-92.7232884,,True
+MAYVIL,,,,,,,,,,,,,,,,,,Linn (57),,,,,,,,,,,,,,,,,RCF,,,,136 36th Ave SW,,,Cedar Rapids,,,IA,,52404,US,41.94318019999999,-91.6649245,Southwest Area,True
+MEDIAPOLIS CARE FACILITY,,,,,,,,,,,,,,,,,,Des Moines (29),,,,,,,,,,,,,,,,,RCF,,,,142 N Orchard St,,,Mediapolis,,,IA,,52637,US,41.0085541,-91.16377419999999,,True
+PARKVIEW HOME,,,,,,,,,,,,,,,,,,Henry (44),,,,,,,,,,,,,,,,,RCF,,,,102 N Jackson St,,,Wayland,,,IA,,52654,US,41.1471771,-91.6664864,,True
+PENN CENTER,,,,,,,,,,,,,,,,,,Delaware (28),,,,,,,,,,,,,,,,,RCF,,,,2237 245th St,,,Delhi,,,IA,,52223,US,42.4347257,-91.3568952,,True
+PINICON PLACE,,,,,,,,,,,,,,,,,,Jones (53),,,,,,,,,,,,,,,,,RCF,,,,1615 Breca Ridge Dr,,,Anamosa,,,IA,,52205,US,42.106549,-91.2611847,,True
+PLEASANT HILL RESIDENTIAL,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,RCF,,,,4755 Parkridge Ave,,,Pleasant Hill,,,IA,,50327,US,41.5811866,-93.5210077,,True
+PLEASANTVIEW HOME RCF,,,,,,,,,,,,,,,,,,Washington (92),,,,,,,,,,,,,,,,,RCF,,,,811 3rd St,,,Kalona,,,IA,,52247,US,41.4904403,-91.7110581,,True
+PRAIRIE VIEW,,,,,,,,,,,,,,,,,,Fayette (33),,,,,,,,,,,,,,,,,RCF,,,,18569 Lane Rd,,,Fayette,,,IA,,52142,US,42.8976714,-91.8317593,,True
+PRIDE GROUP @ 12TH STREET,,,,,,,,,,,,,,,,,,Plymouth (75),,,,,,,,,,,,,,,,,RCF,,,,200 12th St SE,,,Le Mars,,,IA,,51031,US,42.7787339,-96.163256,,True
+PRIDE GROUP @ 6TH AVENUE,,,,,,,,,,,,,,,,,,Plymouth (75),,,,,,,,,,,,,,,,,RCF,,,,115 6th Ave SW,,,Le Mars,,,IA,,51031,US,42.7913367,-96.1755324,,True
+PRIDE GROUP @ LINCOLN STREET,,,,,,,,,,,,,,,,,,Plymouth (75),,,,,,,,,,,,,,,,,RCF,,,,1240 Lincoln St NE,,,Le Mars,,,IA,,51031,US,42.800566,-96.1476024,,True
+PRIDE GROUP @ PRIMGHAR,,,,,,,,,,,,,,,,,,O'Brien (71),,,,,,,,,,,,,,,,,RCF,,,,6059 390th St,,,Primghar,,,IA,,51245,US,43.0844314,-95.5933065,,True
+PROFFITTS RESIDENTIAL CARE FACILITY,,,,,,,,,,,,,,,,,,Appanoose (04),,,,,,,,,,,,,,,,,RCF,,,,615 W Washington St,,,Centerville,,,IA,,52544,US,40.73620359999999,-92.8794226,,True
+RAMSEY VILLAGE,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,RCF,,,,1611 27th St,,,Des Moines,,,IA,,50310,US,41.60889309999999,-93.65272499999999,Drake,True
+RISEN SON CHRISTIAN VILLAGE,,,,,,,,,,,,,,,,,,Pottawattamie (78),,,,,,,,,,,,,,,,,RCF,,,,3000 Risen Son Blvd,,,Council Bluffs,,,IA,,51503,US,41.23059140000001,-95.8011642,,True
+ROCK RIDGE RESIDENTIAL CARE CENTER,,,,,,,,,,,,,,,,,,Benton (06),,,,,,,,,,,,,,,,,RCF,,,,401 Canton St NW,,,Shellsburg,,,IA,,52332,US,42.098912,-91.872787,,True
+ROSE HAVEN NURSING HOME,,,,,,,,,,,,,,,,,,Iowa (48),,,,,,,,,,,,,,,,,RCF,,,,1500 Franklyn Ave,,,Marengo,,,IA,,52301,US,41.80413900000001,-92.071761,,True
+ROTARY SENIOR LIVING,,,,,,,,,,,,,,,,,,Wright (99),,,,,,,,,,,,,,,,,RCF,,,,620 SE 5th St,,,Eagle Grove,,,IA,,50533,US,42.6589499,-93.8944289,,True
+SCENIC ACRES,,,,,,,,,,,,,,,,,,Clayton (22),,,,,,,,,,,,,,,,,RCF,,,,23105 Granite Ave,,,St Olaf,,,IA,,52072,US,42.8917043,-91.3487129,,True
+SCOTTISH RITE PARK HEALTH CARE CENTER RCF,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,RCF,,,,2909 Woodland Ave,,,Des Moines,,,IA,,50312,US,41.5888092,-93.65560099999999,Woodland Heights,True
+SENIOR SUITES OF URBANDALE,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,RCF,,,,4700 84th St,,,Urbandale,,,IA,,50322,US,41.6456781,-93.7341149,,True
+SHIRLEES RETIREMENT HOME,,,,,,,,,,,,,,,,,,Warren (91),,,,,,,,,,,,,,,,,RCF,,,,1302 E 2nd Ave,,,Indianola,,,IA,,50125,US,41.358217,-93.5454929,,True
+SPURGEON MANOR,,,,,,,,,,,,,,,,,,Dallas (25),,,,,,,,,,,,,,,,,RCF,,,,1204 Linden St,,,Dallas Center,,,IA,,50063,US,41.679747,-93.95890999999999,,True
+STACYVILLE COMMUNITY NURSING HOME,,,,,,,,,,,,,,,,,,Mitchell (66),,,,,,,,,,,,,,,,,RCF,,,,413 S Broad St,,,Stacyville,,,IA,,50476,US,43.43344949999999,-92.7822984,,True
+SunnyBrook Living Care Center,,,,,,,,,,,,,,,,,,Jefferson (51),,,,,,,,,,,,,,,,,RCF,,,,400 Highland St,,,Fairfield,,,IA,,52556,US,41.0037717,-91.9529993,,True
+TERRACE VIEW RESIDENTIAL,,,,,,,,,,,,,,,,,,Page (73),,,,,,,,,,,,,,,,,RCF,,,,1020 W State St,,,Clarinda,,,IA,,51632,US,40.7417221,-95.0510103,,True
+TWILIGHT ACRES,,,,,,,,,,,,,,,,,,Sac (81),,,,,,,,,,,,,,,,,RCF,,,,600 W 6th St,,,Wall Lake,,,IA,,51466,US,42.2761429,-95.0974066,,True
+VILLAGE NORTHWEST UNLIMITED,,,,,,,,,,,,,,,,,,O'Brien (71),,,,,,,,,,,,,,,,,RCF,,,,330 Village Cir,,,Sheldon,,,IA,,51201,US,43.1897255,-95.8360944,,True
+VITA HEALTH SERVICES,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,RCF,,,,1725 6th Ave,,,Des Moines,,,IA,,50314,US,41.6099798,-93.62518419999999,River Bend,True
+WELLINGTON PLACE,,,,,,,,,,,,,,,,,,Winneshiek (96),,,,,,,,,,,,,,,,,RCF,,,,2479 River Rd,,,Decorah,,,IA,,52101,US,43.300197,-91.746498,,True
+WESLEY ACRES RCF,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,RCF,,,,3520 Grand Ave,,,Des Moines,,,IA,,50312,US,41.58339549999999,-93.66457609999999,Greenwood,True
+WEST BRIDGE CARE & REHABILITATION RCF,,,,,,,,,,,,,,,,,,Madison (61),,,,,,,,,,,,,,,,,RCF,,,,1015 W Summit St,,,Winterset,,,IA,,50273,US,41.33027379999999,-94.0255901,,True
+ARBOR SPRINGS OF WEST DES MOINES L L C,,,,,,,,,,,,,,,,,,Dallas (25),,,,,,,,,,,,,,,,,Free Standing SNF,,,,7951 Ep True Pkwy,,,West Des Moines,,,IA,,50266,US,41.57537879999999,-93.8164987,,True
+COTTAGE GROVE PLACE-THE CLUB,,,,,,,,,,,,,,,,,,Linn (57),,,,,,,,,,,,,,,,,Free Standing SNF,,,,2115 1st Ave SE,,,Cedar Rapids,,,IA,,52402,US,41.9958922,-91.6363803,,True
+DEERFIELD RETIREMENT COMMUNITY INC,,,,,,,,,,,,,,,,,,Polk (77),,,,,,,,,,,,,,,,,Free Standing SNF,,,,13731 Hickman Rd,,,Urbandale,,,IA,,50323,US,41.61689399999999,-93.808145,,True

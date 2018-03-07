@@ -1,0 +1,2 @@
+normalized_column_name,description,type,mapped_column_names,nullable,note
+description,Description of facility,str,SHORT_DESCRIPTION; SITE_DESCRIPTION,TRUE,

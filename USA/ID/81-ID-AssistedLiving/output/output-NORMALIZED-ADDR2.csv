@@ -1,0 +1,276 @@
+name,contact_first_name,contact_last_name,contact_name,email,contact_email,fax,mailing_address_line_1,mailing_address_line_2,mailing_city,mailing_contact_first_name,mailing_contact_last_name,mailing_contact_name,mailing_country,mailing_county,mailing_postalcode,mailing_province,provider_name,primary_phone,secondary_phone,twitter,website,source,contact_occupation,dsgne_first_name,dsgne_last_name,admin_name,co_address_line_1,co_address_line_2,co_company,co_city,co_postalcode,co_province,ombudsman_phone,typeofcare,typeofcare2,low_high_rate,low_rate,high_rate,address_line_1,address_line_2,address_directions,city,municipality,region,province,state_id,postal_code,country,latitude,longitude,neighborhood,addr_valid
+Aarenbrooke Place - Cory Lane,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,9327 Cory Ln,,,Boise,,,Ada,,83704,US,43.627472,-116.2982272,West Valley,True
+Ace Elder Care,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,6646 + 6652 Chippewa Dr,,,Bonners Ferry,,,Boundary,,83805,US,48.70594529999999,-116.3218496,,True
+Advanced Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,601 West Blaine Ave,,,Nampa,,,Canyon,,83651,US,43.5723844,-116.583125,,True
+"Aging Gracefully Assisted Living, LLC",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3989 East Winterberry Dr,,,Nampa,,,Canyon,,83687,US,43.563561,-116.5223726,,True
+Alpine Manor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1135 Imperial St,,,Twin Falls,,,Twin Falls,,83301,US,42.581434,-114.480828,,True
+Alpine Manor II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,100 Polk St E,,,Kimberly,,,Twin Falls,,83341,US,42.541187,-114.364382,,True
+"Alpine Meadows Assisted Living, LLC",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1695 South Locust Grove Rd,,,Meridian,,,Ada,,83642,US,43.5899356,-116.3750695,,True
+"Amber Lane Residence - Amber Lane, Inc",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1819 West Bannock St,,,Boise,,,Ada,,83702,US,43.6235164,-116.2145912,West Downtown,True
+Antelope Creek Living Center,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3668 West 3700 N,,,Darlington,,,Butte,,83255,US,43.8135032,-113.4312311,,True
+Apple Valley Residential Care,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,715 North Butte Ave,,,Emmett,,,Gem,,83617,US,43.8814145,-116.4869443,,True
+Applegate Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1541 East 4250 N,,,Buhl,,,Twin Falls,,83316,US,42.6144919,-114.7478139,,True
+Applewood Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,779 Tennyson Way,,,Boise,,,Ada,,83709,US,43.5982645,-116.333425,,True
+Ashley Manor - Arlington,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3123 South Arlington Ave,,,Caldwell,,,Canyon,,83605,US,43.6414338,-116.6956489,,True
+Ashley Manor - Beverly Hills,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,861 Beverly Hills Dr,,,Payette,,,Payette,,83661,US,44.0648353,-116.9146445,,True
+Ashley Manor - Buttercup Trail,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1210 Buttercup Trl,,,Kimberly,,,Twin Falls,,83341,US,42.5438363,-114.3631821,,True
+Ashley Manor - Cedar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1525 East Cedar St,,,Pocatello,,,Bannock,,83201,US,42.887478,-112.43276,,True
+Ashley Manor - Cloverdale,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3749 North Cloverdale Rd,,,Boise,,,Ada,,83713,US,43.6389836,-116.3347916,West Cloverdale,True
+Ashley Manor - Crescent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,421 Crescent Dr,,,Caldwell,,,Canyon,,83605,US,43.65138719999999,-116.6948449,,True
+Ashley Manor - Harmony,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2703 Harmony Ave,,,Boise,,,Ada,,83703,US,43.5777619,-116.1669196,Southeast Boise,True
+Ashley Manor - Hawthorne,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,4826 Hawthorne Rd,,,Chubbuck,,,Bannock,,83202,US,42.9213189,-112.475532,,True
+Ashley Manor - Hill Road,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3424 West Hill Rd,,,Boise,,,Ada,,83702,US,43.6542006,-116.2309386,,True
+Ashley Manor - Hyde Park,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1908 North 13th St,,,Boise,,,Ada,,83702,US,43.6331287,-116.203352,North End,True
+Ashley Manor - Iowa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2604 Iowa Ave,,,Caldwell,,,Canyon,,83605,US,43.6468853,-116.6794262,,True
+Ashley Manor - Lincoln,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,101 East 15TH,,,Jerome,,,Jerome,,83338,US,42.73720279999999,-114.5195116,,False
+Ashley Manor - Middleton,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,620 West 9th St N,,,Middleton,,,Canyon,,83644,US,43.7155789,-116.6319704,,True
+Ashley Manor - Midland,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,67 South Midland Blvd,,,Nampa,,,Canyon,,83651,US,43.5711136,-116.5938972,,True
+Ashley Manor - Mountain Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,940 West 8th S,,,Mountain Home,,,Elmore,,83647,US,43.1242322,-115.7022879,,True
+Ashley Manor - Parkview Drive,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1818 Parkview Dr,,,Twin Falls,,,Twin Falls,,83301,US,42.593556,-114.487013,,True
+Ashley Manor - Storybook Way,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,126 North Storybook Way,,,Eagle,,,Ada,,83616,US,43.69611099999999,-116.358548,,True
+Ashley Manor Care Centers Inc - Elgin Way,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3961 Elgin Way,,,Boise,,,Ada,,83713,US,43.6408377,-116.3190245,West Valley,True
+Ashley Manor Care Centers Inc - Highmont,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,11099 Highmont Dr,,,Boise,,,Ada,,83713,US,43.6020443,-116.3204478,,True
+Ashley Manor Care Centers Inc - Orchard,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2150 South Orchard,,,Boise,,,Ada,,83705,US,43.583393,-116.243201,Hillcrest,False
+Aspen Springs Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3254 Spirit Lake Cutoff Rd,,,Spirit Lake,,,Kootenai,,83869,US,48.0027676,-116.8723301,,True
+Assisted Living on Shamrock,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2716 Shamrock Ave,,,Nampa,,,Canyon,,83686,US,43.54627319999999,-116.5366435,,True
+"Autumn Cove Assisted Living, LLC",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,652 South Main St,,,Star,,,Ada,,83669,US,43.68611809999999,-116.4902658,,True
+"Autumn Haven Assisted Living, Inc",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,924 Christian Way,,,Rupert,,,Minidoka,,83350,US,42.6217396,-113.6842405,,True
+B&B Residential Care,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,261 Big Buck Rd,,,Kooskia,,,Idaho,,83539,US,46.1081977,-115.961464,,True
+Basil Celany Living Center,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2712 Irene St,,,Boise,,,Ada,,83702,US,43.6367493,-116.2225765,North End,True
+Bear Lake Manor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,855 Boise St,,,Montpelier,,,Bear Lake,,83254,US,42.3281501,-111.3083972,,True
+Bee Hive Homes of Kenmere,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2321 Kenmere Pl,,,Meridian,,,Ada,,83646,US,43.6258513,-116.4034296,,True
+Bee Hive Homes of Kimra,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1455 Kimra,,,Meridian,,,Ada,,83642,US,43.6027741,-116.4120628,,False
+Bee Hive Homes of Maryland,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,612 East Maryland,,,Nampa,,,Canyon,,83686,US,43.549764,-116.5651452,,False
+Bee Hive Homes of Oakcrest ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1745 East Oakcrest,,,Meridian,,,Ada,,83646,US,43.6231151,-116.3729344,,False
+Bell Mountain Village and Care Center,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,620 North 6th St,,,Bellevue,,,Blaine,,83313,US,43.47476280000001,-114.2583116,,True
+Birchwood Retirement Estate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,641 Rimview Dr,,,Twin Falls,,,Twin Falls,,83301,US,42.573324,-114.439842,,True
+Bridge Assisted Living at Sandpoint,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1123 North Division St,,,Sandpoint,,,Bonner,,83864,US,48.28407379999999,-116.5684831,,True
+Bridgeview Estates - RCF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1828 Bridgeview Blvd,,,Twin Falls,,,Twin Falls,,83301,US,42.59411229999999,-114.451267,,True
+Bristol Heights Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2220 West Prairie Ave,,,Coeur d'Alene,,,Kootenai,,83815,US,47.743644,-116.816721,,True
+Broadway Fields Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,175+185+195+205 Constellation Dr,,,Idaho Falls,,,Bonneville,,83402,US,43.495863,-112.090266,,True
+Bronco Senior Services dba Hillcrest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1093 South Hilton St,,,Boise,,,Ada,,83705,US,43.594421,-116.2463809,Central Bench,True
+Brookdale Boise Parkcenter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,739 East Parkcenter Blvd,,,Boise,,,Ada,,83706,US,43.58817,-116.175111,Southeast Boise,True
+Brookdale Castle Hills,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,5955 Castle Dr,,,Boise,,,Ada,,83703,US,43.6661413,-116.2627407,Collister,True
+Brookdale Chubbuck,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,4080 Hawthorne Rd,,,Chubbuck,,,Bannock,,83202,US,42.90787599999999,-112.4753426,,True
+Brookdale Coeur d'Alene,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,205 East Anton Ave,,,Coeur d'Alene,,,Kootenai,,83814,US,47.7034802,-116.7839887,,True
+Brookdale Lewiston,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2975 Juniper Dr,,,Lewiston,,,Nez Perce,,83501,US,46.39207200000001,-116.9885425,,True
+Brookdale Pocatello,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1501 Baldy Ave,,,Pocatello,,,Bannock,,83201,US,42.9039031,-112.4341996,,True
+Brookdale Twin Falls,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1367 Locust St N,,,Twin Falls,,,Twin Falls,,83301,US,42.58598899999999,-114.4560281,,True
+Brookside Landing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,431 Johnson Ave,,,Orofino,,,Clearwater,,83544,US,46.47654709999999,-116.2526893,,True
+Brookstone Village,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,921 Corporate Ln,,,Nampa,,,Canyon,,83651,US,43.59606040000001,-116.592078,,True
+Canyons Retirement Community,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1215 Cheney Dr W,,,Twin Falls,,,Twin Falls,,83301,US,42.5878278,-114.5068864,,True
+Carefix - Safe Haven Homes of Bellevue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,314 South 7th,,,Bellevue,,,Blaine,,83313,US,43.463923,-114.2525554,,False
+Carefix - Safe Haven Homes of Wendell - Magic Valley Manor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,210 North Idaho,,,Wendell,,,Gooding,,83355,US,42.7769199,-114.7038499,,False
+Caring Hearts Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3440 East Center,,,Pocatello,,,Bannock,,83201,US,42.8776242,-112.4094888,,False
+Cedar Draw Assisted Living & Memory Care,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,4094 North 2100 E,,,Filer,,,Twin Falls,,83328,US,42.592358,-114.632283,,True
+Cedar Living Center,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,270 Cedar St,,,Blackfoot,,,Bingham,,83221,US,43.1963758,-112.3533377,,True
+Cenoma House,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1930 Heyburn Ave E,,,Twin Falls,,,Twin Falls,,83301,US,42.56609,-114.447036,,True
+Chardonnay Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1045 Carriage Ln,,,Twin Falls,,,Twin Falls,,83301,US,42.5613646,-114.4309023,,True
+Clement Home Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3909 West Clement Rd,,,Boise,,,Ada,,83704,US,43.6404676,-116.2719389,West Bench,True
+Community Restorium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,6619 Kaniksu St,,,Bonners Ferry,,,Boundary,,83805,US,48.7030207,-116.32081,,True
+Copper Springs Senior Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3570 East Amity Rd,,,Meridian,,,Ada,,83642,US,43.56202030000001,-116.3502185,,True
+Copper Summit Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2424 Birdie Thompson Dr,,,Pocatello,,,Bannock,,83201,US,42.87048979999999,-112.4155935,,True
+"Cottage at Boise Samaritan Village, The",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3390 Collister Dr,,,Boise,,,Ada,,83703,US,43.65153830000001,-116.2468863,Collister,True
+Cottage Investors III LLC - The Cottages of Boise,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,6300 + 6352 North Roe St,,,Boise,,,Ada,,83714,US,43.678007,-116.288326,Northwest Boise City,True
+Cottage Investors III LLC - The Cottages of Nampa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,5023 East Victory Rd,,,Nampa,,,Canyon,,83687,US,43.575048,-116.508608,,True
+"Cottage Investors III, LLC - The Cottages of McCall",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,700 Reedy Ln,,,McCall,,,Valley,,83638,US,44.91567149999999,-116.0901142,,True
+Cottonwood Shelter Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,210 Foster St,,,Cottonwood,,,Idaho,,83522,US,46.05626849999999,-116.3452449,,True
+Country Comfort Residential Care,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,824 + 830 North 23rd St,,,Coeur d'Alene,,,Kootenai,,83814,US,47.680273,-116.753576,,True
+Country Cottage Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3652 North 2500 E,,,Twin Falls,,,Twin Falls,,83301,US,42.528828,-114.554599,,True
+"Country Living Retirement of Mountain Home, Inc",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1200 East 6th S,,,Mountain Home,,,Elmore,,83647,US,43.127195,-115.6843235,,True
+Country Time Assisted Living - MMT Operations LLC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,277 South Main St,,,Star,,,Ada,,83669,US,43.6895714,-116.4908939,,True
+"Courtyard at Coeur d'Alene, The",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2100 East Sherman Ave,,,Coeur d'Alene,,,Kootenai,,83814,US,47.6729172,-116.7558334,,True
+Creekside Care Center,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,222 6th Ave W,,,Jerome,,,Jerome,,83338,US,42.7297109,-114.5208583,,True
+Creekside Inn Assisted Living Alzheimer's Community,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,240 East Kathleen Ave,,,Coeur d'Alene,,,Kootenai,,83815,US,47.7153499,-116.7830534,,True
+Crestwood Serenity Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1476 West Crest Wood Dr,,,Meridian,,,Ada,,83642,US,43.6040793,-116.4117866,,True
+Crystal Creek Assisted Living LLC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1035 Curlew Dr,,,Ammon,,,Bonneville,,83406,US,43.488066,-111.978084,,True
+"Curtis House, LLC",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1000 South Curtis Rd,,,Boise,,,Ada,,83705,US,43.5951923,-116.2532635,Central Bench,True
+Desano Place Suites,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,545 Nevada St,,,Gooding,,,Gooding,,83330,US,42.93992329999999,-114.7170725,,True
+Desano Place Village Memory Care,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1015 East Avenue K,,,Jerome,,,Jerome,,83338,US,42.7131871,-114.5031526,,False
+"Desano Place, Inc",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,218 West B St,,,Shoshone,,,Lincoln,,83352,US,42.93436,-114.409339,,True
+"Desert Rose Retirement Estate, CEC, Inc",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,983 Gallup Dr,,,Twin Falls,,,Twin Falls,,83301,US,42.560193,-114.43054,,True
+Diamond Peak of Blackfoot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,875 Pendlebury Ln,,,Blackfoot,,,Bingham,,83221,US,43.1774904,-112.3369156,,True
+Diamond Peak of Burley,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1703 Almo Ave,,,Burley,,,Cassia,,83318,US,42.5316021,-113.7878047,,True
+Diamond Peak of Challis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,610 Clinic Rd,,,Challis,,,Custer,,83226,US,44.51169199999999,-114.22661,,True
+Diamond Peak of Chubbuck,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,4875 Burley Dr,,,Chubbuck,,,Bannock,,83202,US,42.921774,-112.461638,,True
+Diamond Peak of Gooding,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,745 California St,,,Gooding,,,Gooding,,83330,US,42.93807,-114.715461,,True
+Diamond Peak of Idaho Falls,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,755+757 Lomax St,,,Idaho Falls,,,Bonneville,,83401,US,43.498418,-112.017494,,True
+Diamond Peak of Lava,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,580 West Elm,,,Lava Hot Springs,,,Bannock,,83246,US,42.61860199999999,-112.0197962,,False
+Diamond Peak of Pocatello,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,5685 South Bannock Hwy,,,Pocatello,,,Bannock,,83204,US,42.8169654,-112.4050661,,True
+Diamond Peak of Shelley,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,183 East Oak St,,,Shelley,,,Bingham,,83274,US,43.3852828,-112.1212902,,True
+Discovery Rehabilitation and Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,600 Shanfelt St,,,Salmon,,,Lemhi,,83467,US,45.1763287,-113.892122,,True
+"Edgewood Fruitland Senior Living, LLC",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1255 Allen Ave,,,Fruitland,,,Payette,,83619,US,44.02297889999999,-116.9313714,,True
+"Edgewood Plantation Place, LLC",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3921 Kessinger Ln,,,Boise,,,Ada,,83703,US,43.65611699999999,-116.263857,,True
+"Edgewood Spring Creek American Falls, LLC",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,605 Hillcrest Ave,,,American Falls,,,Power,,83211,US,42.78277569999999,-112.8437029,,True
+"Edgewood Spring Creek Boise, LLC",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,10681 West McMillan Rd,,,Boise,,,Ada,,83713,US,43.64846199999999,-116.3152842,West Valley,True
+"Edgewood Spring Creek Eagle Island, LLC",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,77 North Fisher Park Way,,,Eagle,,,Ada,,83616,US,43.696499,-116.396845,,True
+"Edgewood Spring Creek Eagle, LLC",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,653 North Eagle Rd,,,Eagle,,,Ada,,83616,US,43.7012887,-116.3539159,,True
+"Edgewood Spring Creek Meridian, LLC",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,175 East Calderwood Dr,,,Meridian,,,Ada,,83642,US,43.585427,-116.390814,,True
+"Edgewood Spring Creek Overland, LLC",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,10139 West Overland Rd,,,Boise,,,Ada,,83709,US,43.5902813,-116.3116974,Southwest Ada County Alliance,True
+"Edgewood Spring Creek Soda Springs, LLC",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,425 South Spring Creek Dr,,,Soda Springs,,,Caribou,,83276,US,42.6497652,-111.6070025,,True
+"Edgewood Spring Creek Ustick, LLC",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3165 North Meridian Rd,,,Meridian,,,Ada,,83646,US,43.6334677,-116.3936031,,True
+"Elegant Residential Assisted Living, Inc",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1256 Wright Avenue Bldg A,,,Pocatello,,,Bannock,,83201,US,42.9093876,-112.4775967,,False
+"Emerson House at Riverpointe, LLC",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,8250 West Marigold St,,,Garden City,,,Ada,,83714,US,43.6596822,-116.2847113,,True
+Evergreen - Idaho Health Care Sandpoint LLC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,624 South Division Ave,,,Sandpoint,,,Bonner,,83864,US,48.2642506,-116.5686294,,True
+Evergreen Place Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1043 Burley Ave,,,Buhl,,,Twin Falls,,83316,US,42.5934514,-114.7584311,,True
+Fairwinds - Sandcreek,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3310 Valencia Dr,,,Idaho Falls,,,Bonneville,,83404,US,43.4661814,-111.9890556,,True
+Family Life,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,422 11th Ave S,,,Nampa,,,Canyon,,83651,US,43.576514,-116.5642463,,True
+"Gables of Ammon Management, Inc",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1405 Curlew Dr,,,Ammon,,,Bonneville,,83406,US,43.4847483,-111.9774599,,True
+Gables of Blackfoot Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2815 Hunters Loop,,,Blackfoot,,,Bingham,,83221,US,43.21218059999999,-112.3191986,,False
+Gables of Blackfoot Assisted Living II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2820 Hunters Loop,,,Blackfoot,,,Bingham,,83221,US,43.2115039,-112.3185124,,False
+Gables of Pocatello Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2805 South Grant Ave,,,Pocatello,,,Bannock,,83204,US,42.83908599999999,-112.429132,,True
+Gables of Pocatello Assisted Living II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1451 South Bannock Hwy,,,Pocatello,,,Bannock,,83204,US,42.8521218,-112.439002,,True
+Gables of Shelley Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,530 River Pointe Ln,,,Shelley,,,Bingham,,83274,US,43.37340599999999,-112.1420686,,True
+"Garden at Orchard Ridge, The",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,624 West Harrison Ave,,,Coeur d'Alene,,,Kootenai,,83814,US,47.68613149999999,-116.794695,,True
+Gardens of Rigby,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,130 + 144 Stockham Blvd,,,Rigby,,,Jefferson,,83442,US,43.681711,-111.913262,,True
+Garnet Place,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,5815 Coffey St,,,Garden City,,,Ada,,83714,US,43.6583496,-116.2848071,,True
+Gem Village,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,490 Emerald Ave,,,Blackfoot,,,Bingham,,83221,US,43.2081404,-112.3256626,,True
+Generations Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,13400 North Meyer Rd,,,Rathdrum,,,Kootenai,,83858,US,47.7935655,-116.8715343,,True
+"Golden Girls Residential Care, LLC",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,214 Larkspur Ln,,,Lewiston,,,Nez Perce,,83501,US,46.389988,-117.034456,,True
+Golden Pines-Rural Assisted Living Facilities LLC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,235 North 4200 E,,,Rigby,,,Jefferson,,83442,US,43.661074,-111.864673,,True
+"Good Samaritan Moscow Village, Mickey Assisted Living Center",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,640 North Eisenhower St,,,Moscow,,,Latah,,83843,US,46.7389997,-116.9714906,,True
+Grace Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1610 Sunnyridge Rd,,,Nampa,,,Canyon,,83686,US,43.5527866,-116.5629456,,True
+Grace Assisted Living at Englefield Green,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,250 South Allumbaugh Way,,,Boise,,,Ada,,83709,US,43.600587,-116.2637508,Franklin - Randolph,True
+Grace Assisted Living at State Street,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,9995 West State St,,,Boise,,,Ada,,83714,US,43.6788422,-116.3068835,,True
+Grace Assisted Living of Fairview Lakes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1960 North Lakes Pl,,,Meridian,,,Ada,,83642,US,43.62263300000001,-116.383219,,True
+"Grace at Twin Falls, LLC",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1803 Parkview Dr,,,Twin Falls,,,Twin Falls,,83301,US,42.594396,-114.490344,,True
+Guardian Angel Homes Lewiston I,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2421 Vineyard Ave,,,Lewiston,,,Nez Perce,,83501,US,46.3958953,-117.0197016,,True
+Hancock House,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1322 Hancock Dr,,,Boise,,,Ada,,83706,US,43.5661851,-116.1668043,Southeast Boise,True
+Harmony House Assisted Living I,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,454 West Lacey Ave,,,Hayden,,,Kootenai,,83835,US,47.769645,-116.792391,,True
+Harmony House Assisted Living II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,9951 North Maple,,,Hayden,,,Kootenai,,83835,US,47.7619845,-116.7786078,,False
+"Hayden Country Guest Home, Inc",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,10585 North Reed Rd,,,Hayden,,,Kootenai,,83835,US,47.76789299999999,-116.797679,,True
+"Hearthstone Village, LLC",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,402 3rd St,,,Kootenai,,,Bonner,,83840,US,48.30333530000001,-116.5315145,,True
+Heritage Assisted Living of Boise,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1777 South Curtis Rd,,,Boise,,,Ada,,83705,US,43.5876391,-116.2542374,Franklin - Randolph,True
+Heritage Assisted Living of Twin Falls,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,622 Filer Ave W,,,Twin Falls,,,Twin Falls,,83301,US,42.57146119999999,-114.4927505,,True
+Heritage Homes of Rexburg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3685 West Highway 33,,,Rexburg,,,Madison,,83440,US,43.8234793,-111.8514586,,True
+Heritage Senior Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,155 + 175 East 3rd N,,,Preston,,,Franklin,,83263,US,42.102596,-111.872481,,True
+Heron Place,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,715 West Comstock,,,Nampa,,,Canyon,,83651,US,43.5940946,-116.5898608,,False
+Hettinger Living Center,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,217 Ruby St,,,Boise,,,Ada,,83705,US,43.60209690000001,-116.2170368,Depot Bench,True
+"Highland Estates-Burley Operations, LLC",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2050 Hiland Ave,,,Burley,,,Cassia,,83318,US,42.5270038,-113.7833154,,True
+"Hillcrest Manor, LLC",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3901 West Hillcrest Dr,,,Boise,,,Ada,,83705,US,43.5804333,-116.2300109,Hillcrest,True
+Home Sweet Home Care,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,11426 Lone Star Rd,,,Nampa,,,Canyon,,83651,US,43.5758843,-116.6211919,,True
+"Homestead Assisted Living Center, Inc. of Rexburg, The",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,407 West 1st N,,,Rexburg,,,Madison,,83440,US,43.8281946,-111.7957894,,True
+Homestead Assisted Living Centers Inc - St Anthony,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,610 North Bridge St,,,Saint Anthony,,,Fremont,,83445,US,43.9724696,-111.6817404,,True
+Honeysuckle Place,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,660 West Honeysuckle Ave,,,Hayden,,,Kootenai,,83835,US,47.75176,-116.7955434,,True
+Huckleberry Retirement Homes LLC - II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1408 Ponderosa Dr,,,Sandpoint,,,Bonner,,83864,US,48.285369,-116.5688353,,True
+Huckleberry Retirement Homes LLC - IV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1513 Hemlock Ct,,,Sandpoint,,,Bonner,,83864,US,48.28625630000001,-116.5703086,,True
+Independence Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,430 Willard Ave,,,Pocatello,,,Bannock,,83201,US,42.8829615,-112.4473864,,True
+Indianhead Estates,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,590 West Indianhead Rd,,,Weiser,,,Washington,,83672,US,44.26059659999999,-116.9761921,,True
+Ivy Place Residence - Ivy Place Inc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1307 North 25th St,,,Boise,,,Ada,,83702,US,43.6323433,-116.2201109,North End,True
+Joyce's Orchard Residential Care Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,615 Cedar Ave,,,Lewiston,,,Nez Perce,,83501,US,46.375361,-116.999872,,True
+"Jubilation House, LLC",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,165 Constellation Rd,,,Idaho Falls,,,Bonneville,,83402,US,43.496059,-112.090636,,True
+Jullion House Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,9910 West Pattie Dr,,,Boise,,,Ada,,83704,US,43.6467122,-116.3057951,West Valley,True
+Kimball's Residential Care,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,54 East River Rd,,,Blackfoot,,,Bingham,,83221,US,43.2784173,-112.277851,,True
+Lakeside,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,605 Joseph Ave,,,Winchester,,,Lewis,,83555,US,46.2426348,-116.624164,,True
+Lakeside - East,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,605 Nez Perce Ave,,,Winchester,,,Lewis,,83555,US,46.2425076,-116.6231033,,True
+Lark's Haven,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,11950 North Thames Ct,,,Hayden,,,Kootenai,,83835,US,47.7806209,-116.754994,,True
+Lark's Haven on Hilgren,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,264 Hilgren Ave,,,Hayden,,,Kootenai,,83835,US,47.7610281,-116.790387,,True
+Lark's Haven on Reed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,9886 Reed Rd,,,Hayden,,,Kootenai,,83835,US,47.761853,-116.797085,,True
+Legends Park Assisted Living Community,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1820 North Legends Pkwy,,,Coeur d'Alene,,,Kootenai,,83815,US,47.704003,-116.810395,,True
+Lenity Senior Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,4119 Lenity Living Ave,,,Caldwell,,,Canyon,,83607,US,43.6328508,-116.6787528,,True
+Lighthouse Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1005 Airport Rd,,,Blackfoot,,,Bingham,,83221,US,43.20303630000001,-112.3462764,,True
+Lily and Syringa Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,830 + 840 East 1st,,,Idaho Falls,,,Bonneville,,83401,US,43.496561,-112.014777,,False
+Lincoln Court Retirement Community,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,850 Lincoln Dr,,,Idaho Falls,,,Bonneville,,83401,US,43.4906818,-112.0113532,,True
+"Living Spring Residential Care, LLC",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1050 Hemlock Dr,,,Lewiston,,,Nez Perce,,83501,US,46.36292619999999,-116.9744488,,True
+"Living Springs, Inc",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1605 North Catherine St,,,Post Falls,,,Kootenai,,83854,US,47.7240205,-116.9495608,,True
+"Lodge At Fairway Forest #1, The",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3989 North Player Dr,,,Coeur d'Alene,,,Kootenai,,83814,US,47.7150097,-116.8114471,,True
+"Lodge at Riverside Harbor, The",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,52 North Cedar,,,Post Falls,,,Kootenai,,83854,US,47.705119,-116.883245,,False
+"Luther Park at Sandpoint, LLC",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,510 South Olive Ave,,,Sandpoint,,,Bonner,,83864,US,48.2670602,-116.5648994,,True
+Malad Living Center/RCF,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,151 West 200 N,,,Malad,,,Oneida,,83252,US,42.18983360000001,-112.2493636,,True
+Maple Wood Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,10547 North Reed Rd,,,Hayden,,,Kootenai,,83835,US,47.76756899999999,-116.79769,,True
+Markham Residential Care Inc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,11525 3rd St,,,Star,,,Ada,,83669,US,43.6954828,-116.4973235,,True
+Meadow Lake Village Retirement Resort - Owyhee Bldg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,590 South Arbor Ln,,,Meridian,,,Ada,,83642,US,43.59949470000001,-116.3420814,,True
+Meadow View Assisted Living & Memory Care,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1011 + 1013 South Johns Ave,,,Emmett,,,Gem,,83617,US,43.8663812,-116.4928502,,True
+"Meadowlark Homes, Inc",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,701 + 709 West North 2nd,,,Grangeville,,,Idaho,,83530,US,45.9282657,-116.1275025,,False
+Meadows Assisted Living Center,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,16 Airport Rd,,,Salmon,,,Lemhi,,83467,US,45.1139604,-113.8897217,,True
+Meridian Center Genesis Healthcare,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1351 West Pine Ave,,,Meridian,,,Ada,,83642,US,43.61194669999999,-116.4108606,,True
+Meyer Manor II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3610 West Lamont Rd,,,Meridian,,,Ada,,83642,US,43.58465899999999,-116.438279,,True
+Midland Manor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,9 South Midland Blvd,,,Nampa,,,Canyon,,83651,US,43.5751223,-116.5929463,,True
+Morningstar of Boise,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,5850 North Five Mile Rd,,,Boise,,,Ada,,83713,US,43.658735,-116.3157226,West Valley,True
+Morningstar of Idaho Falls,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,4000 South 25th E,,,Idaho Falls,,,Bonneville,,83404,US,43.46149339999999,-111.9853883,,True
+New Beginnings Community Living Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2105 Avocet Dr,,,Idaho Falls,,,Bonneville,,83406,US,43.47782400000001,-111.97451,,True
+North Star Retirement Community,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2340 West Seltice Way,,,Coeur d'Alene,,,Kootenai,,83814,US,47.698711,-116.8100534,,True
+Northern Light Residential Care Facility,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,964 Blake St N,,,Twin Falls,,,Twin Falls,,83301,US,42.5792899,-114.4829564,,True
+Oasis Shelter Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,501 Sand Hollow Rd,,,Caldwell,,,Canyon,,83607,US,43.8072898,-116.7481393,,True
+Overland Court Generations Memory Care,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,10172 West Smoke Ranch Dr,,,Boise,,,Ada,,83709,US,43.5927585,-116.3103913,Southwest Ada County Alliance,True
+Overland Court Senior Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,10250 West Smoke Ranch Dr,,,Boise,,,Ada,,83709,US,43.593357,-116.3091123,Southwest Ada County Alliance,True
+Pacifica Senior Living Coeur d'Alene,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,840 East Dalton Ave,,,Coeur d'Alene,,,Kootenai,,83815,US,47.72203929999999,-116.7746857,,True
+Pacifica Senior Living Pinehurst,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,208 South Division St,,,Pinehurst,,,Shoshone,,83850,US,47.5352511,-116.2367029,,True
+"Paramount Parks Health Care at Eagle, LLC",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,815 North Eagle Rd,,,Eagle,,,Ada,,83616,US,43.70386509999999,-116.3547209,,True
+Park Center Assisted Living LLC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1212 Longmont Ave,,,Boise,,,Ada,,83706,US,43.59791969999999,-116.1918733,Southeast Boise,True
+"Park Place Assisted Living Community, Inc.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,616 16th Ave N,,,Nampa,,,Canyon,,83687,US,43.5819542,-116.5478284,,True
+Parkwood Meadows Assisted Living Community,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1885 Parkwood St,,,Idaho Falls,,,Bonneville,,83401,US,43.4909285,-111.9969388,,True
+"Parma Living Center, Inc",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,401 North 8th St,,,Parma,,,Canyon,,83660,US,43.784978,-116.937508,,True
+"Pattie House, LLC",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,10005 West Pattie Dr,,,Boise,,,Ada,,83704,US,43.646717,-116.306983,West Valley,True
+Peterson Place Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1027 East Honeysuckle Ave,,,Hayden,,,Kootenai,,83835,US,47.7522893,-116.7728571,,True
+Phillippi House LLC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,703 South Phillippi St,,,Boise,,,Ada,,83705,US,43.5979759,-116.2485476,Central Bench,True
+Pleasant Valley Shelter Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1911 17th Ave,,,Lewiston,,,Nez Perce,,83501,US,46.4033342,-117.0042145,,True
+Pocatello Assisted Living Center,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,520 Willard Ave,,,Pocatello,,,Bannock,,83201,US,42.8848804,-112.4477377,,True
+Pomerelle Place,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1301 Bennett St,,,Burley,,,Cassia,,83318,US,42.5365101,-113.7798472,,True
+"Poplar Grove Assisted Living-Gaver Properties, LLC",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,356 East Cleveland Ave,,,Glenns Ferry,,,Elmore,,83623,US,42.9522868,-115.2951326,,True
+Poppy Fields Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,11325 West Camas St,,,Boise,,,Ada,,83709,US,43.5961687,-116.3230864,Southwest Ada County Alliance,True
+"Post Falls Ops, LLC, dba Guardian Angel Homes",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1070 East Mullan Ave,,,Post Falls,,,Kootenai,,83854,US,47.7157935,-116.9337768,,True
+Powerline Residential Care,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,930 South Powerline Rd,,,Nampa,,,Canyon,,83686,US,43.55929,-116.552302,,True
+Prestige Assisted Living at Autumn Wind,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,200 West Beech St,,,Caldwell,,,Canyon,,83605,US,43.6425235,-116.6997711,,True
+Prestige Senior Living at Karcher Estates,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1127 Caldwell Blvd,,,Nampa,,,Canyon,,83651,US,43.5999177,-116.5969945,,True
+Quail Ridge Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,797 Hospital Way,,,Pocatello,,,Bannock,,83201,US,42.8696509,-112.4172062,,True
+"R & V Assisted Living, Inc.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,903 11th Ave S,,,Nampa,,,Canyon,,83651,US,43.573254,-116.5688993,,True
+Rampart Home Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3824 North Rampart St,,,Boise,,,Ada,,83704,US,43.6402507,-116.2723889,West Bench,True
+"Regency Columbia Village, LLC",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3521 East Lake Forest Dr,,,Boise,,,Ada,,83716,US,43.548428,-116.140334,Southeast Boise,True
+Renaissance at Coeur d'Alene Assisted Living Community,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2772 West Avante' Loop,,,Coeur d'Alene,,,Kootenai,,83815,US,47.7228078,-116.8234822,,False
+River Rock Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1063 Burley Ave,,,Buhl,,,Twin Falls,,83316,US,42.5930998,-114.7595483,,True
+Riviera Residential Care,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,924 Riviera Dr,,,Boise,,,Ada,,83703,US,43.6362352,-116.2338304,Veterans Park,True
+Rose Terrace Cottages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,632 North 21st St,,,Coeur d'Alene,,,Kootenai,,83814,US,47.6781025,-116.7566566,,True
+Rose Terrace Country Homes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,5672 West Rhode Island,,,Spirit Lake,,,Kootenai,,83869,US,47.9607529,-116.862401,,False
+Rosetta of Burley,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1919 Hiland Ave,,,Burley,,,Cassia,,83318,US,42.5288039,-113.782921,,True
+Rosetta of Pocatello,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1590 Delphic Way,,,Pocatello,,,Bannock,,83201,US,42.90657090000001,-112.432163,,True
+Rosetta of Twin Falls,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1177 Eastridge Ct,,,Twin Falls,,,Twin Falls,,83301,US,42.5824442,-114.4373481,,True
+Royal Plaza Retirement Center,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2870 Juniper Dr,,,Lewiston,,,Nez Perce,,83501,US,46.39594899999999,-116.99234,,True
+Royal Villa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1713 Center Ave,,,Payette,,,Payette,,83661,US,44.07549349999999,-116.9218367,,True
+Sage Grove Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,290 North 4064 E,,,Rigby,,,Jefferson,,83442,US,43.667858,-111.891946,,True
+"Salubria Center-Upper Country Eldercare Coalition, Inc.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,355 S Jennifer St,,,Cambridge,,,Washington,,83610,US,ERROR,ERROR,ERROR,True
+Serenity Place Residential Care,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1917 17th Ave,,,Lewiston,,,Nez Perce,,83501,US,46.403334,-117.0038246,,True
+Silver Wood Village Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,405 West 7th St,,,Silverton,,,Shoshone,,83867,US,47.4971951,-115.9585089,,True
+Spaulding House,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1709 Spaulding St,,,Boise,,,Ada,,83705,US,43.5857137,-116.2027305,Vistas,True
+Springridge Assisted Living Facility,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2310 Rice Ave,,,Caldwell,,,Canyon,,83605,US,43.6902299,-116.682019,,True
+Stonebridge Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,110 River Rock Pl,,,Hagerman,,,Gooding,,83332,US,42.8126998,-114.8918543,,True
+Stonebridge Assisted Living of Wendell,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,465 Shoshone St N,,,Wendell,,,Gooding,,83355,US,42.7802708,-114.7053779,,True
+Stoney Creek Living Center-JD Healthcare LLC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3808 North 2538 E,,,Twin Falls,,,Twin Falls,,83301,US,42.550835,-114.546884,,True
+Streamside Alzheimer Care,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1333 South Edgewater Cir,,,Nampa,,,Canyon,,83686,US,43.5554376,-116.58062,,True
+Streamside Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1355 South Edgewater Cir,,,Nampa,,,Canyon,,83686,US,43.55547790000001,-116.5806426,,True
+Sunny Ridge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2609 Sunnybrook Dr,,,Nampa,,,Canyon,,83686,US,43.5438035,-116.570509,,True
+"Sunset Home Assisted Living, Inc",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,510920 Highway 95,,,Bonners Ferry,,,Boundary,,83805,US,48.7374653,-116.2960319,,True
+Swan Falls Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,194 West White Way,,,Kuna,,,Ada,,83634,US,43.501567,-116.414478,,True
+Syringa Place,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1880 Harrison St N,,,Twin Falls,,,Twin Falls,,83301,US,42.5956048,-114.4708221,,True
+Tambree Meadows Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3550 Potomac Way,,,Idaho Falls,,,Bonneville,,83406,US,43.4656131,-111.99525,,True
+Teton Peaks Assisted Living & Memory Care,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,655 Valley Centre Dr,,,Driggs,,,Teton,,83422,US,43.7426495,-111.1137909,,True
+"Teton Valley Residential Care Homes, Inc",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,9019 South 750 W,,,Victor,,,Teton,,83455,US,43.59164299999999,-111.1162759,,True
+The Bridge at Post Falls,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,515 North Garden Plaza Ct,,,Post Falls,,,Kootenai,,83854,US,47.7144537,-116.909543,,True
+The Bridge at Valley View,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1130 North Allumbaugh St,,,Boise,,,Ada,,83704,US,43.6147307,-116.2658939,,True
+"The Cottages, LLC  dba The Cottages of Meridian",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,3173 West Belltower Dr,,,Meridian,,,Ada,,83646,US,43.6427409,-116.4327624,,True
+"The Cottages, LLC  dba The Cottages of Middleton",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,760 West Main St,,,Middleton,,,Canyon,,83644,US,43.7069135,-116.6338594,,True
+"The Cottages, LLC  dba The Cottages of Mountain Home",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,735 South 5th W,,,Mountain Home,,,Elmore,,83647,US,43.1260154,-115.6979665,,True
+"The Cottages, LLC  dba The Cottages of Payette",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1481 7th Ave N,,,Payette,,,Payette,,83661,US,44.082379,-116.9246399,,True
+"The Cottages, LLC  dba The Cottages of Weiser",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1225 East 6th St,,,Weiser,,,Washington,,83672,US,44.25347530000001,-116.9599946,,True
+"The Cottages, LLC dba The Cottages of Emmett",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,411 East 12th St,,,Emmett,,,Gem,,83617,US,43.8644347,-116.4949351,,True
+The Homestead Senior Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,408 West Main St,,,Rexburg,,,Madison,,83440,US,43.82670299999999,-111.795635,,True
+The Princess,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2085 Avocet Dr,,,Idaho Falls,,,Bonneville,,83406,US,43.478098,-111.97451,,True
+The Terraces of Boise,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,5301 East Warm Springs Ave,,,Boise,,,Ada,,83716,US,43.5668539,-116.1179341,Barber Valley,True
+"The Willows - Blackfoot Operations, LLC",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,898 South Meridian,,,Blackfoot,,,Bingham,,83221,US,43.1846422,-112.3570233,,False
+Touchmark at Meadow Lake Village - Elkhorn Lodge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,625 South Arbor Ln,,,Meridian,,,Ada,,83642,US,43.5997315,-116.3425591,,True
+Touchmark at Meadowlake Village,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,650 South Arbor Ln,,,Meridian,,,Ada,,83642,US,43.59949470000001,-116.3420814,,True
+Trinity at 1st Street,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1353 West 1st St,,,Meridian,,,Ada,,83642,US,43.6162778,-116.3950753,,True
+Trinity at Lewis & Clark,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,12423 West Lewis and Clark Dr,,,Boise,,,Ada,,83713,US,43.6352867,-116.3373143,West Cloverdale,True
+"Trinity Home Living, LLC",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1448 West Crest Wood Dr,,,Meridian,,,Ada,,83642,US,43.6040962,-116.4116124,,True
+Turtle & Crane Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1950 1st St,,,Idaho Falls,,,Bonneville,,83401,US,43.4965513,-111.9959353,,True
+Unique Senior Care - Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1639 Birch Ave,,,Lewiston,,,Nez Perce,,83501,US,46.3680061,-116.9444932,,True
+Veranda at Paramount,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,6280 North Fox Run Way,,,Meridian,,,Ada,,83646,US,43.6620916,-116.4021825,,True
+Virginia Rose Resident Inn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2525 North Maple Grove Rd,,,Boise,,,Ada,,83704,US,43.62773900000001,-116.294522,West Valley,True
+"Wedgewood Terrace-Provident Resources Group, Inc",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2114 Vineyard Ave,,,Lewiston,,,Nez Perce,,83501,US,46.397985,-117.020462,,True
+Wellspring Meadows Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,9873 North Buttercup Ln,,,Hayden,,,Kootenai,,83835,US,47.761496,-116.795126,,True
+Whispering Pines Assisted Living Downey,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,351 East Center St,,,Downey,,,Bannock,,83234,US,42.4290104,-112.1200284,,True
+Willow Park,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2600 North Milwaukee,,,Boise,,,Ada,,83704,US,43.628689,-116.283201,West Bench,False
+Willowbrook of Twin Falls,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,1871 Julie Ln,,,Twin Falls,,,Twin Falls,,83301,US,42.5816679,-114.4483297,,True
+"Woodland Assisted Living, LLC",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,19937-C US Highway 30,,,Buhl,,,Twin Falls,,83316,US,42.59896690000001,-114.7596285,,True
+Woodstone Assisted Living,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,491 Caswell Ave W,,,Twin Falls,,,Twin Falls,,83301,US,42.5739776,-114.4884223,,True
+You're at Home,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Assisted Living,,,,2811 North Ridge Haven Way,,,Meridian,,,Ada,,83646,US,43.6305096,-116.4009472,,True

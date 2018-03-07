@@ -1,0 +1,68 @@
+row_id,Facility Name,Region,Address1,Address2,City,Province,Postal Code,Phone1,Phone2,Fax,Language,Space,Country,facility_type
+Canada-NB-11-NursingHomes-output-1,The Kenneth E. Spencer Nursing Home Inc.,Moncton,35 Atlantic Baptist Avenue,,Moncton,NB,E1E 4N3,(506) 858-7870,,(506) 858-9674,English,200,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-2,The United Church Home for Senior Citizens ,Moncton,165 Main Street,,Sackville,NB,E4L 4S2,(506) 364-4900,,(506) 364-4921,English,118,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-3,Forest Dale Home Inc.,Moncton,5836 King Street,,Riverside/Albert,NB,E4H 4B9,(506) 882-3015,,(506) 882-3014,English,50,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-4,Foyer Saint-Antoine,Moncton,7 Avenue de l'Église,,Saint-Antoine,NB,E4V 1L6,(506) 525-4040,,(506) 525-4090,French,30,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-5,Foyer St. Thomas de la Vallée de Memramcook Inc.,Moncton,100 rue Notre-Dame,,Memramcook,NB,E4K 3W3,(506) 758-2110,,(506) 758-9489,French,30,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-6,Jordan Lifecare Centre Inc.,Moncton,747 Sanatorium Road,,The Glades,NB,E4J 1W6,(506) 756-3355,,(506) 756-2081,English,50,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-7,Manoir Saint-Jean Baptiste Inc.,Moncton,5 Avenue Richard,,Bouctouche,NB,E4S 3T2,(506) 743-7344,,(506) 743-7343,Bilingual,50,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-8,Rexton Lions Nursing Home Inc.,Moncton,23 Main Street,,Rexton,NB,E4W 0E4,(506) 523-7720,,(506) 523-7703,English,30,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-9,Shannex RLC Ltd. - Monarch Hall,Moncton,826 Coverdale Road,,Riverview,NB,E1B 0J1,(506) 387-7770,,(506) 387-3167,English,72,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-10,The Salvation Army Lakeview Manor,Moncton,50 Suffolk Street,,Riverview,NB,E1B 4K6,(506) 387-2012,,(506) 387-7200,English,50,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-11,Villa du Repos Inc.,Moncton,125 Avenue Murphy,,Moncton,NB,E1A 8V2,(506) 857-3560,,(506) 859-1619,Bilingual,126,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-12,Villa Maria Inc.,Moncton,19 rue du College St.,,St.-Louis-de-Kent,NB,E4X 1C2,(506) 876-3488,,(506) 876-3466,French,73,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-13,Villa Providence Shédiac Inc.,Moncton,403 rue Main,,Shédiac,NB,E4P 2B9,(506) 532-4484,,(506) 532-5909,French,190,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-14,Westford Nursing Home,Moncton,57 West Main Street,,Port Elgin,NB,E4M 1L7,(506) 538-1300,,(506) 538-7293,English,30,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-15,Campobello Lodge,Saint John,Unit 2 640 Route 774,,Welshpool,NB,E5E 1A5,(506) 752-7101,,(506) 752-7105,English,30,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-16,Carleton Kirk Lodge,Saint John,2 Carleton Kirk Place,,Saint John,NB,E2M 5B8,(506) 643-7040,,(506) 643-7038,English,70,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-17,Church of St. John and St. Stephen Home Inc.,Saint John,130 University Avenue,,Saint John,NB,E2K 4K3,(506) 643-6001,,(506) 643-6126,English,80,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-18,Dr. V. A. Snow Centre Inc.,Saint John,54 DeMille Court,,Hampton,NB,E5N 5S7,(506) 832-6210,,(506) 832-7674,English,50,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-19,Fundy Nursing Home,Saint John,34 Hospital Street,,Black's Harbour,NB,E5H 1K2,(506) 456-4218,,(506) 456-3057,English,27,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-20,Grand Manan Nursing Home Inc.,Saint John,266 Route 776,,Grand Manan,NB,E5G 1A5,(506) 662-7111,,(506) 662-7117,English,30,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-21,Kennebec Manor,Saint John,475 Woodward Avenue,,Saint John,NB,E2K 4N1,(506) 632-9628,,(506) 658-9376,English,70,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-22,Kings Way Care Centre Inc.,Saint John,8 Squire Drive,,Quispamsis,NB,E2G 2A7,(506) 847-1131,,(506) 847-1134,English,75,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-23,Kiwanis Nursing Home Inc.,Saint John,11 Bryant Drive,,Sussex,NB,E4E 2P3,(506) 432-3118,,(506) 432-3104,English,70,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-24,Lincourt Manor Inc.,Saint John,1 Chipman Street,,St. Stephen,NB,E3L 2W9,(506) 466-7855,,(506) 466-7853,English,60,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-25,Loch Lomond Villa Inc.,Saint John,185 Loch Lomond Road,,Saint John,NB,E2J 3S3,(506) 643-7175,,(506) 643-7198,English,190,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-26,Passamaquoddy Lodge Inc.,Saint John,230 Sophia Street,,St. Andrews,NB,E5B 2C2,(506) 529-5240,,(506) 529-5258,English,60,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-27,Rocmaura Inc.,Saint John,10 Park Street,,SaintJohn,NB,E2K 4P1,(506) 643-7050,,(506) 643-7053,English,150,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-28,Shannex RLC Ltd. - Embassy Hall,Saint John,70 Swanton Drive,,Quispamsis,NB,E2E 0M3,(506) 848-3170,,(506) 848-3171,English,72,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-29,Shannex RLC Ltd. - Tucker Hall,Saint John,55 Bloom Lane,,Saint John,NB,E2K 0J9,(506) 672-3869,,(506) 672-0610,English,72,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-30,Turnbull Nursing Home Inc.,Saint John,231 Britain Street,,Saint John,NB,E2L 0A4,(506) 643-7200,,(506) 648-9786,English,50,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-31,Carleton Manor Inc.,Fredericton,130 Burtt Street,,Woodstock,NB,E7M 5G6,(506) 325-4373,,(506) 325-4618,English,110,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-32,Central Carleton Nursing Home Inc.,Fredericton,139 Rockland Road,,Hartland,NB,E7P 1E9,(506) 375-3033,,(506) 375-3035,English,30,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-33,Central New Brunswick Nursing Home Inc.,Fredericton,3458 Route 625,,Boiestown,NB,E6A 1C8,369-7262,,369-2331,English,30,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-34,Orchard View,Fredericton,2230 Route 102,,Gagetown,NB,E5M 1J6,488-3544,,488-3551,English,40,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-35,Mill Cove Nursing Home Inc.,Fredericton,12 Lakeview Lane,,Mill Cove,NB,E4C-3E3,488-3033,,488-3037,English,65,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-36,Nashwaak Villa Inc.,Fredericton,32 Lime Kiln Road,,Stanley,NB,E6B 2K5,367-7731,,367-7745,English,30,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-37,Pine Grove,Fredericton,521 Woodstock Road,,Fredericton,NB,E3B 2J2,444-3400,,444-3407,English,70,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-38,River View Manor Inc.,Fredericton,96 Hospital Street,,Bath,NB,E7J 1B9,278-6010,,278-5962,English,40,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-39,Shannex RLC Ltd. - Thomas Hall,Fredericton,375 Rainsford Lane,,Fredericton,NB,E3B 7T1,447-6440,,447-6441,English,72,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-40,Shannex RLC Ltd. - Frederick Hall,Fredericton,379 Rainsford Lane,,Fredericton,NB,E3B 0K4,460-8806,,460-7275,English,36,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-41,Tobique Valley Manor Inc.,Fredericton,5 Manor Road,,Plaster Rock,NB,E7G 2H6,356-6040,356-6042,356-6041,English,30,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-42,Victoria Glen Manor Inc.,Fredericton,20 Tepper Lane,,Perth-Andover,NB,E7H 0B8,273-4885,,273-4975,English,60,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-43,Wauklehegan Manor Inc.,Fredericton,11 Saunders Road,,McAdam,NB,E6J 1K9,784-6303,,784-6344,English,36,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-44,White Rapids Manor Inc.,Fredericton,235 Sunbury Drive,,Fredericton Junction,NB,E5L 1S1,368-6508,,368-6512,English,40,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-45,W. G. Bishop Nursing Home,Fredericton,1100 Pleasant Drive,,Minto,NB,E4B 2V7,327-7853,,327-7812,English,30,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-46,York Care Centre,Fredericton,100 Sunset Drive,,Fredericton,NB,E3A 1A3,444-3880,,444-3544,English,214,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-47,Foyer Notre-Dame de Saint-Léonard Inc.,Edmundston,604 rue Principal,,Saint Léonard,NB,E7E 2H5,423-3100,,423-3152,French,45,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-48,Foyer Ste. Elizabeth Inc.,Edmundston,25 rue des Ormes,,Baker Brook,NB,E7A 2J6,258-3020,258-3023,258-3010,French,50,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-49,Grand Falls Manor Inc. - Villa des Chutes/Falls Villa,Edmundston,433 Evangeline Street,,Grand Falls,NB,E3Z 1G5,473-7726,,473-7849,Bilingual,69,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-50,Les Résidences Jodin Inc.,Edmundston,465 boulevard Hébert-Nord,,Edmundston,NB,E3V 0E9,(506) 501-3027,,(506) 501-3015,French,180,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-51,Résidence Mgr. Melanson Inc.,Edmundston,11 rue Levesque,,Saint-Quentin,NB,E8A 1T1,235-6030,,235-6075,French,42,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-52,Campbellton Nursing Home Inc.,Restigouche,101 Dover Street,,Campbellton,NB,E3N 3K6,789-7350,,789-7360,English,100,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-53,Dalhousie Nursing Home Inc.,Restigouche,296 Victoria Street Unit 1,,Dalhousie,NB,E8C 2R8,684-7800,,684-7832,Bilingual,105,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-54,Villa Sormany Inc.,Chaleur,1289 chemin Robertville,,Robertville,NB,E8K 2V9,542-2731,,542-2733,French,60,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-55,Robert I. Knowles Veterans Unit - Villa Chaleur Inc. ,Chaleur,795 rue Champlain,,Bathurst,NB,E2A 4M8,549-5588,,545-6424,Bilingual,13,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-56,Foyer Notre-Dame de Lourdes Inc.,Chaleur,2055 Vallée Lourdes,,Bathurst,NB,E2A 4P8,549-5085,,549-5052,French,130,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-57,Complexe Rendez-vous Inc.,Miramichi,125 L. Allain Street,,Neguac,NB,E9G 1J4,776-0640,,776-0608,French,30,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-58,Foyer Assomption,Miramichi,62 rue Assomption,,Village de Rogersville,NB,E4Y 1S5,775-2040,,775-2053,French,50,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-59,Miramichi Senior Citizens Home Inc.,Miramichi,1400 Water Street,,Miramichi,NB,E1N 1A4,778-6810,,778-6860,English,81,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-60,Mount Saint Joseph of Chatham N. B.,Miramichi,51 Lobban Avenue,,Miramichi,NB,E1N 2W8,778-6550,,778-0193,English,133,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-61,Tabusintac Nursing Home,Miramichi,10 Old Manse Road,,Tabusintac,NB,E9H 1G4,779-4100,,779-8149,English,30,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-62,Résidences Inkerman Inc.,Acadian Peninsula,1171 chemin Pallot,,Inkerman,NB,E8P 1C2,336-3909,,336-3912,French,30,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-63,Résidences Lucien Saindon Inc,Acadian Peninsula,26 rue de l'Hôpital,,Lamèque,NB,E8T 1C3,344-3232,,344-3240,French,54,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-64,Résidences Mgr. Chiasson Inc.,Acadian Peninsula,130 boulevard J.-D.-Gauthier,,Shippagan,NB,E8S 1N8,336-3266,,336-3099,French,85,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-65,Manoir Edith B. Pinet,Acadian Peninsula,1189 rue des Fondateurs,,Paquetville,NB,E8R 1A9,764-2444,,764-2451,French,30,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-66,Villa Beauséjour Inc.,Acadian Peninsula,Case Postale 5608,274 Blvd. St. Pierre Ouest,Caraquet,NB,E1W 1B7,726-2744,,726-2745,French,80,Canada,Nursing Home
+Canada-NB-11-NursingHomes-output-67,Villa Saint-Joseph Inc.,Acadian Peninsula,585 rue Saulnier Ouest,,Tracadie-Sheila,NB,E1X 1B5,394-4800,,394-4826,French,74,Canada,Nursing Home

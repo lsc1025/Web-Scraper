@@ -1,0 +1,277 @@
+row_id,Facility Name,Address1,City,Zip,State,Ownedby,Country,facility_type
+USA-ID-81-ID-AssistedLiving-output-1,Aarenbrooke Place - Cory Lane,9327 Cory Lane,Boise,83704,Ada,"Fletcher, BethFletcher, JasonFletcher, Keith C.Lemon, KameronAshley Manor, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-2,Ace Elder Care,6646 + 6652 Chippewa Drive,Bonners Ferry,83805,Boundary,"Garrett, DennisAce Elder Care 3 + 4, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-3,Advanced Assisted Living,601 West Blaine Avenue,Nampa,83651,Canyon,"Boeru, Viorel",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-4,"Aging Gracefully Assisted Living, LLC",3989 East Winterberry Drive,Nampa,83687,Canyon,"Retegan, DanielaRetegan, Ioan",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-5,Alpine Manor,1135 Imperial Street,Twin Falls,83301,Twin Falls,"Todd, ElaineDaze, Inc",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-6,Alpine Manor II,100 Polk Street East,Kimberly,83341,Twin Falls,"Todd, ElaineDaze, Inc",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-7,"Alpine Meadows Assisted Living, LLC",1695 South Locust Grove Road,Meridian,83642,Ada,"Eldredge, CharlesHalladay, ScotHill, ValMesser, Ethan",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-8,"Amber Lane Residence - Amber Lane, Inc",1819 West Bannock Street,Boise,83702,Ada,"Sackos, Terese",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-9,Antelope Creek Living Center,3668 West 3700 North,Darlington,83255,Butte,Valley Vista Care Corporation,US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-10,Apple Valley Residential Care,715 North Butte Avenue,Emmett,83617,Gem,"Hines, NancyHines, William",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-11,Applegate Assisted Living,1541 East 4250 North,Buhl,83316,Twin Falls,"Crabtree, BrianCrabtree, Pam",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-12,Applewood Assisted Living,779 Tennyson Way,Boise,83709,Ada,"Phelan, MarkHawthorne Assisted Living, Inc",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-13,Ashley Manor - Arlington,3123 South Arlington Avenue,Caldwell,83605,Canyon,"Fletcher, BethFletcher, JasonFletcher, Keith C.Lemon, KameronAshley Manor, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-14,Ashley Manor - Beverly Hills,861 Beverly Hills Drive,Payette,83661,Payette,"Fletcher, BethFletcher, JasonFletcher, Keith C.Lemon, KameronAshley Manor, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-15,Ashley Manor - Buttercup Trail,1210 Buttercup Trail,Kimberly,83341,Twin Falls,"Fletcher, BethFletcher, JasonFletcher, Keith C.Lemon, KameronAshley Manor, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-16,Ashley Manor - Cedar,1525 East Cedar Street,Pocatello,83201,Bannock,"Fletcher, BethFletcher, JasonFletcher, Keith C.Lemon, KameronAshley Manor, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-17,Ashley Manor - Cloverdale,3749 North Cloverdale Road,Boise,83713,Ada,"Fletcher, BethFletcher, JasonFletcher, Keith C.Lemon, KameronAshley Manor, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-18,Ashley Manor - Crescent,421 Crescent Drive,Caldwell,83605,Canyon,"Fletcher, BethFletcher, JasonFletcher, Keith C.Lemon, KameronAshley Manor, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-19,Ashley Manor - Harmony,2703 Harmony Avenue,Boise,83703,Ada,"Fletcher, BethFletcher, JasonFletcher, Keith C.Lemon, KameronAshley Manor, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-20,Ashley Manor - Hawthorne,4826 Hawthorne Road,Chubbuck,83202,Bannock,"Fletcher, BethFletcher, JasonFletcher, Keith C.Lemon, KameronAshley Manor, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-21,Ashley Manor - Hill Road,3424 West Hill Road,Boise,83702,Ada,"Fletcher, BethFletcher, JasonFletcher, Keith C.Lemon, KameronAshley Manor, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-22,Ashley Manor - Hyde Park,1908 North 13th Street,Boise,83702,Ada,"Fletcher, BethFletcher, JasonFletcher, Keith C.Lemon, KameronAshley Manor, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-23,Ashley Manor - Iowa,2604 Iowa Avenue,Caldwell,83605,Canyon,"Fletcher, BethFletcher, JasonFletcher, Keith C.Lemon, KameronAshley Manor, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-24,Ashley Manor - Lincoln,101 East 15TH,Jerome,83338,Jerome,"Fletcher, BethFletcher, JasonFletcher, Keith C.Lemon, KameronAshley Manor, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-25,Ashley Manor - Middleton,620 West 9th Street North,Middleton,83644,Canyon,"Fletcher, BethFletcher, JasonFletcher, Keith C.Lemon, KameronMartin, VP of Ops, DaveAshley Manor, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-26,Ashley Manor - Midland,67 South Midland Boulevard,Nampa,83651,Canyon,"Fletcher, BethFletcher, JasonFletcher, Keith C.Lemon, KameronAshley Manor, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-27,Ashley Manor - Mountain Home,940 West 8th South ,Mountain Home,83647,Elmore,"Fletcher, BethFletcher, JasonFletcher, Keith C.Lemon, KameronAshley Manor, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-28,Ashley Manor - Parkview Drive,1818 Parkview Drive,Twin Falls,83301,Twin Falls,"Fletcher, BethFletcher, JasonFletcher, Keith C.Lemon, KameronAshley Manor, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-29,Ashley Manor - Storybook Way,126 North Storybook Way ,Eagle,83616,Ada,"Fletcher, BethFletcher, JasonFletcher, Keith C.Lemon, KameronAshley Manor, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-30,Ashley Manor Care Centers Inc - Elgin Way,3961 Elgin Way,Boise,83713,Ada,"Fletcher, BethFletcher, JasonFletcher, Keith C.Lemon, KameronAshley Manor, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-31,Ashley Manor Care Centers Inc - Highmont,11099 Highmont Drive,Boise,83713,Ada,"Fletcher, BethFletcher, JasonFletcher, Keith C.Lemon, KameronAshley Manor, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-32,Ashley Manor Care Centers Inc - Orchard,2150 South Orchard,Boise,83705,Ada,"Fletcher, BethFletcher, JasonFletcher, Keith C.Lemon, KameronAshley Manor, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-33,Aspen Springs Assisted Living,3254 Spirit Lake Cutoff Road,Spirit Lake,83869,Kootenai,"Skala, JoeSkala, Rebecca",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-34,Assisted Living on Shamrock,2716 Shamrock Avenue,Nampa,83686,Canyon,"Moore, ChrisCTM Assisted Living",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-35,"Autumn Cove Assisted Living, LLC",652 South Main Street,Star,83669,Ada,"White, Joseph D.Autumn Cove Assisted Living, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-36,"Autumn Haven Assisted Living, Inc",924 Christian Way,Rupert,83350,Minidoka,"Darrington, AmyDarrington, AngieDarrington, MattAutumn Haven Assisted Living, Inc",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-37,B&B Residential Care,261 Big Buck Road,Kooskia,83539,Idaho,"Shobe, BarbaraShobe, William",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-38,Basil Celany Living Center,2712 Irene Street,Boise,83702,Ada,"Arc Living, Inc",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-39,Bear Lake Manor,855 Boise Street,Montpelier,83254,Bear Lake,Bear Lake Memorial Hospital,US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-40,Bee Hive Homes of Kenmere,2321 Kenmere Place,Meridian,83646,Ada,"Andrew, GaryAndrew, MerileeGolden Years, Inc",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-41,Bee Hive Homes of Kimra,1455 Kimra,Meridian,83642,Ada,"Andrew, GaryAndrew, MerileeGolden Years, Inc",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-42,Bee Hive Homes of Maryland,612 East Maryland,Nampa,83686,Canyon,"Andrew, GaryAndrew, MerileeGolden Years, Inc",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-43,Bee Hive Homes of Oakcrest ,1745 East Oakcrest,Meridian,83646,Ada,"Andrew, GaryAndrew, MerileeGolden Years, Inc",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-44,Bell Mountain Village and Care Center,620 North 6th Street,Bellevue,83313,Blaine,"Burpee, ScottCarefix Management & Consulting, Inc",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-45,Birchwood Retirement Estate,641 Rimview Drive,Twin Falls,83301,Twin Falls,"Farnsworth, RamonaFarnsworth, Steve",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-46,Bridge Assisted Living at Sandpoint,1123 North Division Street,Sandpoint,83864,Bonner,"Preston, Forrest L.Developers Investment Company, Inc (Primary)Sandpoint Medical Investors Limited Partnership",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-47,Bridgeview Estates - RCF,1828 Bridgeview Boulevard,Twin Falls,83301,Twin Falls,"Preston, Forrest L.Bridgeview Medical InvestorsDevelopers Investment Company II, Inc (Primary)",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-48,Bristol Heights Assisted Living,2220 West Prairie Avenue,Coeur d'Alene,83815,Kootenai,"Tanner, TamaraTanner, TomHayden Valley Assisted Living, Inc",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-49,Broadway Fields Assisted Living,175+185+195+205 Constellation Drive,Idaho Falls,83402,Bonneville,"Rasmussen, DeidreRasmussen, JacobLJR Management, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-50,Bronco Senior Services dba Hillcrest,1093 South Hilton Street,Boise,83705,Ada,"Mohr,CCIM, BillBoise Financial, IncBronco Senior Services, LLC (Primary)",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-51,Brookdale Boise Parkcenter,739 East Parkcenter Boulevard,Boise,83706,Ada,"Brookdale Senior Living Communities, Inc (Primary)Brookdale Senior Living, IncFEBC-ALT Holdings, IncFEBC-ALT Investors, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-52,Brookdale Castle Hills,5955 Castle Drive,Boise,83703,Ada,"Brookdale Senior Living, IncEmeritus Corporation (Primary)",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-53,Brookdale Chubbuck,4080 Hawthorne Road,Chubbuck,83202,Bannock,"Brookdale Senior Living, IncEmeritus Corporation (Primary)",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-54,Brookdale Coeur d'Alene,205 East Anton Avenue,Coeur d'Alene,83814,Kootenai,"Brookdale Senior Living, IncEmeritus Corporation (Primary)",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-55,Brookdale Lewiston,2975 Juniper Drive,Lewiston,83501,Nez Perce,"Brookdale Senior Living, IncEmeritus Corporation (Primary)",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-56,Brookdale Pocatello,1501 Baldy Avenue,Pocatello,83201,Bannock,"Brookdale Senior Living, IncEmeritus Corporation (Primary)",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-57,Brookdale Twin Falls,1367 Locust Street North,Twin Falls,83301,Twin Falls,"Brookdale Senior Living Communities, Inc (Primary)Brookdale Senior Living, IncFEBC-ALT Holdings, IncFEBC-ALT Investors, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-58,Brookside Landing,431 Johnson Avenue,Orofino,83544,Clearwater,"Anderson, John & DebbieBurnhan, Rick & JaneyCrockett, Steve & LeelaLeach, Ted & DonnaPippenger, Paul & LeeAnnTitus, PennyOrofino Retirement Properties, Inc.",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-59,Brookstone Village,921 Corporate Lane,Nampa,83651,Canyon,"Ball, LorraineBall, RalphBrookstone Village, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-60,Canyons Retirement Community,1215 Cheney Drive West ,Twin Falls,83301,Twin Falls,"Bell, Troy V.Tan, May P.TanaBell Health Services, Inc.",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-61,Carefix - Safe Haven Homes of Bellevue,314 South 7th,Bellevue,83313,Blaine,"Burpee, ScottCarefix Management & Consulting, Inc",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-62,Carefix - Safe Haven Homes of Wendell - Magic Valley Manor,210 North Idaho,Wendell,83355,Gooding,"Burpee, ScottCarefix Management & Consulting, Inc",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-63,Caring Hearts Assisted Living,3440 East Center,Pocatello,83201,Bannock,"Rasmussen, RyanSutton, ZacharyLodgepole Management, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-64,Cedar Draw Assisted Living & Memory Care,4094 North 2100 East,Filer,83328,Twin Falls,"Lynch, CathyLynch, JamesA Better Choice Assisted Living & Memory Care",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-65,Cedar Living Center,270 Cedar Street,Blackfoot,83221,Bingham,"Dawn Enterprises, Inc",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-66,Cenoma House,1930 Heyburn Avenue E,Twin Falls,83301,Twin Falls,"Coats, ChadCoats, LoriLC Coats, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-67,Chardonnay Assisted Living,1045 Carriage Lane,Twin Falls,83301,Twin Falls,"Knight, MarkKnight, RoxannaChardonnay, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-68,Clement Home Assisted Living,3909 West Clement Road,Boise,83704,Ada,"Mihalache, AdiClement Home Assisted Living",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-69,Community Restorium,6619 Kaniksu Street,Bonners Ferry,83805,Boundary,Boundary County,US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-70,Copper Springs Senior Living,3570 East Amity Road,Meridian,83642,Ada,"Roderick, GregoryFC Portland InvestmentsFGR Holdings, LLCFrontier Management, LLC (Primary)",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-71,Copper Summit Assisted Living,2424 Birdie Thompson Drive,Pocatello,83201,Bannock,"Bell, Troy V.Tan, May P.Copper Summit Assisted Living",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-72,"Cottage at Boise Samaritan Village, The",3390 Collister Drive,Boise,83703,Ada,"Boise Good Samaritan Housing, Inc.",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-73,Cottage Investors III LLC - The Cottages of Boise,6300 + 6352 North Roe Street,Boise,83714,Ada,"Lierz, DickMaxfield, GaroldWilson, JamieThe Cottage Investors III",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-74,Cottage Investors III LLC - The Cottages of Nampa,5023 East Victory Road,Nampa,83687,Canyon,"Lierz, DickMaxfield, GaroldWilson, JamieThe Cottage Investors III",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-75,"Cottage Investors III, LLC - The Cottages of McCall",700 Reedy Lane,McCall,83638,Valley,"Lierz, DickMaxfield, GaroldWilson, JamieThe Cottage Investors III",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-76,Cottonwood Shelter Home,210 Foster Street,Cottonwood,83522,Idaho,"Silvers, Susan",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-77,Country Comfort Residential Care,824 + 830 North 23rd Street,Coeur d'Alene,83814,Kootenai,"Ciccone, GeorgeCiccone, KimberleeCountry Comfort Residential Care, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-78,Country Cottage Assisted Living,3652 North 2500 East,Twin Falls,83301,Twin Falls,"Hamett, Rhonda",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-79,"Country Living Retirement of Mountain Home, Inc",1200 East 6th South,Mountain Home,83647,Elmore,"Nichols, TamiCountry Living Retirement Homes, IncCountry Living Retirement of Mountain Home, Inc",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-80,Country Time Assisted Living - MMT Operations LLC,277 South Main Street,Star,83669,Ada,"DeMordaunt, ReedTurner, StanleyMMT Operations LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-81,"Courtyard at Coeur d'Alene, The",2100 East Sherman Avenue,Coeur d'Alene,83814,Kootenai,"Israni, AshokIsrani, DeepakIsrani, SushilPacifica Sherman, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-82,Creekside Care Center,222 6th Avenue West,Jerome,83338,Jerome,"Borrayo, BrookeBorrayo, FranciscoCrist, CareyCrist, ToddHolley Homes, Inc",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-83,Creekside Inn Assisted Living Alzheimer's Community,240 East Kathleen Avenue,Coeur d'Alene,83815,Kootenai,"Yates, Steve & Carrie2004 Yates Family Limited PartnershipCoeur d'Alene Partners, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-84,Crestwood Serenity Assisted Living,1476 West Crest Wood Drive,Meridian,83642,Ada,"Smith, ElishiaTrinity Assisted Living of Idaho, Inc",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-85,Crystal Creek Assisted Living LLC,1035 Curlew Drive,Ammon,83406,Bonneville,"Gasser, CarissaRhoades, Donna",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-86,"Curtis House, LLC",1000 South Curtis Road,Boise,83705,Ada,"Wolfe, MelissaWolfe, Mike",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-87,Desano Place Suites,545 Nevada Street,Gooding,83330,Gooding,"Pendleton, CarlPendleton, TheresaDesano Place, Inc",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-88,Desano Place Village Memory Care,1015 East Avenue K,Jerome,83338,Jerome,"Pendleton, CarlPendleton, TheresaDesano Place, Inc",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-89,"Desano Place, Inc",218 West B Street,Shoshone,83352,Lincoln,"Pendleton, CarlPendleton, TheresaDesano Place, Inc",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-90,"Desert Rose Retirement Estate, CEC, Inc",983 Gallup Drive,Twin Falls,83301,Twin Falls,"Farnsworth, RamonaFarnsworth, SteveCEC, Inc",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-91,Diamond Peak of Blackfoot,875 Pendlebury Lane ,Blackfoot,83221,Bingham,"Ourada, MelissaStucker, LisaWebb, WendyDiamond Peak Health Care, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-92,Diamond Peak of Burley,1703 Almo Avenue ,Burley,83318,Cassia,"Ourada, MelissaStucker, LisaWebb, WendyDiamond Peak Health Care, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-93,Diamond Peak of Challis,610 Clinic Road ,Challis,83226,Custer,"Ourada, MelissaStucker, LisaWebb, WendyDiamond Peak Health Care, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-94,Diamond Peak of Chubbuck,4875 Burley Drive ,Chubbuck,83202,Bannock,"Ourada, MelissaStucker, LisaWebb, WendyDiamond Peak Health Care, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-95,Diamond Peak of Gooding,745 California Street ,Gooding,83330,Gooding,"Ourada, MelissaStucker, LisaWebb, WendyDiamond Peak Health Care, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-96,Diamond Peak of Idaho Falls,755+757 Lomax Street ,Idaho Falls,83401,Bonneville,"Ourada, MelissaStucker, LisaWebb, WendyDiamond Peak Health Care, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-97,Diamond Peak of Lava,580 West Elm ,Lava Hot Springs,83246,Bannock,"Ourada, MelissaStucker, LisaWebb, WendyDiamond Peak Health Care, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-98,Diamond Peak of Pocatello,5685 South Bannock Highway ,Pocatello,83204,Bannock,"Ourada, MelissaStucker, LisaWebb, WendyDiamond Peak Health Care, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-99,Diamond Peak of Shelley,183 East Oak Street ,Shelley,83274,Bingham,"Ourada, MelissaStucker, LisaWebb, WendyDiamond Peak Health Care, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-100,Discovery Rehabilitation and Living,600 Shanfelt Street,Salmon,83467,Lemhi,"Pennant Healthcare, IncSawtooth Healthcare, Inc (Primary)",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-101,"Edgewood Fruitland Senior Living, LLC",1255 Allen Avenue,Fruitland,83619,Payette,"Beutler, MarilynGisi, EmilyGisi, MichaelGisi, PatriciaGisi, PhilipEdgewood Group, LLC (Primary)EMG Capital 005, LLLP",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-102,"Edgewood Plantation Place, LLC",3921 Kessinger Lane,Boise,83703,Ada,"Gisi, EmilyGisi, MichaelGisi, PatriciaGisi, PhilipEdgewood Group, LLC (Primary)EMG Capital 005, LLLP",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-103,"Edgewood Spring Creek American Falls, LLC",605 Hillcrest Avenue,American Falls,83211,Power,"Gisi, EmilyGisi, MichaelGisi, PatriciaGisi, PhilipEdgewood Group, LLC (Primary)EMG Capital 005, LLLP",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-104,"Edgewood Spring Creek Boise, LLC",10681 West McMillan Road,Boise,83713,Ada,"Gisi, EmilyGisi, MichaelGisi, PatriciaGisi, PhilipEdgewood Group, LLC (Primary)EMG Capital 005, LLLP",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-105,"Edgewood Spring Creek Eagle Island, LLC",77 North Fisher Park Way,Eagle,83616,Ada,"Gisi, EmilyGisi, MichaelGisi, PatriciaGisi, PhilipEdgewood Group, LLC (Primary)Edgewood Management Group, LLCEdgewood Spring Creek Eagle Island, LLCEMG Capital 005, LLLP",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-106,"Edgewood Spring Creek Eagle, LLC",653 North Eagle Road,Eagle,83616,Ada,"Gisi, EmilyGisi, MichaelGisi, PatriciaGisi, PhilipEdgewood Group, LLC (Primary)EMG Capital 005, LLLP",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-107,"Edgewood Spring Creek Meridian, LLC",175 East Calderwood Drive,Meridian,83642,Ada,"Gisi, EmilyGisi, MichaelGisi, PatriciaGisi, PhilipEdgewood Group, LLC (Primary)EMG Capital 005, LLLP",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-108,"Edgewood Spring Creek Overland, LLC",10139 West Overland Road,Boise,83709,Ada,"Gisi, EmilyGisi, MichaelGisi, PatriciaGisi, PhilipEdgewood Group, LLC (Primary)EMG Capital 005, LLLP",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-109,"Edgewood Spring Creek Soda Springs, LLC",425 South Spring Creek Drive,Soda Springs,83276,Caribou,"Gisi, EmilyGisi, MichaelGisi, PatriciaGisi, PhilipEdgewood Group, LLC (Primary)EMG Capital 005, LLLP",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-110,"Edgewood Spring Creek Ustick, LLC",3165 North Meridian Road,Meridian,83646,Ada,"Gisi, EmilyGisi, MichaelGisi, PatriciaGisi, PhilipEdgewood Group, LLC (Primary)EMG Capital 005, LLLP",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-111,"Elegant Residential Assisted Living, Inc","1256 Wright Avenue, Bldg A",Pocatello,83201,Bannock,"Nelson, StewartRoche, JayRoylance, JasonRoylance, RossR & R Development",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-112,"Emerson House at Riverpointe, LLC",8250 West Marigold Street,Garden City,83714,Ada,"Jensen, C. RickUhlir, BrianNorthstar Senior Living",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-113,Evergreen - Idaho Health Care Sandpoint LLC,624 South Division Avenue,Sandpoint,83864,Bonner,"EmpRes Idaho Healthcare, LLCEvergreen Idaho Healthcare Sandpoint, LLC (Primary",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-114,Evergreen Place Assisted Living,1043 Burley Avenue,Buhl,83316,Twin Falls,"Hulse, Tracy",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-115,Fairwinds - Sandcreek,3310 Valencia Drive,Idaho Falls,83404,Bonneville,"Lytle, Charles S.Lytle, Karen E.IDFALLS, LLC (Primary)Leisure Care (Management Company)Lytle Investments, LLCSpokane-Idaho Falls, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-116,Family Life,422 11th Avenue South,Nampa,83651,Canyon,"Richmond, ElisabethRichmond, RobertFamily Life, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-117,"Gables of Ammon Management, Inc",1405 Curlew Drive,Ammon,83406,Bonneville,"Sorensen, JoshSorenson, Murray Jim",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-118,Gables of Blackfoot Assisted Living,2815 Hunters Loop,Blackfoot,83221,Bingham,"Dame, Reed N.Easton, GregoryGables Holdings, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-119,Gables of Blackfoot Assisted Living II,2820 Hunters Loop,Blackfoot,83221,Bingham,"Dame, Reed N.Easton, GregoryGables Holdings, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-120,Gables of Pocatello Assisted Living,2805 South Grant Avenue,Pocatello,83204,Bannock,"Dame, Reed N.Easton, GregoryGables Holdings, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-121,Gables of Pocatello Assisted Living II,1451 South Bannock Highway,Pocatello,83204,Bannock,"Dame, Reed N.Easton, GregoryGables Holdings, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-122,Gables of Shelley Assisted Living,530 River Pointe Lane,Shelley,83274,Bingham,"Dame, Reed N.Easton, GregoryGables Holdings, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-123,"Garden at Orchard Ridge, The",624 West Harrison Ave,Coeur d'Alene,83814,Kootenai,"Coeud d'Alene Homes Phase II, Inc",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-124,Gardens of Rigby,130 + 144 Stockham Boulevard,Rigby,83442,Jefferson,"Hartnett, PamelaHoskin, Matthew",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-125,Garnet Place,5815 Coffey Street,Garden City,83714,Ada,"Bonderman, DavidCoulter, JamesManagement, Enlivant CorporateAID Holdings, LLCIntermediate AID CO LLCMaster Tenant (Non CMBS) AID OPCO, LLCParent AID OPCO TRS, LLCRosewind AID OPCO, LLC (Primary)TPG Advisors VI, IncTPG VI AID Holdings, L.P.UPREIT AID CO LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-126,Gem Village,490 Emerald Avenue,Blackfoot,83221,Bingham,"Blaser, Andrew",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-127,Generations Assisted Living,13400 North Meyer Road,Rathdrum,83858,Kootenai,"Field, LeeTrettevik, RandySSA VII, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-128,"Golden Girls Residential Care, LLC",214 Larkspur Lane,Lewiston,83501,Nez Perce,"Fowler, Lucas J.Fowler, MichelleGolden Girls Residential Care, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-129,Golden Pines-Rural Assisted Living Facilities LLC,235 North 4200 East,Rigby,83442,Jefferson,"Jones, CarlSmith, DennisRural Assisted Living Facilities, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-130,"Good Samaritan Moscow Village, Mickey Assisted Living Center",640 North Eisenhower Street,Moscow,83843,Latah,The evangelical Lutheran Good Samaritan Society,US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-131,Grace Assisted Living,1610 Sunnyridge Road,Nampa,83686,Canyon,"Hines, LindaTamura, DougGrace, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-132,Grace Assisted Living at Englefield Green,250 South Allumbaugh Way,Boise,83709,Ada,"Hines, LindaKamo, ColterTamura, DougGrace at Englefield Green, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-133,Grace Assisted Living at State Street,9995 West State Street,Boise,83714,Ada,"Giovino, CharlesHines, LindaKamo, ColterGrace at State Street, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-134,Grace Assisted Living of Fairview Lakes,1960 North Lakes Place,Meridian,83642,Ada,"Hills, David F.Hines, LindaTamura, DougGrace at Fairview Lakes, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-135,"Grace at Twin Falls, LLC",1803 Parkview Drive,Twin Falls,83301,Twin Falls,"Bennett, GregBennett, LisaBombard, LisaHines, LindaKamo, ColterGrace at Twin Falls, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-136,Guardian Angel Homes Lewiston I,2421 Vineyard Avenue,Lewiston,83501,Nez Perce,"Frantz, MartyFrantz, TysonGuardian Angel Homes Lewiston I, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-137,Hancock House,1322 Hancock Drive,Boise,83706,Ada,"Moore, ChrisCTM Assisted Living",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-138,Harmony House Assisted Living I,454 West Lacey Avenue,Hayden,83835,Kootenai,"Christensen, GrahamChristensen, JeniferSiskiyou Living, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-139,Harmony House Assisted Living II,9951 North Maple,Hayden,83835,Kootenai,"Christensen, GrahamChristensen, JeniferSiskiyou Living, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-140,"Hayden Country Guest Home, Inc",10585 North Reed Road,Hayden,83835,Kootenai,"Hayden, Dawn",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-141,"Hearthstone Village, LLC",402 3rd Street,Kootenai,83840,Bonner,"Hern, III, JohnRedford, RobbeSmidt, Jim",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-142,Heritage Assisted Living of Boise,1777 South Curtis Road,Boise,83705,Ada,"Bridgestone Living LLCEnsign Group, IncTreasure Valley Senior Living, LLC (Primary)",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-143,Heritage Assisted Living of Twin Falls,622 Filer Avenue West,Twin Falls,83301,Twin Falls,"Bridgestone Living LLCCanyon Springs Senior Living, Inc (Primary)Ensign Group, Inc",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-144,Heritage Homes of Rexburg,3685 West Highway 33,Rexburg,83440,Madison,"Nielsen, Mary AnnNielsen, ShawnMeadow Acres, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-145,Heritage Senior Living,155 + 175 East 3rd North,Preston,83263,Franklin,"Snedaker, JordanSnedaker, NatalieJNS Senior Living LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-146,Heron Place,715 West Comstock,Nampa,83651,Canyon,"Bonderman, DavidCoulter, JamesAID Holdings, LLCHeron AID OPCO, LLC (Primary)Intermediate AID CO LLCMaster Tenant (Non CMBS) AID OPCO, LLCParent AID OPCO TRS, LLCTPG Advisors VI, IncTPG VI AID Holdings, L.P.UPREIT AID CO LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-147,Hettinger Living Center,217 Ruby Street,Boise,83705,Ada,"Arc Living, Inc",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-148,"Highland Estates-Burley Operations, LLC",2050 Hiland Avenue,Burley,83318,Cassia,"Anderson, DonDendy, PaulWeisner, MarkMilestone Retirement Communities",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-149,"Hillcrest Manor, LLC",3901 West Hillcrest Drive,Boise,83705,Ada,"Wolfe, MelissaWolfe, MikeHillcrest Manor, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-150,Home Sweet Home Care,11426 Lone Star Road,Nampa,83651,Canyon,"Price, RogerHome Care Solutions, Inc.",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-151,"Homestead Assisted Living Center, Inc. of Rexburg, The",407 West 1st North,Rexburg,83440,Madison,"Thueson, David J.Thueson, JenelleThe Homestead Assisted Living Center, Inc",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-152,Homestead Assisted Living Centers Inc - St Anthony,610 North Bridge Street,Saint Anthony,83445,Fremont,"Thueson, David J.Thueson, JenelleThe Homestead Assisted Living Center, Inc",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-153,Honeysuckle Place,660 West Honeysuckle Avenue,Hayden,83835,Kootenai,"Bonderman, DavidCoulter, JamesAID Holdings, LLCHoneysuckle AID OPCO, LLC (Primary)Intermediate AID CO LLCMaster Tenant (Non CMBS) AID OPCO, LLCParent AID OPCO TRS, LLCTPG Advisors VI, IncTPG VI AID Holdings, L.P.UPREIT AID CO LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-154,Huckleberry Retirement Homes LLC - II,1408 Ponderosa Drive,Sandpoint,83864,Bonner,"Breeden, KennethHuyck, LynneHuyck, MichaelHuckleberry Retirement Homes LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-155,Huckleberry Retirement Homes LLC - IV,1513 Hemlock Court,Sandpoint,83864,Bonner,"Breeden, KennethHuyck, LynneHuyck, MichaelHuckleberry Retirement Homes, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-156,Independence Home,430 Willard Avenue,Pocatello,83201,Bannock,"Arc of Bannock County, Inc",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-157,Indianhead Estates,590 West Indianhead Road,Weiser,83672,Washington,"Anderson, DonDendy, PaulWeisner, MarkIndianhead Operations (Primary)Milestone Retirement Communities",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-158,Ivy Place Residence - Ivy Place Inc,1307 North 25th Street,Boise,83702,Ada,"Sackos, TereseIvy Palce, Inc.",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-159,Joyce's Orchard Residential Care Home,615 Cedar Avenue,Lewiston,83501,Nez Perce,"Cook, JoyWallace, Thelma Joyce",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-160,"Jubilation House, LLC",165 Constellation Road,Idaho Falls,83402,Bonneville,"Browning, MarkBrowning, TeresaJubilation House, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-161,Jullion House Assisted Living,9910 West Pattie Drive,Boise,83704,Ada,"Jackson, DominiqueJackson, JonJullion House, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-162,Kimball's Residential Care,54 East River Road,Blackfoot,83221,Bingham,"Kimball, AngelaKimball, Daniel",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-163,Lakeside,605 Joseph Avenue,Winchester,83555,Lewis,"Bagley, AmandaBagley, BrianLakeside Residential Care, Inc",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-164,Lakeside - East,605 Nez Perce Avenue,Winchester,83555,Lewis,"Bagley, AmandaBagley, BrianBBA Winchester, LLCLakeside Residential Care, Inc (Primary)",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-165,Lark's Haven,11950 North Thames Court,Hayden,83835,Kootenai,"Linehan, L.LarkLinehan, RaymondLark's Haven. LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-166,Lark's Haven on Hilgren,264 Hilgren Avenue,Hayden,83835,Kootenai,"Linehan, L.LarkLinehan, RaymondLark's Haven. LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-167,Lark's Haven on Reed,9886 Reed Road,Hayden,83835,Kootenai,"Linehan, L.LarkLinehan, RaymondLark's Haven. LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-168,Legends Park Assisted Living Community,1820 North Legends Parkway,Coeur d'Alene,83815,Kootenai,"Delamarter, Chairman of Board, RickDelamarter, Founding Partner/CEO, HaroldVislocky,Treasurer, GregPrestige Senior Living, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-169,Lenity Senior Living,4119 Lenity Living Avenue ,Caldwell,83607,Canyon,"Schnuerle, Theresa (Cece)Lenity Management, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-170,Lighthouse Living,1005 Airport Road,Blackfoot,83221,Bingham,"Layton, StefneyYoung, SandeeLighthouse Living, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-171,Lily and Syringa Assisted Living,830 + 840 East 1st,Idaho Falls,83401,Bonneville,"Rasmussen, RyanSutton, ZacharyLily and Syringa Management, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-172,Lincoln Court Retirement Community,850 Lincoln Drive,Idaho Falls,83401,Bonneville,"Benton, AaronBenton, AdamBenton, EvrettHenderson, Raymond L.Stellar Senior Living, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-173,"Living Spring Residential Care, LLC",1050 Hemlock Drive,Lewiston,83501,Nez Perce,"Fowler, MandyFowler, PatriciaLiving Spring Residential Care, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-174,"Living Springs, Inc",1605 North Catherine Street,Post Falls,83854,Kootenai,"Thibault, AliceTrefz, Gary J.Trefz, Jennifer W.Living Springs, Inc",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-175,"Lodge At Fairway Forest #1, The",3989 North Player Drive,Coeur d'Alene,83814,Kootenai,"Mort, CliffordSenior Guest Services, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-176,"Lodge at Riverside Harbor, The",52 North Cedar,Post Falls,83854,Kootenai,"Senior Guest Services, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-177,"Luther Park at Sandpoint, LLC",510 South Olive Avenue,Sandpoint,83864,Bonner,"Ecumen, LLC (Primary)Luther Park at Sandpoint, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-178,Malad Living Center/RCF,151 West 200 North,Malad,83252,Oneida,"Price, BlainePrice, JoanneOxford Springs, Inc",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-179,Maple Wood Assisted Living,10547 North Reed Road,Hayden,83835,Kootenai,"Isaksen, JakeIsaksen, JoAnnIsaksen Enterprises",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-180,Markham Residential Care Inc,11525 3rd Street,Star,83669,Ada,"Markham, JimmyMarkham Residential Care, Inc",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-181,Meadow Lake Village Retirement Resort - Owyhee Bldg,590 South Arbor Lane,Meridian,83642,Ada,"Hoskin, MatthewNistler, Colleen T.Nistler, Werner G.Touchmark of the Treasure Valley",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-182,Meadow View Assisted Living & Memory Care,1011 + 1013 South Johns Avenue,Emmett,83617,Gem,"Thygeson, HansIdaho Senior Living, LLC (Primary)Marine Drive Apartments, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-183,"Meadowlark Homes, Inc",701 + 709 West North 2nd,Grangeville,83530,Idaho,"Walker, BruceWalker, DianeMeadowlark Homes, Inc",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-184,Meadows Assisted Living Center,16 Airport Road,Salmon,83467,Lemhi,"Bingham, JamesBingham, MichelleJMB Services, Inc",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-185,Meridian Center Genesis Healthcare,1351 West Pine Avenue,Meridian,83642,Ada,"FC-GEN Operations Investment, LLCGEN Operations I, LLCGEN Operations II, LLCGenesis Healthcare, IncGenesis HealthCare, LLCGenesis Holdings, LLCSun Healthcare Group, IncSunBridge Healthcare, LLC (Primary)",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-186,Meyer Manor II,3610 West Lamont Road,Meridian,83642,Ada,"Meyer, Shirlie",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-187,Midland Manor,9 South Midland Boulevard,Nampa,83651,Canyon,"Moore, ChrisCTM Assisted Living",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-188,Morningstar of Boise,5850 North Five Mile Road,Boise,83713,Ada,CHP Boise ID Tenant Corporation,US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-189,Morningstar of Idaho Falls,4000 South 25th East,Idaho Falls,83404,Bonneville,CHP Idaho Falls ID Tenant Corporation,US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-190,New Beginnings Community Living Home,2105 Avocet Drive,Idaho Falls,83406,Bonneville,"Waters, BrettNew Beginnings Residential Care Facility, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-191,North Star Retirement Community,2340 West Seltice Way,Coeur d'Alene,83814,Kootenai,"Benton, AaronBenton, AdamBenton, EvrettForest Place Coeur d'Alene (IDICFP), LLCStellar Senior Living, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-192,Northern Light Residential Care Facility,964 Blake Street North,Twin Falls,83301,Twin Falls,"Hamett, Rhonda",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-193,Oasis Shelter Home,501 Sand Hollow Road,Caldwell,83607,Canyon,"Amzen, TammyWallace, JackWallace, Janet",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-194,Overland Court Generations Memory Care,10172 West Smoke Ranch Drive,Boise,83709,Ada,"Hung, Susanna S.Lampkin, ShirleyPohoriles, BruceTurlock Boise II",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-195,Overland Court Senior Living,10250 West Smoke Ranch Drive,Boise,83709,Ada,"Hung, Susanna S.Lampkin, ShirleyPohoriles, BruceTurlock Boise II",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-196,Pacifica Senior Living Coeur d'Alene,840 East Dalton Avenue,Coeur d'Alene,83815,Kootenai,"Israni, AshokIsrani, DeepakIsrani, SushilPSL Coeur d'Alene, L44",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-197,Pacifica Senior Living Pinehurst,208 South Division Street,Pinehurst,83850,Shoshone,"Israni, AshokIsrani, DeepakIsrani, SushilPacifica Pinehurst, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-198,"Paramount Parks Health Care at Eagle, LLC",815 North Eagle Road,Eagle,83616,Ada,"Jayo, Douglas",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-199,Park Center Assisted Living LLC,1212 Longmont Avenue,Boise,83706,Ada,"Phelan, MarkPark Center Assisted Living, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-200,"Park Place Assisted Living Community, Inc.",616 16th Avenue North,Nampa,83687,Canyon,"Brough Nye, HeidiRandall, Nye",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-201,Parkwood Meadows Assisted Living Community,1885 Parkwood Street,Idaho Falls,83401,Bonneville,"Delamarter, Chairman of Board, RickDelamarter, Founding Partner/CEO, HaroldVislocky,Treasurer, GregPrestige Senior Living, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-202,"Parma Living Center, Inc",401 North 8th Street,Parma,83660,Canyon,"Nelson, GeorgiaNelson, StanTruesdell, MelissaTruesdell, Mike",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-203,"Pattie House, LLC",10005 West Pattie Drive,Boise,83704,Ada,"Grow, SunnyGrow, WesPattie House, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-204,Peterson Place Assisted Living,1027 East Honeysuckle Avenue,Hayden,83835,Kootenai,"Peterson, HeidiPeterson, Keith M.Peterson Place Adult Family Home, Inc.",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-205,Phillippi House LLC,703 South Phillippi Street,Boise,83705,Ada,"Leahu, CarmenMoldovan, Gabriela",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-206,Pleasant Valley Shelter Home,1911 17th Avenue,Lewiston,83501,Nez Perce,"Cook, Joy",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-207,Pocatello Assisted Living Center,520 Willard Avenue,Pocatello,83201,Bannock,"Price, BlainePrice, JoanneOxford Springs, Inc",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-208,Pomerelle Place,1301 Bennett Street,Burley,83318,Cassia,"Bonderman, DavidCoulter, JamesAID Holdings, LLCIntermediate AID CO LLCMaster Tenant (Non CMBS) AID OPCO, LLCParent AID OPCO TRS, LLCPomerelle AID OPCO, LLC (Primary)TPG Advisors VI, IncTPG VI AID Holdings, L.P.UPREIT AID CO LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-209,"Poplar Grove Assisted Living-Gaver Properties, LLC",356 East Cleveland Avenue,Glenns Ferry,83623,Elmore,"Gaver, BonnieGaver, JamiJBON Enterprises, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-210,Poppy Fields Assisted Living,11325 West Camas Street,Boise,83709,Ada,"Pop, Ilie",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-211,"Post Falls Ops, LLC, dba Guardian Angel Homes",1070 East Mullan Avenue,Post Falls,83854,Kootenai,"Frantz, MartyKR Frantz Contruction",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-212,Powerline Residential Care,930 South Powerline Road,Nampa,83686,Canyon,"Woolstenhulme, Ron",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-213,Prestige Assisted Living at Autumn Wind,200 West Beech Street,Caldwell,83605,Canyon,"Delamarter, Chairman of Board, RickDelamarter, Founding Partner/CEO, HaroldVislocky,Treasurer, GregPrestige Senior Living, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-214,Prestige Senior Living at Karcher Estates,1127 Caldwell Boulevard,Nampa,83651,Canyon,"Delamarter, Chairman of Board, RickDelamarter, Founding Partner/CEO, HaroldVislocky,Treasurer, GregDD&FNampa Ventures, LLC (Primary)",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-215,Quail Ridge Assisted Living,797 Hospital Way,Pocatello,83201,Bannock,"Preston, Forrest L.Developers Investment Company, IncQuail Ridge Medical Investors, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-216,"R & V Assisted Living, Inc.",903 11th Avenue South,Nampa,83651,Canyon,"Woolstenhulme, Ron",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-217,Rampart Home Assisted Living,3824 North Rampart Street,Boise,83704,Ada,"Mihalache, AdiRampart Assisted Living",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-218,"Regency Columbia Village, LLC",3521 East Lake Forest Drive,Boise,83716,Ada,"Beddoe, M. BartClay, James L.Regency Pacific Management, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-219,Renaissance at Coeur d'Alene Assisted Living Community,2772 West Avante' Loop,Coeur d'Alene,83815,Kootenai,"Friedrich, WeberGlauser, RonaldWeber, MelindaZaharie Glauser, Valeri",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-220,"Rigby Country Living-Rural Assisted Living Facilities, LLC",4202 East 300 North,Rigby,83442,Jefferson,"Jones, CarlSmith, DennisRural Assisted Living Facilities, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-221,River Rock Assisted Living,1063 Burley Avenue,Buhl,83316,Twin Falls,"Hulse, Tracy",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-222,Riviera Residential Care,924 Riviera Drive,Boise,83703,Ada,"Moore, ChrisCTM Assisted Living",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-223,Rose Terrace Cottages,632 North 21st Street,Coeur d'Alene,83814,Kootenai,"Helbling, Art & SelyMikesell, JeffreyMikesell, Rose AnnPearson, ColleenPearson, TomRose Terrace Cottages, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-224,Rose Terrace Country Homes,5672 West Rhode Island,Spirit Lake,83869,Kootenai,"Mikesell, JeffreyMikesell, Rose AnnPearson, ColleenPearson, TomRose Terrace Country Homes, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-225,Rosetta of Burley,1919 Hiland Avenue,Burley,83318,Cassia,"Rasmussen, QuintonSutton, ZacharyHemlock Management, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-226,Rosetta of Pocatello,1590 Delphic Way,Pocatello,83201,Bannock,"Rasmussen, QuintonSutton, ZacharyRedcedar Management, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-227,Rosetta of Twin Falls,1177 Eastridge Court,Twin Falls,83301,Twin Falls,"Rasmussen, QuintonSutton, ZacharyWhite Pine Management, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-228,Royal Plaza Retirement Center,2870 Juniper Drive,Lewiston,83501,Nez Perce,"EmpRes Idaho Healthcare, LLCRoyal Plaza Retirement, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-229,Royal Villa,1713 Center Avenue,Payette,83661,Payette,"Barton, LindaBarton, VernonLiVe, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-230,Sage Grove Assisted Living,290 North 4064 East,Rigby,83442,Jefferson,"Rackham, AmyRackham, Terry",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-231,"Salubria Center-Upper Country Eldercare Coalition, Inc.",355 S. Jennifer St  ,Cambridge,83610,Washington,"Upper Coiuntry Eldercare Coalition, Inc",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-232,Serenity Place Residential Care,1917 17th Avenue,Lewiston,83501,Nez Perce,"Cook, Joy",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-233,Silver Wood Village Assisted Living,405 West 7th Street,Silverton,83867,Shoshone,The Evangelical Lutheran Good Samaritan Society,US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-234,Spaulding House,1709 Spaulding Street,Boise,83705,Ada,"Popescu, Elena",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-235,Springridge Assisted Living Facility,2310 Rice Avenue,Caldwell,83605,Canyon,"Amick, Dale",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-236,Stonebridge Assisted Living,110 River Rock Place,Hagerman,83332,Gooding,"Gaver, BonnieGaver, HeatherGaver, JamiGaver, Matthew",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-237,Stonebridge Assisted Living of Wendell,465 Shoshone Street North,Wendell,83355,Gooding,"Gaver, BonnieGaver, HeatherGaver, JamiGaver, Matthew",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-238,Stoney Creek Living Center-JD Healthcare LLC,3808 North 2538 East,Twin Falls,83301,Twin Falls,"JD Healthcare, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-239,Streamside Alzheimer Care,1333 South Edgewater Circle,Nampa,83686,Canyon,"Hines, NancyHines, William",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-240,Streamside Assisted Living,1355 South Edgewater Circle,Nampa,83686,Canyon,"Hines, NancyHines, William",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-241,Sunny Ridge,2609 Sunnybrook Drive,Nampa,83686,Canyon,"FC-GEN Operations Investment, LLCGEN Operations I, LLCGEN Operations II, LLCGenesis Healthcare, IncGenesis HealthCare, LLCGenesis Holdings, LLCSun Healthcare Group, IncSunBridge Healthcare, LLC (Primary)",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-242,"Sunset Home Assisted Living, Inc",510920 Highway 95,Bonners Ferry,83805,Boundary,"Mountain View Mennonite Church, IncWoodland Mennonite Church, Inc",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-243,Swan Falls Assisted Living,194 West White Way,Kuna,83634,Ada,"Bell, Troy V.Tan, May P.TanaBell Health Services, Inc.",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-244,Syringa Place,1880 Harrison Street North,Twin Falls,83301,Twin Falls,"Bonderman, DavidCoulter, JamesAID Holdings, LLCChaparelle AID OPCO, LLC (Primary)Intermediate AID CO LLCMaster Tenant (Non CMBS) AID OPCO, LLCParent AID OPCO TRS, LLCTPG Advisors VI, IncTPG VI AID Holdings, L.P.UPREIT AID CO LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-245,Tambree Meadows Assisted Living,3550 Potomac Way,Idaho Falls,83406,Bonneville,"Bell, Troy V.Tan, May P.Tambree Meadows Assisted Living",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-246,Teton Peaks Assisted Living & Memory Care,655 Valley Centre Drive,Driggs,83422,Teton,"Rackham, AmyRackham, TerryTeton Peaks Assisted Living & Memory Care",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-247,"Teton Valley Residential Care Homes, Inc",9019 South 750 West,Victor,83455,Teton,"Calderwood, ClintCalderwood, Lori",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-248,The Bridge at Post Falls,515 North Garden Plaza Court,Post Falls,83854,Kootenai,"Preston, Forrest L.Developers Investment Company II, Inc (Primary)Post Falls Retirement Investors, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-249,The Bridge at Valley View,1130 North Allumbaugh Street,Boise,83704,Ada,"Preston, Bryan ForrestPreston, JanyneBSP Group, LLCFive Space, LLCValley View Senior Living of Idaho, LLC (Primary)",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-250,"The Cottages, LLC  dba The Cottages of Meridian",3173 West Belltower  Drive,Meridian,83646,Ada,"Lierz, DickMaxfield, GaroldWilson, JamieThe Cottages, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-251,"The Cottages, LLC  dba The Cottages of Middleton",760 West Main Street,Middleton,83644,Canyon,"Lierz, DickMaxfield, GaroldThe Cottages, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-252,"The Cottages, LLC  dba The Cottages of Mountain Home",735 South 5th West,Mountain Home,83647,Elmore,"Lierz, DickMaxfield, GaroldWilson, JamieThe Cottages, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-253,"The Cottages, LLC  dba The Cottages of Payette",1481 7th Avenue North,Payette,83661,Payette,"Lierz, DickMaxfield, GaroldWilson, JamieThe Cottages, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-254,"The Cottages, LLC  dba The Cottages of Weiser",1225 East 6th Street,Weiser,83672,Washington,"Lierz, DickMaxfield, GaroldWilson, JamieThe Cottages, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-255,"The Cottages, LLC dba The Cottages of Emmett",411 East 12th Street,Emmett,83617,Gem,"Lierz, DickMaxfield, GaroldWilson, JamieThe Cottages, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-256,The Homestead Senior Living,408 West Main Street,Rexburg,83440,Madison,"Thueson, David J.Thueson, JenelleDJT III, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-257,The Princess,2085 Avocet Drive,Idaho Falls,83406,Bonneville,"Waters, BrettNew Beginnings Residential Care Facility, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-258,The Terraces of Boise,5301 East Warm Springs Avenue,Boise,83716,Ada,"Lanahan, Michael B.Steinhoff, PaulBoise Retirement CommunityCornerstone AffiliatesGMSC Idaho, LLC (Primary)",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-259,"The Willows - Blackfoot Operations, LLC",898 South Meridian,Blackfoot,83221,Bingham,"Anderson, DonDendy, PaulWeisner, MarkMilestone Retirement Communities",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-260,Touchmark at Meadow Lake Village - Elkhorn Lodge,625 South Arbor Lane,Meridian,83642,Ada,"Hoskin, MatthewNistler, Colleen T.Nistler, Werner G.Touchmark of the Treasure Valley",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-261,Touchmark at Meadowlake Village,650 South Arbor Lane,Meridian,83642,Ada,"Hoskin, MatthewNistler, Colleen T.Nistler, Werner G.Touchmark of the Treasure Valley",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-262,Trinity at 1st Street,1353 West 1st Street,Meridian,83642,Ada,"Smith, Elishia",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-263,Trinity at Lewis & Clark,12423 West Lewis and Clark Drive,Boise,83713,Ada,"Smith, Elishia",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-264,"Trinity Home Living, LLC",1448 West Crest Wood Drive,Meridian,83642,Ada,"Smith, Elishia",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-265,Turtle & Crane Assisted Living,1950 1st Street,Idaho Falls,83401,Bonneville,"Rasmussen, RyanSutton, ZacharyNiguel Sante Management, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-266,Unique Senior Care - Assisted Living,1639 Birch Avenue,Lewiston,83501,Nez Perce,"Knapp, AmyKnapp, Kelley",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-267,Veranda at Paramount,6280 North Fox Run Way ,Meridian,83646,Ada,"Ahlquist, TommyAlder, BlakeGardner, ChristianStearns, GlennTurnbull, DavidAhlquist Assisted Living, LLCBrighton Holdings, LLSDMF, LLCGardner Assisted Living, LLCVeranda Senior Living, LLC (Primary)",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-268,Virginia Rose Resident Inn,2525 North Maple Grove Road,Boise,83704,Ada,"Repp, Rhonda",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-269,"Wedgewood Terrace-Provident Resources Group, Inc",2114 Vineyard Avenue,Lewiston,83501,Nez Perce,"Provident Foundation - Wedgewood Terrace, LLCProvident Resources Group, Inc",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-270,Wellspring Meadows Assisted Living,9873 North Buttercup Lane,Hayden,83835,Kootenai,"DuBois, DollyNeely, KurtWellspring Meadows, Inc",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-271,Whispering Pines Assisted Living Downey,351 East Center Street,Downey,83234,Bannock,"Jones, ShaunJones, Shelly",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-272,Willow Park,2600 North Milwaukee,Boise,83704,Ada,"Willow Park Leasing, LLC (Primary)Willow Park Owner, LLC",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-273,Willowbrook of Twin Falls,1871 Julie Lane,Twin Falls,83301,Twin Falls,"Lynch, CathyLynch, JamesA Better Choice Assisted Living & Memory Care",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-274,"Woodland Assisted Living, LLC",19937-C US Highway 30,Buhl,83316,Twin Falls,"Crabtree, BrianCrabtree, Pam",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-275,Woodstone Assisted Living,491 Caswell Avenue West,Twin Falls,83301,Twin Falls,"Bridgestone Living LLCMagic Valley Senior Living, Inc (Primary)",US,Assisted Living
+USA-ID-81-ID-AssistedLiving-output-276,You're at Home,2811 North Ridge Haven Way,Meridian,83646,Ada,"Burr, ShayneYou're at Home",US,Assisted Living

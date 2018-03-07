@@ -1,0 +1,219 @@
+name,contact_first_name,contact_last_name,contact_name,email,contact_email,fax,mailing_address_line_1,mailing_address_line_2,mailing_city,mailing_contact_first_name,mailing_contact_last_name,mailing_contact_name,mailing_country,mailing_county,mailing_postalcode,mailing_province,provider_name,primary_phone,secondary_phone,twitter,website,source,contact_occupation,dsgne_first_name,dsgne_last_name,admin_name,co_address_line_1,co_address_line_2,co_company,co_city,co_postalcode,co_province,ombudsman_phone,typeofcare,typeofcare2,low_high_rate,low_rate,high_rate,address_line_1,address_line_2,address_directions,city,municipality,region,province,state_id,postal_code,country,latitude,longitude,neighborhood,addr_valid
+1043 Harvey House,,,,,,n/a,,,,,,,,,,,,n/a,,,www.jhscso.bc.ca,,,,,,,,,,,,,,,,,,n/a,,,Kelowna,,,BC,,n/a,Canada,49.8879519,-119.4960106,,False
+Chartwell Chatsworth Retirement Residences,,,,,,250-860-1094,,,,,,,,,,,,250-860-1064,,,www.chartwellreit.ca,,,,,,,,,,,,,,,,,,1831 Parkview Cr,,,Kelowna,,,BC,,V1X 7G7,Canada,49.881085,-119.4264722,Central City,True
+Fernbrae Manor,,,,,,250-979-0601,,,,,,,,,,,,250-979-0600,,,www.fernbraemanor.com,,,,,,,,,,,,,,,,,,295 Gerstmar Rd,,,Kelowna,,,BC,,V1X 7W9,Canada,49.8861141,-119.4094457,Rutland,True
+Glenwood Homes Ltd.,,,,,,n/a,,,,,,,,,,,,250-762-0028,,,www.glenwoodseniorshome.ca,,,,,,,,,,,,,,,,,,766 Glenwood Ave,,,Kelowna,,,BC,,V1Y 5M5,Canada,49.8756582,-119.4863115,Central City,True
+Harmony Living for Seniors - Kelowna,,,,,,250-861-3921,,,,,,,,,,,,250-861-3991,,,www.harmonylivingforseniors.ca,,,,,,,,,,,,,,,,,,962/964 Laurier Ave,,,Kelowna,,,BC,,V1Y 6B1,Canada,49.882437,-119.4806769,Central City,True
+Hawthorn Park Retirement Community,,,,,,250-861-3404,,,,,,,,,,,,250-861-6636,,,www.hawthornpark.com,,,,,,,,,,,,,,,,,,867 KLO Rd,,,Kelowna,,,BC,,V1Y 9G5,Canada,49.8604765,-119.4840546,South Pandosy - K.L.O.,True
+Mountainview Village,,,,,,250-717-3948,,,,,,,,,,,,250-717-3918,,,www.gss.org,,,,,,,,,,,,,,,,,,1540 KLO Rd,,,Kelowna,,,BC,,V1W 3P6,Canada,49.8618521,-119.4649089,South Pandosy - K.L.O.,True
+Sun Pointe Village,,,,,,250-491-1449,,,,,,,,,,,,250-491-1400,,,www.baptisthousing.org,,,,,,,,,,,,,,,,,,700 Rutland Rd N,,,Kelowna,,,BC,,V1X 7W8,Canada,49.8964875,-119.3878287,Rutland,True
+The Heritage Retirement Residence,,,,,,250-768-9904,,,,,,,,,,,,250-768-9926,,,www.verveseniorliving.com,,,,,,,,,,,,,,,,,,3630 Brown Rd,,,Kelowna,,,BC,,V4T 7Y9,Canada,49.832169,-119.628692,,True
+The Village at Mill Creek,,,,,,250-980-5240,,,,,,,,,,,,250-860-2216,,,www.baptisthousing.org,,,,,,,,,,,,,,,,,,1450 Sutherland Ave,,,Kelowna,,,BC,,V1Y 5Y5,Canada,49.8804334,-119.4678305,Central City,True
+Austin Harris Residence,,,,,,604-277-8834,,,,,,,,,,,,604-277-9819,,,www.vch.ca/EN/find_services/find_services/?&program_id=10568,,,,,,,,,,,,,,,,,,5411 Moncton St,,,Richmond,,,BC,,V7E 0A8,Canada,49.125784,-123.164337,Steveston,True
+Courtyard Gardens,,,,,,604-273-9253,,,,,,,,,,,,604-273-1225,,,www.verveseniorliving.com,,,,,,,,,,,,,,,,,,7051 Moffatt Rd,,,Richmond,,,BC,,V6Y 3W2,Canada,49.1619421,-123.1438193,,True
+Ayre Manor,,,,,,250-642-1754,,,,,,,,,,,,250-642-1750,,,www.ayremanor.ca/,,,,,,,,,,,,,,,,,,6754 Ayre Rd,,,Sooke,,,BC,,V9Z 1K1,Canada,48.377617,-123.726908,,True
+Bedford Manor,,,,,,250-434-1703,,,,,,,,,,,,250-434-1702,,,n/a,,,,,,,,,,,,,,,,,,529 Seymour St,,,Kamloops,,,BC,,V2C 0A1,Canada,50.6746806,-120.3283784,City Centre,True
+Berwick on the Park,,,,,,250-377-7276,,,,,,,,,,,,250-377-7275,,,www.berwickrc.com,,,,,,,,,,,,,,,,,,60 Whiteshield Cr S,,,Kamloops,,,BC,,V2E 2S9,Canada,50.6569637,-120.3373815,Upper Sahali,True
+Chartwell Kamloops Retirement Residence,,,,,,250-376-5380,,,,,,,,,,,,250-376-5363,,,www.chartwell.com,,,,,,,,,,,,,,,,,,628 Tranquille Rd,,,Kamloops,,,BC,,V2B 3H6,Canada,50.695277,-120.3601029,North Shore,True
+Greenfield Gardens,,,,,,n/a,,,,,,,,,,,,250-554-9244,,,n/a,,,,,,,,,,,,,,,,,,1607 Greenfield Ave,,,Kamloops,,,BC,,V2B 4N4,Canada,50.7042464,-120.3847699,Brocklehurst,True
+Kamloops Seniors Village,,,,,,250-571-1799,,,,,,,,,,,,250-571-1800,,,n/a,,,,,,,,,,,,,,,,,,1220 Hugh Allan Dr,,,Kamloops,,,BC,,V1S 2B3,Canada,50.6502667,-120.3726273,Aberdeen,True
+The Hamlets at Westsyde,,,,,,250-579-9069,,,,,,,,,,,,250-579-9061,,,www.thehamletsatwestsyde.com/,,,,,,,,,,,,,,,,,,3255 Overlander Dr,,,Kamloops,,,BC,,V2B 0A5,Canada,50.7709548,-120.3413541,Westsyde,True
+Berwick By The Sea,,,,,,250-850-1355,,,,,,,,,,,,250-850-1353,,,www.berwickrc.com,,,,,,,,,,,,,,,,,,1353 16th Ave,,,Campbell River,,,BC,,V9W 2C9,Canada,50.0296916,-125.2452499,,True
+Ironwood Place,,,,,,250-287-4998,,,,,,,,,,,,250-287-4486,,,www.viha.ca/hcc/assisted/locations/ironwood_place.htm,,,,,,,,,,,,,,,,,,1351 Ironwood St,,,Campbell River,,,BC,,V9W 5Z7,Canada,50.0284384,-125.254816,,True
+Berwick Comox Valley,,,,,,250-339-1789,,,,,,,,,,,,250-339-1690,,,www.berwickrc.com,,,,,,,,,,,,,,,,,,1700 Comox Ave,,,Comox,,,BC,,V9M 4H4,Canada,49.6724764,-124.9230234,,True
+Bevan Village,,,,,,604-850-5418,,,,,,,,,,,,604-850-5416,,,www.bevanvillage.ca,,,,,,,,,,,,,,,,,,33386 Bevan Ave,,,Abbotsford,,,BC,,V2S 5G6,Canada,49.0417573,-122.2993356,Mill Lake,True
+Brookdale House,,,,,,604-853-0036,,,,,,,,,,,,604-853-2035,,,www.brookdale.house,,,,,,,,,,,,,,,,,,30961 Brookdale Ct,,,Abbotsford,,,BC,,V2T 5S3,Canada,49.065585,-122.366427,Townline Hill,True
+Hallmark on the Park,,,,,,604-859-4678,,,,,,,,,,,,604-859-0053,,,www.hallmarkretirement.ca,,,,,,,,,,,,,,,,,,3055 Princess St,,,Abbotsford,,,BC,,V2T 4A8,Canada,49.0573146,-122.3450804,Clearbrook,True
+Menno Assisted Living,,,,,,604-851-4015,,,,,,,,,,,,604-851-4004,,,www.mennoplace.ca,,,,,,,,,,,,,,,,,,2021 Primrose St,,,Abbotsford,,,BC,,V2S 2Y9,Canada,49.038887,-122.309855,Mill Lake,True
+Tabor Court,,,,,,604-859-8713,,,,,,,,,,,,604-859-8718,,,www.taborhome.org,,,,,,,,,,,,,,,,,,31954 Sunrise Cr,,,Abbotsford,,,BC,,V2T 1N6,Canada,49.046525,-122.338305,Clearbrook Commercial,True
+Birchwood Retirement Suites & Cottages,,,,,,604-792-8164,,,,,,,,,,,,604-792-8793,,,www.chartwellreit.ca,,,,,,,,,,,,,,,,,,45650 Patten Ave,,,Chilliwack,,,BC,,V2P 1S4,Canada,49.1692141,-121.9612748,Chilliwack Proper Village West,True
+Sto:lo Elders Lodge,,,,,,604-858-5499,,,,,,,,,,,,604-858-5591,,,www.stolonation.bc.ca/services-and-programs/elders-lodge/elders-lodge.htm,,,,,,,,,,,,,,,,,,7519 Topaz Dr,,,Chilliwack,,,BC,,V2R 0E8,Canada,49.1389349,-121.9670607,Sardis,True
+Sunset Manor,,,,,,604-7030433,,,,,,,,,,,,604 702-0457,,,www.sunsetmanor.ca,,,,,,,,,,,,,,,,,,8920-2 Broadway St,,,Chilliwack,,,BC,,V2P 5W1,Canada,49.164534,-121.9335641,Rosedale,True
+The Cascades,,,,,,604-795-7291,,,,,,,,,,,,604-795-7297,,,www.balticproperties.ca,,,,,,,,,,,,,,,,,,45586 McIntosh Dr,,,Chilliwack,,,BC,,V2P 7W8,Canada,49.1609803,-121.9628995,Chilliwack Proper Village West,True
+Waverly Seniors Village,,,,,,604-702-5611,,,,,,,,,,,,604-792-6340,,,n/a,,,,,,,,,,,,,,,,,,8445 Young Rd,,,Chilliwack,,,BC,,V2P 4P2,Canada,49.1554583,-121.9519837,Chilliwack Proper Village West,True
+Blue Heron Villa,,,,,,250-766-1658,,,,,,,,,,,,250-766-1660,,,www.blueheronvilla.com,,,,,,,,,,,,,,,,,,9509 Main St,,,Lake Country,,,BC,,V4V 2N3,Canada,50.0207652,-119.4043046,,True
+Boundary Lodge Assisted Living,,,,,,250-443-0015,,,,,,,,,,,,250-443-0006,,,n/a,,,,,,,,,,,,,,,,,,7130 9th St,,,Grand Forks,,,BC,,V0H 1H4,Canada,49.0238511,-118.4425144,,True
+Braehaven Assisted Living,,,,,,250-537-1124,,,,,,,,,,,,250-537-5520,,,www.greenwoodseldercare.com,,,,,,,,,,,,,,,,,,137 Blain Rd,,,Salt Spring Island,,,BC,,V8K 0A1,Canada,48.8616338,-123.5114185,Ganges,True
+A Better Place,,,,,,n/a,,,,,,,,,,,,778-889-8555,,,www.abetterplacetransitionhousing.ca,,,,,,,,,,,,,,,,,,9885/9887 138th St,,,Surrey,,,BC,,V3T5E3,Canada,49.1822225,-122.8398754,Whalley,True
+Amenida Seniors Community,,,,,,604-597-8032,,,,,,,,,,,,604-597-9333,,,www.homecareliving.ca,,,,,,,,,,,,,,,,,,13855 68th Ave,,,Surrey,,,BC,,V3W 2G9,Canada,49.12664,-122.839012,Newton,True
+Clover Heights Retirement Home,,,,,,604-372-3226,,,,,,,,,,,,604-372-1131,,,www.cloverheight.com,,,,,,,,,,,,,,,,,,6209 184th St,,,Surrey,,,BC,,V3S 8B1,Canada,49.1151388,-122.7132043,Cloverdale,True
+Crescent Gardens,,,,,,604-541-8871,,,,,,,,,,,,604-541-8861,,,www.chartwell.com,,,,,,,,,,,,,,,,,,1222 King George Hwy,,,Surrey,,,BC,,V4A 9W6,Canada,49.0243238,-122.7652567,,True
+Elim Village - Emerald Building,,,,,,604-587-6465,,,,,,,,,,,,604-584-7587,,,www.elimvillage.com,,,,,,,,,,,,,,,,,,9080 159th St,,,Surrey,,,BC,,V4N 5T6,Canada,49.167634,-122.78134,,True
+Fleetwood Villa,,,,,,604-590-2887,,,,,,,,,,,,604-590-2889,,,www.reveraliving.com/fleetwood,,,,,,,,,,,,,,,,,,16028 83rd Ave,,,Surrey,,,BC,,V4N 0N2,Canada,49.1530918,-122.7781311,,True
+Freedom Place,,,,,,n/a,,,,,,,,,,,,604-634-3300,,,www.howesound.net,,,,,,,,,,,,,,,,,,10342 148th St,,,Surrey,,,BC,,V3R 3X3,Canada,49.190199,-122.811697,Guildford,True
+Imperial Place Retirement Residence,,,,,,604-583-3243,,,,,,,,,,,,604-581-1555,,,www.chartwellreit.ca,,,,,,,,,,,,,,,,,,13853 102nd Ave,,,Surrey,,,BC,,V3T5P6,Canada,49.1887438,-122.8383032,Whalley,True
+Pacific Carlton,,,,,,604-542-8400,,,,,,,,,,,,604-531-1160,,,www.unicarehomes.com,,,,,,,,,,,,,,,,,,15366 17th Ave,,,Surrey,,,BC,,V4A 1T9,Canada,49.032764,-122.796374,,True
+PICS Assisted Living,,,,,,604-596-7217,,,,,,,,,,,,604-596-0052,,,www.pics.bc.ca,,,,,,,,,,,,,,,,,,12075 75A Ave,,,Surrey,,,BC,,V3W 1S8,Canada,49.1401474,-122.8885878,Newton,True
+Rosemary Heights Seniors Village,,,,,,778-545-5050,,,,,,,,,,,,778-545-5000,,,n/a,,,,,,,,,,,,,,,,,,15240- 34th Ave,,,Surrey,,,BC,,V3S 2J9,Canada,49.063198,-122.8004591,Rosemary Heights Central,True
+Sunnyside Manor,,,,,,604-542-8399,,,,,,,,,,,,604-531-7470,,,www.unicarehomes.com,,,,,,,,,,,,,,,,,,15340 17th Ave,,,Surrey,,,BC,,V4A 1T9,Canada,49.0327045,-122.7975148,,True
+The English Manor,,,,,,n/a,,,,,,,,,,,,604-541-9697,,,www.assistedlivingwhiterockbc.com/,,,,,,,,,,,,,,,,,,16963 22nd Ave,,,Surrey,,,BC,,V3S 9Z3,Canada,49.0424562,-122.7526633,,True
+The Gateway,,,,,,604-495-4560,,,,,,,,,,,,604-585-2906,,,www.gatewayassistedliving.ca,,,,,,,,,,,,,,,,,,13787 100 Ave,,,Surrey,,,BC,,V3T 5X7,Canada,49.1847317,-122.8404363,Whalley,True
+The Residence at Morgan Heights,,,,,,604-535-7718,,,,,,,,,,,,604-535-1118Ext 101,,,www.morganheightscare.ca,,,,,,,,,,,,,,,,,,15955 27th Ave,,,Surrey,,,BC,,V3Z 3W3,Canada,49.0516839,-122.7799011,Morgan Heights,True
+The Royale Pacifica,,,,,,604-535-1663,,,,,,,,,,,,604-535-9194,,,www.siennaliving.ca,,,,,,,,,,,,,,,,,,2525 King George Blvd,,,Surrey,,,BC,,V4P 0C8,Canada,49.0477836,-122.7971059,,True
+The Royale Peninsula Resort Retirement Living,,,,,,604-538-2031,,,,,,,,,,,,604-538-2033,,,www.peninsulaliving.ca,,,,,,,,,,,,,,,,,,2088 152 St,,,Surrey,,,BC,,V4A 9Z4,Canada,49.0395021,-122.8000807,,True
+Whitecliff Retirement Residence,,,,,,604-538-4919,,,,,,,,,,,,604-538-7227,,,www.reveraliving.com/whitecliff,,,,,,,,,,,,,,,,,,15501 16th Ave,,,Surrey,,,BC,,V4A 9M5,Canada,49.0315538,-122.7933683,,True
+Carefree Manor,,,,,,250-395-4847,,,,,,,,,,,,250-395-4807,,,www.carefreemanor.ca,,,,,,,,,,,,,,,,,,812 Cariboo Trl,Box 217,,100 Mile House,,,BC,,V0K 2E0,Canada,ERROR,ERROR,ERROR,True
+Carrington House,,,,,,604-814-3016,,,,,,,,,,,,604-826-4747,,,www.chartwellreit.ca,,,,,,,,,,,,,,,,,,32679 6th Ave,,,Mission,,,BC,,V2V 1Y8,Canada,49.1391185,-122.3198829,,True
+The Cedars (Mission),,,,,,604-826-2102,,,,,,,,,,,,604-826-2194,,,www.missionseniors.ca,,,,,,,,,,,,,,,,,,7380 Hurd St,,,Mission,,,BC,,V2V 3H5,Canada,49.1357942,-122.3322863,,True
+Carrington Place,,,,,,250-545-5793,,,,,,,,,,,,250-545-5704,,,www.chartwell.com,,,,,,,,,,,,,,,,,,4651 4751 23rd St,,,Vernon,,,BC,,V1T 4K7,Canada,50.2812312,-119.2619103,,True
+Creekside Landing,,,,,,250-549-9334,,,,,,,,,,,,250-549-9550,,,www.kaigo.ca,,,,,,,,,,,,,,,,,,6190 Okanagan Landing Rd,,,Vernon,,,BC,,V1H 1M3,Canada,50.246255,-119.322303,,True
+Heritage Square,,,,,,250-545-4060,,,,,,,,,,,,250-545-2060,,,www.kaigo.ca/our-communities/heritage-square/,,,,,,,,,,,,,,,,,,3904-27th St,,,Vernon,,,BC,,V1T 4X7,Canada,50.2706316,-119.2674068,,True
+Heron Grove,,,,,,250-542-6227,,,,,,,,,,,,250-542-6101,,,www.gss.org,,,,,,,,,,,,,,,,,,4900 20th St,,,Vernon,,,BC,,V1T 9W3,Canada,50.282974,-119.259706,,True
+Casa Loma Seniors Village,,,,,,250-897-1038,,,,,,,,,,,,250-897-1033,,,n/a,,,,,,,,,,,,,,,,,,4646 Headquarter Rd,,,Courtenay,,,BC,,V9N 7J3,Canada,49.7025981,-124.9923824,,True
+Comox Valley Seniors Village,,,,,,250-331-4100,,,,,,,,,,,,250-331-1183,,,n/a,,,,,,,,,,,,,,,,,,4640 Headquarters Rd,,,Courtenay,,,BC,,V9N 7J3,Canada,49.7025944,-124.992391,,True
+Castle Wood Village,,,,,,250-365-6647,,,,,,,,,,,,250-365-6686,,,www.goldenlifemanagement.ca/index.php/villages/castlewood-village/overview,,,,,,,,,,,,,,,,,,525 Columbia St,,,Castlegar,,,BC,,V1N 1G7,Canada,49.323775,-117.6656598,,True
+Cedar Garden Assisted Living,,,,,,604-904-6411,,,,,,,,,,,,604-904-6409,,,www.vch.ca/EN/find_services/find_services/?&program_id=10569,,,,,,,,,,,,,,,,,,1250 Cedar Village Close,,,North Vancouver,,,BC,,V7J 3P3,Canada,49.3259754,-123.0406218,,True
+Churchill House,,,,,,604-904-1191,,,,,,,,,,,,604-904-1199,,,www.chartwell.com/locations/churchill-house-retirement-community/index.php,,,,,,,,,,,,,,,,,,150 West 29th St,,,North Vancouver,,,BC,,V7N 2J8,Canada,49.336069,-123.073389,,True
+Lynn Valley House,,,,,,604-988-0814,,,,,,,,,,,,604-982-3725,,,www.vch.ca/assisted/ns/lynn.htm,,,,,,,,,,,,,,,,,,1070 Lynn Valley Rd,,,North Vancouver,,,BC,,V7J 1Z8,Canada,49.333963,-123.044729,,True
+Chestnut Place,,,,,,250-493-4636,,,,,,,,,,,,250-490-0200,,,www.pdscl.org,,,,,,,,,,,,,,,,,,453 Winnipeg St,,,Penticton,,,BC,,V2A 5M7,Canada,49.4957764,-119.5941888,,True
+Pentoka Companion Care,,,,,,250-492-2680,,,,,,,,,,,,250-492-2616,,,n/a,,,,,,,,,,,,,,,,,,168 Kirkpatrick Ave,,,Penticton,,,BC,,V2A 3P5,Canada,49.4705759,-119.5879265,,True
+The Concorde Assisted Living Residence,,,,,,250-490-8810,,,,,,,,,,,,250-490-8800,,,www.verveseniorliving.com,,,,,,,,,,,,,,,,,,3235 Skaha Lake Rd,,,Penticton,,,BC,,V2A 6G5,Canada,49.459784,-119.5886096,,True
+The Hamlets at Penticton,,,,,,250-490-8523,,,,,,,,,,,,250-490-8503,,,www.thehamletsatpenticton.com/index.html,,,,,,,,,,,,,,,,,,103 Duncan Ave W,,,Penticton,,,BC,,V2A 2Y3,Canada,49.4834236,-119.5892636,,True
+Village By the Station,,,,,,250-490-9733,,,,,,,,,,,,250-490-4949,,,www.gss.org,,,,,,,,,,,,,,,,,,270 Hastings Ave,,,Penticton,,,BC,,V2A 2V6,Canada,49.4851868,-119.5962207,,True
+Christenson Village,,,,,,604-886-8790,,,,,,,,,,,,604-886-8747Ext 3,,,www.vch.ca/EN/find_services/find_services/?&program_id=10567,,,,,,,,,,,,,,,,,,585 Shaw Rd,,,Gibsons,,,BC,,V0N 1V8,Canada,49.404508,-123.520316,,True
+Cokely Manor,,,,,,250-248-4813,,,,,,,,,,,,250-947-9777,,,www.arrowsmithlodge.ca,,,,,,,,,,,,,,,,,,266A Moilliet St,,,Parksville,,,BC,,V9P 1M9,Canada,49.3163852,-124.3232824,,True
+Stanford Seniors Village,,,,,,250-951-0812,,,,,,,,,,,,250-951-0811,,,n/a,,,,,,,,,,,,,,,,,,250 Craig St,,,Parksville,,,BC,,V9P 0A7,Canada,49.3163793,-124.3124013,,True
+Coldstream Meadows Retirement Community,,,,,,250-542-5675,,,,,,,,,,,,250-542-5661,,,www.coldstreammeadows.com,,,,,,,,,,,,,,,,,,9104 Mackie Dr,,,Coldstream,,,BC,,V1B 1G9,Canada,50.2181077,-119.2177678,,True
+Amica at Arbutus Manor,,,,,,604-731-8933,,,,,,,,,,,,604-736-8936,,,www.amica.ca,,,,,,,,,,,,,,,,,,2125 Eddington Dr,,,Vancouver,,,BC,,V6L 3A9,Canada,49.2474524,-123.1558338,Arbutus Ridge,True
+Chalmers Lodge,,,,,,604-731-3140,,,,,,,,,,,,604-731-3178,,,www.chalmerslodge.ca,,,,,,,,,,,,,,,,,,1450 West 12th Ave,,,Vancouver,,,BC,,V6H 1M9,Canada,49.2604701,-123.1374847,West Side,True
+Clarendon Court,,,,,,604-324-6224,,,,,,,,,,,,604-3254-6230,,,www.baptisthousing.org/communities/clarendon-court,,,,,,,,,,,,,,,,,,6404 Clarendon St,,,Vancouver,,,BC,,V5S 4X9,Canada,49.2255411,-123.0554663,East Side,True
+Cooper Place,,,,,,604-684-2575,,,,,,,,,,,,604-684-2545,,,www.cccares.org,,,,,,,,,,,,,,,,,,306 East Cordova St,,,Vancouver,,,BC,,V6A 1L5,Canada,49.2821295,-123.0970695,Central,True
+Crofton Manor,,,,,,604-263-7719,,,,,,,,,,,,604-263-0921,,,www.reveraliving.com,,,,,,,,,,,,,,,,,,2803 West 41st Ave,,,Vancouver,,,BC,,V6N 4B4,Canada,49.2354713,-123.1680333,Arbutus Ridge,True
+Granville Gardens Retirement,,,,,,n/a,,,,,,,,,,,,604-563-3540,,,www.granvillegardens.net,,,,,,,,,,,,,,,,,,1550 W 49 Ave,Suite 100,,Vancouver,,,BC,,V6M 2R6,Canada,49.2267435,-123.1402455,West Side,True
+Harmony House - Vancouver,,,,,,604-648-0056,,,,,,,,,,,,604-648-0012,,,www.vch.ca/EN/find_services/find_services/?&program_id=10574,,,,,,,,,,,,,,,,,,580 Shanghai Alley,,,Vancouver,,,BC,,V6B 1N8,Canada,49.2798328,-123.1056132,Central,False
+Haro Park,,,,,,604-687-0645,,,,,,,,,,,,604-687-5584,,,www.haropark.org/,,,,,,,,,,,,,,,,,,1233 Haro St,,,Vancouver,,,BC,,V6E 3Y5,Canada,49.2856138,-123.1282877,Central,True
+Honoria Conway at St. Vincent's Heather,,,,,,604-876-7196,,,,,,,,,,,,604-876-7191,,,www.providencehealthcare.org/hospitals-residences/st-vincents-honoria-conway-heather,,,,,,,,,,,,,,,,,,4875 Heather St,,,Vancouver,,,BC,,V5Z 0A7,Canada,49.2417105,-123.1211813,South Cambie,True
+Icelandic Harbour,,,,,,604-321-3863,,,,,,,,,,,,604-321-3812,,,www.vch.ca/EN/find_services/find_services/?&program_id=10563,,,,,,,,,,,,,,,,,,2020 Harrison Dr,,,Vancouver,,,BC,,V5P 2P6,Canada,49.2095501,-123.0637129,East Side,True
+Legacy Senior Living - The Leo Wertman Residence,,,,,,604-683-0355,,,,,,,,,,,,604-240-8550,,,www.legacyseniorliving.com,,,,,,,,,,,,,,,,,,611 West 41 Ave,,,Vancouver,,,BC,,V5Z 0C7,Canada,49.2338561,-123.1186266,South Cambie,True
+Millennium Tower,,,,,,604-408-9868,,,,,,,,,,,,604-408-9897,,,www.vch.ca/EN/find_services/find_services/?&program_id=10558,,,,,,,,,,,,,,,,,,1175 Broughton St,,,Vancouver,,,BC,,V6G 3K9,Canada,49.2840452,-123.136243,Central,True
+Southview Heights,,,,,,604-438-0262,,,,,,,,,,,,604-438-3367,,,www.salvationarmy.ca/britishcolumbia/southviewterraceandheights/,,,,,,,,,,,,,,,,,,7252 Kerr St,,,Vancouver,,,BC,,V5S 3V2,Canada,49.2177302,-123.0405452,East Side,True
+Tapestry at Arbutus Walk,,,,,,604-736-1679,,,,,,,,,,,,604-736-1640,,,www.discovertapestry.com,,,,,,,,,,,,,,,,,,2799 Yew St,,,Vancouver,,,BC,,V6K4W2,Canada,49.261442,-123.1556576,Kitsilano,True
+Tapestry at Wesbrook Village,,,,,,604-225-5002,,,,,,,,,,,,604-225-5000,,,n/a,,,,,,,,,,,,,,,,,,338 Wesbrook Mall,,,Vancouver,,,BC,,V6S 0A6,Canada,49.2540897,-123.2345221,,False
+Terraces on 7th,,,,,,604-738-8386,,,,,,,,,,,,604-738-8380,,,www.retirementconcepts.com/homes/terraces/,,,,,,,,,,,,,,,,,,1570 West 7th Ave,,,Vancouver,,,BC,,V6J 5M1,Canada,49.2651372,-123.1401893,West Side,True
+The Cedars at Beulah Gardens,,,,,,604-251-4116,,,,,,,,,,,,604-251-4114,,,www.vch.ca/EN/find_services/find_services/?&program_id=10559,,,,,,,,,,,,,,,,,,3355 East 5th Ave,,,Vancouver,,,BC,,V5M 0A1,Canada,49.2662119,-123.0323952,East Side,True
+The Harry and Jeanette Weinberg (of Baltimore) Residence,,,,,,604-261-9644,,,,,,,,,,,,604-261-9622,,,www.weinbergresidence.com/assisted.html,,,,,,,,,,,,,,,,,,5650 Osler St,,,Vancouver,,,BC,,V6M 2W9,Canada,49.2346409,-123.1292262,West Side,True
+Columbia Garden Village,,,,,,250-341-3340,,,,,,,,,,,,250-341-3350,,,www.goldenlifemanagement.ca/index.php/villages/columbia-garden-village/overview-2,,,,,,,,,,,,,,,,,,800-10th Ave,PO Box 578,,Invermere,,,BC,,V0A 1K0,Canada,50.507651,-116.0338495,,True
+Cottonwood Manor,,,,,,250-845-3775,,,,,,,,,,,,250-845-3770,,,n/a,,,,,,,,,,,,,,,,,,2261 Copeland Ave,,,Houston,,,BC,,V0J 1Z0,Canada,54.3972441,-126.6496617,,True
+Courtyard Terrace,,,,,,604-430-5131,,,,,,,,,,,,604-437-6262,,,www.parkplaceseniorsliving.com,,,,,,,,,,,,,,,,,,3730 Burke St,,,Burnaby,,,BC,,V5H 1A3,Canada,49.2368917,-123.0226075,,True
+Dania Manor,,,,,,604-299-0179,,,,,,,,,,,,604-299-1379,,,www.dania.bc.ca,,,,,,,,,,,,,,,,,,4155 Norland Ave,,,Burnaby,,,BC,,V5G 3Z6,Canada,49.24722,-122.97584,,True
+Liberty Place,,,,,,604-526-2207,,,,,,,,,,,,604-526-9933,,,www.howesound.net,,,,,,,,,,,,,,,,,,7899 17th Ave,,,Burnaby,,,BC,,V3N 1M1,Canada,49.2245159,-122.9351411,,True
+Nikkei Home,,,,,,604-777-5050,,,,,,,,,,,,604-777-5000,,,www.nikkeiplace.org,,,,,,,,,,,,,,,,,,6680 Southoaks Cr,,,Burnaby,,,BC,,V5E 4N3,Canada,49.217547,-122.965124,,True
+Rideau Retirement Residence,,,,,,604-291-2151,,,,,,,,,,,,604-291-1792,,,n/a,,,,,,,,,,,,,,,,,,1850 Rosser Ave,,,Burnaby,,,BC,,V5C 5E1,Canada,49.2677888,-123.0056401,,True
+Seton Villa,,,,,,604-291-1871,,,,,,,,,,,,604-291-0607,,,www.setonvilla.com,,,,,,,,,,,,,,,,,,3755 McGill St,,,Burnaby,,,BC,,V5C 1M2,Canada,49.2886326,-123.0219377,,True
+Swedish Assisted Living Residence,,,,,,604-420-3234,,,,,,,,,,,,604-420-3222,,,n/a,,,,,,,,,,,,,,,,,,7230 Halifax St,,,Burnaby,,,BC,,V5A 0B2,Canada,49.2677959,-122.9520515,,True
+Crest View Village,,,,,,250-428-9968,,,,,,,,,,,,250-428-9986,,,www.goldenlifemanagement.ca/index.php/villages/crest-view-village/overview-3,,,,,,,,,,,,,,,,,,800 Cavell St,RR4,,Creston,,,BC,,V0B 1G4,Canada,49.104853,-116.51521,,True
+Dale Manor,,,,,,604-414-0636,,,,,,,,,,,,604-414-9460,,,n/a,,,,,,,,,,,,,,,,,,5402/5404 Dale Ave,,,Powell River,,,BC,,V8A 3W3,Canada,49.862586,-124.520641,,True
+Kiwanis Garden Manor,,,,,,604-485-5250,,,,,,,,,,,,604-485-5210,,,www.kiwanishousing.com,,,,,,,,,,,,,,,,,,4923 Kiwanis Ave,,,Powell River,,,BC,,V8A 5H5,Canada,49.8505869,-124.5212613,,True
+Delta King Place,,,,,,250-632-6705,,,,,,,,,,,,250-632-6535,,,www.deltakingplace.ca/,,,,,,,,,,,,,,,,,,701 Mountainview Sq,,,Kitimat,,,BC,,V8C 2N1,Canada,54.049406,-128.6501622,,True
+Dovehill House,,,,,,250-416-0494,,,,,,,,,,,,250-416-0332,,,www.dovehillhouse.com/,,,,,,,,,,,,,,,,,,3326 Creegan Dr,,,Chemainus,,,BC,,V0R 1K2,Canada,48.9296231,-123.7406403,,True
+The Steeples,,,,,,250-246-1826,,,,,,,,,,,,250-246-1805,,,www.viha.ca/hcc/assisted/locations/the_steeples.htm,,,,,,,,,,,,,,,,,,9910 Esplanade St,,,Chemainus,,,BC,,V0R 1K1,Canada,48.926963,-123.716755,,True
+Eagle Valley Manor,,,,,,250-836-2382,,,,,,,,,,,,250-836-2314,,,www.sicamousseniorshousing.com,,,,,,,,,,,,,,,,,,319 Gordon Mackie Ln,,,Sicamous,,,BC,,V0E 2V1,Canada,50.8338937,-118.9828273,,True
+Esquimalt Lions Grafton Lodge,,,,,,n/a,,,,,,,,,,,,250-384-3500,,,www.greatervichousing.org,,,,,,,,,,,,,,,,,,506 Grafton St,,,Esquimalt,,,BC,,V9A 7P8,Canada,48.429015,-123.423339,,True
+Evergreen Heights,,,,,,604-541-3810,,,,,,,,,,,,604-541-3817,,,www.evergreen-home.com,,,,,,,,,,,,,,,,,,1501 Everall St,,,White Rock,,,BC,,V4B 0A1,Canada,49.0293954,-122.8098635,,True
+Amica at Beechwood Village,,,,,,250-655-4076,,,,,,,,,,,,250-655-0849,,,www.amica.ca,,,,,,,,,,,,,,,,,,2315 Mills Rd,,,Sidney,,,BC,,V8L 5W6,Canada,48.6542886,-123.4039166,,True
+Shoal Centre Assisted Living,,,,,,250-656-9974,,,,,,,,,,,,250-656-5537Ext 111,,,www.beaconcs.ca/pages/shoal.html,,,,,,,,,,,,,,,,,,10030 Resthaven Dr,Suite 330,,Sidney,,,BC,,V8L 3G4,Canada,48.6540467,-123.402892,,True
+The Peninsula,,,,,,250-656-8810,,,,,,,,,,,,250-656-8827,,,www.peninsulaatnorgarden.com,,,,,,,,,,,,,,,,,,2290 Henry Ave,,,Sidney,,,BC,,V8L 2B2,Canada,48.653896,-123.404777,,True
+Evergreen Timbers,,,,,,604-530-7104,,,,,,,,,,,,604-530-7171,,,www.llschs.com,,,,,,,,,,,,,,,,,,5464 203rd St,,,Langley,,,BC,,V3A 0A4,Canada,49.1016929,-122.6584485,,True
+Harrison Landing,,,,,,604-533-7059,,,,,,,,,,,,604-530-7075,,,www.harrisonlanding.com,,,,,,,,,,,,,,,,,,20899 Douglas Cr,,,Langley,,,BC,,V3A 9L3,Canada,49.101385,-122.645537,,True
+Harrison Pointe,,,,,,604-530-1105,,,,,,,,,,,,604-530-1101,,,www.harrisonpointe.ca,,,,,,,,,,,,,,,,,,21616 52nd Ave,,,Langley,,,BC,,V2Y 1L7,Canada,49.0969725,-122.6230532,,True
+Langley Gardens Retirement Community,,,,,,604-881-8179,,,,,,,,,,,,604-888-0228,,,www.chartwell.com,,,,,,,,,,,,,,,,,,8888 202 St,,,Langley,,,BC,,V1M 4A7,Canada,49.1660759,-122.6605598,,True
+Langley Seniors Village,,,,,,604-539-3300,,,,,,,,,,,,604-539-9934,,,n/a,,,,,,,,,,,,,,,,,,20363-65th Ave,,,Langley,,,BC,,V2Y 3E3,Canada,49.1210877,-122.6581478,Willowbrook,True
+Forest Glen,,,,,,250-726-2780,,,,,,,,,,,,250-726-2789,,,www.viha.ca/hcc/assisted/locations/forest_glen.htm,,,,,,,,,,,,,,,,,,1783 St Jacques Blvd,Box 833,,Ucluelet,,,BC,,V0R 3A0,Canada,ERROR,ERROR,ERROR,True
+Garden View Village,,,,,,250-427-4013,,,,,,,,,,,,250-427-4014,,,www.goldenlifemanagement.ca/index.php/villages/garden-view-village/overview-4,,,,,,,,,,,,,,,,,,280 4th Ave,,,Kimberley,,,BC,,V1A 2R6,Canada,49.690259,-115.9859293,Townsite,True
+Gateway Lodge - Northern Health Authority,,,,,,n/a,,,,,,,,,,,,250-645-6100,,,n/a,,,,,,,,,,,,,,,,,,1462 20th Ave,,,Prince George,,,BC,,V2L 0B3,Canada,53.9055486,-122.7522429,,True
+Laurier Manor - Northern Health Authority,,,,,,250-561-1424,,,,,,,,,,,,250-561-1408,,,n/a,,,,,,,,,,,,,,,,,,2175 9th Ave,,,Prince George,,,BC,,V2M 5E3,Canada,53.916317,-122.765922,,True
+Rodica Senior Home Care House,,,,,,n/a,,,,,,,,,,,,250-563-9566,,,n/a,,,,,,,,,,,,,,,,,,2568 Victoria St,,,Prince George,,,BC,,V2L 5G8,Canada,53.897994,-122.7548667,,True
+Good Samaritan Canada Victoria Heights,,,,,,604-523-9220,,,,,,,,,,,,604-523-9227,,,www.gss.org,,,,,,,,,,,,,,,,,,230 Ross Dr,,,New Westminster,,,BC,,V3L 0B1,Canada,49.213579,-122.9001205,,True
+Thornebridge Gardens,,,,,,604-524-6109,,,,,,,,,,,,604-524-6100,,,www.verveseniorliving.com,,,,,,,,,,,,,,,,,,649 8th Ave,,,New Westminster,,,BC,,V3M 2R2,Canada,49.2157515,-122.9257408,,True
+Halcyon House,,,,,,250-265-4141,,,,,,,,,,,,250-265-3692,,,n/a,,,,,,,,,,,,,,,,,,83 8th Ave,,,Nakusp,,,BC,,V0G 1R0,Canada,50.2395866,-117.8077194,,True
+Hawthorne Tower,,,,,,604-941-5829,,,,,,,,,,,,604-941-4051,,,www.hawthornecare.com,,,,,,,,,,,,,,,,,,2111 Hawthorne Ave,,,Port Coquitlam,,,BC,,V3C 1W3,Canada,49.2576729,-122.776624,,True
+Mayfair Terrace Retirement Residence,,,,,,604-552-3785,,,,,,,,,,,,604-552-5552,,,www.amica.ca,,,,,,,,,,,,,,,,,,2267 Kelly Ave,,,Port Coquitlam,,,BC,,V3C 6N4,Canada,49.2594039,-122.7810835,,True
+The Royale Astoria,,,,,,604-944-2344,,,,,,,,,,,,604-944-2341,,,www.siennaliving.ca,,,,,,,,,,,,,,,,,,2245 Kelly Ave,,,Port Coquitlam,,,BC,,V3C 0B1,Canada,49.2593354,-122.7800508,,True
+Heritage House (Oliver),,,,,,250-498-8842,,,,,,,,,,,,250-498-0622,,,www.benchlife.com,,,,,,,,,,,,,,,,,,409 Salamander Ave,,,Oliver,,,BC,,V0H 1T3,Canada,49.1874804,-119.5459466,,True
+Heritage Manor II,,,,,,250-263-6086,,,,,,,,,,,,250-787-2376,,,n/a,,,,,,,,,,,,,,,,,,9824 106th Ave,,,Fort Saint John,,,BC,,V1J 2N9,Canada,56.252235,-120.845446,,True
+Heritage Place (Alberni Valley),,,,,,n/a,,,,,,,,,,,,250-723-0480,,,www.viha.ca/hcc/assisted/locations/heritage_place.htm,,,,,,,,,,,,,,,,,,4360 Heritage Ln,,,Port Alberni,,,BC,,V9Y 4C3,Canada,49.2526528,-124.7980508,,True
+Returning the Favour Care Home,,,,,,250-724-1525,,,,,,,,,,,,250-724-1520,,,n/a,,,,,,,,,,,,,,,,,,4517 Redford St,,,Port Alberni,,,BC,,V9Y 3P9,Canada,49.245406,-124.801208,,True
+Tsawaayuus (Rainbow Gardens),,,,,,250-724-5666,,,,,,,,,,,,250-724-5655,,,www.rainbowgardens.bc.ca/,,,,,,,,,,,,,,,,,,6222 Compton Rd,,,Port Alberni,,,BC,,V9Y 7B8,Canada,49.2696515,-124.8478459,,True
+Amica at Douglas House,,,,,,250-383-9601,,,,,,,,,,,,250-383-6258,,,www.amica.ca,,,,,,,,,,,,,,,,,,50 Douglas St,,,Victoria,,,BC,,V8V 2N8,Canada,48.410372,-123.3692013,James Bay,True
+Berwick House,,,,,,250-721-4067,,,,,,,,,,,,250-721-4062,,,www.berwickrc.com,,,,,,,,,,,,,,,,,,4062 Shelbourne St,,,Victoria,,,BC,,V8N 3E6,Canada,48.4754373,-123.3328966,,True
+Berwick Royal Oak,,,,,,250-386-4681,,,,,,,,,,,,250-386-4680,,,www.berwickrc.com,,,,,,,,,,,,,,,,,,4680 Elk Lake Dr,,,Victoria,,,BC,,V8Z 0B4,Canada,48.503524,-123.3867688,,True
+Cridge Village Seniors Centre,,,,,,250-384-5267,,,,,,,,,,,,250-384-8058,,,www.cridge.org,,,,,,,,,,,,,,,,,,1307 Hillside Ave,,,Victoria,,,BC,,V8T 0A2,Canada,48.440438,-123.35015,Oaklands,True
+Highgate Lodge,,,,,,250-472-2472,,,,,,,,,,,,250-472-0077,,,www.trilliumcommunities.com,,,,,,,,,,,,,,,,,,1538 Cedar Hill X Rd,,,Victoria,,,BC,,V8P 2P1,Canada,48.4623618,-123.3353426,,True
+Hillside Terrace,,,,,,250-383-1639,,,,,,,,,,,,250-383-1977,,,www.viha.ca/hcc/assisted/locations/hillside_terrace.htm,,,,,,,,,,,,,,,,,,1460 Hillside Ave,,,Victoria,,,BC,,V8T 2B7,Canada,48.4423855,-123.3424377,Oaklands,True
+Jesken Aerie,,,,,,250-474-1531,,,,,,,,,,,,250-474-1524,,,www.makola.bc.ca,,,,,,,,,,,,,,,,,,817 Goldstream Ave,,,Victoria,,,BC,,V9B 2X8,Canada,48.4491357,-123.5018316,,True
+Legion Manor,,,,,,250-652-3260,,,,,,,,,,,,250-652-3261,,,www.legionmanorvictoria.com,,,,,,,,,,,,,,,,,,7601 East Saanich Rd,,,Victoria,,,BC,,V8M 0A4,Canada,48.572237,-123.4025304,,True
+Luther Court,,,,,,250-477-5740,,,,,,,,,,,,250-477-7241Ext 21,,,www.luthercourt.org,,,,,,,,,,,,,,,,,,1525 Cedar Hill Cross Rd,,,Victoria,,,BC,,V8P 5M1,Canada,48.4619182,-123.3363826,,True
+Marrion Village,,,,,,250-592-3951,,,,,,,,,,,,250-592-2593,,,www.baptisthousing.org,,,,,,,,,,,,,,,,,,1968 Bee St,,,Victoria,,,BC,,V8R 6P6,Canada,48.4316505,-123.3219407,,True
+Parry Place,,,,,,250-382-4449,,,,,,,,,,,,250-382-4443,,,www.viha.ca/hcc/assisted/locations/parry_place.htm,,,,,,,,,,,,,,,,,,408 Parry St,,,Victoria,,,BC,,V8V 2H7,Canada,48.4157789,-123.372448,James Bay,True
+Selkirk Seniors Village,,,,,,250-995-1588,,,,,,,,,,,,250-940-1028,,,n/a,,,,,,,,,,,,,,,,,,385 Waterfront Cr,,,Victoria,,,BC,,V8T 5K7,Canada,48.441914,-123.377976,Burnside,True
+Somerset House,,,,,,250-380-9109,,,,,,,,,,,,250-380-9121,,,www.amica.ca,,,,,,,,,,,,,,,,,,540 Dallas Rd,,,Victoria,,,BC,,V8V 4X9,Canada,48.4118857,-123.3762429,James Bay,True
+The Cedars,,,,,,250-477-4851,,,,,,,,,,,,250-477-4850,,,www.dawsonheights.ca,,,,,,,,,,,,,,,,,,3710 Cedar Hill Rd,,,Victoria,,,BC,,V8P 5V5,Canada,48.4623759,-123.3380995,,True
+Wellesley Seniors Village,,,,,,n/a,,,,,,,,,,,,250-383-9099,,,n/a,,,,,,,,,,,,,,,,,,2800 Blanshard St,,,Victoria,,,BC,,V8T 5B5,Canada,48.4399565,-123.3645167,Burnside,True
+Heritage Place for Seniors (Saltspring),,,,,,250-537-8346,,,,,,,,,,,,250-537-8340,,,www.heritageplace.info,,,,,,,,,,,,,,,,,,120 Crofton Rd,,,Saltspring Island,,,BC,,V8K2Y4,Canada,48.861212,-123.509031,Ganges,True
+Heshun Rosewood Senior Centre,,,,,,604-476-0851,,,,,,,,,,,,604-463-1078,,,www.rosewoodcottage.ca,,,,,,,,,,,,,,,,,,11742 225 St,,,Maple Ridge,,,BC,,V2X 6E4,Canada,49.215882,-122.598422,,True
+Maple Ridge Seniors Village,,,,,,604-476-4300,,,,,,,,,,,,604-466-3053,,,n/a,,,,,,,,,,,,,,,,,,22141-119th Ave,,,Maple Ridge,,,BC,,V2X 2Y7,Canada,49.2192328,-122.6084721,Haney,True
+Royal Crescent Gardens,,,,,,604-463-6177,,,,,,,,,,,,604-463-6077,,,www.fraserhealth.ca/find_us/services/assisted_living_residences/,,,,,,,,,,,,,,,,,,11698 226th St,,,Maple Ridge,,,BC,,V2X 6H1,Canada,49.216404,-122.596046,,True
+Willow Senior Living Residence,,,,,,604-466-8627,,,,,,,,,,,,604-466-8602,,,www.chartwellreit.ca,,,,,,,,,,,,,,,,,,12275 224th St,,,Maple Ridge,,,BC,,V2X 6H5,Canada,49.2252485,-122.6020242,,True
+Joseph Creek Village,,,,,,250-417-0616,,,,,,,,,,,,250-417-0666,,,www.goldenlifemanagement.ca/index.php/villages/joseph-creek-village/overview-5,,,,,,,,,,,,,,,,,,1901 Willowbrook Dr,,,Cranbrook,,,BC,,V1C 6S4,Canada,49.525331,-115.7451576,,True
+Kyalami Place,,,,,,250-499-2366,,,,,,,,,,,,250-499-2366,,,www.LSCSS.com,,,,,,,,,,,,,,,,,,720 3rd St,,,Keremeos,,,BC,,V0X 1N3,Canada,49.2060721,-119.8317067,,True
+La Rosa Gardens,,,,,,250-245-1026,,,,,,,,,,,,250-245-1016,,,www.viha.ca/hcc/assisted/locations/la_rosa_gardens.htm,,,,,,,,,,,,,,,,,,1211 Cloke Rd,,,Ladysmith,,,BC,,V9G 2B6,Canada,48.996218,-123.834578,,True
+Lake View Village,,,,,,250-352-0053,,,,,,,,,,,,250-352-0051,,,www.goldenlifemanagement.ca/index.php/villages/lake-view-village/overview-6,,,,,,,,,,,,,,,,,,1020 7th St,,,Nelson,,,BC,,V1L 0A2,Canada,49.509528,-117.271705,,True
+Mountain Lake Seniors Community,,,,,,250-352-2620,,,,,,,,,,,,250-352-2600,,,www.parkplaceseniorsliving.com,,,,,,,,,,,,,,,,,,908 Eleventh St,,,Nelson,,,BC,,V1L 7A6,Canada,49.5074305,-117.2671664,,True
+Logan Manor,,,,,,604-796-8770,,,,,,,,,,,,604-796-8778,,,www.valleycare.info/logan.php,,,,,,,,,,,,,,,,,,7270 Elm Rd,,,Agassiz,,,BC,,V0M 1A2,Canada,49.2312749,-121.7588,,True
+Lotus Place,,,,,,n/a,,,,,,,,,,,,604-856-3468,,,n/a,,,,,,,,,,,,,,,,,,3258 274th St,,,Aldergrove,,,BC,,V4W 3J1,Canada,49.0617142,-122.4648802,Aldergrove,True
+Maeford Place Assisted Living Centre,,,,,,250-992-8392,,,,,,,,,,,,250-992-8342,,,www.insiteseniorcare.com/about-our-communities/maeford-place-assisted-living-quesnel/,,,,,,,,,,,,,,,,,,574 Kinchant St,,,Quesnel,,,BC,,V2J 2R8,Canada,52.9820617,-122.4938635,,True
+Redwood Residence,,,,,,778-466-5600,,,,,,,,,,,,778-466-5400,,,n/a,,,,,,,,,,,,,,,,,,1901 Alder Rd,,,Quesnel,,,BC,,V2J 3T3,Canada,52.974033,-122.4568507,,True
+Mariposa Gardens,,,,,,250-495-8134,,,,,,,,,,,,250-495-8124Ext 102,,,www.balticproperties.ca,,,,,,,,,,,,,,,,,,8816 97th St,,,Osoyoos,,,BC,,V0H 1V5,Canada,49.0353778,-119.4767581,,True
+Amica at West Vancouver,,,,,,604-921-9232,,,,,,,,,,,,604-921-9181,,,www.amica.ca,,,,,,,,,,,,,,,,,,659 Clyde Ave,,,West Vancouver,,,BC,,V7T 1C8,Canada,49.3285795,-123.1329635,,True
+Hollyburn House,,,,,,604-922-9163,,,,,,,,,,,,604-922-7616,,,www.reveraliving.com,,,,,,,,,,,,,,,,,,2095 Marine Dr,,,West Vancouver,,,BC,,V7V 4V5,Canada,49.3299159,-123.167193,,True
+Kiwanis Manor,,,,,,604-913-9830,,,,,,,,,,,,604-913-9083,,,www.vch.ca/EN/find_services/find_services/?&program_id=10572,,,,,,,,,,,,,,,,,,959 21st St,,,West Vancouver,,,BC,,V7V 4Y3,Canada,49.333263,-123.1683011,,True
+Martin Manor,,,,,,250-599-8572,,,,,,,,,,,,250-559-8800,,,n/a,,,,,,,,,,,,,,,,,,306 2nd Ave,,,Queen Charlotte,,,BC,,V0T 1S0,Canada,54.314041,-130.3251975,,True
+McConnell Estates,,,,,,250-638-2096,,,,,,,,,,,,250-638-2095,,,n/a,,,,,,,,,,,,,,,,,,4701 Kerby Ave,,,Terrace,,,BC,,V8G 5V4,Canada,54.533147,-128.592315,,True
+Moberly Manor Assisted Living,,,,,,250-837-5720,,,,,,,,,,,,250-837-3147,,,n/a,,,,,,,,,,,,,,,,,,711 West First St,,,Revelstoke,,,BC,,V0E 2S0,Canada,51.0026024,-118.2022706,,True
+Mountain View Assisted Living,,,,,,250-344-7962,,,,,,,,,,,,250-344-7924,,,n/a,,,,,,,,,,,,,,,,,,750 8th Ave S,,,Golden,,,BC,,V0A 1H0,Canada,51.2977067,-116.9684393,,True
+Nick Grosse Assisted Living Residence,,,,,,n/a,,,,,,,,,,,,250-626-4735,,,n/a,,,,,,,,,,,,,,,,,,2524 Harrison Rd,,,Masset,,,BC,,V0T 1M0,Canada,54.0120765,-132.1508677,,True
+Nicola Meadows Assisted Living,,,,,,250-378-4264,,,,,,,,,,,,250-378-4254,,,www.nicolameadows.com,,,,,,,,,,,,,,,,,,2670 Garcia St,,,Merritt,,,BC,,V1K 1B8,Canada,50.114694,-120.783439,,True
+Nicola Valley Seniors Residence - The Florentine,,,,,,250-378-5350,,,,,,,,,,,,250-378-5300,,,www.theflorentine.ca,,,,,,,,,,,,,,,,,,4100 Belshaw St,,,Merritt,,,BC,,V1K 0A5,Canada,50.1243212,-120.7645532,,True
+Northview,,,,,,250-719-0073,,,,,,,,,,,,250-719-0072,,,n/a,,,,,,,,,,,,,,,,,,1125 90th Ave,,,Dawson Creek,,,BC,,V1G 5A3,Canada,55.7738071,-120.2360528,,True
+Parkside Care Residence,,,,,,778-516-5589,,,,,,,,,,,,778-516-5577,,,n/a,,,,,,,,,,,,,,,,,,9719 Brown St,,,Summerland,,,BC,,V0H 1Z0,Canada,49.5993457,-119.6804229,,True
+Summerland Seniors Village,,,,,,250-404-4399,,,,,,,,,,,,250-404-4400,,,n/a,,,,,,,,,,,,,,,,,,12803 Atkinson Rd,,,Summerland,,,BC,,V0H 1Z4,Canada,49.6000164,-119.6692142,,True
+Parkside Community,,,,,,250-679-4496,,,,,,,,,,,,250-679-4477,,,www.parksidecommunity.ca/index.html,,,,,,,,,,,,,,,,,,743 Okanagan Ave,Box 1129,,Chase,,,BC,,V0E 1M0,Canada,ERROR,ERROR,ERROR,True
+Serenity Acres,,,,,,n/a,,,,,,,,,,,,250 679-3530,,,n/a,,,,,,,,,,,,,,,,,,6188 VLA Rd,,,Chase,,,BC,,V0E 1M1,Canada,50.811057,-119.703631,,True
+Parkview Manor,,,,,,250-449-2843,,,,,,,,,,,,250-449-2842,,,n/a,,,,,,,,,,,,,,,,,,670 9th Ave,Box 427,,Midway,,,BC,,V0H 1M0,Canada,ERROR,ERROR,ERROR,True
+Andover Terrace Retirement Resort,,,,,,250-803-5569,,,,,,,,,,,,250-832-6686,,,www.andoverterrace.com,,,,,,,,,,,,,,,,,,2110 Lakeshore Rd NE,,,Salmon Arm,,,BC,,V1E 3X9,Canada,50.7247278,-119.2639403,,True
+Pioneer Lodge,,,,,,250-804-4815,,,,,,,,,,,,250-804-4814,,,www.gss.org,,,,,,,,,,,,,,,,,,1051 6th Ave NE,,,Salmon Arm,,,BC,,V1E 0A6,Canada,50.704808,-119.272829,,True
+Shuswap Lodge Retirement Residence,,,,,,250-804-0411,,,,,,,,,,,,250-832-7081,,,www.shuswaplodge.com/,,,,,,,,,,,,,,,,,,Box 1480,,,Salmon Arm,,,BC,,V1E 4P6,Canada,50.6943101,-119.2984986,,True
+Pioneer Square,,,,,,250-546-9033,,,,,,,,,,,,250-546-3396,,,www.kaigo.ca,,,,,,,,,,,,,,,,,,2865 Willowdale Dr,,,Armstrong,,,BC,,V0E 1B1,Canada,50.4453973,-119.1959851,,True
+Residences at Belvedere,,,,,,604-939-1901,,,,,,,,,,,,604-939-1930,,,www.residencesatbelvedere.com,,,,,,,,,,,,,,,,,,750 Delestre Ave,,,Coquitlam,,,BC,,V3K 0A1,Canada,49.241556,-122.878239,,True
+Riverside Manor,,,,,,604-860-4701,,,,,,,,,,,,604-860-4700,,,www.optima-living.com/our-communities/riverside-manor,,,,,,,,,,,,,,,,,,765 Old Hope Princeton Way,,,Hope,,,BC,,V0X 1L4,Canada,49.375994,-121.422891,,True
+Riverside Place,,,,,,250-567-6913,,,,,,,,,,,,250-567-5344,,,www.nvcss.ca,,,,,,,,,,,,,,,,,,242 Louvain St,,,Vanderhoof,,,BC,,V0J 3A0,Canada,54.0215605,-124.012975,,True
+Rocky Mountain Village,,,,,,250-423-4225,,,,,,,,,,,,250-417-7232,,,www.goldenlifemanagement.ca/index.php/villages/rocky-mountain-village/overview-8,,,,,,,,,,,,,,,,,,55 Cokato Rd,,,Fernie,,,BC,,V0B 1M4,Canada,49.4922906,-115.0668661,Castle Mountain,True
+Rose Wood Village,,,,,,250-364-3170,,,,,,,,,,,,250-364-3150,,,www.goldenlifemanagement.ca/index.php/villages/rose-wood-village/overview-9,,,,,,,,,,,,,,,,,,8125 Devito Dr,,,Trail,,,BC,,V1R 4X9,Canada,49.0929107,-117.6364994,,True
+Shannon Falls Retirement Residence,,,,,,604-815-0909,,,,,,,,,,,,604-848-2000,,,www.shannonfalls.ca,,,,,,,,,,,,,,,,,,114 38225 Third Ave,,,Squamish,,,BC,,V8B 0S2,Canada,49.70285,-123.15384,,True
+Skeena Place,,,,,,250-842-5213,,,,,,,,,,,,250-842-5217,,,n/a,,,,,,,,,,,,,,,,,,4780 Janze Way,,,Hazelton,,,BC,,V0J 1Y1,Canada,55.2568166,-127.6720019,,True
+Spintlum Lodge,,,,,,n/a,,,,,,,,,,,,250-455-2221Ext 2,,,n/a,,,,,,,,,,,,,,,,,,575 Main St,,,Lytton,,,BC,,V0K 1Z0,Canada,50.232091,-121.580833,,True
+Summit Residence,,,,,,250-622-6485,,,,,,,,,,,,250-622-6451,,,n/a,,,,,,,,,,,,,,,,,,1335 Summit Ave,,,Prince Rupert,,,BC,,V8J 4L2,Canada,54.3032851,-130.3316993,,True
+Astoria Suites at Origin at Longwood,,,,,,250-751-7780,,,,,,,,,,,,250-751-7755,,,www.originway.ca,,,,,,,,,,,,,,,,,,6205 Oliver Rd,,,Nanaimo,,,BC,,V9T 6T1,Canada,49.2207801,-124.0312442,,True
+Berwick on the Lake,,,,,,250-729-7996,,,,,,,,,,,,250-729-7995,,,www.berwickrc.com,,,,,,,,,,,,,,,,,,3201 Ross Rd,,,Nanaimo,,,BC,,V9T 6L9,Canada,49.2100193,-124.0039069,,True
+Kiwanis House,,,,,,250-740-2816,,,,,,,,,,,,250-753-6471,,,www.kiwanisvillage.ca,,,,,,,,,,,,,,,,,,1233 Kiwanis Cr,,,Nanaimo,,,BC,,V9S 5Y1,Canada,49.1861086,-123.9689262,,True
+Kiwanis Suites,,,,,,250-740-2816,,,,,,,,,,,,250-753-6471,,,www.kiwanisvillage.ca,,,,,,,,,,,,,,,,,,1234 Kiwanis Cr,,,Nanaimo,,,BC,,V9S 5Y1,Canada,49.187179,-123.9688054,,True
+Lakeside Gardens,,,,,,250-760-2888,,,,,,,,,,,,250-756-0799,,,www.unicarehomes.com,,,,,,,,,,,,,,,,,,4088 Wellesley Ave,,,Nanaimo,,,BC,,V9T 6M2,Canada,49.2091688,-124.0153133,,True
+Nanaimo Seniors Village,,,,,,250-760-2400,,,,,,,,,,,,250-729-9524,,,n/a,,,,,,,,,,,,,,,,,,6085 Uplands Dr,,,Nanaimo,,,BC,,V9V 1T8,Canada,49.2362931,-124.0389006,Dover Community Association,True
+Oak Tree Manor,,,,,,250-824-4000,,,,,,,,,,,,250-716-1799,,,www.oaktreemanor.ca,,,,,,,,,,,,,,,,,,325 Hecate St,,,Nanaimo,,,BC,,V9R 4J9,Canada,49.1619773,-123.9358247,,True
+Wexford Creek Seniors Community Partnership,,,,,,250-753-4048,,,,,,,,,,,,250-753-4044,,,www.gss.org,,,,,,,,,,,,,,,,,,80 10th St,,,Nanaimo,,,BC,,V9R 0A8,Canada,49.13157,-123.925979,,True
+Surerus Place,,,,,,250-788-3926,,,,,,,,,,,,250-788-3736,,,www.chetwyndseniorshousing.ca,,,,,,,,,,,,,,,,,,5353 47th Ave,,,Chetwynd,,,BC,,V0C 1J0,Canada,55.6990469,-121.6391252,,True
+The Gardens at Qualicum Beach,,,,,,n/a,,,,,,,,,,,,250-752-2818,,,www.retirementconcepts.com,,,,,,,,,,,,,,,,,,650 Berwick Rd N,,,Qualicum Beach,,,BC,,V9K 2T8,Canada,49.3481935,-124.4378302,,True
+The Meadows,,,,,,250-847-8872,,,,,,,,,,,,250-847-8884,,,www.scsa.ca/programs/housing/the-meadows/,,,,,,,,,,,,,,,,,,1180 Alberta St,,,Smithers,,,BC,,V0J 2N0,Canada,54.775439,-127.165328,,True
+The Meadows at Sunridge Place,,,,,,250-748-8388,,,,,,,,,,,,250-748-8048,,,www.sunridgeplace.ca,,,,,,,,,,,,,,,,,,361 Bundock Ave,,,Duncan,,,BC,,V9L 3P1,Canada,48.7774462,-123.6970567,,True
+Ts'i'ts'uwatul' Lelum,,,,,,250-597-2251,,,,,,,,,,,,250-597-2252,,,www.cowichanelders.com/,,,,,,,,,,,,,,,,,,5755 Allenby Rd,,,Duncan,,,BC,,V9L 0E6,Canada,48.7758992,-123.7081946,,True
+The Village at Smith Creek,,,,,,250-768-4777,,,,,,,,,,,,250-768-0488,,,www.baptisthousing.org,,,,,,,,,,,,,,,,,,2425 Orlin Rd,,,Westbank,,,BC,,V4T 1N3,Canada,49.842935,-119.6271814,,True
+The Wesbrooke,,,,,,n/a,,,,,,,,,,,,604-460-7006,,,www.thewesbrooke.com,,,,,,,,,,,,,,,,,,12000 190A St,,,Pitt Meadows,,,BC,,V3Y 0E4,Canada,49.2205868,-122.6933224,,True
+Thompson View Lodge,,,,,,250-453-0059,,,,,,,,,,,,250-453-0085,,,n/a,,,,,,,,,,,,,,,,,,710 Elm St,,,Ashcroft,,,BC,,V0K 1A0,Canada,50.7343532,-121.2794833,,True
+Tweedsmuir House,,,,,,250-692-3785,,,,,,,,,,,,250-692-3781,,,n/a,,,,,,,,,,,,,,,,,,53 9th Ave,,,Burns Lake,,,BC,,V0J 1E0,Canada,54.2351169,-125.7508724,,True
+Vermilion Court,,,,,,250-295-6214,,,,,,,,,,,,250-295-6666,,,n/a,,,,,,,,,,,,,,,,,,72 Fenchurch Ave,,,Princeton,,,BC,,V0X 1W0,Canada,49.4608603,-120.5070749,,True
+West Shore Lodge,,,,,,250-478-7627,,,,,,,,,,,,250-478-7527,,,www.trilliumcommunities.com,,,,,,,,,,,,,,,,,,1828 Island Hwy,,,Colwood,,,BC,,V9B 1J2,Canada,48.4447538,-123.4697568,,True
+Augustine House,,,,,,604-940-6015,,,,,,,,,,,,604-940-6005,,,www.augustinehouse.ca,,,,,,,,,,,,,,,,,,3820 Arthur Dr,,,Delta,,,BC,,V4K 5E6,Canada,49.073062,-123.077155,,True
+Delta View Enriched Living,,,,,,604-596-7613,,,,,,,,,,,,604-501-6700,,,www.deltaview.ca,,,,,,,,,,,,,,,,,,9341 Burns Dr,,,Delta,,,BC,,V4K 3N3,Canada,49.0921761,-122.965141,,True
+KinVillage Assisted Living,,,,,,604-943-4126,,,,,,,,,,,,604-943-4805,,,www.kinvillage.org,,,,,,,,,,,,,,,,,,5440 10th Ave,,,Delta,,,BC,,V4M 3Y9,Canada,49.021499,-123.072261,Tsawwassen,True
+Williams Lake Seniors Village,,,,,,250-305-3333,,,,,,,,,,,,250-305-1131,,,n/a,,,,,,,,,,,,,,,,,,1455 Western Ave,,,Williams Lake,,,BC,,V2G 5N1,Canada,52.1520363,-122.1593148,,True
+Yellowhead Pioneer Residence,,,,,,250-672-0075,,,,,,,,,,,,250-672-0019,,,n/a,,,,,,,,,,,,,,,,,,4557 Barriere Town Rd,,,Barriere,,,BC,,V0E 1E0,Canada,51.1811672,-120.1247554,,True
